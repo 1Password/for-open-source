@@ -38,3 +38,6 @@ We will review all requests and accept them at our discretion. If accepted, your
 -----
 
 ## Open source projects using 1Password Teams
+
+### PKIjs
+PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)

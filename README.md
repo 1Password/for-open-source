@@ -6,7 +6,7 @@ Are you working on an open source project that needs a password manager? How abo
 
 ## How to apply
 1. Create a 1Password Teams account on [1Password.com](https://1password.com). 
-2. Invite at least one other team member and add them as an account.
+2. Invite at least one other team member and add them as an owner of the account.
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
 ```markdown

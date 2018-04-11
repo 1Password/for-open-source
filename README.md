@@ -9,10 +9,10 @@ Are you working on an open source project that needs a password manager? How abo
 2. Invite at least one other team member and add them as an account.
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
-> 
-> ### 1Password Extension for iOS
-> 1Password Extension for iOS allows you to add support for 1Password and other password managers to your iOS app with just a few lines of code. [1Password Extension for iOS](https://github.com/agilebits/onepassword-app-extension)
-
+```markdown
+### Project name
+A short description of what we do. [Link to project](https://myawesomeproject.org)
+```
 
 4. Create a pull request and fill out the template with the requested details.
 
@@ -38,6 +38,3 @@ We will review all requests and accept them at our discretion. If accepted, your
 -----
 
 ## Open source projects using 1Password Teams
-
-### 1Password Extension for iOS
-1Password Extension for iOS allows you to add support for 1Password and other password managers to your iOS app with just a few lines of code. [1Password Extension for iOS](https://github.com/agilebits/onepassword-app-extension)

@@ -38,3 +38,6 @@ We will review all requests and accept them at our discretion. If accepted, your
 -----
 
 ## Open source projects using 1Password Teams
+
+### Reddit Enhancement Suite
+Community-driven unofficial browser extension for Reddit. [Link to project](https://redditenhancementsuite.com/)

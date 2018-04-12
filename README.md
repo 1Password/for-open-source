@@ -62,3 +62,6 @@ Express Gateway is an API Gateway that sits at the heart of any microservices ar
 
 ### Evolution
 An unofficial app to follow proposals for Swift Evolution. [Link to project](https://github.com/Evolution-App/iOS)
+
+### ezXSS
+ezXSS is an easy way to test (blind) XSS [Link to project](https://github.com/ssl/ezXSS)

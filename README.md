@@ -44,3 +44,6 @@ Community-driven unofficial browser extension for Reddit. [Link to project](http
 
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
+
+### Express Gateway
+Express Gateway is an API Gateway that sits at the heart of any microservices architecture, regardless of what language or platform you're using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware. Developing microservices, orchestrating and managing them now can be done insanely fast all on one seamless platform without having to introduce additional infrastructure. [Link to project](https://express-gateway.io/)

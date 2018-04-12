@@ -72,3 +72,5 @@ SimplePresence is an open source and non profit app that allows developers (and 
 ### MLTSHP
 MLTSHP is a social community for sharing images, GIFs, and videos. The site is developed and operated by volunteers of the community and the site itself is open source. [Link to project](https://github.com/mltshp/mltshp)
 
+### Bankrs OS Go client
+The official Go client for accessing the Bankrs OS API. [Link to project](https://github.com/bankrs/bosgo)

@@ -44,3 +44,6 @@ Community-driven unofficial browser extension for Reddit. [Link to project](http
 
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
+
+### PKIjs
+linuxboot is a project aimed at easing the path for people putting Linux in firmware, replacing most of, e.g., UEFI.  [Link to project](https://linuxboot.org)

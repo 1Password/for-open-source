@@ -42,8 +42,41 @@ We will review all requests and accept them at our discretion. If accepted, your
 ### Reddit Enhancement Suite
 Community-driven unofficial browser extension for Reddit. [Link to project](https://redditenhancementsuite.com/)
 
+### Python Cryptographic Authority
+A group managing the development of most of Python's major cryptographic libraries including [pyca/cryptography](https://cryptography.io), [pyNaCl](https://github.com/pyca/pynacl), and [pyOpenSSL](https://github.com/pyca/pyopenssl). [Link to project](https://github.com/pyca)
+
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
+
+### libgit2
+libgit2 is a portable, pure C implementation of the Git core methods
+provided as a re-entrant linkable library with a solid API, allowing you
+to write native speed custom Git applications in any language which
+supports C bindings.  [Link to project](https://libgit2.github.com/)
+
+### Textpattern CMS
+A flexible, elegant, fast and easy-to-use content management system written in PHP. [Link to project](https://textpattern.com/)
+
+### Express Gateway
+Express Gateway is an API Gateway that sits at the heart of any microservices architecture, regardless of what language or platform you're using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware. Developing microservices, orchestrating and managing them now can be done insanely fast all on one seamless platform without having to introduce additional infrastructure. [Link to project](https://express-gateway.io/)
+
+### Evolution
+An unofficial app to follow proposals for Swift Evolution. [Link to project](https://github.com/Evolution-App/iOS)
+
+### ezXSS
+ezXSS is an easy way to test (blind) XSS [Link to project](https://github.com/ssl/ezXSS)
+
+### SimplePresence
+SimplePresence is an open source and non profit app that allows developers (and other consumers) set their status on the popular chat app, Discord. [Link to project](https://github.com/justjs/simplepresence)
+
+### MLTSHP
+MLTSHP is a social community for sharing images, GIFs, and videos. The site is developed and operated by volunteers of the community and the site itself is open source. [Link to project](https://github.com/mltshp/mltshp)
+
+### Bankrs OS Go client
+The official Go client for accessing the Bankrs OS API. [Link to project](https://github.com/bankrs/bosgo)
+
+### Rekrei
+Rekrei is a platform for crowdsourcing digital reconstructions for the memory of lost heritage. The project is built using Ruby on Rails, with a tiny dash of Angular. [Link to project](https://rekrei.org)
 
 ### Open Collective
 Open Collective enables communities to collect and disburse money online in full transparency [Link to project](https://github.com/opencollective/opencollective)

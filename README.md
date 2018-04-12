@@ -80,3 +80,10 @@ Rekrei is a platform for crowdsourcing digital reconstructions for the memory of
 
 ### Open Collective
 Open Collective enables communities to collect and disburse money online in full transparency [Link to project](https://github.com/opencollective/opencollective)
+
+### IdentityServer
+
+[IdentityServer](https://github.com/IdentityServer/IdentityServer4) is a free, open source [OpenID Connect](http://openid.net/connect/) and [OAuth 2.0](https://tools.ietf.org/html/rfc6749) framework for ASP.NET Core.
+Founded and maintained by [Dominick Baier](https://twitter.com/leastprivilege) and [Brock Allen](https://twitter.com/brocklallen), IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.
+IdentityServer4 is officially [certified](https://openid.net/certification/) by the [OpenID Foundation](https://openid.net) and thus spec-compliant and interoperable.
+It is part of the [.NET Foundation](https://www.dotnetfoundation.org/), and operates under their [code of conduct](https://www.dotnetfoundation.org/code-of-conduct). It is licensed under [Apache 2](https://opensource.org/licenses/Apache-2.0) (an OSI approved license).

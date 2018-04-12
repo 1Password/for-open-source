@@ -87,3 +87,8 @@ Open Collective enables communities to collect and disburse money online in full
 Founded and maintained by [Dominick Baier](https://twitter.com/leastprivilege) and [Brock Allen](https://twitter.com/brocklallen), IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.
 IdentityServer4 is officially [certified](https://openid.net/certification/) by the [OpenID Foundation](https://openid.net) and thus spec-compliant and interoperable.
 It is part of the [.NET Foundation](https://www.dotnetfoundation.org/), and operates under their [code of conduct](https://www.dotnetfoundation.org/code-of-conduct). It is licensed under [Apache 2](https://opensource.org/licenses/Apache-2.0) (an OSI approved license).
+
+### Ti.OnePassword
+The iOS Titanium module "Ti.OnePassword" enables developers to integrate 1Password in their JavaScript powered
+Titanium apps. It is built using Objective-C and is based on the [official AgileBits library](https://github.com/AgileBits/onepassword-app-extension). [Link to project](https://github.com/hansemannn/ti.onepassword)
+

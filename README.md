@@ -77,3 +77,6 @@ The official Go client for accessing the Bankrs OS API. [Link to project](https:
 
 ### Rekrei
 Rekrei is a platform for crowdsourcing digital reconstructions for the memory of lost heritage. The project is built using Ruby on Rails, with a tiny dash of Angular. [Link to project](https://rekrei.org)
+
+### Open Collective
+Open Collective enables communities to collect and disburse money online in full transparency [Link to project](https://github.com/opencollective/opencollective)

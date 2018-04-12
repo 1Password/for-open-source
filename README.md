@@ -66,6 +66,29 @@ An unofficial app to follow proposals for Swift Evolution. [Link to project](htt
 ### ezXSS
 ezXSS is an easy way to test (blind) XSS [Link to project](https://github.com/ssl/ezXSS)
 
+### SimplePresence
+SimplePresence is an open source and non profit app that allows developers (and other consumers) set their status on the popular chat app, Discord. [Link to project](https://github.com/justjs/simplepresence)
+
+### MLTSHP
+MLTSHP is a social community for sharing images, GIFs, and videos. The site is developed and operated by volunteers of the community and the site itself is open source. [Link to project](https://github.com/mltshp/mltshp)
+
+### Bankrs OS Go client
+The official Go client for accessing the Bankrs OS API. [Link to project](https://github.com/bankrs/bosgo)
+
+### Rekrei
+Rekrei is a platform for crowdsourcing digital reconstructions for the memory of lost heritage. The project is built using Ruby on Rails, with a tiny dash of Angular. [Link to project](https://rekrei.org)
+
+### Open Collective
+Open Collective enables communities to collect and disburse money online in full transparency [Link to project](https://github.com/opencollective/opencollective)
+
+### IdentityServer
+
+[IdentityServer](https://github.com/IdentityServer/IdentityServer4) is a free, open source [OpenID Connect](http://openid.net/connect/) and [OAuth 2.0](https://tools.ietf.org/html/rfc6749) framework for ASP.NET Core.
+Founded and maintained by [Dominick Baier](https://twitter.com/leastprivilege) and [Brock Allen](https://twitter.com/brocklallen), IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.
+IdentityServer4 is officially [certified](https://openid.net/certification/) by the [OpenID Foundation](https://openid.net) and thus spec-compliant and interoperable.
+It is part of the [.NET Foundation](https://www.dotnetfoundation.org/), and operates under their [code of conduct](https://www.dotnetfoundation.org/code-of-conduct). It is licensed under [Apache 2](https://opensource.org/licenses/Apache-2.0) (an OSI approved license).
+
 ### Ti.OnePassword
 The iOS Titanium module "Ti.OnePassword" enables developers to integrate 1Password in their JavaScript powered
 Titanium apps. It is built using Objective-C and is based on the [official AgileBits library](https://github.com/AgileBits/onepassword-app-extension). [Link to project](https://github.com/hansemannn/ti.onepassword)
+

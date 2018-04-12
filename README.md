@@ -74,3 +74,6 @@ MLTSHP is a social community for sharing images, GIFs, and videos. The site is d
 
 ### Bankrs OS Go client
 The official Go client for accessing the Bankrs OS API. [Link to project](https://github.com/bankrs/bosgo)
+
+### Rekrei
+Rekrei is a platform for crowdsourcing digital reconstructions for the memory of lost heritage. The project is built using Ruby on Rails, with a tiny dash of Angular. [Link to project](https://rekrei.org)

@@ -44,3 +44,6 @@ Community-driven unofficial browser extension for Reddit. [Link to project](http
 
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
+
+### Rekrei
+Rekrei is a platform for crowdsourcing digital reconstructions for the memory of lost heritage. The project is built using Ruby on Rails, with a tiny dash of Angular. [Link to project](https://rekrei.org)

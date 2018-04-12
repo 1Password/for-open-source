@@ -1,32 +1,32 @@
 ## Your project
 
-**1Password Teams url**: myteam.1password.com (create the account before applying).
+**1Password Teams url**: team-zaax.1password.com (create the account before applying).
 
-**Project name**:  
+**Project name**:  ezXSS
 
-**Short description**:
+**Short description**: ezXSS is an easy way to test (blind) XSS
 
-**Project age**: 
+**Project age**: +/- 1 year
 
-**Number of core contributors**:
+**Number of core contributors**: 3
 
-**Project website**:
+**Project website**: github.com/ssl/ezxss / github.com/zaax
 
-**Repository url**:
+**Repository url**: github.com/ssl/ezxss
 
-**Latest release url**:
+**Latest release url**: https://github.com/ssl/ezXSS/releases/tag/2.3
 
-**License type**: e.g. MIT, BSD, GPL, etc.
+**License type**: MIT
 
-**License url**: A copy of the license terms and conditions for your software.
+**License url**: https://github.com/ssl/ezXSS/blob/master/license.txt
 
 
 ## Tell us about yourself
 
-**Name**: 
+**Name**: Elyesa
 
-**Email**:
+**Email**: mail@elyesa.nl
 
-**Project role**:
+**Project role**: Developer
 
-**Website**: link to GitHub profile page, project page bio, etc.
+**Website**: lgithub.com/ssl

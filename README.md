@@ -97,3 +97,12 @@ The broadcast app is a way of connecting groups in chat rooms over SMS, no app r
 
 ### PyGotham
 PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Link to project](https://pygotham.org)
+
+### Bokeh
+Bokeh 
+([Main Site](https://bokeh.pydata.org/en/latest/index.html) | 
+[GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive 
+visualization library for Python that enables beautiful and meaningful visual 
+presentation of data in modern web browsers. Bokeh provides an elegant and concise 
+way to construct versatile graphics while delivering **high-performance** 
+interactivity for large or streamed datasets.

@@ -44,3 +44,6 @@ Community-driven unofficial browser extension for Reddit. [Link to project](http
 
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
+
+### SimplePresence
+SimplePresence is an open source and non profit app that allows developers (and other consumers) set their status on the popular chat app, Discord. [Link to project](https://github.com/justjs/simplepresence)

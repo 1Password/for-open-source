@@ -44,3 +44,6 @@ Community-driven unofficial browser extension for Reddit. [Link to project](http
 
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
+
+### Wordcamp US
+WordCamp US is the largest WordCamp in North America attracting roughly 2,000 in-person attendees from around the globe. WordCamps are low-cost, weekend events organized by dedicated teams of volunteers where WordPress enthusiasts and more gather to learn to get the most out of WordPress. [Link to project](https://2018.us.wordcamp.org)

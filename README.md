@@ -42,6 +42,9 @@ We will review all requests and accept them at our discretion. If accepted, your
 ### Reddit Enhancement Suite
 Community-driven unofficial browser extension for Reddit. [Link to project](https://redditenhancementsuite.com/)
 
+### Python Cryptographic Authority
+A group managing the development of most of Python's major cryptographic libraries including [pyca/cryptography](https://cryptography.io), [pyNaCl](https://github.com/pyca/pynacl), and [pyOpenSSL](https://github.com/pyca/pyopenssl). [Link to project](https://github.com/pyca)
+
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
 
@@ -50,3 +53,12 @@ libgit2 is a portable, pure C implementation of the Git core methods
 provided as a re-entrant linkable library with a solid API, allowing you
 to write native speed custom Git applications in any language which
 supports C bindings.  [Link to project](https://libgit2.github.com/)
+
+### Textpattern CMS
+A flexible, elegant, fast and easy-to-use content management system written in PHP. [Link to project](https://textpattern.com/)
+
+### Express Gateway
+Express Gateway is an API Gateway that sits at the heart of any microservices architecture, regardless of what language or platform you're using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware. Developing microservices, orchestrating and managing them now can be done insanely fast all on one seamless platform without having to introduce additional infrastructure. [Link to project](https://express-gateway.io/)
+
+### Evolution
+An unofficial app to follow proposals for Swift Evolution. [Link to project](https://github.com/Evolution-App/iOS)

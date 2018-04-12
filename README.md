@@ -1,46 +1,267 @@
-# 1Password for Open Source Projects
-We rely on open source software every day to develop 1Password. It's fair to say that 1Password wouldn't exist without the free software community. So we want to give back and help open source teams be more productive and secure.
+###creads/partners-api
+-------------------
+https://github.com/creads/partners-sdk-php
 
-Are you working on an open source project that needs a password manager? How about a secure place to keep and share secrets — social media logins, code signing certificates, ssh keys, etc? We've got your back: get a free 1Password Teams account on us.
+A simple PHP client and CLI for Creads Partners API.
 
+We recommend to read the [Full API Documentation](https://creads.github.io/partners-doc/) first.
 
-## How to apply
-1. Create a 1Password Teams account on [1Password.com](https://1password.com). 
-2. Invite at least one other team member and add them as an owner of the account.
-3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
+|        Build Status     |      Code Climate       |        Downloads        |         Release         |
+|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [![Build Status](https://travis-ci.org/creads/partners-sdk-php.svg?branch=master)](https://travis-ci.org/creads/partners-sdk-php) | [![Maintainability](https://api.codeclimate.com/v1/badges/50adf87f6262999b92e1/maintainability)](https://codeclimate.com/github/creads/partners-sdk-php/maintainability) | [![Total Downloads](https://poser.pugx.org/creads/partners-api/downloads)](https://packagist.org/packages/creads/partners-api) | [![Latest Unstable Version](https://poser.pugx.org/creads/partners-api/v/unstable)](https://packagist.org/packages/creads/partners-api) |
 
-```markdown
-### Project name
-A short description of what we do. [Link to project](https://myawesomeproject.org)
+[![Pingdom Status](https://share.pingdom.com/banners/3ced7530)](http://stats.pingdom.com/hi1jra1p2bc6/2161667)
+
+## Use the library in your project
+
+### Installation
+
+The recommended way to install the library is through
+[Composer](http://getcomposer.org).
+
+Install Composer:
+
+```bash
+curl -sS https://getcomposer.org/installer | php
 ```
 
-4. Create a pull request and fill out the template with the requested details.
+Run the Composer command to install the latest stable version:
 
+```bash
+composer.phar require creads/partners-api
+```
 
-## Requirements
-To apply, you need to be a project lead or a core contributor for an active open source project that is at least 30 days old and has multiple contributors.
+### Usage
 
-Your project needs to use a standard open source license and must be non-commercial. It should not have paid support and cannot pay contributors. If your company works on commercial projects, consider [1Password Business](https://1password.com/business/).
+After installing, you need to require Composer's autoloader:
 
-If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com. 
+```php
+require 'vendor/autoload.php';
+```
 
+First you need to instantiate the Client with an OAuthAuthentication
 
-## Membership details
-* You'll receive a free one-year membership to [1Password Teams](https://1password.com/teams).
-* You can invite core contributors to your team account.
-* Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
-* All app updates are free while your membership is active.
-* Memberships can be renewed each year if your project still meets the requirements. Email us at opensource@1password.com 30 days prior to renewal.
-* Memberships cannot be transferred or sold. 
+```php
+use Creads\Partners\Client;
+use Creads\Partners\OAuthAccessToken;
 
-We will review all requests and accept them at our discretion. If accepted, your project may be listed below. 
+$authentication = new OAuthAuthenticationToken('CLIENT_ID', 'CLIENT_SECRET');
+$client = new Client($authentication);
+```
 
------
+Or if you have an access token from somewhere else:
 
-## Open source projects using 1Password Teams
+```php
+use Creads\Partners\Client;
+use Creads\Partners\BearerAccessToken;
 
-### Reddit Enhancement Suite
-Community-driven unofficial browser extension for Reddit. [Link to project](https://redditenhancementsuite.com/)
+// Here we get a token
+// $authentication = new OAuthAuthenticationToken(...);
+// $access_token = $authentication->getAccessToken();
+$client = new Client(new BearerAccessToken($access_token));
+```
 
-### PKIjs
-PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
+Get information about the API:
+
+```php
+$response = $client->get('/');
+echo json_decode($response->getBody(), true)['version'];
+//1.0.0
+```
+
+Get information about me:
+
+```php
+$response = $client->get('me');
+echo json_decode($response->getBody(), true)['firstname'];
+//John
+```
+
+Update my firstname:
+
+```php
+$client->put('me', [
+    'firstname' => 'John'
+]);
+```
+
+Delete a comment of mine:
+
+```php
+$client->delete('comments/1234567891011');
+```
+
+Create a project:
+
+```php
+$client->post('projects', [
+	'title' => '',
+	'description' => '',
+	'organization' => '',
+    'firstname' => 'John',
+    'product' => ''
+    'price' => ''
+]);
+```
+
+Upload a file:
+
+```php
+    $response = $client->postFile('/tmp/realFilePath.png', 'wantedFileName.png');
+```
+
+> The response will expose a `Location` header containing the file url. This url is what you need to reference in a resource to which you want to link this file
+
+```php
+
+$theFileUrl = $response->getHeader('Location');
+
+$client->post('projects', [
+    // ...
+    'brief_files' => [
+        $theFileUrl
+    ]
+]);
+```
+
+Download a file:
+
+```php
+    $client->downloadFile('https://distant-host.com/somefile.png', '/tmp/wantedFilePath.png');
+```
+
+### Errors and exceptions handling
+
+When HTTP errors occurs (4xx and 5xx responses) , the library throws a `GuzzleHttp\Exception\ClientException` object:
+
+```php
+use GuzzleHttp\Exception\ClientException;
+
+try {
+    $client = new Client([
+        'access_token' => $token
+    ]);
+    $response = $client->get('/unknown-url');
+    //...
+} catch (ClientException $e) {
+    if (404 == $e->getResponse()->getStatusCode()) {
+        //do something
+    }
+}
+```
+
+If you prefer to disable throwing exceptions on an HTTP protocol error:
+
+```php
+$client = new Client([
+    'access_token' => $token,
+    'http_errors' => false
+]);
+$response = $client->get('/unknown-url');
+if (404 == $e->getResponse()->getStatusCode()) {
+    //do something
+}
+```
+
+## Webhooks
+
+You can check the validity of a webhook signature easily:
+
+```php
+use Creads\Partners\Webhook;
+
+$webhook = new Webhook('your_secret');
+
+if (!$webhook->isSignatureValid($receivedSignature, $receivedJsonBody)) {
+    throw new Exception('...');
+}
+```
+
+## Use the CLI application
+
+### Installation
+
+If you don't need to use the library as a dependency but want to interract with Cread Partners API from your CLI.
+You can install the binary globally with composer:
+
+    composer global require creads/partners-api:@dev
+
+Then add the bin directory of composer to your PATH in your ~/.bash_profile (or ~/.bashrc) like this:
+
+    export PATH=~/.composer/vendor/bin:$PATH
+
+You can update the application later with:
+
+    composer global update creads/partners-api
+
+### Usage
+
+Get some help:
+
+    bin/partners --help
+
+Log onto the API (needed the first time):
+
+    bin/partners login
+
+Avoid to type your password each time token expires, using "client_credentials" grant type:
+
+    bin/partners login --grant-type=client_credentials
+
+Or if you are not allowed to authenticated with "client_credentials", save your password locally:
+
+    bin/partners login --save-password
+
+Get a resource:
+
+    bin/partners get /
+
+```json
+{
+    "name": "Creads Partners API",
+    "version": "1.0.0-alpha12"
+}
+```
+
+Including HTTP-headers in the output with `-i`:
+
+    bin/partners get -i /
+
+```sh
+200 OK
+Cache-Control: no-cache
+Content-Type: application/json
+Date: Sat, 12 Sep 2015 17:31:58 GMT
+Server: nginx/1.6.2
+Content-Length: 72
+Connection: keep-alive
+{
+    "name": "Creads Partners API",
+    "version": "1.0.0"
+}
+```
+
+Filtering result thanks to JSON Path (see http://goessner.net/articles/JsonPath).
+For instance, get only the version number of the API:
+
+    bin/partners get / -f '$.version'
+
+Or get the organization I am member of:
+
+    bin/partners get /me -f '$.member_of.*.organization'
+
+Create a resource:
+
+...
+
+Update a resource:
+
+...
+
+Update a resource using an editor:
+
+    bin/partners get /me | vim - | bin/partners post /me
+
+Update a resource using *Sublime Text*:
+
+    bin/partners get /me | subl - | bin/partners post /me

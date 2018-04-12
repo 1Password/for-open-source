@@ -53,3 +53,6 @@ A flexible, elegant, fast and easy-to-use content management system written in P
 
 ### Express Gateway
 Express Gateway is an API Gateway that sits at the heart of any microservices architecture, regardless of what language or platform you're using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware. Developing microservices, orchestrating and managing them now can be done insanely fast all on one seamless platform without having to introduce additional infrastructure. [Link to project](https://express-gateway.io/)
+
+### Evolution
+An unofficial app to follow proposals for Swift Evolution. [Link to project](https://github.com/Evolution-App/iOS)

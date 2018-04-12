@@ -48,9 +48,6 @@ A group managing the development of most of Python's major cryptographic librari
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
 
-### MLTSHP
-MLTSHP is a social community for sharing images, GIFs, and videos. The site is developed and operated by volunteers of the community and the site itself is open source. [Link to project](https://github.com/mltshp/mltshp)
-
 ### libgit2
 libgit2 is a portable, pure C implementation of the Git core methods
 provided as a re-entrant linkable library with a solid API, allowing you
@@ -68,4 +65,10 @@ An unofficial app to follow proposals for Swift Evolution. [Link to project](htt
 
 ### ezXSS
 ezXSS is an easy way to test (blind) XSS [Link to project](https://github.com/ssl/ezXSS)
+
+### SimplePresence
+SimplePresence is an open source and non profit app that allows developers (and other consumers) set their status on the popular chat app, Discord. [Link to project](https://github.com/justjs/simplepresence)
+
+### MLTSHP
+MLTSHP is a social community for sharing images, GIFs, and videos. The site is developed and operated by volunteers of the community and the site itself is open source. [Link to project](https://github.com/mltshp/mltshp)
 

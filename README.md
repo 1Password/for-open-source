@@ -48,6 +48,12 @@ A group managing the development of most of Python's major cryptographic librari
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
 
+### libgit2
+libgit2 is a portable, pure C implementation of the Git core methods
+provided as a re-entrant linkable library with a solid API, allowing you
+to write native speed custom Git applications in any language which
+supports C bindings.  [Link to project](https://libgit2.github.com/)
+
 ### Textpattern CMS
 A flexible, elegant, fast and easy-to-use content management system written in PHP. [Link to project](https://textpattern.com/)
 

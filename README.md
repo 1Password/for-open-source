@@ -95,3 +95,157 @@ Titanium apps. It is built using Objective-C and is based on the [official Agile
 ### Broadcast
 The broadcast app is a way of connecting groups in chat rooms over SMS, no app required! Users can be invited, leave, and mute chat rooms with with others that have similar interests or friends of friends that haven't shared phone numbers yet. Text one number and broadcast your text to the whole group!  [Link to project](https://github.com/rkk09c/Broadcast)
 
+### Bokeh
+Bokeh 
+([Main Site](https://bokeh.pydata.org/en/latest/index.html) | 
+[GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive 
+visualization library for Python that enables beautiful and meaningful visual 
+presentation of data in modern web browsers. Bokeh provides an elegant and concise 
+way to construct versatile graphics while delivering **high-performance** 
+interactivity for large or streamed datasets.
+
+With Bokeh, you can quickly and easily create interactive plots, dashboards, and data
+applications.
+
+<p>
+<table cellspacing="20">
+<tr>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/image.html">
+  <img alt="colormapped image plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/image_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/anscombe.html">
+  <img alt="anscombe plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/anscombe_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/stocks.html">
+  <img alt="stocks plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/stocks_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/lorenz.html">
+  <img alt="lorenz attractor plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/lorenz_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/candlestick.html">
+  <img alt="candlestick plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/candlestick_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/color_scatter.html">
+  <img alt="scatter plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/scatter_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/iris_splom.html">
+  <img alt="SPLOM plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/splom_t.png" />
+  </a>
+  </td>
+
+</tr>
+<tr>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/iris.html">
+  <img alt="iris dataset plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/iris_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/histogram.html">
+  <img alt="histogram plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/histogram_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/periodic.html">
+  <img alt="periodic table plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/periodic_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/texas.html">
+  <img alt="choropleth plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/choropleth_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/burtin.html">
+  <img alt="burtin antibiotic data plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/burtin_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/streamline.html">
+  <img alt="streamline plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/streamline_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/image_rgba.html">
+  <img alt="RGBA image plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/image_rgba_t.png" />
+  </a>
+  </td>
+
+</tr>
+<tr>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/brewer.html">
+  <img alt="stacked bars plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/stacked_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/quiver.html">
+  <img alt="quiver plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/quiver_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/elements.html">
+  <img alt="elements data plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/elements_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/boxplot.html">
+  <img alt="boxplot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/boxplot_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/categorical.html">
+  <img alt="categorical plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/categorical_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/unemployment.html">
+  <img alt="unemployment data plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/unemployment_t.png" />
+  </a>
+  </td>
+
+  <td>
+  <a href="https://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html">
+  <img alt="Les Mis co-occurrence plot thumbnail" src="https://bokeh.pydata.org/en/latest/_images/les_mis_t.png" />
+  </a>
+  </td>
+
+</tr>
+</table>
+</p>
+
+*Bokeh is a fiscally sponsored project of [NumFOCUS](http://numfocus.org), a nonprofit 
+dedicated to supporting the open-source scientific computing community.*

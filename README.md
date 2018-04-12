@@ -63,6 +63,9 @@ Express Gateway is an API Gateway that sits at the heart of any microservices ar
 ### Evolution
 An unofficial app to follow proposals for Swift Evolution. [Link to project](https://github.com/Evolution-App/iOS)
 
+### ezXSS
+ezXSS is an easy way to test (blind) XSS [Link to project](https://github.com/ssl/ezXSS)
+
 ### Ti.OnePassword
 The iOS Titanium module "Ti.OnePassword" enables developers to integrate 1Password in their JavaScript powered
 Titanium apps. It is built using Objective-C and is based on the [official AgileBits library](https://github.com/AgileBits/onepassword-app-extension). [Link to project](https://github.com/hansemannn/ti.onepassword)

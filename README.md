@@ -112,8 +112,14 @@ way to construct versatile graphics while delivering **high-performance**
 interactivity for large or streamed datasets.
 
 ### Open Data Kit
-Open Data Kit is a free and open-source set of tools for collecting data in challenging environments [Link to project (https://opendatakit.org)
+Open Data Kit is a free and open-source set of tools for collecting data in challenging environments [Link to project](https://opendatakit.org)
 
 ### Vizzy
 
 Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel by pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views. [Link to project](https://github.com/Workday/vizzy)
+
+### Phalcon
+
+Phalcon is an open source web framework delivered as a C extension for the PHP language providing high performance and lower resource consumption. [Link to project](https://github.com/phalcon/cphalcon)
+
+

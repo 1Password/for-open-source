@@ -120,3 +120,6 @@ Open Data Kit is a free and open-source set of tools for collecting data in chal
 ### Vizzy
 
 Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel by pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views. [Link to project](https://github.com/Workday/vizzy)
+
+### GetLantern
+Fast, reliable and secure access to the open internet. [Lantern](https://github.com/getlantern/lantern)

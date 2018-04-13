@@ -48,6 +48,9 @@ A group managing the development of most of Python's major cryptographic librari
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
 
+### coreboot
+Open Source firmware for x86 and other architectures [Link to project](https://www.coreboot.org)
+
 ### Pluto Video Snapshoter
 Cross platform video snapshot software, stitching snapshots automatically with subtitle detection. 
 A short description of what we do. [Pluto Video Snapshoter](http://pluto.shootsoft.net)

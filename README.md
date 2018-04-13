@@ -112,7 +112,7 @@ way to construct versatile graphics while delivering **high-performance**
 interactivity for large or streamed datasets.
 
 ### Open Data Kit
-Open Data Kit is a free and open-source set of tools for collecting data in challenging environments [Link to project](https://opendatakit.org)
+Open Data Kit is a free and open-source set of tools for collecting data in challenging environments. [Link to project](https://opendatakit.org)
 
 ### Vizzy
 

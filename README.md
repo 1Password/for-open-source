@@ -120,6 +120,10 @@ Open Data Kit is a free and open-source set of tools for collecting data in chal
 
 Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel by pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views. [Link to project](https://github.com/Workday/vizzy)
 
+### Phalcon
+
+Phalcon is an open source web framework delivered as a C extension for the PHP language providing high performance and lower resource consumption. [Link to project](https://github.com/phalcon/cphalcon)
+
 ### Cloud Oscilloscope 
 
 A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom shield and cheap spi-display. [Link to project](https://hackaday.io/project/90259-cloud-oscilloscope)

@@ -106,8 +106,7 @@ The broadcast app is a way of connecting groups in chat rooms over SMS, no app r
 [PyGotham](https://pygotham.org) is a New York City based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
 
 ### Bokeh
-Bokeh 
-([Main Site](https://bokeh.pydata.org/en/latest/index.html) | 
+Bokeh ([Main Site](https://bokeh.pydata.org/en/latest/index.html) | 
 [GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive 
 visualization library for Python that enables beautiful and meaningful visual 
 presentation of data in modern web browsers. Bokeh provides an elegant and concise 
@@ -120,6 +119,10 @@ Open Data Kit is a free and open-source set of tools for collecting data in chal
 ### Vizzy
 
 Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel by pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views. [Link to project](https://github.com/Workday/vizzy)
+
+### Cloud Oscilloscope 
+
+A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom shield and cheap spi-display. [Link to project](https://hackaday.io/project/90259-cloud-oscilloscope)
 
 ### Telegram Bot PHP SDK
 

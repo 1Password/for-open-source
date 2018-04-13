@@ -56,3 +56,8 @@ Express Gateway is an API Gateway that sits at the heart of any microservices ar
 
 ### Evolution
 An unofficial app to follow proposals for Swift Evolution. [Link to project](https://github.com/Evolution-App/iOS)
+
+
+### Vizzy
+
+Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel by pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views. [Link to project](https://github.com/Workday/vizzy)

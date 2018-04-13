@@ -48,6 +48,9 @@ A group managing the development of most of Python's major cryptographic librari
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
 
+### coreboot
+Open Source firmware for x86 and other architectures [Link to project](https://www.coreboot.org)
+
 ### Pluto Video Snapshoter
 Cross platform video snapshot software, stitching snapshots automatically with subtitle detection. 
 A short description of what we do. [Pluto Video Snapshoter](http://pluto.shootsoft.net)
@@ -103,8 +106,7 @@ The broadcast app is a way of connecting groups in chat rooms over SMS, no app r
 [PyGotham](https://pygotham.org) is a New York City based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
 
 ### Bokeh
-Bokeh 
-([Main Site](https://bokeh.pydata.org/en/latest/index.html) | 
+Bokeh ([Main Site](https://bokeh.pydata.org/en/latest/index.html) | 
 [GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive 
 visualization library for Python that enables beautiful and meaningful visual 
 presentation of data in modern web browsers. Bokeh provides an elegant and concise 
@@ -112,7 +114,7 @@ way to construct versatile graphics while delivering **high-performance**
 interactivity for large or streamed datasets.
 
 ### Open Data Kit
-Open Data Kit is a free and open-source set of tools for collecting data in challenging environments [Link to project](https://opendatakit.org)
+Open Data Kit is a free and open-source set of tools for collecting data in challenging environments. [Link to project](https://opendatakit.org)
 
 ### Vizzy
 
@@ -122,4 +124,10 @@ Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation,
 
 Phalcon is an open source web framework delivered as a C extension for the PHP language providing high performance and lower resource consumption. [Link to project](https://github.com/phalcon/cphalcon)
 
+### Cloud Oscilloscope 
 
+A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom shield and cheap spi-display. [Link to project](https://hackaday.io/project/90259-cloud-oscilloscope)
+
+### Telegram Bot PHP SDK
+
+The (Unofficial) Telegram Bot API PHP SDK. Lets you develop Telegram Bots easily! [Link to project](https://github.com/irazasyed/telegram-bot-sdk)

@@ -131,3 +131,7 @@ A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom 
 ### Telegram Bot PHP SDK
 
 The (Unofficial) Telegram Bot API PHP SDK. Lets you develop Telegram Bots easily! [Link to project](https://github.com/irazasyed/telegram-bot-sdk)
+
+### Neos CMS
+Think of Neos as an open source Content Application Platform based on its own PHP framework Flow. [https://www.neos.io/](https://www.neos.io/)
+

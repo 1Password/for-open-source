@@ -134,4 +134,4 @@ The (Unofficial) Telegram Bot API PHP SDK. Lets you develop Telegram Bots easily
 
 ### IndieWeb
 
-The IndieWeb community maintains [several tools and plugins](https://github.com/indieweb) for helping individuals own their online data and use their websits as a social network. [indieweb.org](https://indieweb.org/)
+The IndieWeb community maintains [several tools and plugins](https://github.com/indieweb) for helping individuals own their online data and use their websites as a social network. [indieweb.org](https://indieweb.org/)

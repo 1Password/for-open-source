@@ -131,3 +131,10 @@ A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom 
 ### Telegram Bot PHP SDK
 
 The (Unofficial) Telegram Bot API PHP SDK. Lets you develop Telegram Bots easily! [Link to project](https://github.com/irazasyed/telegram-bot-sdk)
+
+### semantic-git-commit-cli
+
+A CLI to keep semantic git commits. Never think about the projects commit guidelines again.
+
+`sgc` will take care of the commit guidelines, so you can focus on the more important stuff: **code**</br>
+[Link to project](https://github.com/JPeer264/node-semantic-git-commit-cli)

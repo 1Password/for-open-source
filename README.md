@@ -136,3 +136,7 @@ The (Unofficial) Telegram Bot API PHP SDK. Lets you develop Telegram Bots easily
 
 ### Bike Index
 Bike Index is the world's most widely-used bicycle registry. We're universal and open-source, meaning that anyone, anywhere can register their bikes and tap into our grassroots network of users and organizations to report and find their bike if stolen.  [Link to project](https://github.com/bikeindex/bike_index)
+
+
+### DataSploit
+An #OSINT Framework to perform various recon techniques on Companies, People, EmailAddress, Phone Number, Username, IP Address etc., aggregate all the raw data, and give data in multiple formats. Link to project](https://github.com/datasploit/datasploit)

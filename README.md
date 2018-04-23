@@ -134,3 +134,7 @@ Bike Index is the world's most widely-used bicycle registry. We're universal and
 
 ### Xanyah
 Xanyah is an open-source mobile and desktop app allowing store owners to manage their products easily and at no-cost. [Link to project](https://github.com/xanyah)
+
+### Splits I/O
+A sharing and analyzation tool for speedrunners.
+https://splits.io

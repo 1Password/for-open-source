@@ -138,3 +138,7 @@ Xanyah is an open-source mobile and desktop app allowing store owners to manage 
 ### Splits I/O
 A sharing and analyzation tool for speedrunners.
 https://splits.io
+
+### eHealth
+eHealth is a Ukrainian state-wide API platform for Medical Services Providers, such as clinics and pharmacies.
+https://github.com/edenlabllc/ehealth.api

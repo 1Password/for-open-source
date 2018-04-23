@@ -1,49 +1,51 @@
 # 1Password for Open Source Projects
-We rely on open source software every day to develop 1Password. It's fair to say that 1Password wouldn't exist without the free software community. So we want to give back and help open source teams be more productive and secure.
+We rely on open source software every day to develop 1Password. It's fair to say that 1Password wouldn't exist without the open source community, so we want to give back and help teams be more productive and secure.
 
-Are you working on an open source project that needs a password manager? How about a secure place to keep and share secrets — social media logins, code signing certificates, ssh keys, etc? We've got your back: get a free 1Password Teams account on us.
+Are you working on an open source project that needs a password manager? How about a secure place to keep and share secrets — social media logins, code signing certificates, ssh keys, etc? We've got your back: get 1Password Teams free on us.
 
 
 ## How to apply
-1. Create a 1Password Teams account on [1Password.com](https://1password.com). 
-2. Invite at least one other team member and add them as an owner of the account.
+1. Create a team account: https://start.1password.com/signup/?t=B
+2. Invite at least one other person to your team and [add them to the Owners group](https://support.1password.com/groups/#manage-group-membership).
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
-```markdown
+```markdown
 ### Project name
-A short description of what we do. [Link to project](https://myawesomeproject.org)
+A short description of what we do.
+https://myawesomeproject.org
 ```
 
 4. Create a pull request and fill out the template with the requested details.
 
-
 ## Requirements
-To apply, you need to be a project lead or a core contributor for an active open source project that is at least 30 days old and has multiple contributors.
+To apply, you need to be a project lead or a core contributor for an active open source project that is at least 30 days old.
 
-Your project needs to use a standard open source license and must be non-commercial. It should not have paid support and cannot pay contributors. If your company works on commercial projects, consider [1Password Business](https://1password.com/business/).
+Your project needs to use a standard open source license and must be non-commercial. It should not have paid support or pay contributors. If you or your company work on commercial projects, consider [1Password Business](https://1password.com/business/). For example, AgileBits has several open source projects, but wouldn't qualify for a free team account because it's a business.
 
 If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com. 
 
 
 ## Membership details
-* You'll receive a free one-year membership to [1Password Teams](https://1password.com/teams).
+* You'll receive a renewable year of [1Password Teams](https://1password.com/teams).
 * You can invite core contributors to your team account.
 * Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
 * All app updates are free while your membership is active.
-* Memberships can be renewed each year if your project still meets the requirements. Email us at opensource@1password.com 30 days prior to renewal.
+* Your membership can be renewed each year if your project still meets the requirements. Email us at opensource@1password.com 30 days before your membership ends.
 * Memberships cannot be transferred or sold. 
 
-We will review all requests and accept them at our discretion. If accepted, your project may be listed below. 
+We'll review all requests and accept them at our discretion. If accepted, your project may be listed below. 
 
 -----
 
 ## Open source projects using 1Password Teams
 
 ### Reddit Enhancement Suite
-Community-driven unofficial browser extension for Reddit. [Link to project](https://redditenhancementsuite.com/)
+Community-driven unofficial browser extension for Reddit.
+https://redditenhancementsuite.com
 
 ### Python Cryptographic Authority
-A group managing the development of most of Python's major cryptographic libraries including [pyca/cryptography](https://cryptography.io), [pyNaCl](https://github.com/pyca/pynacl), and [pyOpenSSL](https://github.com/pyca/pyopenssl). [Link to project](https://github.com/pyca)
+A group managing the development of most of Python's major cryptographic libraries including [pyca/cryptography](https://cryptography.io), [pyNaCl](https://github.com/pyca/pynacl), and [pyOpenSSL](https://github.com/pyca/pyopenssl).
+https://github.com/pyca
 
 ### PKIjs
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins. [Link to project](https://github.com/PeculiarVentures/PKI.js)
@@ -132,9 +134,13 @@ A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom 
 
 The (Unofficial) Telegram Bot API PHP SDK. Lets you develop Telegram Bots easily! [Link to project](https://github.com/irazasyed/telegram-bot-sdk)
 
+### Bike Index
+Bike Index is the world's most widely-used bicycle registry. We're universal and open-source, meaning that anyone, anywhere can register their bikes and tap into our grassroots network of users and organizations to report and find their bike if stolen.  [Link to project](https://github.com/bikeindex/bike_index)
+
 ### semantic-git-commit-cli
 
 A CLI to keep semantic git commits. Never think about the projects commit guidelines again.
 
 `sgc` will take care of the commit guidelines, so you can focus on the more important stuff: **code**</br>
 [Link to project](https://github.com/JPeer264/node-semantic-git-commit-cli)
+

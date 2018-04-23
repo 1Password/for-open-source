@@ -145,4 +145,8 @@ https://github.com/edenlabllc/ehealth.api
 
 ### Neos CMS
 Think of Neos as an open source Content Application Platform based on its own PHP framework Flow.
-https://www.neos.io/
+https://www.neos.io
+
+### IndieWeb
+The IndieWeb community maintains [several tools and plugins](https://github.com/indieweb) for helping individuals own their online data and use their websites as a social network.
+https://indieweb.org

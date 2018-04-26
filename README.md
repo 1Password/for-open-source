@@ -172,3 +172,7 @@ https://www.neos.io
 ### IndieWeb
 The IndieWeb community maintains [several tools and plugins](https://github.com/indieweb) for helping individuals own their online data and use their websites as a social network.
 https://indieweb.org
+
+### GravityView
+GravityView allows you to display, search, and edit Gravity Forms entries on the front end of your WordPress website. GravityView is licensed under GPL 2.0.
+https://gravityview.co and https://github.com/gravityview

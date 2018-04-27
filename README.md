@@ -172,3 +172,7 @@ https://www.neos.io
 ### IndieWeb
 The IndieWeb community maintains [several tools and plugins](https://github.com/indieweb) for helping individuals own their online data and use their websites as a social network.
 https://indieweb.org
+
+### QueueUp
+QueueUp is an open-source mobile app helping you to find the perfect teammates in various online games. 
+http://queueup.gg/

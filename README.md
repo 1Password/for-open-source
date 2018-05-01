@@ -172,3 +172,6 @@ https://www.neos.io
 ### IndieWeb
 The IndieWeb community maintains [several tools and plugins](https://github.com/indieweb) for helping individuals own their online data and use their websites as a social network.
 https://indieweb.org
+
+### UNIHACK
+The UNIHACK [companion app](https://github.com/unihackhq/skilled-acolyte-backend) is an open source hackathon management app. Originally made for UNIHACK, the largest student run hackathon in Australia.

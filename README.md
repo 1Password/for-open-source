@@ -176,3 +176,18 @@ https://indieweb.org
 ### MyBB
 MyBB is a free and open source, community-based forum software project.
 https://mybb.com
+
+### semantic-git-commit-cli
+
+A CLI to keep semantic git commits. Never think about the projects commit guidelines again. `sgc` will take care of the commit guidelines, so you can focus on the more important stuff.
+https://github.com/JPeer264/node-semantic-git-commit-cli
+
+### Moya
+
+Network abstraction layer written in Swift.
+https://github.com/Moya/Moya
+
+### Foundatio
+
+Pluggable foundation blocks for building distributed apps in .NET.
+https://github.com/foundatiofx

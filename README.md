@@ -172,3 +172,7 @@ https://www.neos.io
 ### IndieWeb
 The IndieWeb community maintains [several tools and plugins](https://github.com/indieweb) for helping individuals own their online data and use their websites as a social network.
 https://indieweb.org
+
+### Datenanfragen.de
+We want to help you exercise your right to privacy under the GDPR. In order to do so, we are building a [free request generator](https://github.com/datenanfragen/website) (MIT License) and maintaining a [company database](https://github.com/datenanfragen/companies) (CC0). Our website is available in German (https://www.datenanfragen.de) and English (https://www.datarequests.org).  
+https://github.com/datenanfragen

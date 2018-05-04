@@ -175,4 +175,10 @@ https://indieweb.org
 
 ### Moya
 
-Network abstraction layer written in Swift. [Link to project](https://github.com/Moya/Moya)
+Network abstraction layer written in Swift.
+https://github.com/Moya/Moya
+
+### Foundatio
+
+Pluggable foundation blocks for building distributed apps in .NET.
+https://github.com/foundatiofx

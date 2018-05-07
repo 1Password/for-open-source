@@ -196,3 +196,7 @@ https://github.com/foundatiofx
 ### DataSploit
 An #OSINT Framework to perform various recon techniques on Companies, People, EmailAddress, Phone Number, Username, IP Address etc., aggregate all the raw data, and give data in multiple formats.
 https://github.com/datasploit/datasploit
+
+### QueueUp
+QueueUp is an open-source mobile app helping you to find the perfect teammates in various online games. 
+http://queueup.gg/

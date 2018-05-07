@@ -22,7 +22,7 @@ To apply, you need to be a project lead or a core contributor for an active open
 
 Your project needs to use a standard open source license and must be non-commercial. It should not have paid support or pay contributors. If you or your company work on commercial projects, consider [1Password Business](https://1password.com/business/). For example, AgileBits has several open source projects, but wouldn't qualify for a free team account because it's a business.
 
-If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com. 
+If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com.
 
 
 ## Membership details
@@ -31,13 +31,17 @@ If you're not sure if your project meets these requirements, please contact our 
 * Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
 * All app updates are free while your membership is active.
 * Your membership can be renewed each year if your project still meets the requirements. Email us at opensource@1password.com 30 days before your membership ends.
-* Memberships cannot be transferred or sold. 
+* Memberships cannot be transferred or sold.
 
-We'll review all requests and accept them at our discretion. If accepted, your project may be listed below. 
+We'll review all requests and accept them at our discretion. If accepted, your project may be listed below.
 
 -----
 
 ## Open source projects using 1Password Teams
+
+### WWDCScholars
+WWDCScholars is a community of [Apple WWDC Scholarship winners](https://developer.apple.com/wwdc/scholarships/). Together we developed and maintain an [iOS app](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8), the [main website](https://wwdcscholars.com) and a [sign-up form](https://join.wwdcscholars.com).
+[Link to project](https://github.com/wwdcscholars)
 
 ### Reddit Enhancement Suite
 Community-driven unofficial browser extension for Reddit.
@@ -56,7 +60,7 @@ Open Source firmware for x86 and other architectures.
 https://www.coreboot.org
 
 ### Pluto Video Snapshoter
-Cross platform video snapshot software, stitching snapshots automatically with subtitle detection. 
+Cross platform video snapshot software, stitching snapshots automatically with subtitle detection.
 A short description of what we do.
 http://pluto.shootsoft.net
 
@@ -122,11 +126,11 @@ https://github.com/rkk09c/Broadcast
 [PyGotham](https://pygotham.org) is a New York City based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
 
 ### Bokeh
-Bokeh ([Main Site](https://bokeh.pydata.org/en/latest/index.html) | 
-[GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive 
-visualization library for Python that enables beautiful and meaningful visual 
-presentation of data in modern web browsers. Bokeh provides an elegant and concise 
-way to construct versatile graphics while delivering **high-performance** 
+Bokeh ([Main Site](https://bokeh.pydata.org/en/latest/index.html) |
+[GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive
+visualization library for Python that enables beautiful and meaningful visual
+presentation of data in modern web browsers. Bokeh provides an elegant and concise
+way to construct versatile graphics while delivering **high-performance**
 interactivity for large or streamed datasets.
 
 ### Open Data Kit
@@ -141,7 +145,7 @@ https://github.com/Workday/vizzy)
 Phalcon is an open source web framework delivered as a C extension for the PHP language providing high performance and lower resource consumption.
 https://github.com/phalcon/cphalcon
 
-### Cloud Oscilloscope 
+### Cloud Oscilloscope
 A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom shield and cheap spi-display.
 https://hackaday.io/project/90259-cloud-oscilloscope
 

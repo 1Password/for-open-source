@@ -204,3 +204,7 @@ https://github.com/datasploit/datasploit
 ### QueueUp
 QueueUp is an open-source mobile app helping you to find the perfect teammates in various online games. 
 http://queueup.gg/
+
+### PyContribs
+Group of open-source Python package maintainers.
+https://github.com/pycontribs/

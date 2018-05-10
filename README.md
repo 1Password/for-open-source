@@ -208,3 +208,7 @@ http://queueup.gg/
 ### PyContribs
 Group of open-source Python package maintainers.
 https://github.com/pycontribs/
+
+### Laces
+String library for JavaScript
+https://github.com/quillio/

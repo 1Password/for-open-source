@@ -55,6 +55,10 @@ https://github.com/pyca
 PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.
 https://github.com/PeculiarVentures/PKI.js
 
+### canvas.place
+canvas.place is a community-focused game, where people work together to make art. The aim of the game is to bring people together in a fun and new way.
+https://github.com/dynastic/place
+
 ### coreboot
 Open Source firmware for x86 and other architectures.
 https://www.coreboot.org

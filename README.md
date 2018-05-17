@@ -212,3 +212,7 @@ http://queueup.gg/
 ### PyContribs
 Group of open-source Python package maintainers.
 https://github.com/pycontribs/
+
+### Operation Serenata de Amor
+Artificial intelligence for social control of public administration.
+https://serenata.ai/en/

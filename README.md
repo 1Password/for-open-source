@@ -212,3 +212,7 @@ http://queueup.gg/
 ### PyContribs
 Group of open-source Python package maintainers.
 https://github.com/pycontribs/
+
+### Ruby for Good
+Non-profit group building software to make the world gooder.
+http://rubyforgood.org/

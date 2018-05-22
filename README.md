@@ -212,3 +212,7 @@ http://queueup.gg/
 ### PyContribs
 Group of open-source Python package maintainers.
 https://github.com/pycontribs/
+
+### Ruby New Zealand Incorporated
+Ruby New Zealand fosters and supports the Ruby programming language, its users and community in New Zealand. It assists with community events such as local meetups, Rails Camps and Rails Girls, and helps ensure these are safe and welcoming spaces.
+https://ruby.nz/

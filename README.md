@@ -212,3 +212,8 @@ http://queueup.gg/
 ### PyContribs
 Group of open-source Python package maintainers.
 https://github.com/pycontribs/
+
+### Check
+Collaborative media annotation and workflow for news verification and social translation
+https://github.com/meedan/check
+

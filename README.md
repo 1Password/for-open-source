@@ -212,3 +212,7 @@ http://queueup.gg/
 ### PyContribs
 Group of open-source Python package maintainers.
 https://github.com/pycontribs/
+
+### TensorLayer
+A Deep Learning Library for Researchers and Engineers based on Tensorflow.
+https://github.com/tensorlayer/tensorlayer

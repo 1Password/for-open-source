@@ -212,3 +212,7 @@ http://queueup.gg/
 ### PyContribs
 Group of open-source Python package maintainers.
 https://github.com/pycontribs/
+
+### RailsBridge NYC
+Group of Rubyists in New York City teaching people how to code their first website with Ruby on Rails.
+https://github.com/railsbridge-nyc

@@ -213,6 +213,10 @@ http://queueup.gg/
 Group of open-source Python package maintainers.
 https://github.com/pycontribs/
 
+### TensorLayer
+A Deep Learning Library for Researchers and Engineers based on Tensorflow.
+https://github.com/tensorlayer/tensorlayer
+
 ### Ruby New Zealand Incorporated
 Ruby New Zealand fosters and supports the Ruby programming language, its users and community in New Zealand. It assists with community events such as local meetups, Rails Camps and Rails Girls, and helps ensure these are safe and welcoming spaces.
 https://ruby.nz/

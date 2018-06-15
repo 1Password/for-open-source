@@ -216,3 +216,7 @@ https://github.com/pycontribs/
 ### TensorLayer
 A Deep Learning Library for Researchers and Engineers based on Tensorflow.
 https://github.com/tensorlayer/tensorlayer
+
+### Alamofire
+An elegant networking library in Swift.
+https://github.com/Alamofire/Alamofire

@@ -220,3 +220,7 @@ https://github.com/tensorlayer/tensorlayer
 ### Alamofire
 An elegant networking library in Swift.
 https://github.com/Alamofire/Alamofire
+
+### Robinhood API  
+Get the most of Robinhood: accounts, positions, portfolio, buy and sell securities, etc.
+https://github.com/ThomasMarcel/robinhood-api

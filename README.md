@@ -225,6 +225,6 @@ https://github.com/Alamofire/Alamofire
 Get the most of Robinhood: accounts, positions, portfolio, buy and sell securities, etc.
 https://github.com/ThomasMarcel/robinhood-api
 
-### CryptoPrefa
-An Android kotlin-powered lightweight SharedPreferences encryption library to help you securing android applications from the ground up
+### CryptoPrefs
+An Android kotlin-powered lightweight SharedPreferences encryption library, to help you securing android applications from the ground up
 https://github.com/AndreaCioccarelli/CryptoPrefs

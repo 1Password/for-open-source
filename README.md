@@ -228,3 +228,7 @@ https://github.com/ThomasMarcel/robinhood-api
 ### CryptoPrefs
 An Android kotlin-powered lightweight SharedPreferences encryption library, to help you securing android applications from the ground up
 https://github.com/AndreaCioccarelli/CryptoPrefs
+
+### Operation Code
+We’re on a mission to help veterans and military spouses learn software development, enter the tech industry, and code the future through open source.
+https://github.com/OperationCode/

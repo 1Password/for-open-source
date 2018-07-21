@@ -228,3 +228,7 @@ https://github.com/ThomasMarcel/robinhood-api
 ### CryptoPrefs
 An Android kotlin-powered lightweight SharedPreferences encryption library, to help you securing android applications from the ground up
 https://github.com/AndreaCioccarelli/CryptoPrefs
+
+### Builder Book
+Open source web app to publish documentation or books. Built with React, Material-UI, Next, Express, Mongoose, and MongoDB.
+https://builderbook.org/

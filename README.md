@@ -228,3 +228,7 @@ https://github.com/ThomasMarcel/robinhood-api
 ### CryptoPrefs
 An Android kotlin-powered lightweight SharedPreferences encryption library, to help you securing android applications from the ground up
 https://github.com/AndreaCioccarelli/CryptoPrefs
+
+## Multi Theft Auto
+A game modification that incorporates network play onto the single player Grand Theft Auto game series.
+https://multitheftauto.com

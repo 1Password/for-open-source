@@ -236,3 +236,6 @@ https://builderbook.org/
 ## Multi Theft Auto
 A game modification that incorporates network play onto the single player Grand Theft Auto game series.
 https://multitheftauto.com
+
+### stylelint
+A mighty, modern CSS linter https://github.com/stylelint/stylelint

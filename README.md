@@ -229,5 +229,13 @@ https://github.com/ThomasMarcel/robinhood-api
 An Android kotlin-powered lightweight SharedPreferences encryption library, to help you securing android applications from the ground up
 https://github.com/AndreaCioccarelli/CryptoPrefs
 
+### Builder Book
+Open source web app to publish documentation or books. Built with React, Material-UI, Next, Express, Mongoose, and MongoDB.
+https://builderbook.org/
+
+## Multi Theft Auto
+A game modification that incorporates network play onto the single player Grand Theft Auto game series.
+https://multitheftauto.com
+
 ### stylelint
 A mighty, modern CSS linter https://github.com/stylelint/stylelint

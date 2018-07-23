@@ -228,3 +228,6 @@ https://github.com/ThomasMarcel/robinhood-api
 ### CryptoPrefs
 An Android kotlin-powered lightweight SharedPreferences encryption library, to help you securing android applications from the ground up
 https://github.com/AndreaCioccarelli/CryptoPrefs
+
+### stylelint
+A mighty, modern CSS linter https://github.com/stylelint/stylelint

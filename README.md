@@ -239,3 +239,6 @@ https://multitheftauto.com
 
 ### stylelint
 A mighty, modern CSS linter https://github.com/stylelint/stylelint
+
+### Python Software Foundation Infrastructure Team
+Support, improve, and administer Python community services such as [PyPI](https://pypi.org) and [The Python Homepage](https://www.python.org).

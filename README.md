@@ -233,9 +233,13 @@ https://github.com/AndreaCioccarelli/CryptoPrefs
 Open source web app to publish documentation or books. Built with React, Material-UI, Next, Express, Mongoose, and MongoDB.
 https://builderbook.org/
 
-## Multi Theft Auto
+### Multi Theft Auto
 A game modification that incorporates network play onto the single player Grand Theft Auto game series.
 https://multitheftauto.com
 
 ### stylelint
 A mighty, modern CSS linter https://github.com/stylelint/stylelint
+
+### codebar
+codebar is an organization that runs regular programming workshops for underrepresented groups in tech (people of color, women, LGBTQA+, persons with disabilities) in 14 cities around the world. Our goal is to enable member of these groups to learn programming in a safe and collaborative environment and expand their career opportunities.
+https://codebar.io

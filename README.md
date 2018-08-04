@@ -239,3 +239,6 @@ https://multitheftauto.com
 
 ### stylelint
 A mighty, modern CSS linter https://github.com/stylelint/stylelint
+
+### employMe
+An attempt at automating the job application process from building the resume to submitting the application. https://github.com/alexsieusahai/employMe

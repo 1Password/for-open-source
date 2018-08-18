@@ -239,3 +239,7 @@ https://multitheftauto.com
 
 ### stylelint
 A mighty, modern CSS linter https://github.com/stylelint/stylelint
+
+### Terraform AWS modules
+Collection of Terraform AWS modules supported by the community
+https://github.com/terraform-aws-modules

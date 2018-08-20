@@ -233,7 +233,7 @@ https://github.com/AndreaCioccarelli/CryptoPrefs
 Open source web app to publish documentation or books. Built with React, Material-UI, Next, Express, Mongoose, and MongoDB.
 https://builderbook.org/
 
-## Multi Theft Auto
+### Multi Theft Auto
 A game modification that incorporates network play onto the single player Grand Theft Auto game series.
 https://multitheftauto.com
 

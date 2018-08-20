@@ -233,12 +233,16 @@ https://github.com/AndreaCioccarelli/CryptoPrefs
 Open source web app to publish documentation or books. Built with React, Material-UI, Next, Express, Mongoose, and MongoDB.
 https://builderbook.org/
 
-## Multi Theft Auto
+### Multi Theft Auto
 A game modification that incorporates network play onto the single player Grand Theft Auto game series.
 https://multitheftauto.com
 
 ### stylelint
 A mighty, modern CSS linter https://github.com/stylelint/stylelint
+
+### Googletrans
+Unofficial Google translate API for Python.
+https://github.com/ssut/py-googletrans
 
 ### Terraform AWS modules
 Collection of Terraform AWS modules supported by the community

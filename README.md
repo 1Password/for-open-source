@@ -243,3 +243,7 @@ A mighty, modern CSS linter https://github.com/stylelint/stylelint
 ### Googletrans
 Unofficial Google translate API for Python.
 https://github.com/ssut/py-googletrans
+
+### Terraform AWS modules
+Collection of Terraform AWS modules supported by the community
+https://github.com/terraform-aws-modules

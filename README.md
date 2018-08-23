@@ -241,5 +241,16 @@ https://multitheftauto.com
 A mighty, modern CSS linter https://github.com/stylelint/stylelint
 
 ### codebar
-codebar is an organization that runs regular programming workshops for underrepresented groups in tech (people of color, women, LGBTQA+, persons with disabilities) in 14 cities around the world. Our goal is to enable member of these groups to learn programming in a safe and collaborative environment and expand their career opportunities.
+codebar is an organization that runs regular programming workshops for underrepresented groups in tech (people of color, women, LGBTQA+, persons with disabilities) in 14 cities around the world. Our goal is to enable members of these groups to learn programming in a safe and collaborative environment and expand their career opportunities.
 https://codebar.io
+
+### Googletrans
+Unofficial Google translate API for Python.
+https://github.com/ssut/py-googletrans
+
+### Terraform AWS modules
+Collection of Terraform AWS modules supported by the community
+https://github.com/terraform-aws-modules
+
+### Python Software Foundation Infrastructure Team
+Support, improve, and administer Python community services such as [PyPI](https://pypi.org) and [The Python Homepage](https://www.python.org).

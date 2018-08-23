@@ -240,6 +240,10 @@ https://multitheftauto.com
 ### stylelint
 A mighty, modern CSS linter https://github.com/stylelint/stylelint
 
+### codebar
+codebar is an organization that runs regular programming workshops for underrepresented groups in tech (people of color, women, LGBTQA+, persons with disabilities) in 14 cities around the world. Our goal is to enable members of these groups to learn programming in a safe and collaborative environment and expand their career opportunities.
+https://codebar.io
+
 ### Googletrans
 Unofficial Google translate API for Python.
 https://github.com/ssut/py-googletrans

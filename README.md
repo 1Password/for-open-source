@@ -247,3 +247,6 @@ https://github.com/ssut/py-googletrans
 ### Terraform AWS modules
 Collection of Terraform AWS modules supported by the community
 https://github.com/terraform-aws-modules
+
+### Python Software Foundation Infrastructure Team
+Support, improve, and administer Python community services such as [PyPI](https://pypi.org) and [The Python Homepage](https://www.python.org).

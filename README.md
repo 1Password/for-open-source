@@ -254,3 +254,7 @@ https://github.com/terraform-aws-modules
 
 ### Python Software Foundation Infrastructure Team
 Support, improve, and administer Python community services such as [PyPI](https://pypi.org) and [The Python Homepage](https://www.python.org).
+
+### Open Shop Channel
+Open Shop Channel is a project for the Nintendo Wii™ that aims to reverse engineer, document, and reimplement the soon-defunct Wii Shop Channel, to aid distribution of OSS homebrew projects, as well as provide an insight into the Paid DLC and Update systems some games used.
+https://oscwii.org

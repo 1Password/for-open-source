@@ -254,3 +254,7 @@ https://github.com/terraform-aws-modules
 
 ### Python Software Foundation Infrastructure Team
 Support, improve, and administer Python community services such as [PyPI](https://pypi.org) and [The Python Homepage](https://www.python.org).
+
+### The Fuel Rats
+We are a large gaming community for the game Elite Dangerous who run our own custom built website and integrations which are all released open source offering other communities to build upon on our work.
+https://fuelrats.com

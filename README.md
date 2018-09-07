@@ -262,3 +262,7 @@ https://oscwii.org
 ### The Fuel Rats
 We are a large gaming community for the game Elite Dangerous who run our own custom built website and integrations which are all released open source offering other communities to build upon on our work.
 https://fuelrats.com
+
+### MOSA-Chicago - Midwest Open Source Alliance
+The Midwest Open Source Alliance promotes the education, support and development of Drupal and related open source software within the Midwest Drupal community. We are a federal 501(c)(3) tax exempt organization. As such, we will be acting as fiscal sponsor for open source software events in the Midwest (such as [MidCamp](https://midcamp.org)), as well as looking to help launch new events or initiatives around the software community.
+https://midwestopensourcealliance.org/

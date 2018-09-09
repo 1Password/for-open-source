@@ -262,3 +262,7 @@ https://oscwii.org
 ### The Fuel Rats
 We are a large gaming community for the game Elite Dangerous who run our own custom built website and integrations which are all released open source offering other communities to build upon on our work.
 https://fuelrats.com
+
+### annie
+
+Fast, simple and clean video downloader built with Go. https://github.com/iawia002/annie

@@ -264,5 +264,7 @@ We are a large gaming community for the game Elite Dangerous who run our own cus
 https://fuelrats.com
 
 ### annie
-
 Fast, simple and clean video downloader built with Go. https://github.com/iawia002/annie
+
+### Kodi
+Kodi spawned from the love of media. It is an entertainment hub that brings all your digital media together into a beautiful and user friendly package. It is 100% free and open source, very customisable and runs on a wide variety of devices. It is supported by a dedicated team of volunteers and a huge community. http://kodi.tv

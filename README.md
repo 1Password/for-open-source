@@ -131,3 +131,7 @@ A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom 
 ### Telegram Bot PHP SDK
 
 The (Unofficial) Telegram Bot API PHP SDK. Lets you develop Telegram Bots easily! [Link to project](https://github.com/irazasyed/telegram-bot-sdk)
+
+### tDAR (the Digital Archaeological Record)
+
+A digital repository specifically built for archaeological data [Link to project](https://core.tdar.org) [source](http://github.com/digital-antiquity/tdar)

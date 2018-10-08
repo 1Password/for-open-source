@@ -270,3 +270,6 @@ Fast, simple and clean video downloader built with Go. https://github.com/iawia0
 ### MOSA-Chicago - Midwest Open Source Alliance
 The Midwest Open Source Alliance promotes the education, support and development of Drupal and related open source software within the Midwest Drupal community. We are a federal 501(c)(3) tax exempt organization. As such, we will be acting as fiscal sponsor for open source software events in the Midwest (such as [MidCamp](https://midcamp.org)), as well as looking to help launch new events or initiatives around the software community.
 https://midwestopensourcealliance.org/
+
+### Snep
+[SNEP](https://snep.com.br) is a Brazilian Free Software-based PBX that meets the needs of any size of business, with features that make communication more free, flexible and intelligent. Snep has a GPLv2 license and all its code is in [this repository](https://bitbucket.org/snepdev/snep-3) and your download can be done in [sourceforge](https://sourceforge.net/projects/snep/).

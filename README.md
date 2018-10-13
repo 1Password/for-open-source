@@ -271,8 +271,6 @@ Fast, simple and clean video downloader built with Go. https://github.com/iawia0
 The Midwest Open Source Alliance promotes the education, support and development of Drupal and related open source software within the Midwest Drupal community. We are a federal 501(c)(3) tax exempt organization. As such, we will be acting as fiscal sponsor for open source software events in the Midwest (such as [MidCamp](https://midcamp.org)), as well as looking to help launch new events or initiatives around the software community.
 https://midwestopensourcealliance.org/
 
-The (Unofficial) Telegram Bot API PHP SDK. Lets you develop Telegram Bots easily! [Link to project](https://github.com/irazasyed/telegram-bot-sdk)
-
 ### tDAR (the Digital Archaeological Record)
 
 A digital repository specifically built for archaeological data [Link to project](https://core.tdar.org) [source](http://github.com/digital-antiquity/tdar)

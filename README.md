@@ -274,3 +274,6 @@ https://midwestopensourcealliance.org/
 ### tDAR (the Digital Archaeological Record)
 
 A digital repository specifically built for archaeological data [Link to project](https://core.tdar.org) [source](http://github.com/digital-antiquity/tdar)
+
+### Snep
+[SNEP](https://snep.com.br) is a Brazilian Free Software-based PBX that meets the needs of any size of business, with features that make communication more free, flexible and intelligent. Snep has a GPLv2 license and all its code is in [this repository](https://bitbucket.org/snepdev/snep-3) and your download can be done in [sourceforge](https://sourceforge.net/projects/snep/).

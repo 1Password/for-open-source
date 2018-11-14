@@ -280,3 +280,6 @@ A digital repository specifically built for archaeological data [Link to project
 
 ### Transmission
 [Transmission](https://transmissionbt.com/about/) is a fast, easy and free BitTorrent client.
+
+### ViaVersion
+Open source protocol translation addon for various Minecraft server platforms written in Java - https://github.com/MylesIsCool/ViaVersion

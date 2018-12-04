@@ -206,7 +206,7 @@ An #OSINT Framework to perform various recon techniques on Companies, People, Em
 https://github.com/datasploit/datasploit
 
 ### QueueUp
-QueueUp is an open-source mobile app helping you to find the perfect teammates in various online games. 
+QueueUp is an open-source mobile app helping you to find the perfect teammates in various online games.
 http://queueup.gg/
 
 ### PyContribs
@@ -221,7 +221,7 @@ https://github.com/tensorlayer/tensorlayer
 An elegant networking library in Swift.
 https://github.com/Alamofire/Alamofire
 
-### Robinhood API  
+### Robinhood API
 Get the most of Robinhood: accounts, positions, portfolio, buy and sell securities, etc.
 https://github.com/ThomasMarcel/robinhood-api
 
@@ -283,3 +283,7 @@ A digital repository specifically built for archaeological data [Link to project
 
 ### ViaVersion
 Open source protocol translation addon for various Minecraft server platforms written in Java - https://github.com/MylesIsCool/ViaVersion
+
+### RailsBridge Boston
+RailsBridge Boston runs workshops to teach people Ruby on Rails for free. Our workshops are 100% volunteer taught and led.
+https://www.railsbridgeboston.org

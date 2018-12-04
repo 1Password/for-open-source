@@ -283,3 +283,7 @@ A digital repository specifically built for archaeological data [Link to project
 
 ### ViaVersion
 Open source protocol translation addon for various Minecraft server platforms written in Java - https://github.com/MylesIsCool/ViaVersion
+
+### Swetugg
+A non-profit, community-driven conference in Stockholm, Sweden. Also with an open-source conference web site.
+https://swetugg.se

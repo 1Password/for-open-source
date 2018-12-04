@@ -283,3 +283,7 @@ A digital repository specifically built for archaeological data [Link to project
 
 ### ViaVersion
 Open source protocol translation addon for various Minecraft server platforms written in Java - https://github.com/MylesIsCool/ViaVersion
+
+### RubyGems
+The Ruby programming language package management system.
+https://rubygems.org

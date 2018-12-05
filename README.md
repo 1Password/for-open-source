@@ -283,3 +283,9 @@ A digital repository specifically built for archaeological data [Link to project
 
 ### ViaVersion
 Open source protocol translation addon for various Minecraft server platforms written in Java - https://github.com/MylesIsCool/ViaVersion
+
+### Go London User Group (London Gophers)
+The Go London User Group (GLUG) is a London UK-based community for anyone interested in the Go programming language.
+GLUG held their first Meetup on Wednesday, March 27, 2013, and since then the group has grown to over 2,500 members.
+Nowadays, GLUG is more commonly known as London Gophers.
+https://gophers.london

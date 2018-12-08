@@ -297,3 +297,7 @@ https://bmlt.app
 ### Kanelbulle
 Fast, Secure & Open Source Discord bot intended for larger communities.
 https://github.com/kanelbullebot/kanelbulle
+
+### Swetugg
+A non-profit, community-driven conference in Stockholm, Sweden. Also with an open-source conference web site.
+https://swetugg.se

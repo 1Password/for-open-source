@@ -206,7 +206,7 @@ An #OSINT Framework to perform various recon techniques on Companies, People, Em
 https://github.com/datasploit/datasploit
 
 ### QueueUp
-QueueUp is an open-source mobile app helping you to find the perfect teammates in various online games. 
+QueueUp is an open-source mobile app helping you to find the perfect teammates in various online games.
 http://queueup.gg/
 
 ### PyContribs
@@ -221,7 +221,7 @@ https://github.com/tensorlayer/tensorlayer
 An elegant networking library in Swift.
 https://github.com/Alamofire/Alamofire
 
-### Robinhood API  
+### Robinhood API
 Get the most of Robinhood: accounts, positions, portfolio, buy and sell securities, etc.
 https://github.com/ThomasMarcel/robinhood-api
 
@@ -284,9 +284,30 @@ A digital repository specifically built for archaeological data [Link to project
 ### ViaVersion
 Open source protocol translation addon for various Minecraft server platforms written in Java - https://github.com/MylesIsCool/ViaVersion
 
+### Go London User Group (London Gophers)
+The Go London User Group (GLUG) is a London UK-based community for anyone interested in the Go programming language.
+GLUG held their first Meetup on Wednesday, March 27, 2013, and since then the group has grown to over 2,500 members.
+Nowadays, GLUG is more commonly known as London Gophers.
+https://gophers.london
+
+### bmlt-enabled
+BMLT Enabled is a community of members that write software for twelve-step organizations.  The BMLT or Basic Meeting List Toolbox helps those that are looking for a meeting (where the twelve steps happen) by providing a database and toolset that leverage these datasets.  
+https://bmlt.app
+
+### Kanelbulle
+Fast, Secure & Open Source Discord bot intended for larger communities.
+https://github.com/kanelbullebot/kanelbulle
+
+### Swetugg
+A non-profit, community-driven conference in Stockholm, Sweden. Also with an open-source conference web site.
+https://swetugg.se
+
+### RailsBridge Boston
+RailsBridge Boston runs workshops to teach people Ruby on Rails for free. Our workshops are 100% volunteer taught and led.
+https://www.railsbridgeboston.org
+
 ### Ponylang
 
 [Pony](https://ponylang.io) is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 
 https://ponylang.io
-

@@ -293,3 +293,7 @@ https://gophers.london
 ### bmlt-enabled
 BMLT Enabled is a community of members that write software for twelve-step organizations.  The BMLT or Basic Meeting List Toolbox helps those that are looking for a meeting (where the twelve steps happen) by providing a database and toolset that leverage these datasets.  
 https://bmlt.app
+
+### Kanelbulle
+Fast, Secure & Open Source Discord bot intended for larger communities.
+https://github.com/kanelbullebot/kanelbulle

@@ -305,3 +305,9 @@ https://swetugg.se
 ### RailsBridge Boston
 RailsBridge Boston runs workshops to teach people Ruby on Rails for free. Our workshops are 100% volunteer taught and led.
 https://www.railsbridgeboston.org
+
+### Ponylang
+
+[Pony](https://ponylang.io) is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
+
+https://ponylang.io

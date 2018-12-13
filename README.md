@@ -311,3 +311,7 @@ https://www.railsbridgeboston.org
 [Pony](https://ponylang.io) is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 
 https://ponylang.io
+
+### Vikebot
+Competitive coding and gaming combined like never before. Vikebot is a platform where you compete against others using your coding skills. You program your own player, a bot, which plays autonomously against other bots in a deathmatch. According to the results of these games we place you in a global ranking system.
+https://github.com/vikebot

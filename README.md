@@ -311,3 +311,7 @@ https://www.railsbridgeboston.org
 [Pony](https://ponylang.io) is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 
 https://ponylang.io
+
+### AM
+[AM](https://github.com/bottleneckco/am) is an open-source web client for Apple Music, built with React and Apple's MusicKit JS framework.
+https://github.com/bottleneckco/am

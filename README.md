@@ -312,6 +312,14 @@ https://www.railsbridgeboston.org
 
 https://ponylang.io
 
+### Jano Ticketing System
+Modern, scalable and modular event ticketing system written in PHP
+https://janoticketing.co.uk
+
+### Vikebot
+Competitive coding and gaming combined like never before. Vikebot is a platform where you compete against others using your coding skills. You program your own player, a bot, which plays autonomously against other bots in a deathmatch. According to the results of these games we place you in a global ranking system.
+https://github.com/vikebot
+
 ### AM
 [AM](https://github.com/bottleneckco/am) is an open-source web client for Apple Music, built with React and Apple's MusicKit JS framework.
 https://github.com/bottleneckco/am

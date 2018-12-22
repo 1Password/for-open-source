@@ -323,3 +323,7 @@ https://github.com/vikebot
 ### AM
 [AM](https://github.com/bottleneckco/am) is an open-source web client for Apple Music, built with React and Apple's MusicKit JS framework.
 https://github.com/bottleneckco/am
+
+### Monolingual
+Monolingual is a program for removing unnecessary language resources from macOS, in order to reclaim several hundred megabytes of disk space.
+https://ingmarstein.github.io/Monolingual

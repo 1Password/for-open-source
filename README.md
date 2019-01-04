@@ -324,6 +324,10 @@ https://github.com/vikebot
 [AM](https://github.com/bottleneckco/am) is an open-source web client for Apple Music, built with React and Apple's MusicKit JS framework.
 https://github.com/bottleneckco/am
 
+### Monolingual
+Monolingual is a program for removing unnecessary language resources from macOS, in order to reclaim several hundred megabytes of disk space.
+https://ingmarstein.github.io/Monolingual
+
 ### 30-seconds-of-code
-[30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) is curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+[30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) is a curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 https://30secondsofcode.org

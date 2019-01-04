@@ -291,7 +291,7 @@ Nowadays, GLUG is more commonly known as London Gophers.
 https://gophers.london
 
 ### bmlt-enabled
-BMLT Enabled is a community of members that write software for twelve-step organizations.  The BMLT or Basic Meeting List Toolbox helps those that are looking for a meeting (where the twelve steps happen) by providing a database and toolset that leverage these datasets.  
+BMLT Enabled is a community of members that write software for twelve-step organizations.  The BMLT or Basic Meeting List Toolbox helps those that are looking for a meeting (where the twelve steps happen) by providing a database and toolset that leverage these datasets.
 https://bmlt.app
 
 ### Kanelbulle
@@ -327,3 +327,7 @@ https://github.com/bottleneckco/am
 ### Monolingual
 Monolingual is a program for removing unnecessary language resources from macOS, in order to reclaim several hundred megabytes of disk space.
 https://ingmarstein.github.io/Monolingual
+
+### 30-seconds-of-code
+[30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) is a curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+https://30secondsofcode.org

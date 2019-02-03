@@ -331,3 +331,7 @@ https://ingmarstein.github.io/Monolingual
 ### 30-seconds-of-code
 [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) is a curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 https://30secondsofcode.org
+
+### Techqueria.org
+Techqueria is one of the largest communities of Latinx professionals in the tech industry.
+https://techqueria.org

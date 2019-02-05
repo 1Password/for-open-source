@@ -331,3 +331,12 @@ https://ingmarstein.github.io/Monolingual
 ### 30-seconds-of-code
 [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) is a curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 https://30secondsofcode.org
+
+
+### Snap<em>!</em>
+[Snap<em>!</em>](https://github.com/jmoenig/snap) is an educational programming langauge that allows students to build engaging projects while exploring deep concepts in computer science. Students can share their projects on the [Snap!Cloud](https://github.com/bromagosa/snapCloud).
+https://snap.berkeley.edu
+
+### The Beauty and Joy of Computing
+The Beauty and Joy of Computing is an introduction to computer science designed to broaden participation. High school and college students learn fudentals of CS and build personal projects while also exploring social impacts of computing.
+https://bjc.berkeley.edu

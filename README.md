@@ -339,3 +339,8 @@ https://techqueria.org
 ### OSOSystem
 [OSOSystem](https://github.com/OSOSystem) is a free and open source locating system platform open for different kind of devices.
 https://ososystem.de/
+
+### GDG NoCo Examples
+GDG Northern Colorado is an open-membership group that encourages the use of Google and related technology for learning
+and education. We create multiple sample open source projects for people to use.
+See [Link to projects](https://github.com/gdgnoco)

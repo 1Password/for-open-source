@@ -331,3 +331,8 @@ https://ingmarstein.github.io/Monolingual
 ### 30-seconds-of-code
 [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) is a curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 https://30secondsofcode.org
+
+### GDG NoCo Examples
+GDG Northern Colorado is an open-membership group that encourages the use of Google and related technology for learning
+and education. We create multiple sample open source projects for people to use.
+See [Link to projects](https://github.com/gdgnoco)

@@ -344,3 +344,11 @@ https://ososystem.de/
 GDG Northern Colorado is an open-membership group that encourages the use of Google and related technology for learning
 and education. We create multiple sample open source projects for people to use.
 See [Link to projects](https://github.com/gdgnoco)
+
+### Snap<em>!</em>
+[Snap<em>!</em>](https://github.com/jmoenig/snap) is an educational programming langauge that allows students to build engaging projects while exploring deep concepts in computer science. Students can share their projects on the [Snap!Cloud](https://github.com/bromagosa/snapCloud).
+https://snap.berkeley.edu
+
+### The Beauty and Joy of Computing
+The Beauty and Joy of Computing is an introduction to computer science designed to broaden participation. High school and college students learn fudentals of CS and build personal projects while also exploring social impacts of computing.
+https://bjc.berkeley.edu

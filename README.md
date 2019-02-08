@@ -335,3 +335,7 @@ https://30secondsofcode.org
 ### Techqueria.org
 Techqueria is one of the largest communities of Latinx professionals in the tech industry.
 https://techqueria.org
+
+### OSOSystem
+[OSOSystem](https://github.com/OSOSystem) is a free and open source locating system platform open for different kind of devices.
+https://ososystem.de/

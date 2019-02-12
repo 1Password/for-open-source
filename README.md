@@ -352,3 +352,7 @@ https://snap.berkeley.edu
 ### The Beauty and Joy of Computing
 The Beauty and Joy of Computing is an introduction to computer science designed to broaden participation. High school and college students learn fudentals of CS and build personal projects while also exploring social impacts of computing.
 https://bjc.berkeley.edu
+
+### RiiConnect24
+[RiiConnect24](https://github.com/RiiConnect24) is an alternative provider for the now-defunct WiiConnect24 service, designed to allow communication between Nintendo Wii™ consoles via the net. This allows you to use services such as the Forecast, News, and Everybody Votes Channel again, and exchange mail between other Wiis and e-mail.
+https://rc24.xyz/

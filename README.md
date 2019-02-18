@@ -356,3 +356,7 @@ https://bjc.berkeley.edu
 ### RiiConnect24
 [RiiConnect24](https://github.com/RiiConnect24) is an alternative provider for the now-defunct WiiConnect24 service, designed to allow communication between Nintendo Wii™ consoles via the net. This allows you to use services such as the Forecast, News, and Everybody Votes Channel again, and exchange mail between other Wiis and e-mail.
 https://rc24.xyz/
+
+### Zydis
+A fast and lightweight x86/x86-64 disassembler library written in C.
+[Zydis on GitHub](https://github.com/zyantific/zydis), [Zydis Online](https://zydis.re/)

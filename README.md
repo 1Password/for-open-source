@@ -360,3 +360,7 @@ https://rc24.xyz/
 ### Zydis
 A fast and lightweight x86/x86-64 disassembler library written in C.
 [Zydis on GitHub](https://github.com/zyantific/zydis), [Zydis Online](https://zydis.re/)
+
+### WordPress Gwinnett
+An official WordPress meetup chapter providing free education and support for Atlanta, GA suburb users and developers — since 2012.
+https://wpgwinnett.com

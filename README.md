@@ -368,3 +368,7 @@ https://wpgwinnett.com
 ### Twisted
 An event-driven networking engine written in Python, implementing many protocols, including HTTP, IMAP, SMTP, DNS, SSH, and more.
 https://twistedmatrix.com/
+
+### LibertyLand
+[LibertyLand](https://github.com/LibertyLand), a new Minecraft server with different scopes other than competition. More open for our players and developers interested in the project.
+https://libertyland.xyz

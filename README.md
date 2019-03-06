@@ -372,3 +372,7 @@ https://twistedmatrix.com/
 ### LibertyLand
 [LibertyLand](https://github.com/LibertyLand), a new Minecraft server with different scopes other than competition. More open for our players and developers interested in the project.
 https://libertyland.xyz
+
+### Elysium
+A open source programming discord community focused around sharing projects, meeting other developers, and discussing security related topics within the programming area.
+https://discord.gg/v5Ke7k4

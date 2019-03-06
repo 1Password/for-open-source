@@ -372,3 +372,7 @@ https://twistedmatrix.com/
 ### LibertyLand
 [LibertyLand](https://github.com/LibertyLand), a new Minecraft server with different scopes other than competition. More open for our players and developers interested in the project.
 https://libertyland.xyz
+
+### ResearchOps Community
+The [ResearchOps Community](https://researchops.community/) is volunteer run group of user researchers, and other people who do user/design research in their jobs, where we share what we know about making research work better within organisations. As a community we create and share learning resources, and run regular events and workshops to share what we learn, about making research accessible inside organisations, whilst respecting the wishes and privacy of the participants.
+[ResearchOps on Medium](https://medium.com/researchops-community) | [ResearchOps on github](http://github.com/researchops)

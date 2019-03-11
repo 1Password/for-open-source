@@ -372,3 +372,7 @@ https://twistedmatrix.com/
 ### LibertyLand
 [LibertyLand](https://github.com/LibertyLand), a new Minecraft server with different scopes other than competition. More open for our players and developers interested in the project.
 https://libertyland.xyz
+
+### OpenCAD
+[OpenCAD](https://opencad.io) is an open-source computer aided dispatch system for roleplay communities written in PHP.
+https://opencad.io

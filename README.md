@@ -373,6 +373,18 @@ https://twistedmatrix.com/
 [LibertyLand](https://github.com/LibertyLand), a new Minecraft server with different scopes other than competition. More open for our players and developers interested in the project.
 https://libertyland.xyz
 
+### Dropwizard
+Dropwizard is a mature Java framework for developing ops-friendly, high-performance, RESTful web services.
+https://www.dropwizard.io
+
+### GearBot
+[GearBot](https://gearbot.rocks) is an open source moderation bot for discord, helping to keep the gears turning on big and small servers. Featuring extensive configurability to allow server to fine tune the bot based on their specific server needs.
+https://github.com/AEnterprise/GearBot
+
+### OpenCAD
+[OpenCAD](https://opencad.io) is an open-source computer aided dispatch system for roleplay communities written in PHP.
+https://opencad.io
+
 ### ResearchOps Community
 The [ResearchOps Community](https://researchops.community/) is volunteer run group of user researchers, and other people who do user/design research in their jobs, where we share what we know about making research work better within organisations. As a community we create and share learning resources, and run regular events and workshops to share what we learn, about making research accessible inside organisations, whilst respecting the wishes and privacy of the participants.
 [ResearchOps on Medium](https://medium.com/researchops-community) | [ResearchOps on github](http://github.com/researchops)

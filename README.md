@@ -372,3 +372,7 @@ https://twistedmatrix.com/
 ### LibertyLand
 [LibertyLand](https://github.com/LibertyLand), a new Minecraft server with different scopes other than competition. More open for our players and developers interested in the project.
 https://libertyland.xyz
+
+### Dropwizard
+Dropwizard is a mature Java framework for developing ops-friendly, high-performance, RESTful web services.
+https://www.dropwizard.io

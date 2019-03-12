@@ -373,6 +373,9 @@ https://twistedmatrix.com/
 [LibertyLand](https://github.com/LibertyLand), a new Minecraft server with different scopes other than competition. More open for our players and developers interested in the project.
 https://libertyland.xyz
 
+### Dropwizard
+Dropwizard is a mature Java framework for developing ops-friendly, high-performance, RESTful web services.
+https://www.dropwizard.io
 
 ### GearBot
 [GearBot](https://gearbot.rocks) is an open source moderation bot for discord, helping to keep the gears turning on big and small servers. Featuring extensive configurability to allow server to fine tune the bot based on their specific server needs.

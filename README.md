@@ -384,3 +384,7 @@ https://github.com/AEnterprise/GearBot
 ### OpenCAD
 [OpenCAD](https://opencad.io) is an open-source computer aided dispatch system for roleplay communities written in PHP.
 https://opencad.io
+
+### Babel
+Babel is a compiler for writing next generation JavaScript.
+https://babeljs.io/

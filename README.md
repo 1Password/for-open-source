@@ -380,3 +380,7 @@ https://www.dropwizard.io
 ### GearBot
 [GearBot](https://gearbot.rocks) is an open source moderation bot for discord, helping to keep the gears turning on big and small servers. Featuring extensive configurability to allow server to fine tune the bot based on their specific server needs.
 https://github.com/AEnterprise/GearBot
+
+### OpenCAD
+[OpenCAD](https://opencad.io) is an open-source computer aided dispatch system for roleplay communities written in PHP.
+https://opencad.io

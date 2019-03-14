@@ -392,3 +392,6 @@ The [ResearchOps Community](https://researchops.community/) is volunteer run gro
 ### Babel
 Babel is a compiler for writing next generation JavaScript.
 https://babeljs.io/
+
+### Electron JS
+[Electron JS](https://electronjs.org) - Build cross platform desktop apps with JavaScript, HTML, and CSS

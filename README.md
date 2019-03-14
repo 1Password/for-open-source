@@ -392,3 +392,6 @@ The [ResearchOps Community](https://researchops.community/) is volunteer run gro
 ### Babel
 Babel is a compiler for writing next generation JavaScript.
 https://babeljs.io/
+
+### QMEM
+QMEM is an equipment management and asset tracking application written entirely in PHP. [QMEM on GitHub](https://github.com/gough/qmem)

@@ -393,5 +393,8 @@ The [ResearchOps Community](https://researchops.community/) is volunteer run gro
 Babel is a compiler for writing next generation JavaScript.
 https://babeljs.io/
 
+### Electron JS
+[Electron JS](https://electronjs.org) - Build cross platform desktop apps with JavaScript, HTML, and CSS
+
 ### QMEM
 QMEM is an equipment management and asset tracking application written entirely in PHP. [QMEM on GitHub](https://github.com/gough/qmem)

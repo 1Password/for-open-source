@@ -402,3 +402,7 @@ QMEM is an equipment management and asset tracking application written entirely 
 ### PyLight Meetup
 [PyLight](https://www.pylight.org) is a beginner-friendly Python meetup. On our meetings we focus on thorough explanation of programming foundations, showing different approaches in problem solving, and exploring different branches of the IT world. Our meetings take place once a month and always include practical tasks apart from lectures.
 [PyLight on GitHub](https://github.com/PyLightMeetup)
+
+### Tech Valley Game Space
+Tech Valley Game Space is a volunteer-driven and member-supported nonprofit organization founded on the principle that games and game-making are for everyone. We  are building a stronger ecosystem for game makers throughout the NY Capital Region. The centerpiece of these efforts is our location in Troy NY, which serves as a co-working venue, communal hub, and safe space where game makers of all backgrounds and experience levels can gather to collaborate, share knowledge, and support one another.
+https://www.techvalleygamespace.com

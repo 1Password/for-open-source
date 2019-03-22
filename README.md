@@ -402,3 +402,7 @@ QMEM is an equipment management and asset tracking application written entirely 
 ### PyLight Meetup
 [PyLight](https://www.pylight.org) is a beginner-friendly Python meetup. On our meetings we focus on thorough explanation of programming foundations, showing different approaches in problem solving, and exploring different branches of the IT world. Our meetings take place once a month and always include practical tasks apart from lectures.
 [PyLight on GitHub](https://github.com/PyLightMeetup)
+
+### Ember CLI
+Ember CLI is the command line interface for the [Ember.js](http://emberjs.com/) web framework.
+https://github.com/ember-cli/ember-cli

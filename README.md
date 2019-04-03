@@ -406,3 +406,7 @@ QMEM is an equipment management and asset tracking application written entirely 
 ### Ember CLI
 Ember CLI is the command line interface for the [Ember.js](http://emberjs.com/) web framework.
 https://github.com/ember-cli/ember-cli
+
+### utPLSQL
+[utPLSQL](http://utplsql.org) is a testing framework for Oracle PL/SQL. It's a completely community-driven, voluntary project with the goal to make it easier to automatically test your database code and allow techniques like TDD.
+[utPLSQL on GitHub](https://github.com/utPLSQL)

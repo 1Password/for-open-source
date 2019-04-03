@@ -406,3 +406,7 @@ QMEM is an equipment management and asset tracking application written entirely 
 ### Ember CLI
 Ember CLI is the command line interface for the [Ember.js](http://emberjs.com/) web framework.
 https://github.com/ember-cli/ember-cli
+
+### RVM
+RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+https://rvm.io

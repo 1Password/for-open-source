@@ -407,6 +407,18 @@ QMEM is an equipment management and asset tracking application written entirely 
 Ember CLI is the command line interface for the [Ember.js](http://emberjs.com/) web framework.
 https://github.com/ember-cli/ember-cli
 
+### Home Assistant
+Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
+https://home-assistant.io
+
+### Online Membership System 
+[OMS](https://oms-project.atlassian.net) is an open-source project born from the youth NGO AEGEE-Europe. It aims to provide an intranet which other YNGOs (and more) can use to manage their members and internal events, and it allows customisation through pluggable modules.
+https://github.com/AEGEE/oms-docker
+
+### utPLSQL
+[utPLSQL](http://utplsql.org) is a testing framework for Oracle PL/SQL. It's a completely community-driven, voluntary project with the goal to make it easier to automatically test your database code and allow techniques like TDD.
+[utPLSQL on GitHub](https://github.com/utPLSQL)
+
 ### RVM
 RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 https://rvm.io

@@ -414,3 +414,7 @@ https://home-assistant.io
 ### Online Membership System 
 [OMS](https://oms-project.atlassian.net) is an open-source project born from the youth NGO AEGEE-Europe. It aims to provide an intranet which other YNGOs (and more) can use to manage their members and internal events, and it allows customisation through pluggable modules.
 https://github.com/AEGEE/oms-docker
+
+### utPLSQL
+[utPLSQL](http://utplsql.org) is a testing framework for Oracle PL/SQL. It's a completely community-driven, voluntary project with the goal to make it easier to automatically test your database code and allow techniques like TDD.
+[utPLSQL on GitHub](https://github.com/utPLSQL)

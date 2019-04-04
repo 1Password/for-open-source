@@ -410,3 +410,7 @@ https://github.com/ember-cli/ember-cli
 ### Home Assistant
 Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
 https://home-assistant.io
+
+### Online Membership System 
+[OMS](https://oms-project.atlassian.net) is an open-source project born from the youth NGO AEGEE-Europe. It aims to provide an intranet which other YNGOs (and more) can use to manage their members and internal events, and it allows customisation through pluggable modules.
+https://github.com/AEGEE/oms-docker

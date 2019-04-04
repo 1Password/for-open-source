@@ -406,3 +406,7 @@ QMEM is an equipment management and asset tracking application written entirely 
 ### Ember CLI
 Ember CLI is the command line interface for the [Ember.js](http://emberjs.com/) web framework.
 https://github.com/ember-cli/ember-cli
+
+### Home Assistant
+Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
+https://home-assistant.io

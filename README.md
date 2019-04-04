@@ -418,3 +418,7 @@ https://github.com/AEGEE/oms-docker
 ### utPLSQL
 [utPLSQL](http://utplsql.org) is a testing framework for Oracle PL/SQL. It's a completely community-driven, voluntary project with the goal to make it easier to automatically test your database code and allow techniques like TDD.
 [utPLSQL on GitHub](https://github.com/utPLSQL)
+
+### RVM
+RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+https://rvm.io

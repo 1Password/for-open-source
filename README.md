@@ -422,3 +422,7 @@ https://github.com/AEGEE/oms-docker
 ### RVM
 RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 https://rvm.io
+
+
+### AutoFooter
+[AutoFooter](https://github.com/GDS-Engineering/AutoFooter) is a fast and responsive js footer-generation script that aims at providing always updated information, while requiring 0 maintaianance and updates after the initial configuration

@@ -425,3 +425,6 @@ https://rvm.io
 
 ### AutoFooter
 [AutoFooter](https://github.com/GDS-Engineering/AutoFooter) is a fast and responsive js footer-generation script that aims at providing always updated information, while requiring 0 maintenance and updates after the initial configuration.
+
+### CC-Build
+[CC-Build](https://github.com/cc-build) (in the future probably cc-build.net) is the community distribution of Chef Software.

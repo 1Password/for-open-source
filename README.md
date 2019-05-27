@@ -428,3 +428,7 @@ https://rvm.io
 
 ### CC-Build
 [CC-Build](https://github.com/cc-build) (in the future probably cc-build.net) is the community distribution of Chef Software.
+
+### iGlance
+A small and lightweight macOS System monitor for the status bar with a lot of customizable options so that everyone can adjust the display settings to their needs
+https://github.com/iglance/iGlance

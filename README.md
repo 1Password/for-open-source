@@ -432,3 +432,7 @@ https://rvm.io
 ### iGlance
 A small and lightweight macOS System monitor for the status bar with a lot of customizable options so that everyone can adjust the display settings to their needs
 https://github.com/iglance/iGlance
+
+### Trailing Spaces
+An extension for the Visual Studio Code editor that allows you to highlight trailing spaces and delete them in a flash!
+https://github.com/shardulm94/vscode-trailingspaces

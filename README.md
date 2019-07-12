@@ -440,3 +440,6 @@ https://github.com/shardulm94/vscode-trailingspaces
 ### Perl 6
 [Perl 6](https://perl6.org) is a multi paradigm programming language. It's completely community-driven.
 https://github.com/perl6
+
+### osquery
+[osquery](https://osquery.io) provides SQL powered operating system instrumentation, monitoring, and analytics.

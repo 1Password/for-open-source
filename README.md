@@ -443,3 +443,6 @@ https://github.com/perl6
 
 ### osquery
 [osquery](https://osquery.io) provides SQL powered operating system instrumentation, monitoring, and analytics.
+
+### NumFOCUS
+[NumFOCUS](https://numfocus.org) provides a stable, independent, and professional home for the [open source projects](https://numfocus.org/sponsored-projects) powering contemporary scientific inquiry and business processes. We aim to ensure that funding and resources are available to sustain projects in the scientific data stack over the long haul.

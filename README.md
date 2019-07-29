@@ -449,3 +449,7 @@ https://github.com/perl6
 
 ### NUSMods
 [NUSMods](https://nusmods.com) is a student maintained course catalogue, module search and timetable builder for the National University of Singapore.
+
+### ZEIW
+Open source community-based game 🏓
+https://zeiw.me

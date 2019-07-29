@@ -452,3 +452,7 @@ https://github.com/perl6
 
 ### Buffalo
 [Buffalo](https://gobuffalo.io) is a Go web development eco-system, designed to make your life easier. Buffalo helps you to generate a web project that already has everything from front-end (JavaScript, SCSS, etc.) to the back-end (database, routing, etc.) already hooked up and ready to run. From there it provides easy APIs to build your web application quickly in Go.
+
+### ZEIW
+Open source community-based game 🏓
+https://zeiw.me

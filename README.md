@@ -449,3 +449,6 @@ https://github.com/perl6
 
 ### NUSMods
 [NUSMods](https://nusmods.com) is a student maintained course catalogue, module search and timetable builder for the National University of Singapore.
+
+### 1build
+[!build](https://github.com/gopinath-langote/1build) – Frictionless way of managing project-specific commands. 1build is an automation tool that arms you with the convenience to configure project-local command line aliases – and then run the commands quickly and easily. 

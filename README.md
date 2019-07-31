@@ -450,6 +450,9 @@ https://github.com/perl6
 ### NUSMods
 [NUSMods](https://nusmods.com) is a student maintained course catalogue, module search and timetable builder for the National University of Singapore.
 
+### 1build
+[1build](https://github.com/gopinath-langote/1build) – Frictionless way of managing project-specific commands. 1build is an automation tool that arms you with the convenience to configure project-local command line aliases – and then run the commands quickly and easily. 
+
 ### Buffalo
 [Buffalo](https://gobuffalo.io) is a Go web development eco-system, designed to make your life easier. Buffalo helps you to generate a web project that already has everything from front-end (JavaScript, SCSS, etc.) to the back-end (database, routing, etc.) already hooked up and ready to run. From there it provides easy APIs to build your web application quickly in Go.
 

@@ -462,3 +462,8 @@ https://zeiw.me
 
 ### OpenELIS Global
 [OpenELIS Global](http://openelisglobal.org) OpenELIS is an open-source laboratory information system that supports the entire laboratory workflow, including the pre-analytical, analytical, and post-analytical phases. Meaning patient demographic data; laboratory order details; technical requirements and validations for the laboratory tests and analyses; and clinical and lab performance reports. It is installed in 83 labs in Cots d'Ivoire, many labs in Haiti and widely as part of the Bahmni hospital system for low resource settings. 
+
+### Map3
+[Map3](https://www.map3.network) is a decentralized map network which is impartial, secure and extremely robust, so that it is impractical to shut down just like the BitTorrent and the Bitcoin network. Map3 is free from control, free to participate, free base map. It host rich community map contents, support strong privacy and trust protocol, compatible with existing map technologies. We envision Map3 to be entirely built for and governed by the global Map3 community. Passionate individuals and organizations of all levels can host Map3 nodes and provide useful map contents to be distributed on the Map3 network. 
+
+https://github.com/hyperion-hyn/map3

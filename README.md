@@ -471,3 +471,7 @@ https://zeiw.me
 
 ### Astropy
 The [Astropy Project](http://astropy.org) is a community effort to develop a common core package for Astronomy in Python and foster an ecosystem of interoperable astronomy packages.
+
+### Skoruba.IdentityServer4.Admin
+The administration for the IdentityServer4 and Asp.Net Core Identity.
+[Skoruba.IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)

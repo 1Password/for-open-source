@@ -468,3 +468,6 @@ https://zeiw.me
 
 ### Orange3
 [Orange3](https://orange.biolab.si) is an open source machine learning and data visualization toolbox with an easy-to-use visual programming interface.
+
+### Astropy
+The [Astropy Project](http://astropy.org) is a community effort to develop a common core package for Astronomy in Python and foster an ecosystem of interoperable astronomy packages.

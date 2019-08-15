@@ -462,3 +462,7 @@ https://zeiw.me
 
 ### OpenELIS Global
 [OpenELIS Global](http://openelisglobal.org) OpenELIS is an open-source laboratory information system that supports the entire laboratory workflow, including the pre-analytical, analytical, and post-analytical phases. Meaning patient demographic data; laboratory order details; technical requirements and validations for the laboratory tests and analyses; and clinical and lab performance reports. It is installed in 83 labs in Cots d'Ivoire, many labs in Haiti and widely as part of the Bahmni hospital system for low resource settings. 
+
+### Skoruba.IdentityServer4.Admin
+The administration for the IdentityServer4 and Asp.Net Core Identity.
+[Skoruba.IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)

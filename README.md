@@ -475,3 +475,7 @@ The [Astropy Project](http://astropy.org) is a community effort to develop a com
 ### Skoruba.IdentityServer4.Admin
 The administration for the IdentityServer4 and Asp.Net Core Identity.
 [Skoruba.IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)
+
+### Extinction Rebellion Belgium
+We are the Belgian branch of Extinction Rebellion, an international movement that uses non-violent civil disobedience in an attempt to halt mass extinction and minimise the risk of social collapse.
+https://www.extinctionrebellion.be

@@ -479,3 +479,7 @@ The administration for the IdentityServer4 and Asp.Net Core Identity.
 ### Extinction Rebellion Belgium
 We are the Belgian branch of Extinction Rebellion, an international movement that uses non-violent civil disobedience in an attempt to halt mass extinction and minimise the risk of social collapse.
 https://www.extinctionrebellion.be
+
+### WP Australia
+Australia’s WordPress community – For beginners, professionals, and everyone in-between.
+https://wpaustralia.org/

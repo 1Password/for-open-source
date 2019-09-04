@@ -483,3 +483,7 @@ https://www.extinctionrebellion.be
 ### WP Australia
 Australia’s WordPress community – For beginners, professionals, and everyone in-between.
 https://wpaustralia.org/
+
+### Flarum
+Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
+https://flarum.org

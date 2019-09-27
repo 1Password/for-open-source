@@ -487,3 +487,7 @@ https://wpaustralia.org/
 ### Flarum
 Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
 https://flarum.org
+
+### Texas Camp
+Texas Camp is a non-profit, volunteer run, conference for the regional Drupal community. Texas Camp offers attendees the opportunity to increase their Drupal knowledge through networking, training, sessions, lightning talks, code sprints, and more.
+https://texascamp.org

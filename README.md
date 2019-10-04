@@ -489,5 +489,5 @@ Flarum is the next-generation forum software that makes online discussion fun. I
 https://flarum.org
 
 ### Destiny Item Manager
-Gear manager for Destiny, created by Bungie
+Third party open source item manager for the video game Destiny (created by Bungie)
 https://destinyitemmanager.com

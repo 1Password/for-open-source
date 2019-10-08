@@ -487,3 +487,7 @@ https://wpaustralia.org/
 ### Flarum
 Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
 https://flarum.org
+
+### Destiny Item Manager
+Third party open source item manager for the video game Destiny (created by Bungie)
+https://destinyitemmanager.com

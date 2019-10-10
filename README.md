@@ -491,3 +491,7 @@ https://flarum.org
 ### Destiny Item Manager
 Third party open source item manager for the video game Destiny (created by Bungie)
 https://destinyitemmanager.com
+
+### Oxygen Updater
+Oxygen Updater App - faster access to OnePlus system updates. Be the first to update! 
+https://oxygenupdater.com

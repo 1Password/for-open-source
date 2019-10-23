@@ -495,3 +495,7 @@ https://destinyitemmanager.com
 ### Oxygen Updater
 Oxygen Updater App - faster access to OnePlus system updates. Be the first to update! 
 https://oxygenupdater.com
+
+### Appium
+An open-source tool for automating native, mobile web, and hybrid applications on iOS mobile, Android mobile, and Windows desktop platforms
+https://appium.io

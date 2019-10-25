@@ -499,3 +499,7 @@ https://oxygenupdater.com
 ### PyData PDX
 PyData PDX is the Portland chapter of the PyData meetup series (sponsored by the non-profit NumFOCUS, dedicated to to cause of sustainable open-source software). 
 https://pdx.pydata.org
+
+### Appium
+An open-source tool for automating native, mobile web, and hybrid applications on iOS mobile, Android mobile, and Windows desktop platforms
+https://appium.io

@@ -496,6 +496,10 @@ https://destinyitemmanager.com
 Oxygen Updater App - faster access to OnePlus system updates. Be the first to update! 
 https://oxygenupdater.com
 
+### PyData PDX
+PyData PDX is the Portland chapter of the PyData meetup series (sponsored by the non-profit NumFOCUS, dedicated to to cause of sustainable open-source software). 
+https://pdx.pydata.org
+
 ### Appium
 An open-source tool for automating native, mobile web, and hybrid applications on iOS mobile, Android mobile, and Windows desktop platforms
 https://appium.io

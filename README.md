@@ -507,3 +507,8 @@ https://appium.io
 ### Backdrop CMS
 Free and Open Source CMS that helps you build websites for businesses and non-profits.
 https://backdropcms.org
+
+### Project The Green Web Foundation
+The internet runs on electricty, and right now most of that electricity comes from fossil fuels. The Green Web Foundation is a project to use open source and open data, to help people building digital products understand and reduce the carbon emissions from the services they build.
+[The Green Web Foundation Main site](https://www.thegreenwebfoundation.org/) | [The Green Web Foundation on Github](https://github.com/thegreenwebfoundation/)
+

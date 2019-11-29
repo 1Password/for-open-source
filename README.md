@@ -411,7 +411,7 @@ https://github.com/ember-cli/ember-cli
 Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
 https://home-assistant.io
 
-### Online Membership System 
+### Online Membership System
 [OMS](https://oms-project.atlassian.net) is an open-source project born from the youth NGO AEGEE-Europe. It aims to provide an intranet which other YNGOs (and more) can use to manage their members and internal events, and it allows customisation through pluggable modules.
 https://github.com/AEGEE/oms-docker
 
@@ -451,7 +451,7 @@ https://github.com/perl6
 [NUSMods](https://nusmods.com) is a student maintained course catalogue, module search and timetable builder for the National University of Singapore.
 
 ### 1build
-[1build](https://github.com/gopinath-langote/1build) – Frictionless way of managing project-specific commands. 1build is an automation tool that arms you with the convenience to configure project-local command line aliases – and then run the commands quickly and easily. 
+[1build](https://github.com/gopinath-langote/1build) – Frictionless way of managing project-specific commands. 1build is an automation tool that arms you with the convenience to configure project-local command line aliases – and then run the commands quickly and easily.
 
 ### Buffalo
 [Buffalo](https://gobuffalo.io) is a Go web development eco-system, designed to make your life easier. Buffalo helps you to generate a web project that already has everything from front-end (JavaScript, SCSS, etc.) to the back-end (database, routing, etc.) already hooked up and ready to run. From there it provides easy APIs to build your web application quickly in Go.
@@ -461,7 +461,7 @@ Open source community-based game 🏓
 https://zeiw.me
 
 ### OpenELIS Global
-[OpenELIS Global](http://openelisglobal.org) OpenELIS is an open-source laboratory information system that supports the entire laboratory workflow, including the pre-analytical, analytical, and post-analytical phases. Meaning patient demographic data; laboratory order details; technical requirements and validations for the laboratory tests and analyses; and clinical and lab performance reports. It is installed in 83 labs in Cots d'Ivoire, many labs in Haiti and widely as part of the Bahmni hospital system for low resource settings. 
+[OpenELIS Global](http://openelisglobal.org) OpenELIS is an open-source laboratory information system that supports the entire laboratory workflow, including the pre-analytical, analytical, and post-analytical phases. Meaning patient demographic data; laboratory order details; technical requirements and validations for the laboratory tests and analyses; and clinical and lab performance reports. It is installed in 83 labs in Cots d'Ivoire, many labs in Haiti and widely as part of the Bahmni hospital system for low resource settings.
 
 ### Map3
 [Map3](https://www.map3.network) is a decentralized map network which is impartial, secure and extremely robust, so that it is impractical to shut down just like the BitTorrent and the Bitcoin network. Map3 is free from control, free to participate, free base map. It host rich community map contents, support strong privacy and trust protocol, compatible with existing map technologies. We envision Map3 to be entirely built for and governed by the global Map3 community. Passionate individuals and organizations of all levels can host Map3 nodes and provide useful map contents to be distributed on the Map3 network.
@@ -493,11 +493,11 @@ Third party open source item manager for the video game Destiny (created by Bung
 https://destinyitemmanager.com
 
 ### Oxygen Updater
-Oxygen Updater App - faster access to OnePlus system updates. Be the first to update! 
+Oxygen Updater App - faster access to OnePlus system updates. Be the first to update!
 https://oxygenupdater.com
 
 ### PyData PDX
-PyData PDX is the Portland chapter of the PyData meetup series (sponsored by the non-profit NumFOCUS, dedicated to to cause of sustainable open-source software). 
+PyData PDX is the Portland chapter of the PyData meetup series (sponsored by the non-profit NumFOCUS, dedicated to to cause of sustainable open-source software).
 https://pdx.pydata.org
 
 ### Appium
@@ -515,3 +515,7 @@ The internet runs on electricty, and right now most of that electricity comes fr
 ### TYPO3 CMS
 TYPO3 is a open source Enterprise Content Management System based on PHP.
 https://typo3.org
+
+### Kali Linux
+Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.
+https://www.kali.org/

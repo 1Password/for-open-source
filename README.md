@@ -516,6 +516,10 @@ The internet runs on electricty, and right now most of that electricity comes fr
 TYPO3 is a open source Enterprise Content Management System based on PHP.
 https://typo3.org
 
+### WildBeast
+Open-source Discord bot framework, performant and easily extendible.
+https://github.com/TheSharks/WildBeast
+
 ### OpenStreetMap US
 OpenStreetMap US advocates for and promotes the free wiki-style map of the world in the United States.
 https://openstreetmap.us

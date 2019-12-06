@@ -519,3 +519,7 @@ https://typo3.org
 ### WildBeast
 Open-source Discord bot framework, performant and easily extendible.
 https://github.com/TheSharks/WildBeast
+
+### OpenStreetMap US
+OpenStreetMap US advocates for and promotes the free wiki-style map of the world in the United States.
+https://openstreetmap.us

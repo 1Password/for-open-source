@@ -523,3 +523,7 @@ https://github.com/TheSharks/WildBeast
 ### OpenStreetMap US
 OpenStreetMap US advocates for and promotes the free wiki-style map of the world in the United States.
 https://openstreetmap.us
+
+### The Rust Programming Language
+[Rust](https://www.rust-lang.org) is a programming language empowering everyone
+to build reliable and efficient software.

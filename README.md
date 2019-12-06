@@ -515,3 +515,7 @@ The internet runs on electricty, and right now most of that electricity comes fr
 ### TYPO3 CMS
 TYPO3 is a open source Enterprise Content Management System based on PHP.
 https://typo3.org
+
+### The Rust Programming Language
+[Rust](https://www.rust-lang.org) is a programming language empowering everyone
+to build reliable and efficient software.

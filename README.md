@@ -531,3 +531,7 @@ to build reliable and efficient software.
 ### Kali Linux
 Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.
 https://www.kali.org/
+
+### BoxOfDevs
+BoxOfDevs is a development community of likeminded teens. We've developed numerous PocketMine plugins and Minecraft related projects such as [CommandShop](https://github.com/BoxOfDevs/CommandShop) and [motd-generator](https://github.com/BoxOfDevs/motd-generator).
+https://boxofdevs.com

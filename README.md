@@ -531,3 +531,7 @@ to build reliable and efficient software.
 ### Kali Linux
 Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.
 https://www.kali.org/
+
+### Wasmer
+Wasmer is the Universal server-side WebAssembly runtime
+https://wasmer.io

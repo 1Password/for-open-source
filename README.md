@@ -532,6 +532,10 @@ to build reliable and efficient software.
 Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.
 https://www.kali.org/
 
+### Wasmer
+Wasmer is the Universal server-side WebAssembly runtime
+https://wasmer.io
+
 ### LibreWiki
 LibreWiki is a Korean wiki site running on MediaWiki, also developing an independent wiki-engine.
 https://librewiki.net/

@@ -535,3 +535,7 @@ https://www.kali.org/
 ### LibreWiki
 LibreWiki is a Korean wiki site running on MediaWiki, also developing an independent wiki-engine.
 https://librewiki.net/
+
+### BoxOfDevs
+BoxOfDevs is a development community of likeminded teens. We've developed numerous PocketMine plugins and Minecraft related projects such as [CommandShop](https://github.com/BoxOfDevs/CommandShop) and [motd-generator](https://github.com/BoxOfDevs/motd-generator).
+https://boxofdevs.com

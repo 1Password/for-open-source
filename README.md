@@ -543,3 +543,7 @@ https://librewiki.net/
 ### BoxOfDevs
 BoxOfDevs is a development community of likeminded teens. We've developed numerous PocketMine plugins and Minecraft related projects such as [CommandShop](https://github.com/BoxOfDevs/CommandShop) and [motd-generator](https://github.com/BoxOfDevs/motd-generator).
 https://boxofdevs.com
+
+### Gitote
+Gitote is an open source end-to-end self-hosted software development platform with built-in version control, issue tracking, code review, and more.
+https://gitlab.com/gitote/gitote

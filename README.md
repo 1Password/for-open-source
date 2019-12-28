@@ -543,3 +543,9 @@ https://librewiki.net/
 ### BoxOfDevs
 BoxOfDevs is a development community of likeminded teens. We've developed numerous PocketMine plugins and Minecraft related projects such as [CommandShop](https://github.com/BoxOfDevs/CommandShop) and [motd-generator](https://github.com/BoxOfDevs/motd-generator).
 https://boxofdevs.com
+
+### ACCA
+ACCA is a fully configurable Android app that empowers users to have control over the charge cycle and it allows to proloungue the life of phone batteries. In fact several [studies](https://batteryuniversity.com/index.php/learn/article/how_to_prolong_lithium_based_batteries/) showed that Lithium-ion batteries have a longer life if partially charged.
+ACCA is a frontend app for ACC, a bash script that efficiently applies user settings in the background.
+[ACCA](https://github.com/MatteCarra/AccA) | [ACC](https://github.com/VR-25/acc)
+

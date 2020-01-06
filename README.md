@@ -547,3 +547,8 @@ https://boxofdevs.com
 ### Gitote
 Gitote is an open source end-to-end self-hosted software development platform with built-in version control, issue tracking, code review, and more.
 https://gitlab.com/gitote/gitote
+
+### ACCA
+ACCA is a fully configurable Android app that empowers users to have control over the charge cycle and it allows to proloungue the life of phone batteries. In fact several [studies](https://batteryuniversity.com/index.php/learn/article/how_to_prolong_lithium_based_batteries/) showed that Lithium-ion batteries have a longer life if partially charged.
+ACCA is a frontend app for ACC, a bash script that efficiently applies user settings in the background.
+[ACCA](https://github.com/MatteCarra/AccA) | [ACC](https://github.com/VR-25/acc)

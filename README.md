@@ -558,3 +558,6 @@ ACCA is a frontend app for ACC, a bash script that efficiently applies user sett
 [Fluid](https://fluidproject.org) is an open, collaborative project to improve the user experience and inclusiveness of open source software.
 
 The Fluid community consists of an international team of partners, individuals, and institutions focused on designing inclusive, ﬂexible, customizable, user-centered interfaces.
+
+### Kolibre
+[Kolibre](http://kolibre.org/en) is a non-profit association developing open sourced information systems for individuals with print disablitites. Source code available at github https://github.com/kolibre.

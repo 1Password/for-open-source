@@ -561,3 +561,7 @@ The Fluid community consists of an international team of partners, individuals, 
 
 ### Kolibre
 [Kolibre](http://kolibre.org/en) is a non-profit association developing open sourced information systems for individuals with print disablitites. Source code available at github https://github.com/kolibre.
+
+### bbPress
+Discussion forums, for your WordPress.org powered site. bbPress is forum software from the creators of WordPress. Quickly setup a place for asyncronous discussion, subscriptions, and more!
+https://bbpress.org/

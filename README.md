@@ -565,3 +565,7 @@ The Fluid community consists of an international team of partners, individuals, 
 ### bbPress
 Discussion forums, for your WordPress.org powered site. bbPress is forum software from the creators of WordPress. Quickly setup a place for asyncronous discussion, subscriptions, and more!
 https://bbpress.org/
+
+### Joomla!
+Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.
+https://www.joomla.org/

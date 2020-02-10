@@ -39,6 +39,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using 1Password Teams
 
+### ARGO Service Level Monitoring
+ARGO is a lightweight service for Service Level Monitoring & Messaging Framework designed for medium and large sized Research Infrastructures.
+more info available at http://argoeu.github.io/overview/ 
+
 ### WWDCScholars
 WWDCScholars is a community of [Apple WWDC Scholarship winners](https://developer.apple.com/wwdc/scholarships/). Together we developed and maintain an [iOS app](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8), the [main website](https://wwdcscholars.com) and a [sign-up form](https://join.wwdcscholars.com).
 [Link to project](https://github.com/wwdcscholars)

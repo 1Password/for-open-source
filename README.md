@@ -576,3 +576,7 @@ The ZMap Project is a collection of open source tools that enable researchers to
 ### Conviction Vacation Project
 Reducing barriers faced by formerly incarcerated individuals by streamlining process of vacating eligible convictions in Washington state.
 http://openseattle.org/convictionvacation/
+
+### FemiWiki
+FemiWiki launched as a community effort to counter prevalent misogynistic, male-centered sources of Korean language information online that was also lacking in inclusivity towards most categories of minorities.
+https://femiwiki.com

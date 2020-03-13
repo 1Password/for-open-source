@@ -580,3 +580,7 @@ http://openseattle.org/convictionvacation/
 ### FemiWiki
 FemiWiki launched as a community effort to counter prevalent misogynistic, male-centered sources of Korean language information online that was also lacking in inclusivity towards most categories of minorities.
 https://femiwiki.com
+
+### Dados Abertos de Feira
+Transparency is one of the keys to fight corruption. The project Dados Abertos de Feira aims to be a portal of the public datasets available in the city of Feira de Santana, Bahia, Brazil, making the data available searchable and open for all.
+https://dadosabertosdefeira.com.br

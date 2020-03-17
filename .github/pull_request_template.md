@@ -6,7 +6,7 @@
 TODO
 
 **Short description**:
-An open source project to manage all of your tasks for personal or company use. This is hosted under a portfolio url becasue it is a project with the creator and some friends.
+An open source project to manage all of your tasks for personal or company use. This is hosted under a portfolio url becasue it is a project with the creator and some friends. We made this project because we could never find a todo list that has everything that we were looking for, so we decided that we would make our own with everything that we wanted.
 
 **Project age**: 
 3 months. Just published to GitHub after refining.

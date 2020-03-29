@@ -584,3 +584,7 @@ https://femiwiki.com
 ### Dados Abertos de Feira
 Transparency is one of the keys to fight corruption. The project Dados Abertos de Feira aims to be a portal of the public datasets available in the city of Feira de Santana, Bahia, Brazil, making the data available searchable and open for all.
 https://dadosabertosdefeira.com.br
+
+### TwoFactorAuth.org
+[TwoFactorAuth.org](https://twofactorauth.org) is a list of popular sites that support Two Factor Authentication (2FA), as well as the methods that they provide. We hope to aid consumers who are deciding between alternative services based on the security they offer for their customers. This project also serves as an indicator of general security efforts used on a site.
+You can help contribute to the project on our [GitHub repo](https://github.com/2factorauth/twofactorauth).

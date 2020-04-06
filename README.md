@@ -592,3 +592,7 @@ https://joshlee.pw/webapps/todo/
 ### TwoFactorAuth.org
 [TwoFactorAuth.org](https://twofactorauth.org) is a list of popular sites that support Two Factor Authentication (2FA), as well as the methods that they provide. We hope to aid consumers who are deciding between alternative services based on the security they offer for their customers. This project also serves as an indicator of general security efforts used on a site.
 You can help contribute to the project on our [GitHub repo](https://github.com/2factorauth/twofactorauth).
+
+### Bevry
+Bevry builds tools (such as software) and processes (such as communities and discussions) that grow the market share of collaborative wisdom.
+https://bevry.me

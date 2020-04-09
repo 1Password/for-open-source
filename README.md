@@ -294,10 +294,6 @@ https://gophers.london
 BMLT Enabled is a community of members that write software for twelve-step organizations.  The BMLT or Basic Meeting List Toolbox helps those that are looking for a meeting (where the twelve steps happen) by providing a database and toolset that leverage these datasets.
 https://bmlt.app
 
-### Kanelbulle
-Fast, Secure & Open Source Discord bot intended for larger communities.
-https://github.com/kanelbullebot/kanelbulle
-
 ### Swetugg
 A non-profit, community-driven conference in Stockholm, Sweden. Also with an open-source conference web site.
 https://swetugg.se

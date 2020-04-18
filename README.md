@@ -592,3 +592,7 @@ You can help contribute to the project on our [GitHub repo](https://github.com/2
 ### Bevry
 Bevry builds tools (such as software) and processes (such as communities and discussions) that grow the market share of collaborative wisdom.
 https://bevry.me
+
+### Boston Golang
+Boston Golang is a Boston based community for people working with the Go programming language to discuss ideas, issues and share solutions. Boston Golang held their first Meetup on October 21, 2014 and as of April 2020 the group counts more than 1,700 members. Boston Golang is the only community for fellow gophers in New England. Meetups are held on the last Tuesday of each Month. 
+https://www.meetup.com/bostongo

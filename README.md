@@ -596,3 +596,7 @@ https://bevry.me
 ### Boston Golang
 Boston Golang is a Boston based community for people working with the Go programming language to discuss ideas, issues and share solutions. Boston Golang held their first Meetup on October 21, 2014 and as of April 2020 the group counts more than 1,700 members. Boston Golang is the only community for fellow gophers in New England. Meetups are held on the last Tuesday of each Month. 
 https://www.meetup.com/bostongo
+
+### Russian Rust Language Community
+Our community for russian speaking peoples, who working or interesting in Rust programming lanuage. Our goal is popularize Rust language in post-USSR countries. We translate articles and announcements, organize meetups, support forum for russian rust-related talks. 
+https://github.com/rust-lang-ru

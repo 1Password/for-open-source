@@ -137,10 +137,6 @@ presentation of data in modern web browsers. Bokeh provides an elegant and conci
 way to construct versatile graphics while delivering **high-performance**
 interactivity for large or streamed datasets.
 
-### Open Data Kit
-Open Data Kit is a free and open-source set of tools for collecting data in challenging environments.
-https://opendatakit.org
-
 ### Vizzy
 Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel by pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views.
 https://github.com/Workday/vizzy)

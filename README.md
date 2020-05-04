@@ -596,3 +596,7 @@ https://www.meetup.com/bostongo
 ### Russian Rust Language Community
 Our community for russian speaking peoples, who working or interesting in Rust programming lanuage. Our goal is popularize Rust language in post-USSR countries. We translate articles and announcements, organize meetups, support forum for russian rust-related talks. 
 https://github.com/rust-lang-ru
+
+### APIs You Won't Hate
+APIs You Won't Hate is dedicated to learning, writing, sharing ideas and bettering understanding of API practices. Together we can erradicate APIs we hate. Join us on the largest API chat group on the internet for help with your APIs.
+https://apisyouwonthate.com

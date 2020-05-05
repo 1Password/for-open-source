@@ -524,6 +524,10 @@ to build reliable and efficient software.
 Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.
 https://www.kali.org/
 
+### Kubernetes Event-driven Autoscaling (KEDA)
+KEDA is a Kubernetes-based event-driven autoscaler. KEDA determines how any container in Kubernetes should be scaled based on the number of events that need to be processed. KEDA is a Cloud Native Computing Foundation (CNCF) sandbox project.
+https://keda.sh/
+
 ### Wasmer
 Wasmer is the Universal server-side WebAssembly runtime
 https://wasmer.io
@@ -600,3 +604,11 @@ https://github.com/rust-lang-ru
 ### APIs You Won't Hate
 APIs You Won't Hate is dedicated to learning, writing, sharing ideas and bettering understanding of API practices. Together we can erradicate APIs we hate. Join us on the largest API chat group on the internet for help with your APIs.
 https://apisyouwonthate.com
+
+### Kyma
+Kyma /kee-ma/ is a platform for extending applications with serverless functions and microservices. It provides a selection of cloud-native projects glued together to simplify the creation and management of extensions.
+https://kyma-project.io/
+
+### WebdriverIO
+Next-gen browser and mobile automation test framework for Node.js.
+https://webdriver.io

@@ -596,3 +596,7 @@ https://www.meetup.com/bostongo
 ### Russian Rust Language Community
 Our community for russian speaking peoples, who working or interesting in Rust programming lanuage. Our goal is popularize Rust language in post-USSR countries. We translate articles and announcements, organize meetups, support forum for russian rust-related talks. 
 https://github.com/rust-lang-ru
+
+### Kyma
+Kyma /kee-ma/ is a platform for extending applications with serverless functions and microservices. It provides a selection of cloud-native projects glued together to simplify the creation and management of extensions.
+https://kyma-project.io/

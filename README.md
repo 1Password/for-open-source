@@ -596,3 +596,7 @@ https://www.meetup.com/bostongo
 ### Russian Rust Language Community
 Our community for russian speaking peoples, who working or interesting in Rust programming lanuage. Our goal is popularize Rust language in post-USSR countries. We translate articles and announcements, organize meetups, support forum for russian rust-related talks. 
 https://github.com/rust-lang-ru
+
+### WebdriverIO
+Next-gen browser and mobile automation test framework for Node.js.
+https://webdriver.io

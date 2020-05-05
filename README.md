@@ -604,3 +604,7 @@ https://github.com/rust-lang-ru
 ### Kyma
 Kyma /kee-ma/ is a platform for extending applications with serverless functions and microservices. It provides a selection of cloud-native projects glued together to simplify the creation and management of extensions.
 https://kyma-project.io/
+
+### WebdriverIO
+Next-gen browser and mobile automation test framework for Node.js.
+https://webdriver.io

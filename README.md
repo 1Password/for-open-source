@@ -596,3 +596,8 @@ https://www.meetup.com/bostongo
 ### Russian Rust Language Community
 Our community for russian speaking peoples, who working or interesting in Rust programming lanuage. Our goal is popularize Rust language in post-USSR countries. We translate articles and announcements, organize meetups, support forum for russian rust-related talks. 
 https://github.com/rust-lang-ru
+
+
+### HospitalRun
+Built with React, Node, PouchDB/CouchDB and using offline first design, we're working to deliver an HIS system that makes usability the #1 requirement, is built specifically for developing world requirements, and seeks to give back time to patient care. 
+https://hospitalrun.io

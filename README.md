@@ -524,6 +524,10 @@ to build reliable and efficient software.
 Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.
 https://www.kali.org/
 
+### Kubernetes Event-driven Autoscaling (KEDA)
+KEDA is a Kubernetes-based event-driven autoscaler. KEDA determines how any container in Kubernetes should be scaled based on the number of events that need to be processed. KEDA is a Cloud Native Computing Foundation (CNCF) sandbox project.
+https://keda.sh/
+
 ### Wasmer
 Wasmer is the Universal server-side WebAssembly runtime
 https://wasmer.io
@@ -597,6 +601,13 @@ https://www.meetup.com/bostongo
 Our community for russian speaking peoples, who working or interesting in Rust programming lanuage. Our goal is popularize Rust language in post-USSR countries. We translate articles and announcements, organize meetups, support forum for russian rust-related talks. 
 https://github.com/rust-lang-ru
 
+### Kyma
+Kyma /kee-ma/ is a platform for extending applications with serverless functions and microservices. It provides a selection of cloud-native projects glued together to simplify the creation and management of extensions.
+https://kyma-project.io/
+
+### WebdriverIO
+Next-gen browser and mobile automation test framework for Node.js.
+https://webdriver.io
 
 ### HospitalRun
 Built with React, Node, PouchDB/CouchDB and using offline first design, we're working to deliver an HIS system that makes usability the #1 requirement, is built specifically for developing world requirements, and seeks to give back time to patient care. 

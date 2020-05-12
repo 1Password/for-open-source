@@ -608,3 +608,7 @@ https://kyma-project.io/
 ### WebdriverIO
 Next-gen browser and mobile automation test framework for Node.js.
 https://webdriver.io
+
+### HospitalRun
+Built with React, Node, PouchDB/CouchDB and using offline first design, we're working to deliver an HIS system that makes usability the #1 requirement, is built specifically for developing world requirements, and seeks to give back time to patient care. 
+https://hospitalrun.io

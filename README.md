@@ -616,3 +616,7 @@ https://webdriver.io
 ### HospitalRun
 Built with React, Node, PouchDB/CouchDB and using offline first design, we're working to deliver an HIS system that makes usability the #1 requirement, is built specifically for developing world requirements, and seeks to give back time to patient care. 
 https://hospitalrun.io
+
+### The Good Docs Project
+We make templates to help developers create better documentation for open source projects.
+https://thegooddocsproject.dev

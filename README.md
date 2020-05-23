@@ -594,11 +594,11 @@ Bevry builds tools (such as software) and processes (such as communities and dis
 https://bevry.me
 
 ### Boston Golang
-Boston Golang is a Boston based community for people working with the Go programming language to discuss ideas, issues and share solutions. Boston Golang held their first Meetup on October 21, 2014 and as of April 2020 the group counts more than 1,700 members. Boston Golang is the only community for fellow gophers in New England. Meetups are held on the last Tuesday of each Month.
+Boston Golang is a Boston based community for people working with the Go programming language to discuss ideas, issues and share solutions. Boston Golang held their first Meetup on October 21, 2014 and as of April 2020 the group counts more than 1,700 members. Boston Golang is the only community for fellow gophers in New England. Meetups are held on the last Tuesday of each Month. 
 https://www.meetup.com/bostongo
 
 ### Russian Rust Language Community
-Our community for russian speaking peoples, who working or interesting in Rust programming lanuage. Our goal is popularize Rust language in post-USSR countries. We translate articles and announcements, organize meetups, support forum for russian rust-related talks.
+Our community for russian speaking peoples, who working or interesting in Rust programming lanuage. Our goal is popularize Rust language in post-USSR countries. We translate articles and announcements, organize meetups, support forum for russian rust-related talks. 
 https://github.com/rust-lang-ru
 
 ### APIs You Won't Hate
@@ -614,9 +614,5 @@ Next-gen browser and mobile automation test framework for Node.js.
 https://webdriver.io
 
 ### HospitalRun
-Built with React, Node, PouchDB/CouchDB and using offline first design, we're working to deliver an HIS system that makes usability the #1 requirement, is built specifically for developing world requirements, and seeks to give back time to patient care.
+Built with React, Node, PouchDB/CouchDB and using offline first design, we're working to deliver an HIS system that makes usability the #1 requirement, is built specifically for developing world requirements, and seeks to give back time to patient care. 
 https://hospitalrun.io
-
-### ODK-X
-The ODK-X community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.
-https://odk-x.org

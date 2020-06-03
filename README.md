@@ -213,6 +213,10 @@ https://github.com/pycontribs/
 A Deep Learning Library for Researchers and Engineers based on Tensorflow.
 https://github.com/tensorlayer/tensorlayer
 
+### What's Open at Mason
+A service for students at George Mason University, by students of Mason SRCT, to find information about facilities on campus.
+https://whatsopen.gmu.edu/
+
 ### Alamofire
 An elegant networking library in Swift.
 https://github.com/Alamofire/Alamofire

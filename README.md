@@ -628,3 +628,7 @@ https://thegooddocsproject.dev
 ### ODK-X
 The ODK-X community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.
 https://odk-x.org
+
+### SpongePowered
+A community-driven open source Minecraft: Java Edition modding API and platform. We make the [SpongeAPI](https://github.com/SpongePowered/SpongeAPI) library and its core implementations with our own [trait/mixin weaving framework](https://github.com/SpongePowered/Mixin) for Java. 
+https://spongepowered.org

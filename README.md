@@ -453,8 +453,7 @@ https://github.com/perl6
 [Buffalo](https://gobuffalo.io) is a Go web development eco-system, designed to make your life easier. Buffalo helps you to generate a web project that already has everything from front-end (JavaScript, SCSS, etc.) to the back-end (database, routing, etc.) already hooked up and ready to run. From there it provides easy APIs to build your web application quickly in Go.
 
 ### ZEIW
-Open source community-based game 🏓
-https://zeiw.me
+[ZEIW](https://zeiw.pnfc.re) is an open source, community-based, online multiplayer table tennis game.
 
 ### OpenELIS Global
 [OpenELIS Global](http://openelisglobal.org) OpenELIS is an open-source laboratory information system that supports the entire laboratory workflow, including the pre-analytical, analytical, and post-analytical phases. Meaning patient demographic data; laboratory order details; technical requirements and validations for the laboratory tests and analyses; and clinical and lab performance reports. It is installed in 83 labs in Cots d'Ivoire, many labs in Haiti and widely as part of the Bahmni hospital system for low resource settings.

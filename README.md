@@ -651,3 +651,7 @@ https://plone.org
 ### OSS Review Toolkit
 The OSS Review Toolkit (ORT) is a suite of tools to assist with reviewing software dependencies, automating OSS compliance checks, and creating Bill-of-Materials (BOMs).
 https://oss-review-toolkit.org
+
+### Prometheus
+An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
+https://prometheus.io/

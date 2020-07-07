@@ -651,3 +651,6 @@ https://plone.org
 ### OSS Review Toolkit
 The OSS Review Toolkit (ORT) is a suite of tools to assist with reviewing software dependencies, automating OSS compliance checks, and creating Bill-of-Materials (BOMs).
 https://oss-review-toolkit.org
+
+### CNCF Indonesia
+[CNCF Indonesia](https://github.com/cloudnative-id) is a tech community for Indonesians to learn and share about cloud native concepts and technologies like Kubernetes, Docker, and so on. We host monthly [meetups](https://github.com/cloudnative-id/meetups), workshops, organize [Kubernetes docs](https://kubernetes.io/id) translation to Bahasa Indonesia for everyone, and other various activities. We are already in 4 cities with thousands of members and still rapidly growing.

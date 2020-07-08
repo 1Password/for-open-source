@@ -651,3 +651,7 @@ https://plone.org
 ### OSS Review Toolkit
 The OSS Review Toolkit (ORT) is a suite of tools to assist with reviewing software dependencies, automating OSS compliance checks, and creating Bill-of-Materials (BOMs).
 https://oss-review-toolkit.org
+
+### ESLint
+ESLint is a pluggable JavaScript code linter that helps you find and fix problems in your JavaScript code.
+https://eslint.org

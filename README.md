@@ -652,6 +652,17 @@ https://plone.org
 The OSS Review Toolkit (ORT) is a suite of tools to assist with reviewing software dependencies, automating OSS compliance checks, and creating Bill-of-Materials (BOMs).
 https://oss-review-toolkit.org
 
+### Prometheus
+An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
+https://prometheus.io/
+
+### Starship: Cross-Shell Prompt
+Starship is a minimal, blazing-fast, and infinitely customizable prompt for any shell.
+http://starship.rs/
+
+### CNCF Indonesia
+[CNCF Indonesia](https://github.com/cloudnative-id) is a tech community for Indonesians to learn and share about cloud native concepts and technologies like Kubernetes, Docker, and so on. We host monthly [meetups](https://github.com/cloudnative-id/meetups), workshops, organize [Kubernetes docs](https://kubernetes.io/id) translation to Bahasa Indonesia for everyone, and other various activities. We are already in 4 cities with thousands of members and still rapidly growing.
+
 ### ESLint
 ESLint is a pluggable JavaScript code linter that helps you find and fix problems in your JavaScript code.
 https://eslint.org

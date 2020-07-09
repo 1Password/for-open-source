@@ -666,3 +666,7 @@ http://starship.rs/
 ### ESLint
 ESLint is a pluggable JavaScript code linter that helps you find and fix problems in your JavaScript code.
 https://eslint.org
+
+### Gilbert
+Build system and task runner for Go projects
+https://go-gilbert.github.io/

@@ -655,3 +655,7 @@ https://oss-review-toolkit.org
 ### Prometheus
 An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
 https://prometheus.io/
+
+### Starship: Cross-Shell Prompt
+Starship is a minimal, blazing-fast, and infinitely customizable prompt for any shell.
+http://starship.rs/

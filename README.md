@@ -670,3 +670,8 @@ https://eslint.org
 ### Gilbert
 Build system and task runner for Go projects
 https://go-gilbert.github.io/
+
+### CloudEvents
+A CNCF standard for defining how to add well-defined metadata to events for
+interop and automated tooling.
+https://cloudevents.io

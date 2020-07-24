@@ -675,3 +675,7 @@ https://go-gilbert.github.io/
 A CNCF standard for defining how to add well-defined metadata to events for
 interop and automated tooling.
 https://cloudevents.io
+
+### Vancouver Go Meetup (London Gophers)
+The Vancouver Go Meetup is a Vancouver, Canada meetup group for anyone interested in the Go programming language.
+https://www.meetup.com/golangvan/

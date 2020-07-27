@@ -679,3 +679,7 @@ https://cloudevents.io
 ### Vancouver Go Meetup (London Gophers)
 The Vancouver Go Meetup is a Vancouver, Canada meetup group for anyone interested in the Go programming language.
 https://www.meetup.com/golangvan/
+
+### FreeFeed
+FreeFeed is a social network that enables you to discover and discuss the interesting stuff your friends find on the web.
+https://freefeed.net/about/

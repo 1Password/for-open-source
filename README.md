@@ -685,5 +685,5 @@ FreeFeed is a social network that enables you to discover and discuss the intere
 https://freefeed.net/about/
 
 ### Tauri
-Build smaller, faster, and more secure desktop applications with a web frontend - with Rust! 
+Build smaller, faster, and more secure desktop applications with a web frontend. 
 https://tauri.studio

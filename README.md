@@ -683,3 +683,7 @@ https://www.meetup.com/golangvan/
 ### FreeFeed
 FreeFeed is a social network that enables you to discover and discuss the interesting stuff your friends find on the web.
 https://freefeed.net/about/
+
+### Tauri
+Build smaller, faster, and more secure desktop applications with a web frontend - with Rust! 
+https://tauri.studio

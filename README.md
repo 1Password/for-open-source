@@ -687,3 +687,7 @@ https://freefeed.net/about/
 ### Tauri
 Build smaller, faster, and more secure desktop applications with a web frontend. 
 https://tauri.studio
+
+### chezmoi
+Manage your dotfiles across multiple machines, securely.
+https://chezmoi.io

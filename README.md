@@ -687,3 +687,7 @@ https://freefeed.net/about/
 ### Tauri
 Build smaller, faster, and more secure desktop applications with a web frontend. 
 https://tauri.studio
+
+### Hack for LA
+We create open source civic tech projects.  Come see us at:
+https://hackforla.org

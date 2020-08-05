@@ -695,3 +695,7 @@ https://chezmoi.io
 ### Project NISEI
 NISEI is a fan-run organization with the mission to keep Android: Netrunner alive and thriving after the game reached official end-of-life in 2018. Among other things, we maintain NetrunnerDB, an open source deck builder for Android: Netrunner. We are strongly committed to contributing back to the open source ecosystems that support small volunteer-run organisations like ours.
 https://nisei.net/
+
+### Hack for LA
+We create open source civic tech projects.  Come see us at:
+https://hackforla.org

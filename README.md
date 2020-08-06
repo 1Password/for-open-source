@@ -699,3 +699,6 @@ https://nisei.net/
 ### Hack for LA
 We create open source civic tech projects.  Come see us at:
 https://hackforla.org
+
+### QA Hive
+We create open source test library based on robotframework hosted on github. These are our libraries [robotframework-puppeteer](https://github.com/qahive/robotframework-puppeteer), [robotframework-puppeteer-percy](https://github.com/qahive/robotframework-puppeteer-percy), [robotframework-pdf2textlibrary](https://github.com/qahive/robotframework-pdf2textlibrary) and [more...](https://github.com/qahive). Our site: https://qahive.com

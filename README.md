@@ -706,3 +706,7 @@ We create open source test library based on robotframework hosted on github. The
 ### RQ
 A simple, Redis backed task/job queue for Python. 
 https://python-rq.org/
+
+### PaperMC
+Paper is the next generation of Minecraft server, compatible with Spigot plugins and offering uncompromising performance.
+https://papermc.io/

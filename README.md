@@ -710,3 +710,7 @@ https://python-rq.org/
 ### PaperMC
 Paper is the next generation of Minecraft server, compatible with Spigot plugins and offering uncompromising performance.
 https://papermc.io/
+
+### Alchemy Viewer
+Alchemy is a Second Life™ and OpenMetaverse compatible viewer striving to be at the forefront of stability, performance, and technological advancement in the open-source metaverse viewer field.
+https://www.alchemyviewer.org

@@ -714,3 +714,7 @@ https://papermc.io/
 ### Alchemy Viewer
 Alchemy is a Second Life™ and OpenMetaverse compatible viewer striving to be at the forefront of stability, performance, and technological advancement in the open-source metaverse viewer field.
 https://www.alchemyviewer.org
+
+### Micronaut
+Micronaut is a modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
+https://micronaut.io/

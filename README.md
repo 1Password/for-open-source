@@ -714,3 +714,7 @@ https://papermc.io/
 ### Alchemy Viewer
 Alchemy is a Second Life™ and OpenMetaverse compatible viewer striving to be at the forefront of stability, performance, and technological advancement in the open-source metaverse viewer field.
 https://www.alchemyviewer.org
+
+### Crazy Marvin
+Crazy Marvin is a collective of open sourcerers that create chatbots and apps for many platforms.
+https://crazymarvin.com/

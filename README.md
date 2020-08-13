@@ -718,3 +718,7 @@ https://www.alchemyviewer.org
 ### Micronaut
 Micronaut is a modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
 https://micronaut.io/
+
+### Crazy Marvin
+Crazy Marvin is a collective of open sourcerers that create chatbots and apps for many platforms.
+https://crazymarvin.com/

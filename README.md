@@ -629,11 +629,11 @@ The ODK-X community produces free and open-source software for collecting, manag
 https://odk-x.org
 
 ### SpongePowered
-A community-driven open source Minecraft: Java Edition modding API and platform. We make the [SpongeAPI](https://github.com/SpongePowered/SpongeAPI) library and its core implementations with our own [trait/mixin weaving framework](https://github.com/SpongePowered/Mixin) for Java. 
+A community-driven open source Minecraft: Java Edition modding API and platform. We make the [SpongeAPI](https://github.com/SpongePowered/SpongeAPI) library and its core implementations with our own [trait/mixin weaving framework](https://github.com/SpongePowered/Mixin) for Java.
 https://spongepowered.org
 
 ### Digital Excellence
-A lot of employees and students of Schools and Universities create a lot of nice products. As a hobby, for their work or because of a school project. These can be software solutions, small scripts, research papers, thesis but possibly also project ideas and proposals for others to pick up. Unfortunately, most of them remain private and are not known by the majority of the population. The goal of the Digital Excellence-platform (short: DeX) is to make all this work more findable and thus improving collaboration.  
+A lot of employees and students of Schools and Universities create a lot of nice products. As a hobby, for their work or because of a school project. These can be software solutions, small scripts, research papers, thesis but possibly also project ideas and proposals for others to pick up. Unfortunately, most of them remain private and are not known by the majority of the population. The goal of the Digital Excellence-platform (short: DeX) is to make all this work more findable and thus improving collaboration.
 https://dex.software
 
 ### Dojo
@@ -685,7 +685,7 @@ FreeFeed is a social network that enables you to discover and discuss the intere
 https://freefeed.net/about/
 
 ### Tauri
-Build smaller, faster, and more secure desktop applications with a web frontend. 
+Build smaller, faster, and more secure desktop applications with a web frontend.
 https://tauri.studio
 
 ### chezmoi
@@ -704,7 +704,7 @@ https://hackforla.org
 We create open source test library based on robotframework hosted on github. These are our libraries [robotframework-puppeteer](https://github.com/qahive/robotframework-puppeteer), [robotframework-puppeteer-percy](https://github.com/qahive/robotframework-puppeteer-percy), [robotframework-pdf2textlibrary](https://github.com/qahive/robotframework-pdf2textlibrary) and [more...](https://github.com/qahive). Our site: https://qahive.com
 
 ### RQ
-A simple, Redis backed task/job queue for Python. 
+A simple, Redis backed task/job queue for Python.
 https://python-rq.org/
 
 ### PaperMC
@@ -726,3 +726,7 @@ https://crazymarvin.com/
 ### YACReader
 YACReader is a free and open source comic reader and manager for Windows, macos and Linux.
 https://yacreader.com
+
+### Python India
+Python India is an open source community of volunteers who focus on fostering and organizing non-profit events like PyCon India. We also maintain our own CFP portal and infrastructure.
+https://in.pycon.org

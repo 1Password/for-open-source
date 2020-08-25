@@ -722,3 +722,7 @@ https://micronaut.io/
 ### Crazy Marvin
 Crazy Marvin is a collective of open sourcerers that create chatbots and apps for many platforms.
 https://crazymarvin.com/
+
+### TuringMaSim
+Is a simple turing machine simulator, open source in Python.
+https://github.com/ElDwarf/TuringMaSim

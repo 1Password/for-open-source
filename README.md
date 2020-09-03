@@ -726,3 +726,7 @@ https://crazymarvin.com/
 ### YACReader
 YACReader is a free and open source comic reader and manager for Windows, macos and Linux.
 https://yacreader.com
+
+### TuringMaSim
+Is a simple turing machine simulator, open source in Python.
+https://github.com/ElDwarf/TuringMaSim

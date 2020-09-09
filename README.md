@@ -738,3 +738,8 @@ https://github.com/adeepak7/CCDSAP-Roadmap
 ### ClimateAction.tech
 We are a global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis.
 https://climateaction.tech/
+
+### Perl
+
+The Perl Foundation is dedicated to the advancement of the Perl and Raku programming languages through open discussion, collaboration, design, and code.  Perl is a popular dynamic programming language, and Raku is the next language in the Perl family of programming languages.
+https://www.perlfoundation.org/

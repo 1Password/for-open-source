@@ -747,3 +747,7 @@ https://www.perlfoundation.org/
 ### PathCheck Foundation
 PathCheck Foundation is unleashing the power of a global community of organizations, researchers, health officials, and volunteers. We’re working together to build open source software, standards, and public health programs that help contain the pandemic, restart the economy, and protect individual freedom and privacy.
 https://pathcheck.org/
+
+### Code for Venezuela
+Code for Venezuela is a non-profit organization dedicated to bringing together technologists and innovators who care about Venezuela leveraging their talent and network to solve the most pressing needs of the country.
+https://www.codeforvenezuela.org/

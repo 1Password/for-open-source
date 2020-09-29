@@ -751,3 +751,7 @@ https://pathcheck.org/
 ### Code for Venezuela
 Code for Venezuela is a non-profit organization dedicated to bringing together technologists and innovators who care about Venezuela leveraging their talent and network to solve the most pressing needs of the country.
 https://www.codeforvenezuela.org/
+
+### NXTLytics
+An Open Source project and ecosystem for creating base infrastructure to support software development teams in their daily activities
+https://github.com/nxtlytics

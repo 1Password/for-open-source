@@ -755,3 +755,7 @@ https://www.codeforvenezuela.org/
 ### NXTLytics
 An Open Source project and ecosystem for creating base infrastructure to support software development teams in their daily activities
 https://github.com/nxtlytics
+
+### Dex
+OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+https://github.com/dexidp

@@ -771,3 +771,7 @@ https://github.com/tinkerbell
 ### Mumble
 Mumble is a free, open source, low latency, high quality voice chat application.
 https://www.mumble.info
+
+### Lucky
+Batteries included full stack web framework built-in Crystal
+https://www.luckyframework.org

@@ -775,3 +775,7 @@ https://www.mumble.info
 ### Lucky
 Batteries included full stack web framework built-in Crystal
 https://www.luckyframework.org
+
+### Uppy Project name
+The #1 open source file uploader for webbrowsers
+https://uppy.io

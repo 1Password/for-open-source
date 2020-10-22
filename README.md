@@ -775,3 +775,7 @@ https://www.mumble.info
 ### Lucky
 Batteries included full stack web framework built-in Crystal
 https://www.luckyframework.org
+
+### Liman MYS
+Linux Management System Framework
+https://liman.dev

@@ -775,3 +775,8 @@ https://www.mumble.info
 ### Lucky
 Batteries included full stack web framework built-in Crystal
 https://www.luckyframework.org
+
+### Tremor
+
+Tremor is an event processing system for unstructured data with rich support for structural pattern matching, filtering and transformation.
+https://tremor.rs

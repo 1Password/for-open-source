@@ -791,3 +791,6 @@ https://liman.dev
 ### Uppy
 The #1 open source file uploader for webbrowsers
 https://uppy.io
+
+### Team Platypus
+Team Platypus is behind HwpKit, an open-sourced alternative to Hancom's document format HWP. HWP is a format widely used in Korea for its unique special Korean languare support. HwpKit aims to provide an HWP editor without being chained into Hancom's licensing agreements and/or poor macOS/iOS support.

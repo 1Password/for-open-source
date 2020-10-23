@@ -787,3 +787,8 @@ https://github.com/wongbejo-online
 ### Liman MYS
 Linux Management System Framework
 https://liman.dev
+
+
+### roots at eifel e.V.
+freifunk is a non-commercial initiative for free wireless networks.
+https://www.roots-at-eifel.net/

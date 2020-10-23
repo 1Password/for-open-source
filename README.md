@@ -787,3 +787,7 @@ https://github.com/wongbejo-online
 ### Liman MYS
 Linux Management System Framework
 https://liman.dev
+
+### Uppy
+The #1 open source file uploader for webbrowsers
+https://uppy.io

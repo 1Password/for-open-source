@@ -805,3 +805,7 @@ https://github.com/cloud-barista
 ### Nimona
 A set of protocols and libraries for a data-first internet. Nimona’s main goal is to provide a number of layers/components to help with the challenges presented when dealing with decentralized and peer to peer applications.
 https://github.com/nimona
+
+### DefectDojo
+OpenSource Application Security Management. The leading application vulnerability management tool built for DevOps and continuous security integration.
+https://github.com/DefectDojo/django-DefectDojo

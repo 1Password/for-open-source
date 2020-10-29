@@ -801,3 +801,7 @@ MultiROM allows android devices to dual-boot multiple supported android releases
 ### Cloud-Barista
 Cloud-Barista is a multi-cloud service common platform that supports to federate multiple clouds, to make them one logical object, and to use it.
 https://github.com/cloud-barista
+
+### Nimona
+A set of protocols and libraries for a data-first internet. Nimona’s main goal is to provide a number of layers/components to help with the challenges presented when dealing with decentralized and peer to peer applications.
+https://github.com/nimona

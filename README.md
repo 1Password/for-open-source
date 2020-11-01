@@ -809,3 +809,7 @@ https://github.com/nimona
 ### DefectDojo
 OpenSource Application Security Management. The leading application vulnerability management tool built for DevOps and continuous security integration.
 https://github.com/DefectDojo/django-DefectDojo
+
+### GiftforGood
+GiftForGood is an online in-kind donations platform that connects donors and non-profit organisations to effectively meet the needs of beneficiaries.
+https://www.giftforgood.io

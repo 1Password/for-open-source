@@ -795,6 +795,25 @@ https://uppy.io
 ### Team Platypus
 Team Platypus is behind HwpKit, an open-sourced alternative to Hancom's document format HWP. HWP is a format widely used in Korea for its unique special Korean languare support. HwpKit aims to provide an HWP editor without being chained into Hancom's licensing agreements and/or poor macOS/iOS support.
 
+### MultiROM
+MultiROM allows android devices to dual-boot multiple supported android releases on unlocked devices.
+
+### Cloud-Barista
+Cloud-Barista is a multi-cloud service common platform that supports to federate multiple clouds, to make them one logical object, and to use it.
+https://github.com/cloud-barista
+
+### Nimona
+A set of protocols and libraries for a data-first internet. Nimona’s main goal is to provide a number of layers/components to help with the challenges presented when dealing with decentralized and peer to peer applications.
+https://github.com/nimona
+
+### DefectDojo
+OpenSource Application Security Management. The leading application vulnerability management tool built for DevOps and continuous security integration.
+https://github.com/DefectDojo/django-DefectDojo
+
+### GiftforGood
+GiftForGood is an online in-kind donations platform that connects donors and non-profit organisations to effectively meet the needs of beneficiaries.
+https://www.giftforgood.io
+
 ### devonfw
 devonfw is an Open Source Standard Software Development Platform for state of the art Cloud Native Micro Service and Multi Platform Rich Web Apps
 https://devonfw.com/

@@ -817,3 +817,6 @@ https://www.giftforgood.io
 ### devonfw
 devonfw is an Open Source Standard Software Development Platform for state of the art Cloud Native Micro Service and Multi Platform Rich Web Apps
 https://devonfw.com/
+
+### secureReturn
+secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools. https://sec-r.et

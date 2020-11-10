@@ -817,3 +817,7 @@ https://www.giftforgood.io
 ### devonfw
 devonfw is an Open Source Standard Software Development Platform for state of the art Cloud Native Micro Service and Multi Platform Rich Web Apps
 https://devonfw.com/
+
+### Sqitch
+Sqitch is an Open Source database-native change management for framework-free development and dependable deployment.
+https://sqitch.org

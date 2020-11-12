@@ -818,5 +818,11 @@ https://www.giftforgood.io
 devonfw is an Open Source Standard Software Development Platform for state of the art Cloud Native Micro Service and Multi Platform Rich Web Apps
 https://devonfw.com/
 
+### Sqitch
+Sqitch is an Open Source database-native change management for framework-free development and dependable deployment.
+https://sqitch.org
+
 ### secureReturn
-secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools. https://sec-r.et
+secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools. 
+https://sec-r.et
+

@@ -821,3 +821,7 @@ https://devonfw.com/
 ### Sqitch
 Sqitch is an Open Source database-native change management for framework-free development and dependable deployment.
 https://sqitch.org
+
+### CloudNET
+CloudNET (The Cloud Network Environment Technology) is an application that dynamically and easily deploys Minecraft oriented server software.
+https://spigot.cloudnetservice.eu/

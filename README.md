@@ -826,3 +826,6 @@ https://sqitch.org
 secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools. 
 https://sec-r.et
 
+### CloudNET
+CloudNET (The Cloud Network Environment Technology) is an application that dynamically and easily deploys Minecraft oriented server software.
+https://spigot.cloudnetservice.eu/

@@ -821,3 +821,8 @@ https://devonfw.com/
 ### Sqitch
 Sqitch is an Open Source database-native change management for framework-free development and dependable deployment.
 https://sqitch.org
+
+### secureReturn
+secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools. 
+https://sec-r.et
+

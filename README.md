@@ -829,3 +829,7 @@ https://sec-r.et
 ### CloudNET
 CloudNET (The Cloud Network Environment Technology) is an application that dynamically and easily deploys Minecraft oriented server software.
 https://spigot.cloudnetservice.eu/
+
+### Utopian Corps
+We make automatic udemy enroller that enrolls you to various udemy courses that are currently free 
+https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE

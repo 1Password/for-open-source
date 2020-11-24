@@ -834,6 +834,10 @@ https://spigot.cloudnetservice.eu/
 We make automatic udemy enroller that enrolls you to various udemy courses that are currently free 
 https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
 
+### Servo
+An independent, modular, embeddable web engine, which allows developers to deliver content and applications using web standards.
+https://servo.org
+
 ### OpenTTD
 OpenTTD is an open source simulation game based upon the popular Microprose game "Transport Tycoon Deluxe", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.
 https://www.openttd.org/

@@ -833,3 +833,7 @@ https://spigot.cloudnetservice.eu/
 ### Utopian Corps
 We make automatic udemy enroller that enrolls you to various udemy courses that are currently free 
 https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
+
+### Servo
+An independent, modular, embeddable web engine, which allows developers to deliver content and applications using web standards.
+https://servo.org

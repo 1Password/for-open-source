@@ -841,3 +841,7 @@ https://servo.org
 ### OpenTTD
 OpenTTD is an open source simulation game based upon the popular Microprose game "Transport Tycoon Deluxe", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.
 https://www.openttd.org/
+
+### Flux
+The Flux project aspires to be a vendor-neutral home for GitOps in a Cloud Native world.
+https://fluxcd.io/

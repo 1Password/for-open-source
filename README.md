@@ -849,3 +849,7 @@ https://fluxcd.io/
 ### React-Native-Mapbox-GL
 An unofficial React Native library for building maps with the Mapbox Maps SDK for iOS and Mapbox Maps SDK for Android
 https://github.com/react-native-mapbox-gl/maps
+
+### Opereon
+Opereon is an easy to use and powerful tool for IT automation, designed with power users in mind. It performs most of the difficult heavy lifting, while giving the user absolute control of what exactly happens in the managed infrastructure. 
+https://opereon.io/

@@ -130,7 +130,7 @@ https://github.com/rkk09c/Broadcast
 [PyGotham](https://pygotham.org) is a New York City based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
 
 ### Bokeh
-Bokeh ([Main Site](https://bokeh.pydata.org/en/latest/index.html) |
+Bokeh ([Main Site](https://bokeh.org) |
 [GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive
 visualization library for Python that enables beautiful and meaningful visual
 presentation of data in modern web browsers. Bokeh provides an elegant and concise

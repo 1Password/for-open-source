@@ -130,7 +130,7 @@ https://github.com/rkk09c/Broadcast
 [PyGotham](https://pygotham.org) is a New York City based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
 
 ### Bokeh
-Bokeh ([Main Site](https://bokeh.pydata.org/en/latest/index.html) |
+Bokeh ([Main Site](https://bokeh.org) |
 [GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive
 visualization library for Python that enables beautiful and meaningful visual
 presentation of data in modern web browsers. Bokeh provides an elegant and concise
@@ -849,6 +849,13 @@ https://fluxcd.io/
 ### React-Native-Mapbox-GL
 An unofficial React Native library for building maps with the Mapbox Maps SDK for iOS and Mapbox Maps SDK for Android
 https://github.com/react-native-mapbox-gl/maps
+
+### Fork CMS
+Fork CMS is dedicated to creating a user friendly environment to build, monitor and update your website. We take great pride in being the Content Management System of choice for beginners and professionals. https://fork-cms.com
+
+### Blueprint
+A modern, powerful, experimental, and modular Discord bot framework
+https://github.com/xpyxel/blueprint
 
 ### Opereon
 Opereon is an easy to use and powerful tool for IT automation, designed with power users in mind. It performs most of the difficult heavy lifting, while giving the user absolute control of what exactly happens in the managed infrastructure. 

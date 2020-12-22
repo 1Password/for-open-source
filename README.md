@@ -868,3 +868,18 @@ https://apache.airflow.org
 ### India Biodiversity Portal
 A repository of information on India's biodiversity. The Portal aims to aggregate data through public participation and provide open and free access to biodiversity information.
 https://indiabiodiversity.org
+
+### dry-rb
+
+dry-rb is a collection of next-generation Ruby libraries, helping you write clear, flexible, and more maintainable Ruby code. Each dry-rb gem fulfils a common task, and together they make a powerful platform for any kind of Ruby application.
+https://dry-rb.org
+
+### rom-rb
+
+Ruby Object Mapper (rom-rb) is an open-source persistence and mapping toolkit for Ruby built for speed and simplicity.
+https://rom-rb.org
+
+### Hanami
+
+Hanami is a modern web framework for Ruby.
+https://hanamirb.org

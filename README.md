@@ -883,3 +883,8 @@ https://rom-rb.org
 
 Hanami is a modern web framework for Ruby.
 https://hanamirb.org
+
+### Randomicu
+
+Randomicu is a set of API endpoints for all who want to get random data.
+https://random.icu

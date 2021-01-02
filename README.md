@@ -883,3 +883,7 @@ https://rom-rb.org
 
 Hanami is a modern web framework for Ruby.
 https://hanamirb.org
+
+### Vaken
+[Vaken](https://github.com/vandyhacks/vaken) is a hackathon management system featuring hacker registration, applications, NFC, event management, and sponsor management developed by [VandyHacks, the hackathon organization at Vanderbilt University](https://vandyhacks.org/).
+https://vandyhacks.org/

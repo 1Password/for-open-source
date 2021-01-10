@@ -895,3 +895,7 @@ https://random.icu
 ### Vaken
 [Vaken](https://github.com/vandyhacks/vaken) is a hackathon management system featuring hacker registration, applications, NFC, event management, and sponsor management developed by [VandyHacks, the hackathon organization at Vanderbilt University](https://vandyhacks.org/).
 https://vandyhacks.org/
+
+### AssertJ
+AssertJ is a library providing easy to use rich typed assertions.
+https://github.com/assertj

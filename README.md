@@ -895,3 +895,8 @@ https://random.icu
 ### Vaken
 [Vaken](https://github.com/vandyhacks/vaken) is a hackathon management system featuring hacker registration, applications, NFC, event management, and sponsor management developed by [VandyHacks, the hackathon organization at Vanderbilt University](https://vandyhacks.org/).
 https://vandyhacks.org/
+
+### RSSHub
+
+RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything. RSSHub delivers millions of contents aggregated from all kinds of sources, our vibrant open source community is ensuring the deliver of RSSHub's new routes, new features and bug fixes.
+https://docs.rsshub.app/en/

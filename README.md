@@ -895,3 +895,7 @@ https://random.icu
 ### Vaken
 [Vaken](https://github.com/vandyhacks/vaken) is a hackathon management system featuring hacker registration, applications, NFC, event management, and sponsor management developed by [VandyHacks, the hackathon organization at Vanderbilt University](https://vandyhacks.org/).
 https://vandyhacks.org/
+
+### Front Conference Zurich
+Front Conference Zurich is a non-profit conference targeting Designers & Frontend engineers taking place yearly in Zurich. As a not-for-profit community event we rely on volunteers to enable us to run a great event.
+https://frontconference.com/

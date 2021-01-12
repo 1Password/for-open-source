@@ -895,3 +895,7 @@ https://random.icu
 ### Vaken
 [Vaken](https://github.com/vandyhacks/vaken) is a hackathon management system featuring hacker registration, applications, NFC, event management, and sponsor management developed by [VandyHacks, the hackathon organization at Vanderbilt University](https://vandyhacks.org/).
 https://vandyhacks.org/
+
+### FlaggyFlag
+FlaggyFlag is setup to output calendar (.ics) file to see what flag (royal normal/banner/half-mast) needs to be flown on which day. Personalised per country.
+https://github.com/walgemoed/FlaggyFlag

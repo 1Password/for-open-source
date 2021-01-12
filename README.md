@@ -903,3 +903,6 @@ https://github.com/assertj
 ### FlaggyFlag
 FlaggyFlag is setup to output calendar (.ics) file to see what flag (royal normal/banner/half-mast) needs to be flown on which day. Personalised per country.
 https://github.com/walgemoed/FlaggyFlag
+
+### FutaDNS
+[FutaDNS](https://site.futa.gg) is a public adblock list made in Taiwan, which also provide awesome and ultra low latency public DNS-over-HTTPS service.

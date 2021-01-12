@@ -895,3 +895,6 @@ https://random.icu
 ### Vaken
 [Vaken](https://github.com/vandyhacks/vaken) is a hackathon management system featuring hacker registration, applications, NFC, event management, and sponsor management developed by [VandyHacks, the hackathon organization at Vanderbilt University](https://vandyhacks.org/).
 https://vandyhacks.org/
+
+### FutaDNS
+[FutaDNS](https://site.futa.gg) is a public adblock list made in Taiwan, which also provide awesome and ultra low latency public DNS-over-HTTPS service.

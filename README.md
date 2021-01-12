@@ -899,3 +899,7 @@ https://vandyhacks.org/
 ### AssertJ
 AssertJ is a library providing easy to use rich typed assertions.
 https://github.com/assertj
+
+### FlaggyFlag
+FlaggyFlag is setup to output calendar (.ics) file to see what flag (royal normal/banner/half-mast) needs to be flown on which day. Personalised per country.
+https://github.com/walgemoed/FlaggyFlag

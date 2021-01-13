@@ -910,3 +910,8 @@ https://github.com/walgemoed/FlaggyFlag
 ### RSSHub
 RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything. RSSHub delivers millions of contents aggregated from all kinds of sources, our vibrant open source community is ensuring the deliver of RSSHub's new routes, new features and bug fixes.
 https://docs.rsshub.app/en/
+
+### Apache APISIX
+Apache APISIX is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.APISIX provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more.
+http://apisix.apache.org/
+

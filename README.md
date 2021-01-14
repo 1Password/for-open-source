@@ -896,7 +896,8 @@ https://random.icu
 [Vaken](https://github.com/vandyhacks/vaken) is a hackathon management system featuring hacker registration, applications, NFC, event management, and sponsor management developed by [VandyHacks, the hackathon organization at Vanderbilt University](https://vandyhacks.org/).
 https://vandyhacks.org/
 
-### Project name
-Doing good things with childcare / eldercare.
+### MaxCare
 https://jimmyliao.medium.com/
+Doing good things with childcare / eldercare.
+
 

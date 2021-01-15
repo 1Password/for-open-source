@@ -934,3 +934,7 @@ https://github.com/AlanDecode/Maverick
 ### Apache APISIX
 Apache APISIX is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.APISIX provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more.
 http://apisix.apache.org/
+
+### Tuist
+Tuist is a command line tool to make developers building apps for Apple platforms productive. It leverages Xcode project generation to provide teams with an easy interface to describe their projects and streamlined workflows.
+https://tuist.io/

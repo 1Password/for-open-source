@@ -918,3 +918,7 @@ Doing good things with childcare / eldercare.
 ### Mind Elixir
 [Mind Elixir](https://github.com/ssshooter/mind-elixir-core) is a framework agnostic mind map core written in JavaScript.
 https://mindelixir.ink/#/
+
+### ffp
+yet another Flask File Proxy
+https://github.com/YUX/ffp

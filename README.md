@@ -911,7 +911,26 @@ https://github.com/walgemoed/FlaggyFlag
 RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything. RSSHub delivers millions of contents aggregated from all kinds of sources, our vibrant open source community is ensuring the deliver of RSSHub's new routes, new features and bug fixes.
 https://docs.rsshub.app/en/
 
+### MaxCare
+https://jimmyliao.medium.com/
+Doing good things with childcare / eldercare.
+
+### Mind Elixir
+[Mind Elixir](https://github.com/ssshooter/mind-elixir-core) is a framework agnostic mind map core written in JavaScript.
+https://mindelixir.ink/#/
+
+### ffp
+yet another Flask File Proxy
+https://github.com/YUX/ffp
+
+### Front Conference Zurich
+Front Conference Zurich is a non-profit conference targeting Designers & Frontend engineers taking place yearly in Zurich. As a not-for-profit community event we rely on volunteers to enable us to run a great event.
+https://frontconference.com/
+
+### Maverick
+A static blog generator built with Python, with feed, sitemap, extended Markdown syntax and enhanced image processing pipeline.
+https://github.com/AlanDecode/Maverick
+
 ### Apache APISIX
 Apache APISIX is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.APISIX provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more.
 http://apisix.apache.org/
-

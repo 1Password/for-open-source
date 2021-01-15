@@ -914,3 +914,7 @@ https://docs.rsshub.app/en/
 ### MaxCare
 https://jimmyliao.medium.com/
 Doing good things with childcare / eldercare.
+
+### Mind Elixir
+[Mind Elixir](https://github.com/ssshooter/mind-elixir-core) is a framework agnostic mind map core written in JavaScript.
+https://mindelixir.ink/#/

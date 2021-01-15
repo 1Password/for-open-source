@@ -930,3 +930,7 @@ https://frontconference.com/
 ### Maverick
 A static blog generator built with Python, with feed, sitemap, extended Markdown syntax and enhanced image processing pipeline.
 https://github.com/AlanDecode/Maverick
+
+### Apache APISIX
+Apache APISIX is a dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd.APISIX provides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more.
+http://apisix.apache.org/

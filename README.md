@@ -926,3 +926,7 @@ https://github.com/YUX/ffp
 ### Front Conference Zurich
 Front Conference Zurich is a non-profit conference targeting Designers & Frontend engineers taking place yearly in Zurich. As a not-for-profit community event we rely on volunteers to enable us to run a great event.
 https://frontconference.com/
+
+### Maverick
+A static blog generator built with Python, with feed, sitemap, extended Markdown syntax and enhanced image processing pipeline.
+https://github.com/AlanDecode/Maverick

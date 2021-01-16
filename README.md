@@ -938,3 +938,8 @@ http://apisix.apache.org/
 ### Tuist
 Tuist is a command line tool to make developers building apps for Apple platforms productive. It leverages Xcode project generation to provide teams with an easy interface to describe their projects and streamlined workflows.
 https://tuist.io/
+
+### cgi http proxy
+CGI HTTP PROXY Flibusta for example. For proxyfying and rewriting requests to blocked domains via proxy. My current repository on Gitlab, but special for 1password cloned to Github.
+
+https://gitlab.com/CyberManiac/cgi_http_proxy

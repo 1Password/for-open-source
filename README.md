@@ -938,3 +938,7 @@ http://apisix.apache.org/
 ### Tuist
 Tuist is a command line tool to make developers building apps for Apple platforms productive. It leverages Xcode project generation to provide teams with an easy interface to describe their projects and streamlined workflows.
 https://tuist.io/
+
+### Android-Next
+Android-Next is an useful Android library, with core, task, http and ui components. 
+https://github.com/mcxiaoke/Android-Next

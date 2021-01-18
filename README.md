@@ -776,6 +776,10 @@ https://www.mumble.info
 Batteries included full stack web framework built-in Crystal
 https://www.luckyframework.org
 
+### Taskord
+Taskord is a community of makers in tech shipping and working together. Makers post their daily tasks and grow a network of supportive, like-minded people! Daily project related tasks, earning reputation, and interacting to get feedback or early users.
+https://taskord.com
+
 ### Tremor
 Tremor is an event processing system for unstructured data with rich support for structural pattern matching, filtering and transformation.
 https://tremor.rs
@@ -939,7 +943,10 @@ http://apisix.apache.org/
 Tuist is a command line tool to make developers building apps for Apple platforms productive. It leverages Xcode project generation to provide teams with an easy interface to describe their projects and streamlined workflows.
 https://tuist.io/
 
+### 1Password Github Action
+1Password Github Action is an action to allow you to connect to your 1Password Account to load usernames, passwords, and files. This adds security as you don't need to save in Github Secrets and can have 1 source of truth.
+https://github.com/RobotsAndPencils/1password-action
+
 ### cgi http proxy
 CGI HTTP PROXY Flibusta for example. For proxyfying and rewriting requests to blocked domains via proxy. My current repository on Gitlab, but special for 1password cloned to Github.
-
 https://gitlab.com/CyberManiac/cgi_http_proxy

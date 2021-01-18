@@ -946,3 +946,7 @@ https://tuist.io/
 ### 1Password Github Action
 1Password Github Action is an action to allow you to connect to your 1Password Account to load usernames, passwords, and files. This adds security as you don't need to save in Github Secrets and can have 1 source of truth.
 https://github.com/RobotsAndPencils/1password-action
+
+### cgi http proxy
+CGI HTTP PROXY Flibusta for example. For proxyfying and rewriting requests to blocked domains via proxy. My current repository on Gitlab, but special for 1password cloned to Github.
+https://gitlab.com/CyberManiac/cgi_http_proxy

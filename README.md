@@ -938,3 +938,7 @@ http://apisix.apache.org/
 ### Tuist
 Tuist is a command line tool to make developers building apps for Apple platforms productive. It leverages Xcode project generation to provide teams with an easy interface to describe their projects and streamlined workflows.
 https://tuist.io/
+
+### 1Password Github Action
+1Password Github Action is an action to allow you to connect to your 1Password Account to load usernames, passwords, and files. This adds security as you don't need to save in Github Secrets and can have 1 source of truth.
+https://github.com/RobotsAndPencils/1password-action

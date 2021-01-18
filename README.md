@@ -938,3 +938,8 @@ http://apisix.apache.org/
 ### Tuist
 Tuist is a command line tool to make developers building apps for Apple platforms productive. It leverages Xcode project generation to provide teams with an easy interface to describe their projects and streamlined workflows.
 https://tuist.io/
+
+### JumpServer
+JumpServer is a popular open-source PAM (Privileged Access Management System) and is licensed under the GNU GPL v2.0. It is a 4A-compliant professional operation and maintenance security audit system.
+https://github.com/jumpserver/jumpserver
+

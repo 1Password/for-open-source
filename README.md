@@ -950,3 +950,9 @@ https://github.com/RobotsAndPencils/1password-action
 ### cgi http proxy
 CGI HTTP PROXY Flibusta for example. For proxyfying and rewriting requests to blocked domains via proxy. My current repository on Gitlab, but special for 1password cloned to Github.
 https://gitlab.com/CyberManiac/cgi_http_proxy
+
+### BFBAN
+Battlefield Player Community Self-founded Non-Profit Anti Hacker Developer Organization.
+We are from all over the world's battlefield players those who wants to anti cheaters,we have developed battlefield 1 private server procon tool which doesn't need to open game to kick or ban cheaters.Our BFBAN site has collect over 6,000 BF1/BFV cheater lists with their video/image evidences.everything is opensource on our github page.
+https://github.com/BFBAN
+https://bfban.com

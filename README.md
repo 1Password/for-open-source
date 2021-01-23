@@ -629,11 +629,11 @@ The ODK-X community produces free and open-source software for collecting, manag
 https://odk-x.org
 
 ### SpongePowered
-A community-driven open source Minecraft: Java Edition modding API and platform. We make the [SpongeAPI](https://github.com/SpongePowered/SpongeAPI) library and its core implementations with our own [trait/mixin weaving framework](https://github.com/SpongePowered/Mixin) for Java. 
+A community-driven open source Minecraft: Java Edition modding API and platform. We make the [SpongeAPI](https://github.com/SpongePowered/SpongeAPI) library and its core implementations with our own [trait/mixin weaving framework](https://github.com/SpongePowered/Mixin) for Java.
 https://spongepowered.org
 
 ### Digital Excellence
-A lot of employees and students of Schools and Universities create a lot of nice products. As a hobby, for their work or because of a school project. These can be software solutions, small scripts, research papers, thesis but possibly also project ideas and proposals for others to pick up. Unfortunately, most of them remain private and are not known by the majority of the population. The goal of the Digital Excellence-platform (short: DeX) is to make all this work more findable and thus improving collaboration.  
+A lot of employees and students of Schools and Universities create a lot of nice products. As a hobby, for their work or because of a school project. These can be software solutions, small scripts, research papers, thesis but possibly also project ideas and proposals for others to pick up. Unfortunately, most of them remain private and are not known by the majority of the population. The goal of the Digital Excellence-platform (short: DeX) is to make all this work more findable and thus improving collaboration.
 https://dex.software
 
 ### Dojo
@@ -685,7 +685,7 @@ FreeFeed is a social network that enables you to discover and discuss the intere
 https://freefeed.net/about/
 
 ### Tauri
-Build smaller, faster, and more secure desktop applications with a web frontend. 
+Build smaller, faster, and more secure desktop applications with a web frontend.
 https://tauri.studio
 
 ### chezmoi
@@ -704,7 +704,7 @@ https://hackforla.org
 We create open source test library based on robotframework hosted on github. These are our libraries [robotframework-puppeteer](https://github.com/qahive/robotframework-puppeteer), [robotframework-puppeteer-percy](https://github.com/qahive/robotframework-puppeteer-percy), [robotframework-pdf2textlibrary](https://github.com/qahive/robotframework-pdf2textlibrary) and [more...](https://github.com/qahive). Our site: https://qahive.com
 
 ### RQ
-A simple, Redis backed task/job queue for Python. 
+A simple, Redis backed task/job queue for Python.
 https://python-rq.org/
 
 ### PaperMC
@@ -827,7 +827,7 @@ Sqitch is an Open Source database-native change management for framework-free de
 https://sqitch.org
 
 ### secureReturn
-secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools. 
+secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools.
 https://sec-r.et
 
 ### CloudNET
@@ -835,7 +835,7 @@ CloudNET (The Cloud Network Environment Technology) is an application that dynam
 https://spigot.cloudnetservice.eu/
 
 ### Utopian Corps
-We make automatic udemy enroller that enrolls you to various udemy courses that are currently free 
+We make automatic udemy enroller that enrolls you to various udemy courses that are currently free
 https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
 
 ### Servo
@@ -862,12 +862,12 @@ A modern, powerful, experimental, and modular Discord bot framework
 https://github.com/xpyxel/blueprint
 
 ### Opereon
-Opereon is an easy to use and powerful tool for IT automation, designed with power users in mind. It performs most of the difficult heavy lifting, while giving the user absolute control of what exactly happens in the managed infrastructure. 
+Opereon is an easy to use and powerful tool for IT automation, designed with power users in mind. It performs most of the difficult heavy lifting, while giving the user absolute control of what exactly happens in the managed infrastructure.
 https://opereon.io/
 
 ### Apache Airflow
-Airflow is a platform created by the community to programmatically author, schedule and monitor workflows. 
-https://apache.airflow.org 
+Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
+https://apache.airflow.org
 
 ### India Biodiversity Portal
 A repository of information on India's biodiversity. The Portal aims to aggregate data through public participation and provide open and free access to biodiversity information.
@@ -956,3 +956,8 @@ Battlefield Player Community Self-founded Non-Profit Anti Hacker Developer Organ
 We are from all over the world's battlefield players those who wants to anti cheaters,we have developed battlefield 1 private server procon tool which doesn't need to open game to kick or ban cheaters.Our BFBAN site has collect over 6,000 BF1/BFV cheater lists with their video/image evidences.everything is opensource on our github page.
 https://github.com/BFBAN
 https://bfban.com
+
+### SecretManagement.1Password and op-powershell
+Two OSS PowerShell modules that wrap the `op` cli utility to work with Vault Items. SecretManagement.1Password is an extention module for [PowerShell SecretMangement](https://github.com/PowerShell/SecretManagement) which provides a consistent way to managed secrets cross-platform regardless of the storing vault. The op-powershell module is a basic wrapper for the `op` binary providing PowerShell Cmdlets for the `op` functionality necessary for SecretManagement.1Password.
+https://github.com/cdhunt/SecretManagement.1Password |
+https://github.com/cdhunt/op-powershell

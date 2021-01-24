@@ -956,3 +956,8 @@ Battlefield Player Community Self-founded Non-Profit Anti Hacker Developer Organ
 We are from all over the world's battlefield players those who wants to anti cheaters,we have developed battlefield 1 private server procon tool which doesn't need to open game to kick or ban cheaters.Our BFBAN site has collect over 6,000 BF1/BFV cheater lists with their video/image evidences.everything is opensource on our github page.
 https://github.com/BFBAN
 https://bfban.com
+
+### BitwardenDecrypt
+Decrypts an encrypted Bitwarden data.json file.
+You can safely store data.json as an encrypted, offline backup of your vault knowing you will always be able to decrypt it.
+https://github.com/GurpreetKang/BitwardenDecrypt

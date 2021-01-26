@@ -961,3 +961,8 @@ https://bfban.com
 Two OSS PowerShell modules that wrap the `op` cli utility to work with Vault Items. SecretManagement.1Password is an extention module for [PowerShell SecretMangement](https://github.com/PowerShell/SecretManagement) which provides a consistent way to managed secrets cross-platform regardless of the storing vault. The op-powershell module is a basic wrapper for the `op` binary providing PowerShell Cmdlets for the `op` functionality necessary for SecretManagement.1Password.
 https://github.com/cdhunt/SecretManagement.1Password |
 https://github.com/cdhunt/op-powershell
+
+### BitwardenDecrypt
+Decrypts an encrypted Bitwarden data.json file.
+You can safely store data.json as an encrypted, offline backup of your vault knowing you will always be able to decrypt it.
+https://github.com/GurpreetKang/BitwardenDecrypt

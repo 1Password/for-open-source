@@ -18,9 +18,9 @@ https://myawesomeproject.org
 4. Create a pull request and fill out the template with the requested details.
 
 ## Requirements
-To apply, you need to be a project lead or a core contributor for an active open source project that is at least 30 days old.
+To apply, you need to be a project lead or a core contributor for an active open source project that is at least 30 days old. We’ll also accept applications from the organisers of community meetups and events, as well as some conferences.
 
-Your project needs to use a standard open source license and must be non-commercial. It should not have paid support or pay contributors. If you or your company work on commercial projects, consider [1Password Business](https://1password.com/business/). For example, AgileBits has several open source projects, but wouldn't qualify for a free team account because it's a business.
+Open source projects need to use a standard open source license and must be non-commercial. Your project should not have paid support or pay contributors. If you or your company work on commercial projects, consider [1Password Business](https://1password.com/business/). For example, AgileBits has several open source projects, but wouldn't qualify for a free team account because it's a business.
 
 If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com.
 
@@ -30,7 +30,7 @@ If you're not sure if your project meets these requirements, please contact our 
 * You can invite core contributors to your team account.
 * Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
 * All app updates are free while your membership is active.
-* Your membership can be renewed each year if your project still meets the requirements. Email us at opensource@1password.com 30 days before your membership ends.
+* Your membership can be renewed every two years if your project still meets the requirements. Email us at opensource@1password.com 30 days before your membership ends.
 * Memberships cannot be transferred or sold.
 
 We'll review all requests and accept them at our discretion. If accepted, your project may be listed below.

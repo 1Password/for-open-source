@@ -970,3 +970,7 @@ https://github.com/GurpreetKang/BitwardenDecrypt
 ### JumpServer
 JumpServer is a popular open-source PAM (Privileged Access Management System) and is licensed under the GNU GPL v2.0. It is a 4A-compliant professional operation and maintenance security audit system.
 https://github.com/jumpserver/jumpserver
+
+### adikar/utilities
+Collection of helpful packages to help with AWS backend development
+https://github.com/adikari/utilities

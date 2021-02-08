@@ -978,3 +978,7 @@ https://github.com/adikari/utilities
 ### nothing
 A network tool to help you establish a secure tunnel proxy in an insecure network environment.
 https://github.com/Si-Huan/nothing
+
+### Wiimmfi-RPC
+A cross-platform tool to show your Discord friends what you're playing on Wiimmfi.
+https://github.com/DismissedGuy/wiimmfi-rpc

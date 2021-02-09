@@ -982,3 +982,7 @@ https://github.com/Si-Huan/nothing
 ### Wiimmfi-RPC
 A cross-platform tool to show your Discord friends what you're playing on Wiimmfi.
 https://github.com/DismissedGuy/wiimmfi-rpc
+
+### Android-Next
+A common utils library for Android development, include task and http components.
+https://github.com/mcxiaoke/Android-Next

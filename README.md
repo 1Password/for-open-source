@@ -986,3 +986,7 @@ https://github.com/DismissedGuy/wiimmfi-rpc
 ### Android-Next
 A common utils library for Android development, include task and http components.
 https://github.com/mcxiaoke/Android-Next
+
+### pinnacle.us.org
+Pinnacle is a competitive hackathon where the world's brightest 200 hackers get together for 36 hours. Unlike the traditional hackathon, Pinnacle invites 4 winners from each of the world's top 50 collegiate hackathons to compete in an epic tournament-styled hackathon. Our participants, who represent the sharpest developers, designers, and creators in the nation, will be flown out for a weekend at Pinnacle in late 2021.
+https://pinnacle.us.org

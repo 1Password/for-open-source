@@ -986,3 +986,7 @@ https://github.com/DismissedGuy/wiimmfi-rpc
 ### Android-Next
 A common utils library for Android development, include task and http components.
 https://github.com/mcxiaoke/Android-Next
+
+### Sapphire Project
+Open source libraries to aid in the creation of Discord bots
+https://github.com/sapphire-project

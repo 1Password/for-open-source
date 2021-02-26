@@ -996,5 +996,5 @@ Pinnacle is a competitive hackathon where the world's brightest 200 hackers get 
 https://pinnacle.us.org
 
 ### Codidact
-An open source Q&A platform helping each other learn, by the community, for the community.
+An open source Q&A platform helping each other learn, made by the community, for the community.
 https://codidact.org

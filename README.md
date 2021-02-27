@@ -994,3 +994,9 @@ https://github.com/sapphire-project
 ### pinnacle.us.org
 Pinnacle is a competitive hackathon where the world's brightest 200 hackers get together for 36 hours. Unlike the traditional hackathon, Pinnacle invites 4 winners from each of the world's top 50 collegiate hackathons to compete in an epic tournament-styled hackathon. Our participants, who represent the sharpest developers, designers, and creators in the nation, will be flown out for a weekend at Pinnacle in late 2021.
 https://pinnacle.us.org
+
+### R-Ladies
+R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
+As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently under-represented in the R community.
+R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
+https://rladies.org

@@ -1002,3 +1002,9 @@ https://codidact.org
 ### discord.js
 discord.js is a powerful Node.js module that allows you to easily interact with the Discord API.
 https://discord.js.org
+
+### R-Ladies
+R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
+As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently under-represented in the R community.
+R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
+https://rladies.org

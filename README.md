@@ -994,3 +994,7 @@ https://github.com/sapphire-project
 ### pinnacle.us.org
 Pinnacle is a competitive hackathon where the world's brightest 200 hackers get together for 36 hours. Unlike the traditional hackathon, Pinnacle invites 4 winners from each of the world's top 50 collegiate hackathons to compete in an epic tournament-styled hackathon. Our participants, who represent the sharpest developers, designers, and creators in the nation, will be flown out for a weekend at Pinnacle in late 2021.
 https://pinnacle.us.org
+
+### Codidact
+An open source Q&A platform helping each other learn, made by the community, for the community.
+https://codidact.org

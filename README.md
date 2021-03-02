@@ -998,3 +998,7 @@ https://pinnacle.us.org
 ### Codidact
 An open source Q&A platform helping each other learn, made by the community, for the community.
 https://codidact.org
+
+### discord.js
+discord.js is a powerful Node.js module that allows you to easily interact with the Discord API.
+https://discord.js.org

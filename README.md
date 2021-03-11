@@ -1022,3 +1022,7 @@ comprehensive list of terms with replacements, language evaluation frameworks
 and templates, and infrastructure to aid the transition.
 
 https://inclusivenaming.org/
+
+### FruityRazer
+macOS Open-source drivers for Razer devices.
+https://fruityrazer.github.io/

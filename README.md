@@ -1010,7 +1010,18 @@ R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusi
 https://rladies.org
 
 ### Auroville
-Auroville is an international community in India where people from more than 60 countries come together to build a city that nourishes human unity and conscious living. Auroville is a recognised non-profit in India.  Worldwide there are centres in different countries that are recognised as non-profit in their respective country who support our work in Auroville: http://auroville-international.org/. Auroville with its vision "There should be somewhere on earth a place which no nation could claim as its own, where all human beings of goodwill who have a sincere aspiration could live freely as citizens of the world" offers a lot of educational programmes (see https://edu.auroville.org/fundamentals,  https://www.swadharma.auroville.org/ ).
+Auroville is an international community in India where people from more than 60 countries come together to build a city that nourishes human unity and conscious living. Auroville is a recognised non-profit in India.  Worldwide there are centres in different countries that are recognised as non-profit in their respective country who support our work in Auroville: http://auroville-international.org/. Auroville with its vision "There should be somewhere on earth a place which no nation could claim as its own, where all human beings of goodwill who have a sincere aspiration could live freely as citizens of the world" offers a lot of educational programmes (see https://edu.auroville.org/fundamentals,  https://www.swadharma.auroville.org/ ). 
+
+### Inclusive Naming Initiative
+
+The Inclusive Naming Initiative’s mission is to help companies and projects
+remove all harmful and unclear language of any kind and replace it with an
+agreed-upon set of neutral terms. The initiative’s goal is to define processes
+and tools to remove harmful language from projects. This includes creating a
+comprehensive list of terms with replacements, language evaluation frameworks
+and templates, and infrastructure to aid the transition.
+
+https://inclusivenaming.org/
 
 ### FruityRazer
 macOS Open-source drivers for Razer devices.

@@ -1026,3 +1026,8 @@ https://inclusivenaming.org/
 ### FruityRazer
 macOS Open-source drivers for Razer devices.
 https://fruityrazer.github.io/
+
+### StackStorm
+Robust Automation Engine
+From simple if/then rules to complicated workflows, StackStorm lets you automate DevOps your way. Now completely open source!
+https://stackstorm.com/

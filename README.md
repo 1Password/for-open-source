@@ -1026,3 +1026,7 @@ https://inclusivenaming.org/
 ### FruityRazer
 macOS Open-source drivers for Razer devices.
 https://fruityrazer.github.io/
+
+### Open Mainframe Project
+The Open Mainframe Project was founded in 2015, as a focal point for deployment and use of Linux and Open Source in a mainframe computing environment.
+https://openmainframeproject.org

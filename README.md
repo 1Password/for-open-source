@@ -1026,3 +1026,7 @@ https://inclusivenaming.org/
 ### FruityRazer
 macOS Open-source drivers for Razer devices.
 https://fruityrazer.github.io/
+
+### Cryptomator
+Cryptomator is a multi-platform, client-side encryption software that protects your files in the cloud. It offers what is called "transparent file encryption", i.e. it mirrors parts of a file system and allows users to read and write to it just as if it was a normal drive. When writing, it encrypts. When reading, it decrypts.
+https://cryptomator.org/

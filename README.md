@@ -1026,3 +1026,8 @@ https://inclusivenaming.org/
 ### FruityRazer
 macOS Open-source drivers for Razer devices.
 https://fruityrazer.github.io/
+
+### Swift Package Index
+The place to find Swift packages. An open-source search engine for Swift libraries and tools.
+https://swiftpackageindex.com
+

@@ -1,4 +1,4 @@
-## Your Project ####
+## Your Project ##
 
 #### 1Password Teams URL ####
 <!-- myteam.1password.com (create the account before applying) -->

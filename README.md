@@ -1039,3 +1039,7 @@ https://stackstorm.com/
 ### Cryptomator
 Cryptomator is a multi-platform, client-side encryption software that protects your files in the cloud. It offers what is called "transparent file encryption", i.e. it mirrors parts of a file system and allows users to read and write to it just as if it was a normal drive. When writing, it encrypts. When reading, it decrypts.
 https://cryptomator.org/
+
+### Open Mainframe Project
+The Open Mainframe Project was founded in 2015, as a focal point for deployment and use of Linux and Open Source in a mainframe computing environment.
+https://openmainframeproject.org

@@ -1027,6 +1027,19 @@ https://inclusivenaming.org/
 macOS Open-source drivers for Razer devices.
 https://fruityrazer.github.io/
 
+### Swift Package Index
+The place to find Swift packages. An open-source search engine for Swift libraries and tools.
+https://swiftpackageindex.com
+
+### StackStorm
+Robust Automation Engine
+From simple if/then rules to complicated workflows, StackStorm lets you automate DevOps your way. Now completely open source!
+https://stackstorm.com/
+
+### Cryptomator
+Cryptomator is a multi-platform, client-side encryption software that protects your files in the cloud. It offers what is called "transparent file encryption", i.e. it mirrors parts of a file system and allows users to read and write to it just as if it was a normal drive. When writing, it encrypts. When reading, it decrypts.
+https://cryptomator.org/
+
 ### Open Mainframe Project
 The Open Mainframe Project was founded in 2015, as a focal point for deployment and use of Linux and Open Source in a mainframe computing environment.
 https://openmainframeproject.org

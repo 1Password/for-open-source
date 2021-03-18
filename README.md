@@ -1031,3 +1031,7 @@ https://fruityrazer.github.io/
 The place to find Swift packages. An open-source search engine for Swift libraries and tools.
 https://swiftpackageindex.com
 
+### StackStorm
+Robust Automation Engine
+From simple if/then rules to complicated workflows, StackStorm lets you automate DevOps your way. Now completely open source!
+https://stackstorm.com/

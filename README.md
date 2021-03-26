@@ -18,9 +18,9 @@ https://myawesomeproject.org
 4. Create a pull request and fill out the template with the requested details.
 
 ## Requirements
-To apply, you need to be a project lead or a core contributor for an active open source project that is at least 30 days old.
+To apply, you need to be a project lead or a core contributor for an active open source project that is at least 30 days old. We’ll also accept applications from the organisers of community meetups and events, as well as some conferences.
 
-Your project needs to use a standard open source license and must be non-commercial. It should not have paid support or pay contributors. If you or your company work on commercial projects, consider [1Password Business](https://1password.com/business/). For example, AgileBits has several open source projects, but wouldn't qualify for a free team account because it's a business.
+Open source projects need to use a standard open source license and must be non-commercial. Your project should not have paid support or pay contributors. If you or your company work on commercial projects, consider [1Password Business](https://1password.com/business/). For example, AgileBits has several open source projects, but wouldn't qualify for a free team account because it's a business.
 
 If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com.
 
@@ -30,7 +30,7 @@ If you're not sure if your project meets these requirements, please contact our 
 * You can invite core contributors to your team account.
 * Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
 * All app updates are free while your membership is active.
-* Your membership can be renewed each year if your project still meets the requirements. Email us at opensource@1password.com 30 days before your membership ends.
+* Your membership can be renewed every two years if your project still meets the requirements. Email us at opensource@1password.com 30 days before your membership ends.
 * Memberships cannot be transferred or sold.
 
 We'll review all requests and accept them at our discretion. If accepted, your project may be listed below.
@@ -584,9 +584,9 @@ https://femiwiki.com
 Transparency is one of the keys to fight corruption. The project Dados Abertos de Feira aims to be a portal of the public datasets available in the city of Feira de Santana, Bahia, Brazil, making the data available searchable and open for all.
 https://dadosabertosdefeira.com.br
 
-### TODO
+### Tasks
 We couldn't find a todo list that had everything that we wanted. We decided to make an online todo list that is very minimal and has features that we want.
-https://joshlee.pw/webapps/todo/
+https://github.com/realJoshLee/TODO-OPENSOURCE
 
 ### TwoFactorAuth.org
 [TwoFactorAuth.org](https://twofactorauth.org) is a list of popular sites that support Two Factor Authentication (2FA), as well as the methods that they provide. We hope to aid consumers who are deciding between alternative services based on the security they offer for their customers. This project also serves as an indicator of general security efforts used on a site.
@@ -629,11 +629,11 @@ The ODK-X community produces free and open-source software for collecting, manag
 https://odk-x.org
 
 ### SpongePowered
-A community-driven open source Minecraft: Java Edition modding API and platform. We make the [SpongeAPI](https://github.com/SpongePowered/SpongeAPI) library and its core implementations with our own [trait/mixin weaving framework](https://github.com/SpongePowered/Mixin) for Java. 
+A community-driven open source Minecraft: Java Edition modding API and platform. We make the [SpongeAPI](https://github.com/SpongePowered/SpongeAPI) library and its core implementations with our own [trait/mixin weaving framework](https://github.com/SpongePowered/Mixin) for Java.
 https://spongepowered.org
 
 ### Digital Excellence
-A lot of employees and students of Schools and Universities create a lot of nice products. As a hobby, for their work or because of a school project. These can be software solutions, small scripts, research papers, thesis but possibly also project ideas and proposals for others to pick up. Unfortunately, most of them remain private and are not known by the majority of the population. The goal of the Digital Excellence-platform (short: DeX) is to make all this work more findable and thus improving collaboration.  
+A lot of employees and students of Schools and Universities create a lot of nice products. As a hobby, for their work or because of a school project. These can be software solutions, small scripts, research papers, thesis but possibly also project ideas and proposals for others to pick up. Unfortunately, most of them remain private and are not known by the majority of the population. The goal of the Digital Excellence-platform (short: DeX) is to make all this work more findable and thus improving collaboration.
 https://dex.software
 
 ### Dojo
@@ -685,7 +685,7 @@ FreeFeed is a social network that enables you to discover and discuss the intere
 https://freefeed.net/about/
 
 ### Tauri
-Build smaller, faster, and more secure desktop applications with a web frontend. 
+Build smaller, faster, and more secure desktop applications with a web frontend.
 https://tauri.studio
 
 ### chezmoi
@@ -704,7 +704,7 @@ https://hackforla.org
 We create open source test library based on robotframework hosted on github. These are our libraries [robotframework-puppeteer](https://github.com/qahive/robotframework-puppeteer), [robotframework-puppeteer-percy](https://github.com/qahive/robotframework-puppeteer-percy), [robotframework-pdf2textlibrary](https://github.com/qahive/robotframework-pdf2textlibrary) and [more...](https://github.com/qahive). Our site: https://qahive.com
 
 ### RQ
-A simple, Redis backed task/job queue for Python. 
+A simple, Redis backed task/job queue for Python.
 https://python-rq.org/
 
 ### PaperMC
@@ -827,7 +827,7 @@ Sqitch is an Open Source database-native change management for framework-free de
 https://sqitch.org
 
 ### secureReturn
-secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools. 
+secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools.
 https://sec-r.et
 
 ### CloudNET
@@ -835,7 +835,7 @@ CloudNET (The Cloud Network Environment Technology) is an application that dynam
 https://spigot.cloudnetservice.eu/
 
 ### Utopian Corps
-We make automatic udemy enroller that enrolls you to various udemy courses that are currently free 
+We make automatic udemy enroller that enrolls you to various udemy courses that are currently free
 https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
 
 ### Servo
@@ -862,12 +862,12 @@ A modern, powerful, experimental, and modular Discord bot framework
 https://github.com/xpyxel/blueprint
 
 ### Opereon
-Opereon is an easy to use and powerful tool for IT automation, designed with power users in mind. It performs most of the difficult heavy lifting, while giving the user absolute control of what exactly happens in the managed infrastructure. 
+Opereon is an easy to use and powerful tool for IT automation, designed with power users in mind. It performs most of the difficult heavy lifting, while giving the user absolute control of what exactly happens in the managed infrastructure.
 https://opereon.io/
 
 ### Apache Airflow
-Airflow is a platform created by the community to programmatically author, schedule and monitor workflows. 
-https://apache.airflow.org 
+Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
+https://apache.airflow.org
 
 ### India Biodiversity Portal
 A repository of information on India's biodiversity. The Portal aims to aggregate data through public participation and provide open and free access to biodiversity information.
@@ -949,4 +949,97 @@ https://github.com/RobotsAndPencils/1password-action
 
 ### cgi http proxy
 CGI HTTP PROXY Flibusta for example. For proxyfying and rewriting requests to blocked domains via proxy. My current repository on Gitlab, but special for 1password cloned to Github.
-https://github.com/ruslan-safin/cgi_http_proxy
+https://gitlab.com/CyberManiac/cgi_http_proxy
+
+### BFBAN
+Battlefield Player Community Self-founded Non-Profit Anti Hacker Developer Organization.
+We are from all over the world's battlefield players those who wants to anti cheaters,we have developed battlefield 1 private server procon tool which doesn't need to open game to kick or ban cheaters.Our BFBAN site has collect over 6,000 BF1/BFV cheater lists with their video/image evidences.everything is opensource on our github page.
+https://github.com/BFBAN
+https://bfban.com
+
+### SecretManagement.1Password and op-powershell
+Two OSS PowerShell modules that wrap the `op` cli utility to work with Vault Items. SecretManagement.1Password is an extention module for [PowerShell SecretMangement](https://github.com/PowerShell/SecretManagement) which provides a consistent way to managed secrets cross-platform regardless of the storing vault. The op-powershell module is a basic wrapper for the `op` binary providing PowerShell Cmdlets for the `op` functionality necessary for SecretManagement.1Password.
+https://github.com/cdhunt/SecretManagement.1Password |
+https://github.com/cdhunt/op-powershell
+
+### BitwardenDecrypt
+Decrypts an encrypted Bitwarden data.json file.
+You can safely store data.json as an encrypted, offline backup of your vault knowing you will always be able to decrypt it.
+https://github.com/GurpreetKang/BitwardenDecrypt
+
+### JumpServer
+JumpServer is a popular open-source PAM (Privileged Access Management System) and is licensed under the GNU GPL v2.0. It is a 4A-compliant professional operation and maintenance security audit system.
+https://github.com/jumpserver/jumpserver
+
+### AWS Utilities
+Collection of helpful AWS utilities packages to help with AWS development
+https://github.com/adikari/utilities
+
+### nothing
+A network tool to help you establish a secure tunnel proxy in an insecure network environment.
+https://github.com/Si-Huan/nothing
+
+### Wiimmfi-RPC
+A cross-platform tool to show your Discord friends what you're playing on Wiimmfi.
+https://github.com/DismissedGuy/wiimmfi-rpc
+
+### Android-Next
+A common utils library for Android development, include task and http components.
+https://github.com/mcxiaoke/Android-Next
+
+### Sapphire Project
+Open source libraries to aid in the creation of Discord bots
+https://github.com/sapphire-project
+
+### pinnacle.us.org
+Pinnacle is a competitive hackathon where the world's brightest 200 hackers get together for 36 hours. Unlike the traditional hackathon, Pinnacle invites 4 winners from each of the world's top 50 collegiate hackathons to compete in an epic tournament-styled hackathon. Our participants, who represent the sharpest developers, designers, and creators in the nation, will be flown out for a weekend at Pinnacle in late 2021.
+https://pinnacle.us.org
+
+### Codidact
+An open source Q&A platform helping each other learn, made by the community, for the community.
+https://codidact.org
+
+### discord.js
+discord.js is a powerful Node.js module that allows you to easily interact with the Discord API.
+https://discord.js.org
+
+### R-Ladies
+R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
+As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently under-represented in the R community.
+R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
+https://rladies.org
+
+### Auroville
+Auroville is an international community in India where people from more than 60 countries come together to build a city that nourishes human unity and conscious living. Auroville is a recognised non-profit in India.  Worldwide there are centres in different countries that are recognised as non-profit in their respective country who support our work in Auroville: http://auroville-international.org/. Auroville with its vision "There should be somewhere on earth a place which no nation could claim as its own, where all human beings of goodwill who have a sincere aspiration could live freely as citizens of the world" offers a lot of educational programmes (see https://edu.auroville.org/fundamentals,  https://www.swadharma.auroville.org/ ). 
+
+### Inclusive Naming Initiative
+
+The Inclusive Naming Initiative’s mission is to help companies and projects
+remove all harmful and unclear language of any kind and replace it with an
+agreed-upon set of neutral terms. The initiative’s goal is to define processes
+and tools to remove harmful language from projects. This includes creating a
+comprehensive list of terms with replacements, language evaluation frameworks
+and templates, and infrastructure to aid the transition.
+
+https://inclusivenaming.org/
+
+### FruityRazer
+macOS Open-source drivers for Razer devices.
+https://fruityrazer.github.io/
+
+### Swift Package Index
+The place to find Swift packages. An open-source search engine for Swift libraries and tools.
+https://swiftpackageindex.com
+
+### StackStorm
+Robust Automation Engine
+From simple if/then rules to complicated workflows, StackStorm lets you automate DevOps your way. Now completely open source!
+https://stackstorm.com/
+
+### Cryptomator
+Cryptomator is a multi-platform, client-side encryption software that protects your files in the cloud. It offers what is called "transparent file encryption", i.e. it mirrors parts of a file system and allows users to read and write to it just as if it was a normal drive. When writing, it encrypts. When reading, it decrypts.
+https://cryptomator.org/
+
+### Open Mainframe Project
+The Open Mainframe Project was founded in 2015, as a focal point for deployment and use of Linux and Open Source in a mainframe computing environment.
+https://openmainframeproject.org

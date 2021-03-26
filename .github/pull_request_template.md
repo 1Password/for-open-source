@@ -1,32 +1,38 @@
-## Your project
+## Your Project ##
 
-**1Password Teams url**: myteam.1password.com (create the account before applying).
+#### 1Password Teams URL ####
+<!-- myteam.1password.com (create the account before applying) -->
 
-**Project name**:  
+#### Project Name ####
 
-**Short description**:
+#### Short Description ####
 
-**Project age**: 
+#### Project Age ####
 
-**Number of core contributors**:
+#### Number Of Core Contributors ####
 
-**Project website**:
+#### Project Website ####
 
-**Repository url**:
+#### Repository URL(s) ####
 
-**Latest release url**:
+#### Latest Release URL(s) ####
 
-**License type**: e.g. MIT, BSD, GPL, etc.
+#### License Type ####
+<!-- e.g. MIT, BSD, GPL, etc. -->
 
-**License url**: A copy of the license terms and conditions for your software.
+#### License URL ####
+<!-- A copy of the license terms and conditions for your software -->
 
 
-## Tell us about yourself
+## A Bit About Yourself  ##
 
-**Name**: 
+#### Name ####
 
-**Email**:
+#### Email ####
 
-**Project role**:
+#### Project Role ####
 
-**Website**: link to GitHub profile page, project page bio, etc.
+#### Profile/Website ####
+<!-- link to GitHub profile page, project page bio, etc. -->
+
+#### Comments ####

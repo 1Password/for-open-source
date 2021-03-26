@@ -949,7 +949,7 @@ https://github.com/RobotsAndPencils/1password-action
 
 ### cgi http proxy
 CGI HTTP PROXY Flibusta for example. For proxyfying and rewriting requests to blocked domains via proxy. My current repository on Gitlab, but special for 1password cloned to Github.
-https://gitlab.com/CyberManiac/cgi_http_proxy
+https://github.com/ruslan-safin/cgi_http_proxy
 
 ### BFBAN
 Battlefield Player Community Self-founded Non-Profit Anti Hacker Developer Organization.

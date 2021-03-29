@@ -1051,3 +1051,6 @@ is easily extendable with scripts to allow users to add their own logic.
 
 https://zeek.org
 
+### Elucubratus
+Elucubratus is an open source repository of unix tools for use on iOS
+https://git.elucubratus.com/elucubratus

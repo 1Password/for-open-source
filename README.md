@@ -1051,3 +1051,10 @@ is easily extendable with scripts to allow users to add their own logic.
 
 https://zeek.org
 
+### HMS Jayne
+HMS Jayne is an open source randomizer for Final Fantasy I: Dawn of Souls
+remake for the Gameboy Advance.
+
+https://hmsjayne.com/
+
+

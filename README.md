@@ -1063,3 +1063,7 @@ that allow you to do bare metal host management for Kubernetes. Metal³ works
 as a Kubernetes application, meaning it runs on Kubernetes and is managed
 through Kubernetes interfaces.
 https://metal3.io/
+
+### Elucubratus
+Elucubratus is an open source repository of unix tools for use on iOS
+https://git.elucubratus.com/elucubratus

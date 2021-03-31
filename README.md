@@ -1057,4 +1057,9 @@ remake for the Gameboy Advance.
 
 https://hmsjayne.com/
 
-
+### Metal3.io Project
+Metal³ project (pronounced: Metal Kubed) exists to provide components
+that allow you to do bare metal host management for Kubernetes. Metal³ works
+as a Kubernetes application, meaning it runs on Kubernetes and is managed
+through Kubernetes interfaces.
+https://metal3.io/

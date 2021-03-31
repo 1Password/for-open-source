@@ -1051,3 +1051,6 @@ is easily extendable with scripts to allow users to add their own logic.
 
 https://zeek.org
 
+### Academy Software Foundation (ASWF)
+The mission of the Academy Software Foundation (ASWF) is to increase the quality and quantity of contributions to the content creation industry’s open source software base; to provide a neutral forum to coordinate cross-project efforts; to provide a common build and test infrastructure; and to provide individuals and organizations a clear path to participation in advancing our open source ecosystem.
+https://www.aswf.io/

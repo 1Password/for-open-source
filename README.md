@@ -1051,6 +1051,23 @@ is easily extendable with scripts to allow users to add their own logic.
 
 https://zeek.org
 
+### HMS Jayne
+HMS Jayne is an open source randomizer for Final Fantasy I: Dawn of Souls
+remake for the Gameboy Advance.
+
+https://hmsjayne.com/
+
+### Metal3.io Project
+Metal³ project (pronounced: Metal Kubed) exists to provide components
+that allow you to do bare metal host management for Kubernetes. Metal³ works
+as a Kubernetes application, meaning it runs on Kubernetes and is managed
+through Kubernetes interfaces.
+https://metal3.io/
+
+### Elucubratus
+Elucubratus is an open source repository of unix tools for use on iOS
+https://git.elucubratus.com/elucubratus
+
 ### Academy Software Foundation (ASWF)
 The mission of the Academy Software Foundation (ASWF) is to increase the quality and quantity of contributions to the content creation industry’s open source software base; to provide a neutral forum to coordinate cross-project efforts; to provide a common build and test infrastructure; and to provide individuals and organizations a clear path to participation in advancing our open source ecosystem.
 https://www.aswf.io/

@@ -1071,3 +1071,10 @@ https://git.elucubratus.com/elucubratus
 ### Academy Software Foundation (ASWF)
 The mission of the Academy Software Foundation (ASWF) is to increase the quality and quantity of contributions to the content creation industry’s open source software base; to provide a neutral forum to coordinate cross-project efforts; to provide a common build and test infrastructure; and to provide individuals and organizations a clear path to participation in advancing our open source ecosystem.
 https://www.aswf.io/
+
+### Kludge Cyber Systems
+Kludge Cyber Systems is a currently nonprofit technology firm developing
+open source solutions for the Node ecosystem including Petitio, rewriting
+corporate software for better code quality, et cetera. Our website is not
+yet running but you can find our work on GitHub
+https://github.com/kludge-cs and https://github.com/helperdiscord/petitio

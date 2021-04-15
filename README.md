@@ -1075,3 +1075,10 @@ https://www.aswf.io/
 ### Sharealedger
 Sharealedger is a collaborative project to explore innovation in business systems, and to find ways of improving society through the process. It includes sharing information about ledgers, regenerating long-forgotten knowledge embedded in all major business systems today, and considering if actually sharing data among organizations might spark a new round of improvements in society.
 https://sharealedger.org/
+
+### Kludge Cyber Systems
+Kludge Cyber Systems is a currently nonprofit technology firm developing
+open source solutions for the Node ecosystem including Petitio, rewriting
+corporate software for better code quality, et cetera. Our website is not
+yet running but you can find our work on GitHub
+https://github.com/kludge-cs and https://github.com/helperdiscord/petitio

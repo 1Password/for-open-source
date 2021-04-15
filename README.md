@@ -1082,3 +1082,7 @@ open source solutions for the Node ecosystem including Petitio, rewriting
 corporate software for better code quality, et cetera. Our website is not
 yet running but you can find our work on GitHub
 https://github.com/kludge-cs and https://github.com/helperdiscord/petitio
+
+### Application Oriented Storage
+An application-oriented unified storage layer for Golang.
+https://aos.dev/docs

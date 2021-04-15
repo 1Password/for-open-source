@@ -1072,6 +1072,10 @@ https://git.elucubratus.com/elucubratus
 The mission of the Academy Software Foundation (ASWF) is to increase the quality and quantity of contributions to the content creation industry’s open source software base; to provide a neutral forum to coordinate cross-project efforts; to provide a common build and test infrastructure; and to provide individuals and organizations a clear path to participation in advancing our open source ecosystem.
 https://www.aswf.io/
 
+### Sharealedger
+Sharealedger is a collaborative project to explore innovation in business systems, and to find ways of improving society through the process. It includes sharing information about ledgers, regenerating long-forgotten knowledge embedded in all major business systems today, and considering if actually sharing data among organizations might spark a new round of improvements in society.
+https://sharealedger.org/
+
 ### Kludge Cyber Systems
 Kludge Cyber Systems is a currently nonprofit technology firm developing
 open source solutions for the Node ecosystem including Petitio, rewriting

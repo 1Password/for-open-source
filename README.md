@@ -1086,3 +1086,7 @@ https://github.com/kludge-cs and https://github.com/helperdiscord/petitio
 ### Application Oriented Storage
 An application-oriented unified storage layer for Golang.
 https://aos.dev/docs
+
+### Kivy
+Kivy is an open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps running on Windows, Linux, macOS, Android and iOS.
+https://kivy.org/

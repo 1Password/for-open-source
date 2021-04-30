@@ -1010,7 +1010,7 @@ R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusi
 https://rladies.org
 
 ### Auroville
-Auroville is an international community in India where people from more than 60 countries come together to build a city that nourishes human unity and conscious living. Auroville is a recognised non-profit in India.  Worldwide there are centres in different countries that are recognised as non-profit in their respective country who support our work in Auroville: http://auroville-international.org/. Auroville with its vision "There should be somewhere on earth a place which no nation could claim as its own, where all human beings of goodwill who have a sincere aspiration could live freely as citizens of the world" offers a lot of educational programmes (see https://edu.auroville.org/fundamentals,  https://www.swadharma.auroville.org/ ). 
+Auroville is an international community in India where people from more than 60 countries come together to build a city that nourishes human unity and conscious living. Auroville is a recognised non-profit in India.  Worldwide there are centres in different countries that are recognised as non-profit in their respective country who support our work in Auroville: http://auroville-international.org/. Auroville with its vision "There should be somewhere on earth a place which no nation could claim as its own, where all human beings of goodwill who have a sincere aspiration could live freely as citizens of the world" offers a lot of educational programmes (see https://edu.auroville.org/fundamentals,  https://www.swadharma.auroville.org/ ).
 
 ### Inclusive Naming Initiative
 
@@ -1090,3 +1090,7 @@ https://aos.dev/docs
 ### Kivy
 Kivy is an open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps running on Windows, Linux, macOS, Android and iOS.
 https://kivy.org/
+
+### The rOpenSci Project
+rOpenSci is a non-profit intiative that fosters a culture that values open and reproducible research using shared data and reusable software.
+https://ropensci.org/

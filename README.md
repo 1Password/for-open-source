@@ -1090,3 +1090,7 @@ https://aos.dev/docs
 ### Kivy
 Kivy is an open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps running on Windows, Linux, macOS, Android and iOS.
 https://kivy.org/
+
+### eAbsentee
+eAbsentee is an open-source system used to request absentee ballots. eAbsentee is sponsored by Vote Absentee Virginia, a not-for-profit, non-partisan 501(c)4 organization established to help broaden voter access across all parties in Virginia.
+https://eabsentee.org/

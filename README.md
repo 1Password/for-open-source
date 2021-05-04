@@ -1094,3 +1094,7 @@ https://kivy.org/
 ### The rOpenSci Project
 rOpenSci is a non-profit intiative that fosters a culture that values open and reproducible research using shared data and reusable software.
 https://ropensci.org/
+
+### eAbsentee
+eAbsentee is an open-source system used to request absentee ballots. eAbsentee is sponsored by Vote Absentee Virginia, a not-for-profit, non-partisan 501(c)4 organization established to help broaden voter access across all parties in Virginia.
+https://eabsentee.org/

@@ -1098,3 +1098,8 @@ https://ropensci.org/
 ### eAbsentee
 eAbsentee is an open-source system used to request absentee ballots. eAbsentee is sponsored by Vote Absentee Virginia, a not-for-profit, non-partisan 501(c)4 organization established to help broaden voter access across all parties in Virginia.
 https://eabsentee.org/
+
+### HackTJ
+The first high-school hackathon, organized by students of Thomas Jefferson High School for Science and Technology. 
+https://hacktj.org/
+

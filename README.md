@@ -1103,3 +1103,6 @@ https://eabsentee.org/
 The first high-school hackathon, organized by students of Thomas Jefferson High School for Science and Technology. 
 https://hacktj.org/
 
+### Coinworks
+Coinworks is an open-source cryptocurrency donation page site.  
+https://coinworks.club/

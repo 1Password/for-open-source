@@ -1103,3 +1103,6 @@ https://eabsentee.org/
 The first high-school hackathon, organized by students of Thomas Jefferson High School for Science and Technology. 
 https://hacktj.org/
 
+### LevelDown
+LevelDown is a team of developers working on open-source projects Coinworks and EzList, an upcoming developer resource collective.  
+https://coinworks.club/

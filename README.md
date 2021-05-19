@@ -1106,3 +1106,7 @@ https://hacktj.org/
 ### Coinworks
 Coinworks is an open-source cryptocurrency donation page site.  
 https://coinworks.club/
+
+### Quanto Chevron
+A simple toolkit to act as a GPG/PGP Manager/Create/Sign/Verify/Encrypt/Decript deamon, to use GPG/PGP as a service over HTTP.
+https://github.com/quan-to/chevron | https://quan.to

@@ -1100,9 +1100,13 @@ eAbsentee is an open-source system used to request absentee ballots. eAbsentee i
 https://eabsentee.org/
 
 ### HackTJ
-The first high-school hackathon, organized by students of Thomas Jefferson High School for Science and Technology. 
+The first high-school hackathon, organized by students of Thomas Jefferson High School for Science and Technology.
 https://hacktj.org/
 
 ### Coinworks
-Coinworks is an open-source cryptocurrency donation page site.  
+Coinworks is an open-source cryptocurrency donation page site.
 https://coinworks.club/
+
+### Uçurtma Project
+Uçurtma is a platform that aims to help students find the financial support they need to make their dreams come true. It provides a decentralized guarantee of getting support by bringing students and supporters together.
+https://ucurtmaprojesi.com/

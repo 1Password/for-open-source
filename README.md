@@ -1107,6 +1107,10 @@ https://hacktj.org/
 Coinworks is an open-source cryptocurrency donation page site.
 https://coinworks.club/
 
+### Quanto Chevron
+A simple toolkit to act as a GPG/PGP Manager/Create/Sign/Verify/Encrypt/Decript deamon, to use GPG/PGP as a service over HTTP.
+https://github.com/quan-to/chevron | https://quan.to
+
 ### Uçurtma Project
 Uçurtma is a platform that aims to help students find the financial support they need to make their dreams come true. It provides a decentralized guarantee of getting support by bringing students and supporters together.
 https://ucurtmaprojesi.com/

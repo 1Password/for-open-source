@@ -1110,3 +1110,7 @@ https://coinworks.club/
 ### Quanto Chevron
 A simple toolkit to act as a GPG/PGP Manager/Create/Sign/Verify/Encrypt/Decrypt deamon, to use GPG/PGP as a service over HTTP.
 https://github.com/quan-to/chevron | https://quan.to
+
+### Hackropolis
+Greece's first teenager maker club. Run by students, for students. Part of [Hack Club](https://hackclub.com)
+https://hackropolis.club

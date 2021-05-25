@@ -1114,3 +1114,7 @@ https://github.com/quan-to/chevron | https://quan.to
 ### Pester
 Testing framework for PowerShell code.
 https://pester.dev
+
+### Parse Platform
+The complete application stack. Build applications faster with object and file storage, user authentication, dashboard and more out of the box. With SDKs for every platform including Swift, Flutter/Dart, Objc-c, Android, JavaScript and PHP.
+https://parseplatform.org

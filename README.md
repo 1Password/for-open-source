@@ -1118,3 +1118,7 @@ https://pester.dev
 ### Uçurtma Project
 Uçurtma is a platform that aims to help students find the financial support they need to make their dreams come true. It provides a decentralized guarantee of getting support by bringing students and supporters together.
 https://ucurtmaprojesi.com/
+
+### Hackropolis
+Greece's first teenager maker club. Run by students, for students. Part of [Hack Club](https://hackclub.com)
+https://hackropolis.club

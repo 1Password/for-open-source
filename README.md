@@ -1114,3 +1114,7 @@ https://github.com/quan-to/chevron | https://quan.to
 ### Pester
 Testing framework for PowerShell code.
 https://pester.dev
+
+### Node-RED
+Low-code programming for event-driven applications.
+https://nodered.org

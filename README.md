@@ -1114,3 +1114,7 @@ https://github.com/quan-to/chevron | https://quan.to
 ### Pester
 Testing framework for PowerShell code.
 https://pester.dev
+
+### Kuberhealthy
+Kubernetes operator for synthetic checks.
+https://github.com/kuberhealthy/kuberhealthy and https://kuberhealthy.com

@@ -1100,11 +1100,11 @@ eAbsentee is an open-source system used to request absentee ballots. eAbsentee i
 https://eabsentee.org/
 
 ### HackTJ
-The first high-school hackathon, organized by students of Thomas Jefferson High School for Science and Technology. 
+The first high-school hackathon, organized by students of Thomas Jefferson High School for Science and Technology.
 https://hacktj.org/
 
 ### Coinworks
-Coinworks is an open-source cryptocurrency donation page site.  
+Coinworks is an open-source cryptocurrency donation page site.
 https://coinworks.club/
 
 ### Quanto Chevron
@@ -1114,6 +1114,14 @@ https://github.com/quan-to/chevron | https://quan.to
 ### Pester
 Testing framework for PowerShell code.
 https://pester.dev
+
+### Uçurtma Project
+Uçurtma is a platform that aims to help students find the financial support they need to make their dreams come true. It provides a decentralized guarantee of getting support by bringing students and supporters together.
+https://ucurtmaprojesi.com/
+
+### Hackropolis
+Greece's first teenager maker club. Run by students, for students. Part of [Hack Club](https://hackclub.com)
+https://hackropolis.club
 
 ### Parse Platform
 The complete application stack. Build applications faster with object and file storage, user authentication, dashboard and more out of the box. With SDKs for every platform including Swift, Flutter/Dart, Objc-c, Android, JavaScript and PHP.

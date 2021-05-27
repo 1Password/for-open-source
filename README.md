@@ -1122,3 +1122,7 @@ https://ucurtmaprojesi.com/
 ### Hackropolis
 Greece's first teenager maker club. Run by students, for students. Part of [Hack Club](https://hackclub.com)
 https://hackropolis.club
+
+### Parse Platform
+The complete application stack. Build applications faster with object and file storage, user authentication, dashboard and more out of the box. With SDKs for every platform including Swift, Flutter/Dart, Objc-c, Android, JavaScript and PHP.
+https://parseplatform.org

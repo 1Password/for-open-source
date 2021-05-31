@@ -1134,3 +1134,7 @@ https://buildpacks.io | https://github.com/buildpacks
 ### Kuberhealthy
 Kubernetes operator for synthetic checks.
 https://github.com/kuberhealthy/kuberhealthy and https://kuberhealthy.com
+
+### Node-RED
+Low-code programming for event-driven applications.
+https://nodered.org

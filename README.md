@@ -1130,3 +1130,7 @@ https://parseplatform.org
 ### Cloud Native Buildpacks
 Cloud Native Buildpacks transform your application source code into images that can run on any cloud.  The project is a Cloud Native Computing Foundation Incubation project.
 https://buildpacks.io | https://github.com/buildpacks
+
+### Kuberhealthy
+Kubernetes operator for synthetic checks.
+https://github.com/kuberhealthy/kuberhealthy and https://kuberhealthy.com

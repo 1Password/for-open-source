@@ -453,7 +453,7 @@ https://github.com/perl6
 [Buffalo](https://gobuffalo.io) is a Go web development eco-system, designed to make your life easier. Buffalo helps you to generate a web project that already has everything from front-end (JavaScript, SCSS, etc.) to the back-end (database, routing, etc.) already hooked up and ready to run. From there it provides easy APIs to build your web application quickly in Go.
 
 ### ZEIW
-[ZEIW](https://zeiw.pnfc.re) is an open source, community-based, online multiplayer table tennis game.
+[ZEIW](https://github.com/next/zeiw-client) is an open source, community-based, online multiplayer table tennis game.
 
 ### OpenELIS Global
 [OpenELIS Global](http://openelisglobal.org) OpenELIS is an open-source laboratory information system that supports the entire laboratory workflow, including the pre-analytical, analytical, and post-analytical phases. Meaning patient demographic data; laboratory order details; technical requirements and validations for the laboratory tests and analyses; and clinical and lab performance reports. It is installed in 83 labs in Cots d'Ivoire, many labs in Haiti and widely as part of the Bahmni hospital system for low resource settings.
@@ -1100,11 +1100,11 @@ eAbsentee is an open-source system used to request absentee ballots. eAbsentee i
 https://eabsentee.org/
 
 ### HackTJ
-The first high-school hackathon, organized by students of Thomas Jefferson High School for Science and Technology. 
+The first high-school hackathon, organized by students of Thomas Jefferson High School for Science and Technology.
 https://hacktj.org/
 
 ### Coinworks
-Coinworks is an open-source cryptocurrency donation page site.  
+Coinworks is an open-source cryptocurrency donation page site.
 https://coinworks.club/
 
 ### Quanto Chevron
@@ -1114,6 +1114,26 @@ https://github.com/quan-to/chevron | https://quan.to
 ### Pester
 Testing framework for PowerShell code.
 https://pester.dev
+
+### Uçurtma Project
+Uçurtma is a platform that aims to help students find the financial support they need to make their dreams come true. It provides a decentralized guarantee of getting support by bringing students and supporters together.
+https://ucurtmaprojesi.com/
+
+### Hackropolis
+Greece's first teenager maker club. Run by students, for students. Part of [Hack Club](https://hackclub.com)
+https://hackropolis.club
+
+### Parse Platform
+The complete application stack. Build applications faster with object and file storage, user authentication, dashboard and more out of the box. With SDKs for every platform including Swift, Flutter/Dart, Objc-c, Android, JavaScript and PHP.
+https://parseplatform.org
+
+### Cloud Native Buildpacks
+Cloud Native Buildpacks transform your application source code into images that can run on any cloud.  The project is a Cloud Native Computing Foundation Incubation project.
+https://buildpacks.io | https://github.com/buildpacks
+
+### Kuberhealthy
+Kubernetes operator for synthetic checks.
+https://github.com/kuberhealthy/kuberhealthy and https://kuberhealthy.com
 
 ### Node-RED
 Low-code programming for event-driven applications.

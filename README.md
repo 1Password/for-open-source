@@ -1138,3 +1138,8 @@ https://github.com/kuberhealthy/kuberhealthy and https://kuberhealthy.com
 ### Node-RED
 Low-code programming for event-driven applications.
 https://nodered.org
+
+### LF Energy Foundation
+By providing frameworks and reference implementations, LF Energy minimizes pain points such as cybersecurity, interoperability, control, automation, virtualization, and the orchestration of supply and demand.
+https://lfenergy.org
+

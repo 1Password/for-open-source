@@ -1138,3 +1138,7 @@ https://github.com/kuberhealthy/kuberhealthy and https://kuberhealthy.com
 ### Node-RED
 Low-code programming for event-driven applications.
 https://nodered.org
+
+### Texas Justice Initiative
+Texas Justice Initiative is a nonprofit organization that collects, analyzes, publishes and provides oversight for criminal justice data throughout Texas. TJI's code, including the code that powers [our website](https://github.com/texas-justice-initiative/website-nextjs) and the code that powers our [data processing](https://github.com/texas-justice-initiative/data-processing), is open source.
+https://texasjusticeinitiative.org

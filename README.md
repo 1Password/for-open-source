@@ -1148,5 +1148,5 @@ By providing frameworks and reference implementations, LF Energy minimizes pain 
 https://lfenergy.org
 
 ### GDPR WP
-Simple plugin to load tracking scripts based on user consent. No dark patterns.
+Simple plugin to load tracking scripts based on user consent. No dark patterns.  
 https://wordpress.org/plugins/og-gdpr/

@@ -1146,3 +1146,7 @@ https://texasjusticeinitiative.org
 ### LF Energy Foundation
 By providing frameworks and reference implementations, LF Energy minimizes pain points such as cybersecurity, interoperability, control, automation, virtualization, and the orchestration of supply and demand.
 https://lfenergy.org
+
+### FIPost
+This project aims to modernise the internal post system of Fontys. Currently most of the administrative work is done manually. This project moves these processes to a semi-automated system with similar functionalities as PostNL. Some of the features include: seeing a package status and tracing locations.
+https://github.com/FIPost

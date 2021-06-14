@@ -26,7 +26,7 @@ If you're not sure if your project meets these requirements, please contact our 
 
 
 ## Membership details
-* You'll receive a renewable year of [1Password Teams](https://1password.com/teams).
+* You'll receive two renewable years of [1Password Teams](https://1password.com/teams).
 * You can invite core contributors to your team account.
 * Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
 * All app updates are free while your membership is active.

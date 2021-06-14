@@ -1146,3 +1146,7 @@ https://texasjusticeinitiative.org
 ### LF Energy Foundation
 By providing frameworks and reference implementations, LF Energy minimizes pain points such as cybersecurity, interoperability, control, automation, virtualization, and the orchestration of supply and demand.
 https://lfenergy.org
+
+### GDPR WP
+Simple plugin to load tracking scripts based on user consent. No dark patterns.  
+https://wordpress.org/plugins/og-gdpr/

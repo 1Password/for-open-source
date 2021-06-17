@@ -1154,3 +1154,7 @@ https://wordpress.org/plugins/og-gdpr/
 ### FIPost
 This project aims to modernise the internal post system of Fontys. Currently most of the administrative work is done manually. This project moves these processes to a semi-automated system with similar functionalities as PostNL. Some of the features include: seeing a package status and tracing locations.
 https://github.com/FIPost
+
+### Hack the 6ix
+Hack the 6ix is the largest student-run, non-for-profit summer hackathon located in the hear of Toronto.
+https://hackthe6ix.com

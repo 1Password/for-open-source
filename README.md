@@ -1155,6 +1155,10 @@ https://wordpress.org/plugins/og-gdpr/
 This project aims to modernise the internal post system of Fontys. Currently most of the administrative work is done manually. This project moves these processes to a semi-automated system with similar functionalities as PostNL. Some of the features include: seeing a package status and tracing locations.
 https://github.com/FIPost
 
+### Winter CMS
+[Winter CMS](https://github.com/wintercms/winter) is a free, open-source content management system based on the [Laravel](https://laravel.com) PHP framework. Developers and agencies all around the world rely upon Winter CMS for its quick prototyping and development, safe and secure codebase and dedication to simplicity.
+https://wintercms.com
+
 ### Nameday API and opensource library
 This [opensource library](https://github.com/xnekv03/nameday-api) acts as client for [Nameday API](https://nameday.abalin.net) which is developed and maintained by me in my free time since 2017. Library is opensource and API is for free serving 60 000 requests a day. Namday is providing data for 20 countries.
 https://github.com/xnekv03/nameday-api

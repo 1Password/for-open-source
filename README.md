@@ -1162,3 +1162,7 @@ https://wintercms.com
 ### Nameday API and opensource library
 This [opensource library](https://github.com/xnekv03/nameday-api) acts as client for [Nameday API](https://nameday.abalin.net) which is developed and maintained by me in my free time since 2017. Library is opensource and API is for free serving 60 000 requests a day. Namday is providing data for 20 countries.
 https://github.com/xnekv03/nameday-api
+
+### DARIA Case Management
+DARIA is a case management system originally created for the DC Abortion Fund (DCAF), an all-volunteer, 501(c)(3) non-profit organization that gives grants to people in DC, Maryland, and Virginia who cannot afford the full cost of abortion care. Its primary goal is to simplify routine case management processes, such as keeping track of patient data, pledges, and contact information. It is now in use by multiple funds across the country.
+https://github.com/DCAFEngineering/dcaf_case_management

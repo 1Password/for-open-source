@@ -1154,3 +1154,7 @@ https://wordpress.org/plugins/og-gdpr/
 ### FIPost
 This project aims to modernise the internal post system of Fontys. Currently most of the administrative work is done manually. This project moves these processes to a semi-automated system with similar functionalities as PostNL. Some of the features include: seeing a package status and tracing locations.
 https://github.com/FIPost
+
+### Winter CMS
+[Winter CMS](https://github.com/wintercms/winter) is a free, open-source content management system based on the [Laravel](https://laravel.com) PHP framework. Developers and agencies all around the world rely upon Winter CMS for its quick prototyping and development, safe and secure codebase and dedication to simplicity.
+https://wintercms.com

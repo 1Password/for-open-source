@@ -1166,3 +1166,7 @@ https://github.com/xnekv03/nameday-api
 ### DARIA Case Management
 DARIA is a case management system originally created for the DC Abortion Fund (DCAF), an all-volunteer, 501(c)(3) non-profit organization that gives grants to people in DC, Maryland, and Virginia who cannot afford the full cost of abortion care. Its primary goal is to simplify routine case management processes, such as keeping track of patient data, pledges, and contact information. It is now in use by multiple funds across the country.
 https://github.com/DCAFEngineering/dcaf_case_management
+
+### Dotfiles Syntax Highlighting
+An extension for the VS Code editor that adds syntax highlighting support for a lot of dotfiles.
+https://github.com/dotiful/vscode-dotfiles-syntax

@@ -1170,3 +1170,7 @@ https://github.com/DCAFEngineering/dcaf_case_management
 ### Dotfiles Syntax Highlighting
 An extension for the VS Code editor that adds syntax highlighting support for a lot of dotfiles.
 https://github.com/dotiful/vscode-dotfiles-syntax
+
+### Hack the 6ix
+Hack the 6ix is the largest student-run, non-for-profit summer hackathon located in the hear of Toronto.
+https://hackthe6ix.com

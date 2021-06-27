@@ -1174,3 +1174,9 @@ https://github.com/dotiful/vscode-dotfiles-syntax
 ### Hack the 6ix
 Hack the 6ix is the largest student-run, non-for-profit summer hackathon located in the hear of Toronto.
 https://hackthe6ix.com
+
+### Kubernetes
+Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services,
+that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem.
+
+https://kubernetes.io

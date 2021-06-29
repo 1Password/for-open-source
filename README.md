@@ -1178,3 +1178,9 @@ https://hackthe6ix.com
 ### Dj-Stripe
 A Django library to integrate with the Stripe API and process Stripe webhooks.
 https://github.com/dj-stripe/dj-stripe
+
+### Kubernetes
+Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services,
+that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem.
+
+https://kubernetes.io

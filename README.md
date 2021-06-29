@@ -1148,7 +1148,7 @@ By providing frameworks and reference implementations, LF Energy minimizes pain 
 https://lfenergy.org
 
 ### GDPR WP
-Simple plugin to load tracking scripts based on user consent. No dark patterns.  
+Simple plugin to load tracking scripts based on user consent. No dark patterns.
 https://wordpress.org/plugins/og-gdpr/
 
 ### FIPost
@@ -1174,6 +1174,10 @@ https://github.com/dotiful/vscode-dotfiles-syntax
 ### Hack the 6ix
 Hack the 6ix is the largest student-run, non-for-profit summer hackathon located in the hear of Toronto.
 https://hackthe6ix.com
+
+### Dj-Stripe
+A Django library to integrate with the Stripe API and process Stripe webhooks.
+https://github.com/dj-stripe/dj-stripe
 
 ### Kubernetes
 Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services,

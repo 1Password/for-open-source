@@ -433,9 +433,9 @@ https://github.com/iglance/iGlance
 An extension for the Visual Studio Code editor that allows you to highlight trailing spaces and delete them in a flash!
 https://github.com/shardulm94/vscode-trailingspaces
 
-### Perl 6
-[Perl 6](https://perl6.org) is a multi paradigm programming language. It's completely community-driven.
-https://github.com/perl6
+### Raku
+[Raku](https://raku.org) is a multi paradigm programming language. It's completely community-driven. (Renamed from Perl 6)
+https://github.com/raku
 
 ### osquery
 [osquery](https://osquery.io) provides SQL powered operating system instrumentation, monitoring, and analytics.

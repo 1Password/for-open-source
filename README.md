@@ -1189,3 +1189,6 @@ https://kubernetes.io
 WATonomous is a Canadian non-profit seeking to educate and train the next generation of autonomous vehicle engineers, leading to a safer roads and a brighter future. WATonomous is created by and run for students. We provide opportunities through our Chevrolet Bolt vehicle development platform (nicknamed the "Bolty"), compute resources, and engineering expertise. Students have the unique opportunity to further their education by collaborating with likeminded peers as they build up the Bolty into a fully autonomous level 4 self-driving car.
 https://www.watonomous.ca
 
+### Typerun
+Trainer for teaching the ten-finger method of typing on the keyboard.
+https://typerun.top

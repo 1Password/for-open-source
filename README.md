@@ -1192,3 +1192,8 @@ https://www.watonomous.ca
 ### Typerun
 Trainer for teaching the ten-finger method of typing on the keyboard.
 https://typerun.top
+
+### BrightChain: The Revolution(ary) Network
+A Lightweight BlockChain- LightChain based on a Brightnet Blockstore- BrightChain. All the benefits of blockchain dApps and contracts without the mining and waste. Unlimited storage for everyone, and a mathematically reinforced and moderated community that will last for the ages.
+https://apidocs.therevolution.network
+https://github.com/The-Revolution-Network/BrightChain

@@ -1197,3 +1197,8 @@ https://typerun.top
 A Lightweight BlockChain- LightChain based on a Brightnet Blockstore- BrightChain. All the benefits of blockchain dApps and contracts without the mining and waste. Unlimited storage for everyone, and a mathematically reinforced and moderated community that will last for the ages.
 https://apidocs.therevolution.network
 https://github.com/The-Revolution-Network/BrightChain
+
+### Botanit(ism)
+Botanism is a small collection of repositories revolving around the Botanist bot. The latter is used to bring moderation utilities to the Discord messaging app. Under the GPLv3 license it is used by a few hundred users (as of 2020).
+https://github.com/Botanism/Botanist
+

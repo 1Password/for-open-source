@@ -1197,3 +1197,7 @@ https://typerun.top
 A Lightweight BlockChain- LightChain based on a Brightnet Blockstore- BrightChain. All the benefits of blockchain dApps and contracts without the mining and waste. Unlimited storage for everyone, and a mathematically reinforced and moderated community that will last for the ages.
 https://apidocs.therevolution.network
 https://github.com/The-Revolution-Network/BrightChain
+
+### OpenTelemetry
+An observability framework for cloud-native software.
+https://opentelemetry.io/

@@ -1205,3 +1205,8 @@ https://opentelemetry.io/
 ### Botanit(ism)
 Botanism is a small collection of repositories revolving around the Botanist bot. The latter is used to bring moderation utilities to the Discord messaging app. Under the GPLv3 license it is used by a few hundred users (as of 2020).
 https://github.com/Botanism/Botanist
+
+### Keva Project
+Low-latency in-memory key-value store, used as a database or cache
+https://keva.jinyframework.com
+https://jinyframework.com/

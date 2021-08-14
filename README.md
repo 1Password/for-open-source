@@ -1210,3 +1210,7 @@ https://github.com/Botanism/Botanist
 Low-latency in-memory key-value store, used as a database or cache
 https://keva.jinyframework.com
 https://jinyframework.com/
+
+### SoftU2F-Win
+A software implementation of hardware FIDO U2F(YubiKey for example) authentication for Windows.
+https://github.com/SoftU2F/SoftU2F-Win

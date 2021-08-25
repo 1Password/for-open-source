@@ -1222,3 +1222,7 @@ https://www.linuxserver.io
 ### FD.io
 FD.io VPP is the Swiss Army knife of networking toolchains - enabling astounding software packet processing.  Recent achievements include forwardering 1TBps of IPSEC traffic with millions of routes in the routing table on a commodity server with no special accelerators.
 https://fd.io
+
+### ScanAPI
+ScanAPI is a testing framework that provides automated integration testing and live documentation for any REST API. Given an API specification, written in YAML/JSON format, the library hits the specified endpoints, runs the test cases, and generates a detailed report of this execution - that can be also used as the API documentation itself.
+http://scanapi.dev

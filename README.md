@@ -1226,3 +1226,7 @@ https://fd.io
 ### ScanAPI
 ScanAPI is a testing framework that provides automated integration testing and live documentation for any REST API. Given an API specification, written in YAML/JSON format, the library hits the specified endpoints, runs the test cases, and generates a detailed report of this execution - that can be also used as the API documentation itself.
 http://scanapi.dev
+
+### Conda-forge
+A is community led collection of recipes, build infrastructure and distributions for the conda package manager.
+https://conda-forge.org

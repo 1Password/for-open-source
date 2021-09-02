@@ -1228,5 +1228,5 @@ ScanAPI is a testing framework that provides automated integration testing and l
 http://scanapi.dev
 
 ### Conda-forge
-A is community led collection of recipes, build infrastructure and distributions for the conda package manager.
+A community led collection of recipes, build infrastructure and distributions for the conda package manager.
 https://conda-forge.org

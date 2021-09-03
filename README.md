@@ -1230,3 +1230,7 @@ http://scanapi.dev
 ### Conda-forge
 A community led collection of recipes, build infrastructure and distributions for the conda package manager.
 https://conda-forge.org
+
+### SnowflakeDev
+SnowflakeDev is a community of open-source lovers. We develope projects that help developers on various takss like document generation, image manipulation, database ORM etc. In short we aid in project scaffolding so that developers can spend time on wording on their idea rather than having to reinvent the wheel everytime.
+https://snowflakedev.org

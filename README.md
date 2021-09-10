@@ -1234,3 +1234,7 @@ https://conda-forge.org
 ### FModel
 A software for exploring UE4-5 games' files.
 https://fmodel.app/
+
+### SnowflakeDev
+SnowflakeDev is a community of open-source lovers. We develope projects that help developers on various takss like document generation, image manipulation, database ORM etc. In short we aid in project scaffolding so that developers can spend time on wording on their idea rather than having to reinvent the wheel everytime.
+https://snowflakedev.org

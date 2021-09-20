@@ -1238,3 +1238,6 @@ https://fmodel.app/
 ### SnowflakeDev
 SnowflakeDev is a community of open-source lovers. We develope projects that help developers on various takss like document generation, image manipulation, database ORM etc. In short we aid in project scaffolding so that developers can spend time on wording on their idea rather than having to reinvent the wheel everytime.
 https://snowflakedev.org
+
+### OpenGitOps
+OpenGitOps is a CNCF Sandbox project to define a vendor-neutral, principle-led meaning of GitOps. This will establish a foundation for interoperability between tools, conformance, and certification through lasting programs, documents, and code.

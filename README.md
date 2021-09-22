@@ -1241,3 +1241,7 @@ https://snowflakedev.org
 
 ### OpenGitOps
 OpenGitOps is a CNCF Sandbox project to define a vendor-neutral, principle-led meaning of GitOps. This will establish a foundation for interoperability between tools, conformance, and certification through lasting programs, documents, and code.
+
+### The Julia Language
+Julia is a high-level, high-performance dynamic language for technical computing.
+https://julialang.org

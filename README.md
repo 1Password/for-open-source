@@ -1245,3 +1245,7 @@ OpenGitOps is a CNCF Sandbox project to define a vendor-neutral, principle-led m
 ### The Julia Language
 Julia is a high-level, high-performance dynamic language for technical computing.
 https://julialang.org
+
+### Laravel 5 Repositories
+Laravel 5 Repositories is used to abstract the data layer, making our application more flexible to maintain.
+https://github.com/andersao/l5-repository

@@ -1245,3 +1245,7 @@ OpenGitOps is a CNCF Sandbox project to define a vendor-neutral, principle-led m
 ### The Julia Language
 Julia is a high-level, high-performance dynamic language for technical computing.
 https://julialang.org
+
+### Drupal Austria Association
+"Drupal Austria - Association for the Promotion and Support of the Open Source Software Drupal" aims to strengthen and support the Austrian Drupal community.
+Some of our initiatives and event we organise can be found at https://www.drupal.org/drupal-austria

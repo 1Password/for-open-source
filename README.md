@@ -1253,3 +1253,7 @@ Some of our initiatives and event we organise can be found at https://www.drupal
 ### CCRHub.net
 CCRHub.net provides provides developers with content creation scripts and tools to upload 'records' to create instant content such as APIs, email and batch processing the data for reports.
 https://github.com/ccrhub
+
+### Spring Library
+An extremely simple, powerful, thread-safe ZSTD library.
+https://github.com/xpyxel/spring

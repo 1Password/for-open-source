@@ -1257,3 +1257,7 @@ https://github.com/ccrhub
 ### Laravel 5 Repositories
 Laravel 5 Repositories is used to abstract the data layer, making our application more flexible to maintain.
 https://github.com/andersao/l5-repository
+
+### Spring Library
+An extremely simple, powerful, thread-safe ZSTD library.
+https://github.com/xpyxel/spring

@@ -1253,3 +1253,7 @@ Some of our initiatives and event we organise can be found at https://www.drupal
 ### CCRHub.net
 CCRHub.net provides provides developers with content creation scripts and tools to upload 'records' to create instant content such as APIs, email and batch processing the data for reports.
 https://github.com/ccrhub
+
+### Laravel 5 Repositories
+Laravel 5 Repositories is used to abstract the data layer, making our application more flexible to maintain.
+https://github.com/andersao/l5-repository

@@ -1246,6 +1246,14 @@ OpenGitOps is a CNCF Sandbox project to define a vendor-neutral, principle-led m
 Julia is a high-level, high-performance dynamic language for technical computing.
 https://julialang.org
 
+### Drupal Austria Association
+"Drupal Austria - Association for the Promotion and Support of the Open Source Software Drupal" aims to strengthen and support the Austrian Drupal community.
+Some of our initiatives and event we organise can be found at https://www.drupal.org/drupal-austria
+
+### CCRHub.net
+CCRHub.net provides provides developers with content creation scripts and tools to upload 'records' to create instant content such as APIs, email and batch processing the data for reports.
+https://github.com/ccrhub
+
 ### Laravel 5 Repositories
 Laravel 5 Repositories is used to abstract the data layer, making our application more flexible to maintain.
 https://github.com/andersao/l5-repository

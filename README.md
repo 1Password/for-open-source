@@ -1261,3 +1261,7 @@ https://github.com/andersao/l5-repository
 ### Spring Library
 An extremely simple, powerful, thread-safe ZSTD library.
 https://github.com/xpyxel/spring
+
+### SootDevs
+SootDevs develops software - moderation solutions, Minecraft plugins, etc - for the MCYT and wider community.
+https://github.com/sootdevs

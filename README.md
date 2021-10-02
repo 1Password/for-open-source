@@ -1261,3 +1261,7 @@ https://github.com/andersao/l5-repository
 ### Spring Library
 An extremely simple, powerful, thread-safe ZSTD library.
 https://github.com/xpyxel/spring
+
+### Feather
+A Minecraft server implementation written in Rust.
+https://feathermc.org

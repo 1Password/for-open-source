@@ -1265,3 +1265,7 @@ https://github.com/xpyxel/spring
 ### vue-notion
 Build open-source tools around Notion and Vue.
 https://github.com/janniks/vue-notion
+
+### Black Magic's Surge Modules
+A set of iOS surge application modules, including automatic scripts, cronjobs, panels and more. 
+https://github.com/Black-Magic-Lab/Surge

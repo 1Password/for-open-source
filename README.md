@@ -1277,3 +1277,7 @@ https://github.com/giangvo/alfred-workflow-nodejs
 ### Feather
 A Minecraft server implementation written in Rust.
 https://feathermc.org
+
+### Black Magic's Surge Modules
+A set of iOS surge application modules, including automatic scripts, cronjobs, panels and more. 
+https://github.com/Black-Magic-Lab/Surge

@@ -1269,3 +1269,7 @@ https://github.com/janniks/vue-notion
 ### VsTech
 We make opensource apps and publish them to playstore.
 https://github.com/VsTechMobile
+
+### alfred-workflow-nodejs
+Nodejs library to build Alfred workflows
+https://github.com/giangvo/alfred-workflow-nodejs

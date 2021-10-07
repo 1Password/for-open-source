@@ -1265,3 +1265,7 @@ https://github.com/xpyxel/spring
 ### vue-notion
 Build open-source tools around Notion and Vue.
 https://github.com/janniks/vue-notion
+
+### alfred-workflow-nodejs
+Nodejs library to build Alfred workflows
+https://github.com/giangvo/alfred-workflow-nodejs

@@ -1265,3 +1265,7 @@ https://github.com/xpyxel/spring
 ### vue-notion
 Build open-source tools around Notion and Vue.
 https://github.com/janniks/vue-notion
+
+### VsTech
+We make opensource apps and publish them to playstore.
+https://github.com/VsTechMobile

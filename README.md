@@ -1262,6 +1262,10 @@ https://github.com/andersao/l5-repository
 An extremely simple, powerful, thread-safe ZSTD library.
 https://github.com/xpyxel/spring
 
+### vue-notion
+Build open-source tools around Notion and Vue.
+https://github.com/janniks/vue-notion
+
 ### Feather
 A Minecraft server implementation written in Rust.
 https://feathermc.org

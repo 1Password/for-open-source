@@ -1273,3 +1273,7 @@ https://github.com/VsTechMobile
 ### alfred-workflow-nodejs
 Nodejs library to build Alfred workflows
 https://github.com/giangvo/alfred-workflow-nodejs
+
+### Feather
+A Minecraft server implementation written in Rust.
+https://feathermc.org

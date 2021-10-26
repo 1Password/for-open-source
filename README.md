@@ -1281,3 +1281,9 @@ https://feathermc.org
 ### Black Magic's Surge Modules
 A set of iOS surge application modules, including automatic scripts, cronjobs, panels and more. 
 https://github.com/Black-Magic-Lab/Surge
+
+### Materials Project
+The Materials Project is an academic project that delivers open access to computed information about 
+crystalline materials, as well as maintaining a stack of open-source scientific software used to 
+perform calculations for materials science.
+https://materialsproject.org

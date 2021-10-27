@@ -1281,3 +1281,8 @@ https://feathermc.org
 ### Black Magic's Surge Modules
 A set of iOS surge application modules, including automatic scripts, cronjobs, panels and more. 
 https://github.com/Black-Magic-Lab/Surge
+
+### Python Italia
+Python Italia organises PyCon Italia and other events.
+https://github.com/pythonitalia
+

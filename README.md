@@ -1291,3 +1291,7 @@ https://materialsproject.org
 ### Python Italia
 Python Italia organises PyCon Italia and other events.
 https://github.com/pythonitalia
+
+### Sycer Development
+Sycer Development is a development firm specializing in the development of Discord bots.
+https://github.com/sycer-dev

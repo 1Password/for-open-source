@@ -1291,3 +1291,8 @@ https://materialsproject.org
 ### Python Italia
 Python Italia organises PyCon Italia and other events.
 https://github.com/pythonitalia
+
+### Picolabs
+Pico Labs is an open source project for Picos, an actor-based programming system that supports people-centric, 
+reactive programming on the Internet of Things.
+https://picolabs.atlassian.net/wiki/spaces/docs/overview

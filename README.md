@@ -1291,3 +1291,7 @@ https://materialsproject.org
 ### Python Italia
 Python Italia organises PyCon Italia and other events.
 https://github.com/pythonitalia
+
+### EuroPython Society
+The EuroPython Society (EPS) is a Swedish non-profit organization which organizes EuroPython conferences and supports the Python community in Europe.
+https://www.europython-society.org/

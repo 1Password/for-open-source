@@ -1291,3 +1291,7 @@ https://materialsproject.org
 ### Python Italia
 Python Italia organises PyCon Italia and other events.
 https://github.com/pythonitalia
+
+### OWASP CycloneDX
+A lightweight software bill of materials (SBOM) standard designed for use in application security contexts and supply chain component analysis.
+https://cyclonedx.org/

@@ -1287,3 +1287,7 @@ The Materials Project is an academic project that delivers open access to comput
 crystalline materials, as well as maintaining a stack of open-source scientific software used to 
 perform calculations for materials science.
 https://materialsproject.org
+
+### Python Italia
+Python Italia organises PyCon Italia and other events.
+https://github.com/pythonitalia

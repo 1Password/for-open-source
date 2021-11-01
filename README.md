@@ -1291,3 +1291,7 @@ https://materialsproject.org
 ### Python Italia
 Python Italia organises PyCon Italia and other events.
 https://github.com/pythonitalia
+
+### Oh My Zsh
+Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+https://ohmyz.sh/

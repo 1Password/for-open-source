@@ -1312,3 +1312,7 @@ https://ohmyz.sh/
 ### OWASP CycloneDX
 A lightweight software bill of materials (SBOM) standard designed for use in application security contexts and supply chain component analysis.
 https://cyclonedx.org/
+
+### Apex CI-CD workflow template
+setup CI-CD for Oracle APEX apps
+https://github.com/pc8888/oci-apex-workflow-template

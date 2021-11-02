@@ -1308,3 +1308,7 @@ Framework for .Net, UWP, WinUI and Uno Platform projects.
 ### Oh My Zsh
 Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 https://ohmyz.sh/
+
+### OWASP CycloneDX
+A lightweight software bill of materials (SBOM) standard designed for use in application security contexts and supply chain component analysis.
+https://cyclonedx.org/

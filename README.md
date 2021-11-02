@@ -1296,3 +1296,7 @@ https://github.com/pythonitalia
 Pico Labs is an open source project for Picos, an actor-based programming system that supports people-centric, 
 reactive programming on the Internet of Things.
 https://picolabs.atlassian.net/wiki/spaces/docs/overview
+
+### EuroPython Society
+The EuroPython Society (EPS) is a Swedish non-profit organization which organizes EuroPython conferences and supports the Python community in Europe.
+https://www.europython-society.org/

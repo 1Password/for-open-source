@@ -1300,3 +1300,7 @@ https://picolabs.atlassian.net/wiki/spaces/docs/overview
 ### EuroPython Society
 The EuroPython Society (EPS) is a Swedish non-profit organization which organizes EuroPython conferences and supports the Python community in Europe.
 https://www.europython-society.org/
+
+### I-Synergy Framework
+Framework for .Net, UWP, WinUI and Uno Platform projects. 
+[https://github.com/I-Synergy/I-Synergy.Framework](https://github.com/I-Synergy/I-Synergy.Framework)

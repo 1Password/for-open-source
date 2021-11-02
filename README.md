@@ -1292,6 +1292,23 @@ https://materialsproject.org
 Python Italia organises PyCon Italia and other events.
 https://github.com/pythonitalia
 
+### Picolabs
+Pico Labs is an open source project for Picos, an actor-based programming system that supports people-centric, 
+reactive programming on the Internet of Things.
+https://picolabs.atlassian.net/wiki/spaces/docs/overview
+
+### EuroPython Society
+The EuroPython Society (EPS) is a Swedish non-profit organization which organizes EuroPython conferences and supports the Python community in Europe.
+https://www.europython-society.org/
+
+### I-Synergy Framework
+Framework for .Net, UWP, WinUI and Uno Platform projects. 
+[https://github.com/I-Synergy/I-Synergy.Framework](https://github.com/I-Synergy/I-Synergy.Framework)
+
+### Oh My Zsh
+Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+https://ohmyz.sh/
+
 ### OWASP CycloneDX
 A lightweight software bill of materials (SBOM) standard designed for use in application security contexts and supply chain component analysis.
 https://cyclonedx.org/

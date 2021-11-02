@@ -1312,3 +1312,7 @@ https://ohmyz.sh/
 ### OWASP CycloneDX
 A lightweight software bill of materials (SBOM) standard designed for use in application security contexts and supply chain component analysis.
 https://cyclonedx.org/
+
+### VATSIM UK
+We are a division of VATSIM.net, a global community of over 100,000 aviation ethusiasts that come together to share a passion for flight simulation.
+https://www.vatsim.uk

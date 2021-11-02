@@ -1304,3 +1304,7 @@ https://www.europython-society.org/
 ### I-Synergy Framework
 Framework for .Net, UWP, WinUI and Uno Platform projects. 
 [https://github.com/I-Synergy/I-Synergy.Framework](https://github.com/I-Synergy/I-Synergy.Framework)
+
+### Oh My Zsh
+Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+https://ohmyz.sh/

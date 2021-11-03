@@ -1312,3 +1312,7 @@ https://ohmyz.sh/
 ### OWASP CycloneDX
 A lightweight software bill of materials (SBOM) standard designed for use in application security contexts and supply chain component analysis.
 https://cyclonedx.org/
+
+### BioWare Russian Community
+Open-source development of BioWare russian community sites - frameworks, cms and microservices
+https://github.com/BioWareRu

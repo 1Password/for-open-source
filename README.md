@@ -1316,3 +1316,7 @@ https://cyclonedx.org/
 ### BioWare Russian Community
 Open-source development of BioWare russian community sites - frameworks, cms and microservices
 https://github.com/BioWareRu
+
+### Apex CI-CD workflow template
+setup CI-CD for Oracle APEX apps
+https://github.com/pc8888/oci-apex-workflow-template

@@ -1324,3 +1324,7 @@ https://github.com/pc8888/oci-apex-workflow-template
 ### VATSIM UK
 We are a division of VATSIM.net, a global community of over 100,000 aviation ethusiasts that come together to share a passion for flight simulation.
 https://www.vatsim.uk
+
+### Tech Phantoms
+Tech Phantoms is an open source community run by students. We hang out to share our knowledge and to build cool projects. Come hang out with us and lets make open source a better place.
+https://opencollective.com/techphantoms

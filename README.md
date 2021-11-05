@@ -1332,3 +1332,6 @@ https://github.com/rubytr/ruby-tr
 ### Tech Phantoms
 Tech Phantoms is an open source community run by students. We hang out to share our knowledge and to build cool projects. Come hang out with us and lets make open source a better place.
 https://opencollective.com/techphantoms
+
+### Django Software Foundation Infrastructure & Operations Team
+Support, improve, and maintain the Django community services such as the [project website](https://www.djangoproject.com/), the [issue tracker](https://code.djangoproject.com/), the [CI](https://djangoci.com/), as well as some community social media accounts.

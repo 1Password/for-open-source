@@ -1325,5 +1325,13 @@ https://github.com/pc8888/oci-apex-workflow-template
 We are a division of VATSIM.net, a global community of over 100,000 aviation ethusiasts that come together to share a passion for flight simulation.
 https://www.vatsim.uk
 
+### Ruby Turkiye
+We are the Ruby user group of Turkey. Our website at https://rubyturkiye.org is developed as an open-source project for the whole community
+https://github.com/rubytr/ruby-tr
+
+### Tech Phantoms
+Tech Phantoms is an open source community run by students. We hang out to share our knowledge and to build cool projects. Come hang out with us and lets make open source a better place.
+https://opencollective.com/techphantoms
+
 ### Django Software Foundation Infrastructure & Operations Team
 Support, improve, and maintain the Django community services such as the [project website](https://www.djangoproject.com/), the [issue tracker](https://code.djangoproject.com/), the [CI](https://djangoci.com/), as well as some community social media accounts.

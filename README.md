@@ -1324,3 +1324,6 @@ https://github.com/pc8888/oci-apex-workflow-template
 ### VATSIM UK
 We are a division of VATSIM.net, a global community of over 100,000 aviation ethusiasts that come together to share a passion for flight simulation.
 https://www.vatsim.uk
+
+### Django Software Foundation Infrastructure & Operations Team
+Support, improve, and maintain the Django community services such as the [project website](https://www.djangoproject.com/), the [issue tracker](https://code.djangoproject.com/), the [CI](https://djangoci.com/), as well as some community social media accounts.

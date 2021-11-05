@@ -1328,3 +1328,7 @@ https://www.vatsim.uk
 ### Ruby Turkiye
 We are the Ruby user group of Turkey. Our website at https://rubyturkiye.org is developed as an open-source project for the whole community
 https://github.com/rubytr/ruby-tr
+
+### Tech Phantoms
+Tech Phantoms is an open source community run by students. We hang out to share our knowledge and to build cool projects. Come hang out with us and lets make open source a better place.
+https://opencollective.com/techphantoms

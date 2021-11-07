@@ -1335,3 +1335,7 @@ https://opencollective.com/techphantoms
 
 ### Django Software Foundation Infrastructure & Operations Team
 Support, improve, and maintain the Django community services such as the [project website](https://www.djangoproject.com/), the [issue tracker](https://code.djangoproject.com/), the [CI](https://djangoci.com/), as well as some community social media accounts.
+
+### VNCReInstall
+Only use the network to automatically or manually reinstall any possible Linux machine, and provide VNC visualization in the process. Avoid problems caused by some built-in customized systems.
+https://github.com/Erope/VNCReInstall

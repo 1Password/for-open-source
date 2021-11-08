@@ -1335,3 +1335,7 @@ https://opencollective.com/techphantoms
 
 ### Django Software Foundation Infrastructure & Operations Team
 Support, improve, and maintain the Django community services such as the [project website](https://www.djangoproject.com/), the [issue tracker](https://code.djangoproject.com/), the [CI](https://djangoci.com/), as well as some community social media accounts.
+
+### The Odin Project
+An open source platform for learning how to code from scratch.
+https://www.theodinproject.com/

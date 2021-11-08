@@ -1347,3 +1347,7 @@ https://github.com/semantic-release
 ### Alfred Workflows
 Labor duplication is physical work, so need to use tools to do automated treatment, saving lives.
 https://github.com/alanhg/alfred-workflows
+
+### VNCReInstall
+Only use the network to automatically or manually reinstall any possible Linux machine, and provide VNC visualization in the process. Avoid problems caused by some built-in customized systems.
+https://github.com/Erope/VNCReInstall

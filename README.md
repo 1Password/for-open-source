@@ -1351,3 +1351,7 @@ https://github.com/alanhg/alfred-workflows
 ### VNCReInstall
 Only use the network to automatically or manually reinstall any possible Linux machine, and provide VNC visualization in the process. Avoid problems caused by some built-in customized systems.
 https://github.com/Erope/VNCReInstall
+
+### The Odin Project
+An open source platform for learning how to code from scratch.
+https://www.theodinproject.com/

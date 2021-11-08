@@ -1325,6 +1325,10 @@ https://github.com/pc8888/oci-apex-workflow-template
 We are a division of VATSIM.net, a global community of over 100,000 aviation ethusiasts that come together to share a passion for flight simulation.
 https://www.vatsim.uk
 
+### Open Source Stories
+The Open Source Stories project celebrates open source as a collaboration, communication, and community by collecting narratives from creators, contributors, and consumers alike. Our goal is to make the people of open source and their lived experiences more visible.
+https://www.opensourcestories.org/
+
 ### Ruby Turkiye
 We are the Ruby user group of Turkey. Our website at https://rubyturkiye.org is developed as an open-source project for the whole community
 https://github.com/rubytr/ruby-tr

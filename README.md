@@ -1341,6 +1341,9 @@ https://opencollective.com/techphantoms
 Support, improve, and maintain the Django community services such as the [project website](https://www.djangoproject.com/), the [issue tracker](https://code.djangoproject.com/), the [CI](https://djangoci.com/), as well as some community social media accounts.
 
 ### semantic-release
-
 Fully automated version management and package publishing
 https://github.com/semantic-release
+
+### Alfred Workflows
+Labor duplication is physical work, so need to use tools to do automated treatment, saving lives.
+https://github.com/alanhg/alfred-workflows

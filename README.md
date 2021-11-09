@@ -1355,3 +1355,6 @@ https://github.com/Erope/VNCReInstall
 ### The Odin Project
 An open source platform for learning how to code from scratch.
 https://www.theodinproject.com/
+
+### Finnish Information Security Association
+Finnish Information Security Association is the largest network of information security professionals in Finland. The association's main objective is to promote cooperation in the field of information security and to act as a link between its members, as well as to promote good security practices in all areas of information security. https://tietoturva.fi

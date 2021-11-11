@@ -1355,3 +1355,7 @@ https://github.com/Erope/VNCReInstall
 ### The Odin Project
 An open source platform for learning how to code from scratch.
 https://www.theodinproject.com/
+
+### Project 404
+An open-source operating system for Smartphones based on the Android mobile platform.
+https://github.com/P-404

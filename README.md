@@ -904,6 +904,10 @@ https://vandyhacks.org/
 AssertJ is a library providing easy to use rich typed assertions.
 https://github.com/assertj
 
+### JUnit Pioneer
+JUnit Pioneer provides extensions for JUnit 5 and its Jupiter API.
+https://junit-pioneer.org
+
 ### FlaggyFlag
 FlaggyFlag is setup to output calendar (.ics) file to see what flag (royal normal/banner/half-mast) needs to be flown on which day. Personalised per country.
 https://github.com/walgemoed/FlaggyFlag

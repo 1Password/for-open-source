@@ -1363,3 +1363,9 @@ https://github.com/P-404
 ### Roguelike Celebration
 An annual conference celebrating roguelike games, procedural generation, and the history of computing. Virtual editions of our conference are hosted in our own open-source [game-like event platform and social space](https://github.com/lazerwalker/azure-mud).
 https://roguelike.club
+
+### Open Voice Network
+The Open Voice Network is a neutral, non-profit industry association dedicated to the development of the standards and ethical use guidelines that will make voice worthy of user trust. 
+https://openvoicenetwork.org/
+
+

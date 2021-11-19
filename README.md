@@ -1367,3 +1367,7 @@ https://roguelike.club
 ### JUnit Pioneer
 JUnit Pioneer provides extensions for JUnit 5 and its Jupiter API.
 https://junit-pioneer.org
+
+### Open Voice Network
+The Open Voice Network is a neutral, non-profit industry association dedicated to the development of the standards and ethical use guidelines that will make voice worthy of user trust. 
+https://openvoicenetwork.org/

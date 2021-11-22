@@ -1371,3 +1371,7 @@ https://junit-pioneer.org
 ### Open Voice Network
 The Open Voice Network is a neutral, non-profit industry association dedicated to the development of the standards and ethical use guidelines that will make voice worthy of user trust. 
 https://openvoicenetwork.org/
+
+### WePublish
+Open digital platform and infrastructure for Swiss media.
+https://wepublish.ch/

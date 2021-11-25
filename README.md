@@ -1372,6 +1372,10 @@ https://junit-pioneer.org
 The Open Voice Network is a neutral, non-profit industry association dedicated to the development of the standards and ethical use guidelines that will make voice worthy of user trust. 
 https://openvoicenetwork.org/
 
+### MetaDocencia
+We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.
+https://www.metadocencia.org
+
 ### CashWarden
 An open source financial management system.
 https://github.com/cashwarden

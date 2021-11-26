@@ -1379,3 +1379,8 @@ https://www.metadocencia.org
 ### CashWarden
 An open source financial management system.
 https://github.com/cashwarden
+
+
+### Golang Snowflake
+An Lock Free ID Generator for Golang based on Snowflake Algorithm (Twitter announced).
+https://github.com/godruoyi/go-snowflake

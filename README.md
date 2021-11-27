@@ -20,16 +20,16 @@ https://myawesomeproject.org
 ## Requirements
 To apply, you need to be a core contributor for an active open source project that is at least 30 days old. We’ll also accept applications from the organisers of community meetups and events, as well as some conferences.
 
-Open source projects need to use a standard open source license and must be non-commercial. Your project should not have paid support or pay contributors. If you or your company work on commercial projects, consider [1Password Business](https://1password.com/business/).
+Projects need to use a standard open source license and must be non-commercial. If your company is looking for an enterprise password manager, check out [1Password Business](https://1password.com/business/).
 
-If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com.
+If you're not sure if your project meets these requirements, ask us [@1Password](twitter.com/1password) or opensource@1password.com.
 
 
 ## Membership details
 * You'll receive a membership to [1Password Teams](https://1password.com/teams).
 * You can invite core contributors to your team account.
 * Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
-* Your membership does not expire. If you signed up before November 26, 2021, please email us at opensource@1password.com to convert your two-year memberhsip into a non-expiring one.
+* Your membership does not expire. If you signed up before November 26, 2021, please contact opensource@1password.com to convert your two-year membership into one that doesn't need to be renewed.
 * Memberships cannot be transferred or sold.
 
 We'll review all requests and accept them at our discretion. If accepted, your project may be listed below. Memberhips may be canceled if accounts are found to no longer meet the requirements.

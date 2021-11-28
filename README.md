@@ -1379,3 +1379,8 @@ https://www.metadocencia.org
 ### CashWarden
 An open source financial management system.
 https://github.com/cashwarden
+
+### Send-to-Telegram for Google Chrome
+A Chrome extension that allow you to send web content (tab, text, image) to your own "Telegram Bot" using official Telegram API.
+https://chrome.google.com/webstore/detail/send-to-telegram-for-goog/dgblfklicldlbclahclbkeiacpiiancc
+

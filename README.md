@@ -1379,3 +1379,7 @@ https://www.metadocencia.org
 ### CashWarden
 An open source financial management system.
 https://github.com/cashwarden
+
+### Memoria
+A site that helps people understand how human memory works.
+https://github.com/Mihai98924/memoria

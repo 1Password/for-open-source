@@ -32,7 +32,7 @@ If you're not sure if your project meets these requirements, ask us [@1Password]
 * Your membership does not expire. If you signed up before November 26, 2021, please contact opensource@1password.com to convert your two-year membership into one that doesn't need to be renewed.
 * Memberships cannot be transferred or sold.
 
-We'll review all requests and accept them at our discretion. If accepted, your project may be listed below. Memberhips may be canceled if accounts are found to no longer meet the requirements.
+We'll review all requests and accept them at our discretion. If accepted, your project may be listed below. Memberships may be canceled if accounts are found to no longer meet the requirements.
 
 -----
 

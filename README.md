@@ -1382,3 +1382,7 @@ https://github.com/cashwarden
 ### YesPlayMusic
 A third-party NetEase Music player
 https://github.com/qier222/YesPlayMusic
+
+### Golang Snowflake
+An Lock Free ID Generator for Golang based on Snowflake Algorithm (Twitter announced).
+https://github.com/godruoyi/go-snowflake

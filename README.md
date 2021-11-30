@@ -1378,3 +1378,7 @@ https://www.metadocencia.org
 ### CashWarden
 An open source financial management system.
 https://github.com/cashwarden
+
+### YesPlayMusic
+A third-party NetEase Music player
+https://github.com/qier222/YesPlayMusic

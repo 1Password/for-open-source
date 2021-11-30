@@ -1394,3 +1394,7 @@ https://chrome.google.com/webstore/detail/send-to-telegram-for-goog/dgblfklicldl
 ### Memoria
 A site that helps people understand how human memory works.
 https://github.com/Mihai98924/memoria
+
+### Jarod Working Group
+Collect and test various simplified scripts，Collect and test various simplified scripts to facilitate development and test use
+https://github.com/jarod/shell

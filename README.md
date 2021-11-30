@@ -1390,3 +1390,7 @@ https://github.com/godruoyi/go-snowflake
 ### Send-to-Telegram for Google Chrome
 A Chrome extension that allow you to send web content (tab, text, image) to your own "Telegram Bot" using official Telegram API.
 https://chrome.google.com/webstore/detail/send-to-telegram-for-goog/dgblfklicldlbclahclbkeiacpiiancc
+
+### Memoria
+A site that helps people understand how human memory works.
+https://github.com/Mihai98924/memoria

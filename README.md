@@ -1379,3 +1379,8 @@ https://www.metadocencia.org
 ### CashWarden
 An open source financial management system.
 https://github.com/cashwarden
+
+### Jarod Working Group
+Collect and test various simplified scripts，Collect and test various simplified scripts to facilitate development and test use
+https://github.com/jarod/shell
+

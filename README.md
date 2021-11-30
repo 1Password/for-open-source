@@ -1386,3 +1386,7 @@ https://github.com/qier222/YesPlayMusic
 ### Golang Snowflake
 An Lock Free ID Generator for Golang based on Snowflake Algorithm (Twitter announced).
 https://github.com/godruoyi/go-snowflake
+
+### Send-to-Telegram for Google Chrome
+A Chrome extension that allow you to send web content (tab, text, image) to your own "Telegram Bot" using official Telegram API.
+https://chrome.google.com/webstore/detail/send-to-telegram-for-goog/dgblfklicldlbclahclbkeiacpiiancc

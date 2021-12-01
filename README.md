@@ -1397,4 +1397,4 @@ https://github.com/Mihai98924/memoria
 
 ### Jarod Working Group
 Collect and test various simplified scripts，Collect and test various simplified scripts to facilitate development and test use
-https://github.com/jarod/shell
+https://github.com/jarodvip/shell

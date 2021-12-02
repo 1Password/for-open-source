@@ -18,22 +18,21 @@ https://myawesomeproject.org
 4. Create a pull request and fill out the template with the requested details.
 
 ## Requirements
-To apply, you need to be a project lead or a core contributor for an active open source project that is at least 30 days old. We’ll also accept applications from the organisers of community meetups and events, as well as some conferences.
+To apply, you need to be a core contributor for an active open source project that is at least 30 days old. We’ll also accept applications from the organisers of community meetups and events, as well as some conferences.
 
-Open source projects need to use a standard open source license and must be non-commercial. Your project should not have paid support or pay contributors. If you or your company work on commercial projects, consider [1Password Business](https://1password.com/business/). For example, AgileBits has several open source projects, but wouldn't qualify for a free team account because it's a business.
+Projects need to use a standard open source license and must be non-commercial. If your company is looking for an enterprise password manager, check out [1Password Business](https://1password.com/business/).
 
-If you're not sure if your project meets these requirements, please contact our support team at opensource@1password.com.
+If you're not sure if your project meets these requirements, ask us [@1Password](twitter.com/1password) or opensource@1password.com.
 
 
 ## Membership details
-* You'll receive two renewable years of [1Password Teams](https://1password.com/teams).
+* You'll receive a membership to [1Password Teams](https://1password.com/teams).
 * You can invite core contributors to your team account.
 * Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
-* All app updates are free while your membership is active.
-* Your membership can be renewed every two years if your project still meets the requirements. Email us at opensource@1password.com 30 days before your membership ends.
+* Your membership does not expire. If you signed up before November 26, 2021, please contact opensource@1password.com to convert your two-year membership into one that doesn't need to be renewed.
 * Memberships cannot be transferred or sold.
 
-We'll review all requests and accept them at our discretion. If accepted, your project may be listed below.
+We'll review all requests and accept them at our discretion. If accepted, your project may be listed below. Memberships may be canceled if accounts are found to no longer meet the requirements.
 
 -----
 
@@ -1355,6 +1354,50 @@ https://github.com/Erope/VNCReInstall
 ### The Odin Project
 An open source platform for learning how to code from scratch.
 https://www.theodinproject.com/
+
+### Project 404
+An open-source operating system for Smartphones based on the Android mobile platform.
+https://github.com/P-404
+
+### Roguelike Celebration
+An annual conference celebrating roguelike games, procedural generation, and the history of computing. Virtual editions of our conference are hosted in our own open-source [game-like event platform and social space](https://github.com/lazerwalker/azure-mud).
+https://roguelike.club
+
+### JUnit Pioneer
+JUnit Pioneer provides extensions for JUnit 5 and its Jupiter API.
+https://junit-pioneer.org
+
+### Open Voice Network
+The Open Voice Network is a neutral, non-profit industry association dedicated to the development of the standards and ethical use guidelines that will make voice worthy of user trust. 
+https://openvoicenetwork.org/
+
+### MetaDocencia
+We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.
+https://www.metadocencia.org
+
+### CashWarden
+An open source financial management system.
+https://github.com/cashwarden
+
+### YesPlayMusic
+A third-party NetEase Music player
+https://github.com/qier222/YesPlayMusic
+
+### Golang Snowflake
+An Lock Free ID Generator for Golang based on Snowflake Algorithm (Twitter announced).
+https://github.com/godruoyi/go-snowflake
+
+### Send-to-Telegram for Google Chrome
+A Chrome extension that allow you to send web content (tab, text, image) to your own "Telegram Bot" using official Telegram API.
+https://chrome.google.com/webstore/detail/send-to-telegram-for-goog/dgblfklicldlbclahclbkeiacpiiancc
+
+### Memoria
+A site that helps people understand how human memory works.
+https://github.com/Mihai98924/memoria
+
+### Jarod Working Group
+Collect and test various simplified scripts，Collect and test various simplified scripts to facilitate development and test use
+https://github.com/jarodvip/shell
 
 ### Finnish Information Security Association
 Finnish Information Security Association is the largest network of information security professionals in Finland. The association's main objective is to promote cooperation in the field of information security and to act as a link between its members, as well as to promote good security practices in all areas of information security. https://tietoturva.fi

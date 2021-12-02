@@ -1398,3 +1398,6 @@ https://github.com/Mihai98924/memoria
 ### Jarod Working Group
 Collect and test various simplified scripts，Collect and test various simplified scripts to facilitate development and test use
 https://github.com/jarodvip/shell
+
+### Finnish Information Security Association
+Finnish Information Security Association is the largest network of information security professionals in Finland. The association's main objective is to promote cooperation in the field of information security and to act as a link between its members, as well as to promote good security practices in all areas of information security. https://tietoturva.fi

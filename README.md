@@ -1405,3 +1405,7 @@ Finnish Information Security Association is the largest network of information s
 ### Gauge
 Gauge is a free and open source test automation framework that takes the pain out of acceptance testing.
 https://gauge.org
+
+### Yopass
+Yopass is an open source end to end encrypted password sharing utility used to quickly exchange sensitive information without leaving sensitive information in mail or chat history.
+https://github.com/jhaals/yopass

@@ -1413,3 +1413,8 @@ https://github.com/jhaals/yopass
 ### secure_linux_cis
 Linux controls defined in the Center for Internet Security (CIS) benchmarks.
 https://github.com/fervidus/secure_linux_cis
+
+### PHI Data Lab
+The [Precision Health Informatics Data Lab](https://phidatalab.org/) is an academic research group, spanning [King’s College London](https://www.kcl.ac.uk/), [University College London](https://www.ucl.ac.uk/), and the National Institute for Health Research Maudsley Biomedical Research Centre ([NIHR Maudsley BRC](https://maudsleybrc.nihr.ac.uk/)).
+We develop a number of open source code bases, including the [RADAR-base](https://radar-base.org/) open source platform to leverage data from wearables and mobile technologies. 
+https://phidatalab.org/

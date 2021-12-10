@@ -1409,3 +1409,7 @@ https://gauge.org
 ### Yopass
 Yopass is an open source end to end encrypted password sharing utility used to quickly exchange sensitive information without leaving sensitive information in mail or chat history.
 https://github.com/jhaals/yopass
+
+### secure_linux_cis
+Linux controls defined in the Center for Internet Security (CIS) benchmarks.
+https://github.com/fervidus/secure_linux_cis

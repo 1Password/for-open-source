@@ -718,6 +718,10 @@ https://www.alchemyviewer.org
 Micronaut is a modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
 https://micronaut.io/
 
+### Grails
+A powerful Groovy-based web application framework for the JVM built on top of Spring Boot.
+https://grails.org/
+
 ### Crazy Marvin
 Crazy Marvin is a collective of open sourcerers that create chatbots and apps for many platforms.
 https://crazymarvin.com/

@@ -1414,3 +1414,7 @@ https://github.com/jhaals/yopass
 The [Precision Health Informatics Data Lab](https://phidatalab.org/) is an academic research group, spanning [King’s College London](https://www.kcl.ac.uk/), [University College London](https://www.ucl.ac.uk/), and the National Institute for Health Research Maudsley Biomedical Research Centre ([NIHR Maudsley BRC](https://maudsleybrc.nihr.ac.uk/)).
 We develop a number of open source code bases, including the [RADAR-base](https://radar-base.org/) open source platform to leverage data from wearables and mobile technologies. 
 https://phidatalab.org/
+
+### Giftamizer
+Giftamizer is an open source gift registry site that has an intuitive UI that simplifies the gift of giving. We (Exploded Code) strive to provide services that enhance day to day activities with the best end user experience using the lastest technologies.  
+https://giftamizer.com/

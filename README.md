@@ -1414,3 +1414,7 @@ https://github.com/jhaals/yopass
 The [Precision Health Informatics Data Lab](https://phidatalab.org/) is an academic research group, spanning [King’s College London](https://www.kcl.ac.uk/), [University College London](https://www.ucl.ac.uk/), and the National Institute for Health Research Maudsley Biomedical Research Centre ([NIHR Maudsley BRC](https://maudsleybrc.nihr.ac.uk/)).
 We develop a number of open source code bases, including the [RADAR-base](https://radar-base.org/) open source platform to leverage data from wearables and mobile technologies. 
 https://phidatalab.org/
+
+### AusTech
+AusTech is a small group of developers, making quailty Spigot plugins that help administrators of Minecraft servers.
+https://github.com/AusTechDev

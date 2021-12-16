@@ -1418,3 +1418,7 @@ https://phidatalab.org/
 ### AusTech
 AusTech is a small group of developers, making quailty Spigot plugins that help administrators of Minecraft servers.
 https://github.com/AusTechDev
+
+### Jenkins
+An open source automation server which enables developers around the world to reliably build, test, and deploy their software
+https://www.jenkins.io

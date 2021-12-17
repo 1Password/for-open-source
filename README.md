@@ -1422,3 +1422,12 @@ https://github.com/AusTechDev
 ### Jenkins
 An open source automation server which enables developers around the world to reliably build, test, and deploy their software
 https://www.jenkins.io
+
+### Project Pro-Fli
+This open-source community-driven project is aimed at 4 major goals:
+1. Reduce the carbon emissions from flights
+2. Improve the safety standards by analyzing accidents, collaborating with big Aerospace giants etc
+3. Educate the world about the Aerospace by simplifying it and making it accessible, learners from developing world and under-developed countries can make big leaps
+4. Integrating Open-source in critical infrastructure in the flights, drones (UAV) etc
+
+https://pro-fli.github.io/

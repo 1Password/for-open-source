@@ -1410,10 +1410,22 @@ https://gauge.org
 Yopass is an open source end to end encrypted password sharing utility used to quickly exchange sensitive information without leaving sensitive information in mail or chat history.
 https://github.com/jhaals/yopass
 
+### secure_linux_cis
+Linux controls defined in the Center for Internet Security (CIS) benchmarks.
+https://github.com/fervidus/secure_linux_cis
+
 ### PHI Data Lab
 The [Precision Health Informatics Data Lab](https://phidatalab.org/) is an academic research group, spanning [King’s College London](https://www.kcl.ac.uk/), [University College London](https://www.ucl.ac.uk/), and the National Institute for Health Research Maudsley Biomedical Research Centre ([NIHR Maudsley BRC](https://maudsleybrc.nihr.ac.uk/)).
 We develop a number of open source code bases, including the [RADAR-base](https://radar-base.org/) open source platform to leverage data from wearables and mobile technologies. 
 https://phidatalab.org/
+
+### AusTech
+AusTech is a small group of developers, making quailty Spigot plugins that help administrators of Minecraft servers.
+https://github.com/AusTechDev
+
+### Jenkins
+An open source automation server which enables developers around the world to reliably build, test, and deploy their software
+https://www.jenkins.io
 
 ### Giftamizer
 Giftamizer is an open source gift registry site that has an intuitive UI that simplifies the gift of giving. We (Exploded Code) strive to provide services that enhance day to day activities with the best end user experience using the lastest technologies.  

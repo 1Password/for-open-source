@@ -1426,3 +1426,7 @@ https://github.com/AusTechDev
 ### Jenkins
 An open source automation server which enables developers around the world to reliably build, test, and deploy their software
 https://www.jenkins.io
+
+### Giftamizer
+Giftamizer is an open source gift registry site that has an intuitive UI that simplifies the gift of giving. We (Exploded Code) strive to provide services that enhance day to day activities with the best end user experience using the lastest technologies.  
+https://giftamizer.com/

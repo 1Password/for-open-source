@@ -1442,3 +1442,7 @@ This open-source community-driven project is aimed at 4 major goals:
 3. Educate the world about the Aerospace by simplifying it and making it accessible, learners from developing world and under-developed countries can make big leaps
 4. Integrating Open-source in critical infrastructure in the flights, drones (UAV) etc
 https://pro-fli.github.io/
+
+### R-Ladies Ganesville
+We are the Gainesville, FL chapter of R-Ladies. We organize meetings that promote gender diversity in the R Community.
+https://www.meetup.com/rladies-gainesville/

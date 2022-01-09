@@ -442,6 +442,10 @@ https://github.com/raku
 ### NumFOCUS
 [NumFOCUS](https://numfocus.org) provides a stable, independent, and professional home for the [open source projects](https://numfocus.org/sponsored-projects) powering contemporary scientific inquiry and business processes. We aim to ensure that funding and resources are available to sustain projects in the scientific data stack over the long haul.
 
+### Jupyter
+
+[Jupyter](https://jupyter.org) is a project and community whose goal is to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+
 ### NUSMods
 [NUSMods](https://nusmods.com) is a student maintained course catalogue, module search and timetable builder for the National University of Singapore.
 

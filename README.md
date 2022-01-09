@@ -1446,3 +1446,7 @@ https://pro-fli.github.io/
 ### R-Ladies Ganesville
 We are the Gainesville, FL chapter of R-Ladies. We organize meetings that promote gender diversity in the R Community.
 https://www.meetup.com/rladies-gainesville/
+
+### NextAuth.js
+An authentication library for modern web apps
+https://next-auth.js.org

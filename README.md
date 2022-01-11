@@ -1446,3 +1446,7 @@ https://pro-fli.github.io/
 ### R-Ladies Ganesville
 We are the Gainesville, FL chapter of R-Ladies. We organize meetings that promote gender diversity in the R Community.
 https://www.meetup.com/rladies-gainesville/
+
+### Gominima
+Lightweight and reliable backend framework for Go HTTP services with 0 dependencies.
+https://gominima.studio

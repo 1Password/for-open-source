@@ -1462,3 +1462,7 @@ https://next-auth.js.org
 ### React Native AdMob
 An open-source Google AdMob wrapper for React Native application.
 https://github.com/react-native-admob/admob
+
+### Gominima
+Lightweight and reliable backend framework for Go HTTP services with 0 dependencies.
+https://gominima.studio

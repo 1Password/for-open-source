@@ -442,6 +442,10 @@ https://github.com/raku
 ### NumFOCUS
 [NumFOCUS](https://numfocus.org) provides a stable, independent, and professional home for the [open source projects](https://numfocus.org/sponsored-projects) powering contemporary scientific inquiry and business processes. We aim to ensure that funding and resources are available to sustain projects in the scientific data stack over the long haul.
 
+### Jupyter
+
+[Jupyter](https://jupyter.org) is a project and community whose goal is to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+
 ### NUSMods
 [NUSMods](https://nusmods.com) is a student maintained course catalogue, module search and timetable builder for the National University of Singapore.
 
@@ -1446,6 +1450,14 @@ https://pro-fli.github.io/
 ### R-Ladies Ganesville
 We are the Gainesville, FL chapter of R-Ladies. We organize meetings that promote gender diversity in the R Community.
 https://www.meetup.com/rladies-gainesville/
+
+### OneBusAway
+OneBusAway is a suite of open-source tools to make public transit easier and more fun to use, including apps and server software for providing real-time and schedule information.
+https://onebusaway.org
+
+### NextAuth.js
+An authentication library for modern web apps
+https://next-auth.js.org
 
 ### React Native AdMob
 An open-source Google AdMob wrapper for React Native application.

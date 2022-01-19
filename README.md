@@ -1469,6 +1469,6 @@ https://gominima.studio
 
 ### GestaltJS
 
-Gesatlt is a batteries-included and opinionated Javascript framework for building web, mobile, and desktop apps.
+Gestalt is a batteries-included and opinionated Javascript framework for building web, mobile, and desktop apps.
 
 https://github.com/gestaltjs

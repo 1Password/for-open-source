@@ -1466,3 +1466,9 @@ https://github.com/react-native-admob/admob
 ### Gominima
 Lightweight and reliable backend framework for Go HTTP services with 0 dependencies.
 https://gominima.studio
+
+### GestaltJS
+
+Gestalt is a batteries-included and opinionated Javascript framework for building web, mobile, and desktop apps.
+
+https://github.com/gestaltjs

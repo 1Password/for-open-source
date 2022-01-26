@@ -1476,3 +1476,7 @@ https://github.com/gestaltjs
 ### notion-enhancer
 an enhancer/customiser for the all-in-one productivity workspace notion.so
 https://notion-enhancer.github.io/
+
+### CanDIG
+An open-source, standards-based, federated platform for health reasearch data discovery and analyitics.
+https://www.distributedgenomics.ca

@@ -1472,3 +1472,7 @@ https://gominima.studio
 Gestalt is a batteries-included and opinionated Javascript framework for building web, mobile, and desktop apps.
 
 https://github.com/gestaltjs
+
+### CollAction
+An open-source app that connects people to solve collective action problems.
+https://github.com/CollActionteam/collaction_app

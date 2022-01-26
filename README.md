@@ -1472,3 +1472,7 @@ https://gominima.studio
 Gestalt is a batteries-included and opinionated Javascript framework for building web, mobile, and desktop apps.
 
 https://github.com/gestaltjs
+
+### notion-enhancer
+an enhancer/customiser for the all-in-one productivity workspace notion.so
+https://notion-enhancer.github.io/

@@ -1476,3 +1476,7 @@ https://github.com/gestaltjs
 ### notion-enhancer
 an enhancer/customiser for the all-in-one productivity workspace notion.so
 https://notion-enhancer.github.io/
+
+### Alby
+Alby is a browser extension for the Bitcoin Lightning Network
+https://github.com/getAlby/lightning-browser-extension

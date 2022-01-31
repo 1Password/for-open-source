@@ -1477,6 +1477,13 @@ https://github.com/gestaltjs
 an enhancer/customiser for the all-in-one productivity workspace notion.so
 https://notion-enhancer.github.io/
 
+### CheckIP
+CheckIP is an open-source solution for IP address analysis.
+https://checkip.info
+
+### Alby
+Alby is a browser extension for the Bitcoin Lightning Network
+https://github.com/getAlby/lightning-browser-extension
 
 ### Network Share Mounter
 Network Share Mounter is a macOS utility to perform automatic network share mounts. It has arisen from the need of our users at the university to automatically mount department/usergroup specific SMB shares.    

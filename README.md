@@ -1484,3 +1484,7 @@ https://checkip.info
 ### Alby
 Alby is a browser extension for the Bitcoin Lightning Network
 https://github.com/getAlby/lightning-browser-extension
+
+### Network Share Mounter
+Network Share Mounter is a macOS utility to perform automatic network share mounts. It has arisen from the need of our users at the university to automatically mount department/usergroup specific SMB shares.    
+https://gitlab.rrze.fau.de/faumac/networkShareMounter

@@ -1476,3 +1476,7 @@ https://github.com/gestaltjs
 ### notion-enhancer
 an enhancer/customiser for the all-in-one productivity workspace notion.so
 https://notion-enhancer.github.io/
+
+### CheckIP
+CheckIP is an open-source solution for IP address analysis.
+https://checkip.info

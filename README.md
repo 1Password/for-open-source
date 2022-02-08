@@ -1492,3 +1492,7 @@ https://gitlab.rrze.fau.de/faumac/networkShareMounter
 ### CanDIG
 An open-source, standards-based, federated platform for health reasearch data discovery and analyitics.
 https://www.distributedgenomics.ca
+
+### CollAction
+An open-source app that connects people to solve collective action problems.
+https://github.com/CollActionteam/collaction_app

@@ -1496,3 +1496,7 @@ https://www.distributedgenomics.ca
 ### CollAction
 An open-source app that connects people to solve collective action problems.
 https://github.com/CollActionteam/collaction_app
+
+### Apache TVM
+Open-source deep learning compiler framework.
+https://tvm.apache.org

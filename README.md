@@ -1492,3 +1492,7 @@ https://gitlab.rrze.fau.de/faumac/networkShareMounter
 ### CanDIG
 An open-source, standards-based, federated platform for health reasearch data discovery and analyitics.
 https://www.distributedgenomics.ca
+
+### Manim
+Manim is a community maintained Python library for creating mathematical animations.
+https://www.manim.community

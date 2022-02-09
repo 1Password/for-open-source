@@ -1496,3 +1496,7 @@ https://www.distributedgenomics.ca
 ### CollAction
 An open-source app that connects people to solve collective action problems.
 https://github.com/CollActionteam/collaction_app
+
+### Manim
+Manim is a community maintained Python library for creating mathematical animations.
+https://www.manim.community

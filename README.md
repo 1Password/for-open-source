@@ -1500,3 +1500,7 @@ https://github.com/CollActionteam/collaction_app
 ### Manim
 Manim is a community maintained Python library for creating mathematical animations.
 https://www.manim.community
+
+### Apache TVM
+Open-source deep learning compiler framework.
+https://tvm.apache.org

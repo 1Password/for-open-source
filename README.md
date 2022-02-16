@@ -1504,3 +1504,7 @@ https://www.manim.community
 ### Apache TVM
 Open-source deep learning compiler framework.
 https://tvm.apache.org
+
+### RoManager
+An open-source Roblox focused Discord bot.
+https://romanager.bot

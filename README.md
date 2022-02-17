@@ -1508,3 +1508,7 @@ https://tvm.apache.org
 ### RoManager
 An open-source Roblox focused Discord bot.
 https://romanager.bot
+
+### The Quilt Project
+The Quilt project is an open, community-driven modding toolchain designed primarily for Minecraft focused on speed, ease of use, and modularity for a sleek and modern modding toolchain.
+https://quiltmc.org

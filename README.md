@@ -1512,3 +1512,7 @@ https://romanager.bot
 ### The Quilt Project
 The Quilt project is an open, community-driven modding toolchain designed primarily for Minecraft focused on speed, ease of use, and modularity for a sleek and modern modding toolchain.
 https://quiltmc.org
+
+### Java ChatBot project
+An open-source built with Java focused Facebook Chatbot
+https://github.com/zuyfun/facebook-chatbot

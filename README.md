@@ -1512,3 +1512,7 @@ https://romanager.bot
 ### The Quilt Project
 The Quilt project is an open, community-driven modding toolchain designed primarily for Minecraft focused on speed, ease of use, and modularity for a sleek and modern modding toolchain.
 https://quiltmc.org
+
+### The FastFood Project
+The FastFood Project is an open-source with Java, JavaScript, HTML, and CSS
+https://github.com/nhatnv77/WebFastFood

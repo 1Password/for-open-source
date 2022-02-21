@@ -1512,3 +1512,7 @@ https://romanager.bot
 ### The Quilt Project
 The Quilt project is an open, community-driven modding toolchain designed primarily for Minecraft focused on speed, ease of use, and modularity for a sleek and modern modding toolchain.
 https://quiltmc.org
+
+### ZaDark – Best Dark Theme for Zalo
+ZaDark helps you turn on Dark Theme for Zalo, making your eyes feel comfortable when you work, especially at night.
+https://github.com/ncdai3651408/za-dark

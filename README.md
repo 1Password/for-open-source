@@ -1524,3 +1524,7 @@ https://github.com/zuyfun/facebook-chatbot
 ### iSPA Element
 A Component Library for VueJs (Vue 3) base on Tailwind Css support Dark Mode.
 https://element.ispa.io/
+
+### The FastFood Project
+The FastFood Project is an open-source with Java, JavaScript, HTML, and CSS
+https://github.com/nhatnv77/WebFastFood

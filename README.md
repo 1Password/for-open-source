@@ -1532,3 +1532,7 @@ https://github.com/nhatnv77/WebFastFood
 ### CloudFlare dynamic DNS update utility
 Dynamic DNS record update utility for CloudFlare DNS service. Python implemented.
 https://github.com/nhymxu/cf-dns-update-python
+
+### ZaDark – Best Dark Theme for Zalo
+ZaDark helps you turn on Dark Theme for Zalo, making your eyes feel comfortable when you work, especially at night.
+https://github.com/ncdai3651408/za-dark

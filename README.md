@@ -1513,7 +1513,14 @@ https://romanager.bot
 The Quilt project is an open, community-driven modding toolchain designed primarily for Minecraft focused on speed, ease of use, and modularity for a sleek and modern modding toolchain.
 https://quiltmc.org
 
+### CColor
+CColor is an wasy and lightweight way to color text in a C++ command line application
+https://github.com/MicheleCioccarelli/CColor
+
+### Java ChatBot project
+An open-source built with Java focused Facebook Chatbot
+https://github.com/zuyfun/facebook-chatbot
+
 ### iSPA Element
 A Component Library for VueJs (Vue 3) base on Tailwind Css support Dark Mode.
-
 https://element.ispa.io/

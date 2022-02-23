@@ -1516,3 +1516,7 @@ https://quiltmc.org
 ### CColor
 CColor is an wasy and lightweight way to color text in a C++ command line application
 https://github.com/MicheleCioccarelli/CColor
+
+### Java ChatBot project
+An open-source built with Java focused Facebook Chatbot
+https://github.com/zuyfun/facebook-chatbot

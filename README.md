@@ -1528,3 +1528,7 @@ https://element.ispa.io/
 ### The FastFood Project
 The FastFood Project is an open-source with Java, JavaScript, HTML, and CSS
 https://github.com/nhatnv77/WebFastFood
+
+### CloudFlare dynamic DNS update utility
+Dynamic DNS record update utility for CloudFlare DNS service. Python implemented.
+https://github.com/nhymxu/cf-dns-update-python

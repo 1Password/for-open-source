@@ -1536,3 +1536,7 @@ https://github.com/nhymxu/cf-dns-update-python
 ### ZaDark – Best Dark Theme for Zalo
 ZaDark helps you turn on Dark Theme for Zalo, making your eyes feel comfortable when you work, especially at night.
 https://github.com/ncdai3651408/za-dark
+
+### The PHP Foundation
+The PHP Foundation is a collective of people and organizations whose mission is to ensure the prosperity of the PHP language.
+https://opencollective.com/phpfoundation

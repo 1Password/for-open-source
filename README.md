@@ -1536,3 +1536,7 @@ https://github.com/nhymxu/cf-dns-update-python
 ### ZaDark – Best Dark Theme for Zalo
 ZaDark helps you turn on Dark Theme for Zalo, making your eyes feel comfortable when you work, especially at night.
 https://github.com/ncdai3651408/za-dark
+
+### eBay - Script update price for team
+eBay tool help your team update price and push to google sheet easy!
+https://github.com/DungSherlock/eBay

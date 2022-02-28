@@ -1537,6 +1537,10 @@ https://github.com/nhymxu/cf-dns-update-python
 ZaDark helps you turn on Dark Theme for Zalo, making your eyes feel comfortable when you work, especially at night.
 https://github.com/ncdai3651408/za-dark
 
+### gsTool
+Make using easier and automatic for Google Services with Google App Script.
+https://github.com/itlvd/gsTool
+
 ### The PHP Foundation
 The PHP Foundation is a collective of people and organizations whose mission is to ensure the prosperity of the PHP language.
 https://opencollective.com/phpfoundation

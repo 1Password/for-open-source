@@ -1544,3 +1544,7 @@ https://github.com/itlvd/gsTool
 ### The PHP Foundation
 The PHP Foundation is a collective of people and organizations whose mission is to ensure the prosperity of the PHP language.
 https://opencollective.com/phpfoundation
+
+### eBay - Script update price for team
+eBay tool help your team update price and push to google sheet easy!
+https://github.com/DungSherlock/eBay

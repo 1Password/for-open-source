@@ -1556,3 +1556,7 @@ https://github.com/vnn7298/Info_Network
 ### OTP Firebase Twilio
 Create user, request OTP, get OTP through firebase platform
 https://github.com/hungvmtnfl/OTP-Firebase-Twilio
+
+### WePublish
+Open digital platform and infrastructure for Swiss media.
+https://wepublish.ch/

@@ -1556,3 +1556,7 @@ https://github.com/vnn7298/Info_Network
 ### OTP Firebase Twilio
 Create user, request OTP, get OTP through firebase platform
 https://github.com/hungvmtnfl/OTP-Firebase-Twilio
+
+### JSConf Chile
+We are the JSconf.cl team, we are on a mission to help the Javascript community in Chile.
+https://jsconf.cl

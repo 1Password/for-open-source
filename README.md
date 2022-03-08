@@ -1557,6 +1557,10 @@ https://github.com/vnn7298/Info_Network
 Create user, request OTP, get OTP through firebase platform
 https://github.com/hungvmtnfl/OTP-Firebase-Twilio
 
+### Socket_Vigenere
+Vigenere ciper with Socket TCP/IP
+https://github.com/KhoaTC/Socket_Vigenere
+
 ### WePublish
 Open digital platform and infrastructure for Swiss media.
 https://wepublish.ch/

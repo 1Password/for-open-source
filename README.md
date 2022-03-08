@@ -1564,3 +1564,7 @@ https://github.com/KhoaTC/Socket_Vigenere
 ### WePublish
 Open digital platform and infrastructure for Swiss media.
 https://wepublish.ch/
+
+### JSConf Chile
+We are the JSconf.cl team, we are on a mission to help the Javascript community in Chile.
+https://jsconf.cl

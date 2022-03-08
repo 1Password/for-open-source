@@ -1226,6 +1226,7 @@ https://github.com/SoftU2F/SoftU2F-Win
 We are a group of like minded enthusiasts from across the world who build and maintain the largest collection of Docker images on the web, and at our core are the principles behind Free and Open Source Software. Our primary goal is to provide easy-to-use and streamlined Docker images with clear and concise documentation. 
 https://www.linuxserver.io
 
+<<<<<<< HEAD
 ### FD.io
 FD.io VPP is the Swiss Army knife of networking toolchains - enabling astounding software packet processing.  Recent achievements include forwardering 1TBps of IPSEC traffic with millions of routes in the routing table on a commodity server with no special accelerators.
 https://fd.io
@@ -1568,3 +1569,15 @@ https://wepublish.ch/
 ### JSConf Chile
 We are the JSconf.cl team, we are on a mission to help the Javascript community in Chile.
 https://jsconf.cl
+
+### ESP32_LED
+Control LED RBG with ESP32 Internet of Thing
+https://github.com/cogn99/ESP32_LED
+
+### GitBOM
+[GitBOM](https://gitbom.dev/glossary/gitbom)** is a minimalistic scheme for [build tools](https://gitbom.dev/glossary/build_tool) to:
+
+1. Build a compact [artifact tree](https://gitbom.dev/glossary/artifact_tree), tracking every source code file incorporated into each built [artifact](/https://gitbom.dev/glossary/artifact).
+2. [Embed](https://gitbom.dev/glossary/gitbom/#gitbom-identifier-embedding) a unique, content-addressable reference for that [artifact tree](https://gitbom.dev/glossary/artifact_tree/), the [GitBOM identifier](https://gitbom.dev/glossary/gitbom/#gitbom-identifier), into the [artifact](https://gitbom.dev/glossary/artifact) at build time.
+
+https://gitbom.dev/

@@ -1572,3 +1572,7 @@ https://jsconf.cl
 ### ESP32_LED
 Control LED RBG with ESP32 Internet of Thing
 https://github.com/cogn99/ESP32_LED
+
+### Argo Project
+Argo Project is a collection of tools to help engineering teams get more done with Kubernetes. As a CNCF project, Argo Project has thousands for contributors. Learn more at https://argoproj.github.io/
+https://github.com/argoproj/argoproj

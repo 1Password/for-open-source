@@ -1572,3 +1572,7 @@ https://jsconf.cl
 ### ESP32_LED
 Control LED RBG with ESP32 Internet of Thing
 https://github.com/cogn99/ESP32_LED
+
+### Ubuntu Korea Community
+Ubuntu Korea Community is a South Korea based Ubuntu Linux User and Contributor community for anyone interested in Ubuntu and its related FOSS projects. We organize local Ubuntu meetup and workshop events, Provide online space for Korean Ubuntu users. We also contribute on localization of Ubuntu's UI and documentation, and host our own open source projects such as [Hanjp Input Method](https://github.com/hanjp-im). As a verified Ubuntu Local community, We also collaborate with nearby foreign local communities such as Japan, Taiwan, China and more.
+https://ubuntu-kr.org

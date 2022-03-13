@@ -1572,3 +1572,7 @@ https://jsconf.cl
 ### ESP32_LED
 Control LED RBG with ESP32 Internet of Thing
 https://github.com/cogn99/ESP32_LED
+
+### OPW_PixelManipulation
+Simple image processing with pixel
+https://github.com/thafnhlong/OPW_PixelManipulation

@@ -1597,3 +1597,7 @@ https://github.com/nervive
 Linux based Muslim friendly open source operating system for Intel x86, AMD & Server PC's. (Early stage)
 https://github.com/crescent-os
 https://crescent-os.xyz
+
+### OPW_PixelManipulation
+Simple image processing with pixel
+https://github.com/thafnhlong/OPW_PixelManipulation

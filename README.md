@@ -1574,7 +1574,7 @@ Control LED RBG with ESP32 Internet of Thing
 https://github.com/cogn99/ESP32_LED
 
 ### GitBOM
-[GitBOM](https://gitbom.dev/glossary/gitbom)** is a minimalistic scheme for [build tools](https://gitbom.dev/glossary/build_tool) to:
+[GitBOM](https://gitbom.dev/glossary/gitbom) is a minimalistic scheme for [build tools](https://gitbom.dev/glossary/build_tool) to:
 
 1. Build a compact [artifact tree](https://gitbom.dev/glossary/artifact_tree), tracking every source code file incorporated into each built [artifact](/https://gitbom.dev/glossary/artifact).
 2. [Embed](https://gitbom.dev/glossary/gitbom/#gitbom-identifier-embedding) a unique, content-addressable reference for that [artifact tree](https://gitbom.dev/glossary/artifact_tree/), the [GitBOM identifier](https://gitbom.dev/glossary/gitbom/#gitbom-identifier), into the [artifact](https://gitbom.dev/glossary/artifact) at build time.

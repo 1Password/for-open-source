@@ -1601,3 +1601,7 @@ https://crescent-os.xyz
 ### OPW_PixelManipulation
 Simple image processing with pixel
 https://github.com/thafnhlong/OPW_PixelManipulation
+
+### Cantera
+An open-source suite of tools for problems involving chemical kinetics, thermodynamics, and transport processes.
+https://cantera.org

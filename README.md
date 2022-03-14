@@ -1584,3 +1584,7 @@ https://gitbom.dev/
 ### Argo Project
 Argo Project is a collection of tools to help engineering teams get more done with Kubernetes. As a CNCF project, Argo Project has thousands for contributors. Learn more at https://argoproj.github.io/
 https://github.com/argoproj/argoproj
+
+### Ubuntu Korea Community
+Ubuntu Korea Community is a South Korea based Ubuntu Linux User and Contributor community for anyone interested in Ubuntu and its related FOSS projects. We organize local Ubuntu meetup and workshop events, Provide online space for Korean Ubuntu users. We also contribute on localization of Ubuntu's UI and documentation, and host our own open source projects such as [Hanjp Input Method](https://github.com/hanjp-im). As a verified Ubuntu Local community, We also collaborate with nearby foreign local communities such as Japan, Taiwan, China and more.
+https://ubuntu-kr.org

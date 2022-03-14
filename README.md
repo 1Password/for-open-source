@@ -1573,6 +1573,18 @@ https://jsconf.cl
 Control LED RBG with ESP32 Internet of Thing
 https://github.com/cogn99/ESP32_LED
 
+### GitBOM
+[GitBOM](https://gitbom.dev/glossary/gitbom) is a minimalistic scheme for [build tools](https://gitbom.dev/glossary/build_tool) to:
+
+1. Build a compact [artifact tree](https://gitbom.dev/glossary/artifact_tree), tracking every source code file incorporated into each built [artifact](/https://gitbom.dev/glossary/artifact).
+2. [Embed](https://gitbom.dev/glossary/gitbom/#gitbom-identifier-embedding) a unique, content-addressable reference for that [artifact tree](https://gitbom.dev/glossary/artifact_tree/), the [GitBOM identifier](https://gitbom.dev/glossary/gitbom/#gitbom-identifier), into the [artifact](https://gitbom.dev/glossary/artifact) at build time.
+
+https://gitbom.dev/
+
+### Argo Project
+Argo Project is a collection of tools to help engineering teams get more done with Kubernetes. As a CNCF project, Argo Project has thousands for contributors. Learn more at https://argoproj.github.io/
+https://github.com/argoproj/argoproj
+
 ### Ubuntu Korea Community
 Ubuntu Korea Community is a South Korea based Ubuntu Linux User and Contributor community for anyone interested in Ubuntu and its related FOSS projects. We organize local Ubuntu meetup and workshop events, Provide online space for Korean Ubuntu users. We also contribute on localization of Ubuntu's UI and documentation, and host our own open source projects such as [Hanjp Input Method](https://github.com/hanjp-im). As a verified Ubuntu Local community, We also collaborate with nearby foreign local communities such as Japan, Taiwan, China and more.
 https://ubuntu-kr.org

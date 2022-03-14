@@ -1592,3 +1592,8 @@ https://ubuntu-kr.org
 ### Nervive Studio
 Mini-studio designing and building highly-crafted tools and libraries
 https://github.com/nervive
+
+### Crescent OS
+Linux based Muslim friendly open source operating system for Intel x86, AMD & Server PC's. (Early stage)
+https://github.com/crescent-os
+https://crescent-os.xyz

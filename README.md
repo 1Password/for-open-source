@@ -1601,3 +1601,7 @@ https://crescent-os.xyz
 ### OPW_PixelManipulation
 Simple image processing with pixel
 https://github.com/thafnhlong/OPW_PixelManipulation
+
+### OpenGeoSys
+OpenGeoSys (OGS) is a scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media. 
+https://www.opengeosys.org

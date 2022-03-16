@@ -1601,3 +1601,7 @@ https://crescent-os.xyz
 ### OPW_PixelManipulation
 Simple image processing with pixel
 https://github.com/thafnhlong/OPW_PixelManipulation
+
+### Laravel.io
+The Laravel community Portal.
+https://laravel.io

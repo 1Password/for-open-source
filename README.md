@@ -1601,3 +1601,7 @@ https://crescent-os.xyz
 ### OPW_PixelManipulation
 Simple image processing with pixel
 https://github.com/thafnhlong/OPW_PixelManipulation
+
+### Ghost
+Fiercely independent publishing, memberships and subscriptions for creators and news.
+https://ghost.org

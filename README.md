@@ -1601,3 +1601,8 @@ https://crescent-os.xyz
 ### OPW_PixelManipulation
 Simple image processing with pixel
 https://github.com/thafnhlong/OPW_PixelManipulation
+
+### HackMcGill
+HackMcGill is McGill University's largest hacker collective. We annually run McGill University's largest hackathon to help empower students with technology.
+https://www.mchacks.ca
+http://github.com/hackmcgill

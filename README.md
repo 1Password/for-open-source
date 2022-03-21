@@ -1613,3 +1613,8 @@ https://www.opengeosys.org
 ### Laravel.io
 The Laravel community Portal.
 https://laravel.io
+
+### HackMcGill
+HackMcGill is McGill University's largest hacker collective. We annually run McGill University's largest hackathon to help empower students with technology.
+https://www.mchacks.ca
+http://github.com/hackmcgill

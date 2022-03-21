@@ -1618,3 +1618,7 @@ https://laravel.io
 HackMcGill is McGill University's largest hacker collective. We annually run McGill University's largest hackathon to help empower students with technology.
 https://www.mchacks.ca
 http://github.com/hackmcgill
+
+### The League of Extraordinary FoundryVTT Developers
+We are a group of open source developers creating modules for Foundry Virtual Tabletop, and providing community and mentorship for developers of all skill levels.
+https://discord.gg/fvttdevleague

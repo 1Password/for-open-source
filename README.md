@@ -1609,3 +1609,7 @@ https://cantera.org
 ### OpenGeoSys
 OpenGeoSys (OGS) is a scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media. 
 https://www.opengeosys.org
+
+### Laravel.io
+The Laravel community Portal.
+https://laravel.io

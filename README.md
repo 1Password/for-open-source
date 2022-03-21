@@ -1620,5 +1620,6 @@ https://www.mchacks.ca
 http://github.com/hackmcgill
 
 ### The League of Extraordinary FoundryVTT Developers
-We are a group of open source developers creating modules for Foundry Virtual Tabletop, and providing community and mentorship for developers of all skill levels.
+We are a group of open source developers creating modules for Foundry Virtual Tabletop, providing community and mentorship for developers of all skill levels.
 https://discord.gg/fvttdevleague
+https://github.com/League-of-Foundry-Developers

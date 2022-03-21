@@ -1602,6 +1602,14 @@ https://crescent-os.xyz
 Simple image processing with pixel
 https://github.com/thafnhlong/OPW_PixelManipulation
 
+### Cantera
+An open-source suite of tools for problems involving chemical kinetics, thermodynamics, and transport processes.
+https://cantera.org
+
+### OpenGeoSys
+OpenGeoSys (OGS) is a scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media. 
+https://www.opengeosys.org
+
 ### Laravel.io
 The Laravel community Portal.
 https://laravel.io

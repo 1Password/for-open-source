@@ -1618,3 +1618,7 @@ https://laravel.io
 HackMcGill is McGill University's largest hacker collective. We annually run McGill University's largest hackathon to help empower students with technology.
 https://www.mchacks.ca
 http://github.com/hackmcgill
+
+### casper2020
+Several tools from nginx modules to standalone psql database migration
+https://github.com/casper2020

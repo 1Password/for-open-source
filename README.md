@@ -1620,5 +1620,5 @@ https://www.mchacks.ca
 http://github.com/hackmcgill
 
 ### casper2020
-Several tools from nginx modules to standalone psql database migration
+Several different tools from nginx modules to standalone psql database migration (nando)
 https://github.com/casper2020

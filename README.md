@@ -1618,3 +1618,8 @@ https://laravel.io
 HackMcGill is McGill University's largest hacker collective. We annually run McGill University's largest hackathon to help empower students with technology.
 https://www.mchacks.ca
 http://github.com/hackmcgill
+
+### CCExtractor Development
+CCExtractor is the de-facto open source tool for anything related to closed captions and subtitles on broadcast media. CCExtractor Development maintains it and is also engaged in many other open source activities.
+https://www.ccextractor.org
+https://github.com/CCExtractor

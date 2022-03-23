@@ -1619,6 +1619,16 @@ HackMcGill is McGill University's largest hacker collective. We annually run McG
 https://www.mchacks.ca
 http://github.com/hackmcgill
 
+### The League of Extraordinary FoundryVTT Developers
+We are a group of open source developers creating modules for Foundry Virtual Tabletop, providing community and mentorship for developers of all skill levels.
+https://discord.gg/fvttdevleague
+https://github.com/League-of-Foundry-Developers
+
+### CCExtractor Development
+CCExtractor is the de-facto open source tool for anything related to closed captions and subtitles on broadcast media. CCExtractor Development maintains it and is also engaged in many other open source activities.
+https://www.ccextractor.org
+https://github.com/CCExtractor
+
 ### casper2020
 Several different tools from nginx modules to standalone psql database migration (nando)
 https://github.com/casper2020

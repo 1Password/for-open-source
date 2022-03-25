@@ -1632,3 +1632,7 @@ https://github.com/CCExtractor
 ### casper2020
 Several different tools from nginx modules to standalone psql database migration (nando)
 https://github.com/casper2020
+
+### Font Style Generator
+Open-source for creating cool texts what can be used for multi-purpose
+https://github.com/loadbot/Font-Style-Generator

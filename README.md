@@ -1632,3 +1632,7 @@ https://github.com/CCExtractor
 ### casper2020
 Several different tools from nginx modules to standalone psql database migration (nando)
 https://github.com/casper2020
+
+### GoogleTranslate PopClip Extension
+[GoogleTranslate PopClip Extension](https://github.com/wizyoung/googletranslate.popclipext) is an unofficial free Google translate Extension for the macOS app PopClip.
+https://github.com/wizyoung/googletranslate.popclipext

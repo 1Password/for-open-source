@@ -1632,3 +1632,7 @@ https://github.com/CCExtractor
 ### casper2020
 Several different tools from nginx modules to standalone psql database migration (nando)
 https://github.com/casper2020
+
+### Kata Containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+https://github.com/kata-containers

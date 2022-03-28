@@ -1648,3 +1648,7 @@ https://github.com/kata-containers
 ### Ghost
 Fiercely independent publishing, memberships and subscriptions for creators and news.
 https://ghost.org
+
+### select2OptionPicker
+Jquery plugin convert standard html select into list ui to picker
+https://github.com/nhtera/select2OptionPicker

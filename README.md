@@ -1648,3 +1648,7 @@ https://github.com/kata-containers
 ### Ghost
 Fiercely independent publishing, memberships and subscriptions for creators and news.
 https://ghost.org
+
+### Jenkins X
+CI/CD solution for modern cloud applications on Kubernetes.
+https://jenkins-x.io/

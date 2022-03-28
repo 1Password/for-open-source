@@ -1633,6 +1633,14 @@ https://github.com/CCExtractor
 Several different tools from nginx modules to standalone psql database migration (nando)
 https://github.com/casper2020
 
+### Font Style Generator
+Open-source for creating cool texts what can be used for multi-purpose
+https://github.com/loadbot/Font-Style-Generator
+
+### GoogleTranslate PopClip Extension
+[GoogleTranslate PopClip Extension](https://github.com/wizyoung/googletranslate.popclipext) is an unofficial free Google translate Extension for the macOS app PopClip.
+https://github.com/wizyoung/googletranslate.popclipext
+
 ### Kata Containers
 Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 https://github.com/kata-containers

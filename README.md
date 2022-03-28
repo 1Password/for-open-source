@@ -1633,6 +1633,10 @@ https://github.com/CCExtractor
 Several different tools from nginx modules to standalone psql database migration (nando)
 https://github.com/casper2020
 
+### Font Style Generator
+Open-source for creating cool texts what can be used for multi-purpose
+https://github.com/loadbot/Font-Style-Generator
+
 ### GoogleTranslate PopClip Extension
 [GoogleTranslate PopClip Extension](https://github.com/wizyoung/googletranslate.popclipext) is an unofficial free Google translate Extension for the macOS app PopClip.
 https://github.com/wizyoung/googletranslate.popclipext

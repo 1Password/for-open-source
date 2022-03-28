@@ -1602,6 +1602,49 @@ https://crescent-os.xyz
 Simple image processing with pixel
 https://github.com/thafnhlong/OPW_PixelManipulation
 
+### Cantera
+An open-source suite of tools for problems involving chemical kinetics, thermodynamics, and transport processes.
+https://cantera.org
+
+### OpenGeoSys
+OpenGeoSys (OGS) is a scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media. 
+https://www.opengeosys.org
+
+### Laravel.io
+The Laravel community Portal.
+https://laravel.io
+
+### HackMcGill
+HackMcGill is McGill University's largest hacker collective. We annually run McGill University's largest hackathon to help empower students with technology.
+https://www.mchacks.ca
+http://github.com/hackmcgill
+
+### The League of Extraordinary FoundryVTT Developers
+We are a group of open source developers creating modules for Foundry Virtual Tabletop, providing community and mentorship for developers of all skill levels.
+https://discord.gg/fvttdevleague
+https://github.com/League-of-Foundry-Developers
+
+### CCExtractor Development
+CCExtractor is the de-facto open source tool for anything related to closed captions and subtitles on broadcast media. CCExtractor Development maintains it and is also engaged in many other open source activities.
+https://www.ccextractor.org
+https://github.com/CCExtractor
+
+### casper2020
+Several different tools from nginx modules to standalone psql database migration (nando)
+https://github.com/casper2020
+
+### Font Style Generator
+Open-source for creating cool texts what can be used for multi-purpose
+https://github.com/loadbot/Font-Style-Generator
+
+### GoogleTranslate PopClip Extension
+[GoogleTranslate PopClip Extension](https://github.com/wizyoung/googletranslate.popclipext) is an unofficial free Google translate Extension for the macOS app PopClip.
+https://github.com/wizyoung/googletranslate.popclipext
+
+### Kata Containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+https://github.com/kata-containers
+
 ### Ghost
 Fiercely independent publishing, memberships and subscriptions for creators and news.
 https://ghost.org

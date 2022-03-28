@@ -1644,3 +1644,7 @@ https://github.com/wizyoung/googletranslate.popclipext
 ### Kata Containers
 Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 https://github.com/kata-containers
+
+### Ghost
+Fiercely independent publishing, memberships and subscriptions for creators and news.
+https://ghost.org

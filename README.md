@@ -1648,3 +1648,7 @@ https://github.com/kata-containers
 ### Ghost
 Fiercely independent publishing, memberships and subscriptions for creators and news.
 https://ghost.org
+
+### Stargazer
+Stargazer is a mini mobile Games for 3 Year Olds Children.
+https://github.com/duong199x/Stargazer

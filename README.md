@@ -1648,3 +1648,7 @@ https://github.com/kata-containers
 ### Ghost
 Fiercely independent publishing, memberships and subscriptions for creators and news.
 https://ghost.org
+
+### Maycon2-0 Repo
+A repo with some helps with pyqt6.
+https://github.com/maycon2-0

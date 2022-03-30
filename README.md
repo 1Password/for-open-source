@@ -1648,3 +1648,8 @@ https://github.com/kata-containers
 ### Ghost
 Fiercely independent publishing, memberships and subscriptions for creators and news.
 https://ghost.org
+
+### Discourse-elasticsearch
+discourse-elasticsearch is a plugin for elasticsearch forked from discourse-algolia
+https://github.com/m2nx/discourse-elasticsearch
+

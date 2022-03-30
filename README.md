@@ -1652,3 +1652,7 @@ https://ghost.org
 ### select2OptionPicker
 Jquery plugin convert standard html select into list ui to picker
 https://github.com/nhtera/select2OptionPicker
+
+### Jenkins X
+CI/CD solution for modern cloud applications on Kubernetes.
+https://jenkins-x.io/

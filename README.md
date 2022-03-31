@@ -1656,3 +1656,7 @@ https://github.com/nhtera/select2OptionPicker
 ### Jenkins X
 CI/CD solution for modern cloud applications on Kubernetes.
 https://jenkins-x.io/
+
+### hyppo
+Python package for multivariate hypothesis testing
+https://github.com/neurodata/hyppo

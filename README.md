@@ -1664,3 +1664,7 @@ https://github.com/StevenOng97/Ecommerce-Frontend
 ### Stargazer
 Stargazer is a mini mobile Games for 3 Year Olds Children.
 https://github.com/duong199x/Stargazer
+
+### Knative
+Knative is an open source, Kubernetes-based platform for building, deploying, and managing serverless and event-driven applications. Knative is a Cloud Native Computing Foundation (CNCF) incubating project.
+https://knative.dev

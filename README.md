@@ -1656,3 +1656,7 @@ https://github.com/nhtera/select2OptionPicker
 ### Jenkins X
 CI/CD solution for modern cloud applications on Kubernetes.
 https://jenkins-x.io/
+
+### Colo Shop
+Colo Shop is a shopping site that was built by an retired professinal LoL gamer and a guy who study Japanese Major at university. We both self-study our way to learn how to code, and now we are trying to build a website from scratch. We are still updating the site, it is only used to showcase our ability, completely non-commercial. (Link to website: https://style-ecommerce-prod.vercel.app/)
+https://github.com/StevenOng97/Ecommerce-Frontend

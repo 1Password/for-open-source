@@ -1656,3 +1656,7 @@ https://github.com/nhtera/select2OptionPicker
 ### Jenkins X
 CI/CD solution for modern cloud applications on Kubernetes.
 https://jenkins-x.io/
+
+### CLC Striders
+CLC Stiders running club based in Cheltenham, UK.
+https://clcstriders-runningclub.co.uk

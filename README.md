@@ -1664,3 +1664,7 @@ https://github.com/StevenOng97/Ecommerce-Frontend
 ### Stargazer
 Stargazer is a mini mobile Games for 3 Year Olds Children.
 https://github.com/duong199x/Stargazer
+
+### vue-tiny-validate
+Tiny Vue validate composition library.
+https://github.com/FrontLabsOfficial/vue-tiny-validate

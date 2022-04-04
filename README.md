@@ -1672,3 +1672,7 @@ https://github.com/m2nx/discourse-elasticsearch
 ### hyppo
 Python package for multivariate hypothesis testing
 https://github.com/neurodata/hyppo
+
+### Knative
+Knative is an open source, Kubernetes-based platform for building, deploying, and managing serverless and event-driven applications. Knative is a Cloud Native Computing Foundation (CNCF) incubating project.
+https://knative.dev

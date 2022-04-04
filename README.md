@@ -1680,3 +1680,7 @@ https://knative.dev
 ### CLC Striders
 CLC Stiders running club based in Cheltenham, UK.
 https://clcstriders-runningclub.co.uk
+
+### vue-tiny-validate
+Tiny Vue validate composition library.
+https://github.com/FrontLabsOfficial/vue-tiny-validate

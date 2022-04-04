@@ -1676,3 +1676,7 @@ https://github.com/neurodata/hyppo
 ### Knative
 Knative is an open source, Kubernetes-based platform for building, deploying, and managing serverless and event-driven applications. Knative is a Cloud Native Computing Foundation (CNCF) incubating project.
 https://knative.dev
+
+### CLC Striders
+CLC Stiders running club based in Cheltenham, UK.
+https://clcstriders-runningclub.co.uk

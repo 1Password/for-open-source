@@ -1664,3 +1664,7 @@ https://github.com/StevenOng97/Ecommerce-Frontend
 ### Stargazer
 Stargazer is a mini mobile Games for 3 Year Olds Children.
 https://github.com/duong199x/Stargazer
+
+### Discourse-elasticsearch
+discourse-elasticsearch is a plugin for elasticsearch forked from discourse-algolia
+https://github.com/m2nx/discourse-elasticsearch

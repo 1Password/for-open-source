@@ -22,7 +22,7 @@ To apply, you need to be a core contributor for an active open source project th
 
 Projects need to use a standard open source license and must be non-commercial. If your company is looking for an enterprise password manager, check out [1Password Business](https://1password.com/business/).
 
-If you're not sure if your project meets these requirements, ask us [@1Password](twitter.com/1password) or opensource@1password.com.
+If you're not sure if your project meets these requirements, ask us [@1Password](https://twitter.com/1password) or opensource@1password.com.
 
 
 ## Membership details

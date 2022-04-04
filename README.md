@@ -1668,3 +1668,7 @@ https://github.com/duong199x/Stargazer
 ### Discourse-elasticsearch
 discourse-elasticsearch is a plugin for elasticsearch forked from discourse-algolia
 https://github.com/m2nx/discourse-elasticsearch
+
+### hyppo
+Python package for multivariate hypothesis testing
+https://github.com/neurodata/hyppo

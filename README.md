@@ -1665,6 +1665,14 @@ https://github.com/StevenOng97/Ecommerce-Frontend
 Stargazer is a mini mobile Games for 3 Year Olds Children.
 https://github.com/duong199x/Stargazer
 
+### Discourse-elasticsearch
+discourse-elasticsearch is a plugin for elasticsearch forked from discourse-algolia
+https://github.com/m2nx/discourse-elasticsearch
+
+### hyppo
+Python package for multivariate hypothesis testing
+https://github.com/neurodata/hyppo
+
 ### Knative
 Knative is an open source, Kubernetes-based platform for building, deploying, and managing serverless and event-driven applications. Knative is a Cloud Native Computing Foundation (CNCF) incubating project.
 https://knative.dev

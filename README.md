@@ -1688,3 +1688,8 @@ https://github.com/FrontLabsOfficial/vue-tiny-validate
 ### Typelevel
 Typelevel is an association of projects and individuals united to foster an inclusive, welcoming, and safe environment around functional programming in Scala.
 https://typelevel.org
+
+### SELI LEE
+I am an indivisual business owner/developer and I develop solutions for research and business.
+https://sally20921.github.io
+

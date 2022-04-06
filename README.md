@@ -1688,3 +1688,8 @@ https://github.com/FrontLabsOfficial/vue-tiny-validate
 ### Typelevel
 Typelevel is an association of projects and individuals united to foster an inclusive, welcoming, and safe environment around functional programming in Scala.
 https://typelevel.org
+
+### Nerves Project
+Nerves defines a new way to build embedded systems using Elixir.
+https://nerves-project.org
+https://hexdocs.pm/nerves

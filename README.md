@@ -1688,3 +1688,8 @@ https://github.com/FrontLabsOfficial/vue-tiny-validate
 ### Typelevel
 Typelevel is an association of projects and individuals united to foster an inclusive, welcoming, and safe environment around functional programming in Scala.
 https://typelevel.org
+
+### Thermia Online API
+A Thermia Online API is a Python library that allows anyone to connect to their Thermia heat pump, fetch its data, control its temperatures and download historic information for analytical usage.
+https://github.com/klejejs/python-thermia-online-api
+

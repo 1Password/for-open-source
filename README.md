@@ -1696,3 +1696,8 @@ https://github.com/maycon2-0
 ### Typed Settings
 Safe and flexible settings in Python: Structure and validate your settings with attrs classes and load them from any source (e.g., env vars, config files, CLI options, 1Password, …).
 https://typed-settings.readthedocs.io
+
+### Nerves Project
+Nerves defines a new way to build embedded systems using Elixir.
+https://nerves-project.org
+https://hexdocs.pm/nerves

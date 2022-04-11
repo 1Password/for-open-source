@@ -1593,10 +1593,10 @@ https://ubuntu-kr.org
 Mini-studio designing and building highly-crafted tools and libraries
 https://github.com/nervive
 
-### Crescent OS
+### Sabily OS
 Linux based Muslim friendly open source operating system for Intel x86, AMD & Server PC's. (Early stage)
-https://github.com/crescent-os
-https://crescent-os.xyz
+https://github.com/sabily-os
+
 
 ### OPW_PixelManipulation
 Simple image processing with pixel
@@ -1688,6 +1688,10 @@ https://github.com/FrontLabsOfficial/vue-tiny-validate
 ### Typelevel
 Typelevel is an association of projects and individuals united to foster an inclusive, welcoming, and safe environment around functional programming in Scala.
 https://typelevel.org
+
+### Maycon2-0 Repo
+A repo with some helps with pyqt6.
+https://github.com/maycon2-0
 
 ### Typed Settings
 Safe and flexible settings in Python: Structure and validate your settings with attrs classes and load them from any source (e.g., env vars, config files, CLI options, 1Password, …).

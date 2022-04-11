@@ -1705,3 +1705,8 @@ https://hexdocs.pm/nerves
 ### Thermia Online API
 A Thermia Online API is a Python library that allows anyone to connect to their Thermia heat pump, fetch its data, control its temperatures and download historic information for analytical usage.
 https://github.com/klejejs/python-thermia-online-api
+
+### Mifos
+
+Open source core banking platform for democratizing financial services and scaling the development and impact of inclusive fintech to advance the financial health of the 3 billion underbanked.
+https://mifos.org

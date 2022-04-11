@@ -22,7 +22,7 @@ To apply, you need to be a core contributor for an active open source project th
 
 Projects need to use a standard open source license and must be non-commercial. If your company is looking for an enterprise password manager, check out [1Password Business](https://1password.com/business/).
 
-If you're not sure if your project meets these requirements, ask us [@1Password](twitter.com/1password) or opensource@1password.com.
+If you're not sure if your project meets these requirements, ask us [@1Password](https://twitter.com/1password) or opensource@1password.com.
 
 
 ## Membership details
@@ -1648,6 +1648,46 @@ https://github.com/kata-containers
 ### Ghost
 Fiercely independent publishing, memberships and subscriptions for creators and news.
 https://ghost.org
+
+### select2OptionPicker
+Jquery plugin convert standard html select into list ui to picker
+https://github.com/nhtera/select2OptionPicker
+
+### Jenkins X
+CI/CD solution for modern cloud applications on Kubernetes.
+https://jenkins-x.io/
+
+### Colo Shop
+Colo Shop is a shopping site that was built by an retired professinal LoL gamer and a guy who study Japanese Major at university. We both self-study our way to learn how to code, and now we are trying to build a website from scratch. We are still updating the site, it is only used to showcase our ability, completely non-commercial. (Link to website: https://style-ecommerce-prod.vercel.app/)
+https://github.com/StevenOng97/Ecommerce-Frontend
+
+### Stargazer
+Stargazer is a mini mobile Games for 3 Year Olds Children.
+https://github.com/duong199x/Stargazer
+
+### Discourse-elasticsearch
+discourse-elasticsearch is a plugin for elasticsearch forked from discourse-algolia
+https://github.com/m2nx/discourse-elasticsearch
+
+### hyppo
+Python package for multivariate hypothesis testing
+https://github.com/neurodata/hyppo
+
+### Knative
+Knative is an open source, Kubernetes-based platform for building, deploying, and managing serverless and event-driven applications. Knative is a Cloud Native Computing Foundation (CNCF) incubating project.
+https://knative.dev
+
+### CLC Striders
+CLC Stiders running club based in Cheltenham, UK.
+https://clcstriders-runningclub.co.uk
+
+### vue-tiny-validate
+Tiny Vue validate composition library.
+https://github.com/FrontLabsOfficial/vue-tiny-validate
+
+### Typelevel
+Typelevel is an association of projects and individuals united to foster an inclusive, welcoming, and safe environment around functional programming in Scala.
+https://typelevel.org
 
 ### Maycon2-0 Repo
 A repo with some helps with pyqt6.

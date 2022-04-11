@@ -1701,3 +1701,7 @@ https://typed-settings.readthedocs.io
 Nerves defines a new way to build embedded systems using Elixir.
 https://nerves-project.org
 https://hexdocs.pm/nerves
+
+### Thermia Online API
+A Thermia Online API is a Python library that allows anyone to connect to their Thermia heat pump, fetch its data, control its temperatures and download historic information for analytical usage.
+https://github.com/klejejs/python-thermia-online-api

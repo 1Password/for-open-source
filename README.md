@@ -1705,3 +1705,8 @@ https://hexdocs.pm/nerves
 ### Thermia Online API
 A Thermia Online API is a Python library that allows anyone to connect to their Thermia heat pump, fetch its data, control its temperatures and download historic information for analytical usage.
 https://github.com/klejejs/python-thermia-online-api
+
+### Codeurs en Seine
+Codeurs en Seine is a free conference that takes place every November in Rouen, France, for developers, by developers, powered by a non profit organisation. Codeurs en Seine also hosts a monthly meetup and is live streaming some of its talks on Twitch.
+https://www.codeursenseine.com/
+https://github.com/CodeursEnSeine

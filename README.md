@@ -1707,5 +1707,5 @@ A Thermia Online API is a Python library that allows anyone to connect to their 
 https://github.com/klejejs/python-thermia-online-api
 
 ### Hack Club
-Hack Club is a global nonprofit network of high school hackers, makers, and coders, fully open source and transparent.
+[Hack Club](https://hackclub.com) is a global nonprofit network of high school hackers, makers, and coders, fully open source and transparent.
 https://hackclub.com/opensource

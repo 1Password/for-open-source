@@ -1705,3 +1705,7 @@ https://hexdocs.pm/nerves
 ### Thermia Online API
 A Thermia Online API is a Python library that allows anyone to connect to their Thermia heat pump, fetch its data, control its temperatures and download historic information for analytical usage.
 https://github.com/klejejs/python-thermia-online-api
+
+### ContentCenterize
+A Web Software to manage all the content in Net/Internet, including tools to verify the ownership of one's website.
+https://github.com/ContentCenterize/Website

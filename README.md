@@ -1715,6 +1715,9 @@ https://github.com/CodeursEnSeine
 Open source core banking platform for composable financial services. 
 
 ### Mifos
-
 Open source core banking platform for democratizing financial services and scaling the development and impact of inclusive fintech to advance the financial health of the 3 billion underbanked.
 https://mifos.org
+
+### ContentCenterize
+A Web Software to manage all the content in Net/Internet, including tools to verify the ownership of one's website.
+https://github.com/ContentCenterize/Website

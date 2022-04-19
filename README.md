@@ -1706,6 +1706,22 @@ https://hexdocs.pm/nerves
 A Thermia Online API is a Python library that allows anyone to connect to their Thermia heat pump, fetch its data, control its temperatures and download historic information for analytical usage.
 https://github.com/klejejs/python-thermia-online-api
 
+### Codeurs en Seine
+Codeurs en Seine is a free conference that takes place every November in Rouen, France, for developers, by developers, powered by a non profit organisation. Codeurs en Seine also hosts a monthly meetup and is live streaming some of its talks on Twitch.
+https://www.codeursenseine.com/
+https://github.com/CodeursEnSeine
+
+### Apache Fineract
+Open source core banking platform for composable financial services. 
+
+### Mifos
+Open source core banking platform for democratizing financial services and scaling the development and impact of inclusive fintech to advance the financial health of the 3 billion underbanked.
+https://mifos.org
+
+### ContentCenterize
+A Web Software to manage all the content in Net/Internet, including tools to verify the ownership of one's website.
+https://github.com/ContentCenterize/Website
+
 ### Hack Club
 [Hack Club](https://hackclub.com) is a global nonprofit network of high school hackers, makers, and coders, fully open source and transparent.
 https://hackclub.com/opensource

@@ -1714,3 +1714,7 @@ https://github.com/CodeursEnSeine
 ### Apache Fineract
 Open source core banking platform for composable financial services. 
 
+### Mifos
+
+Open source core banking platform for democratizing financial services and scaling the development and impact of inclusive fintech to advance the financial health of the 3 billion underbanked.
+https://mifos.org

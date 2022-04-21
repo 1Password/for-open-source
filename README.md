@@ -1721,3 +1721,7 @@ https://mifos.org
 ### ContentCenterize
 A Web Software to manage all the content in Net/Internet, including tools to verify the ownership of one's website.
 https://github.com/ContentCenterize/Website
+
+### Sous-Chefs
+The Sous Chefs are a community of Chef cookbook maintainers working together to maintain important cookbooks.
+https://sous-chefs.org/

@@ -1223,7 +1223,7 @@ A software implementation of hardware FIDO U2F(YubiKey for example) authenticati
 https://github.com/SoftU2F/SoftU2F-Win
 
 ### LinuxServer.io
-We are a group of like minded enthusiasts from across the world who build and maintain the largest collection of Docker images on the web, and at our core are the principles behind Free and Open Source Software. Our primary goal is to provide easy-to-use and streamlined Docker images with clear and concise documentation. 
+We are a group of like minded enthusiasts from across the world who build and maintain the largest collection of Docker images on the web, and at our core are the principles behind Free and Open Source Software. Our primary goal is to provide easy-to-use and streamlined Docker images with clear and concise documentation.
 https://www.linuxserver.io
 
 ### FD.io
@@ -1286,12 +1286,12 @@ A Minecraft server implementation written in Rust.
 https://feathermc.org
 
 ### Black Magic's Surge Modules
-A set of iOS surge application modules, including automatic scripts, cronjobs, panels and more. 
+A set of iOS surge application modules, including automatic scripts, cronjobs, panels and more.
 https://github.com/Black-Magic-Lab/Surge
 
 ### Materials Project
-The Materials Project is an academic project that delivers open access to computed information about 
-crystalline materials, as well as maintaining a stack of open-source scientific software used to 
+The Materials Project is an academic project that delivers open access to computed information about
+crystalline materials, as well as maintaining a stack of open-source scientific software used to
 perform calculations for materials science.
 https://materialsproject.org
 
@@ -1300,7 +1300,7 @@ Python Italia organises PyCon Italia and other events.
 https://github.com/pythonitalia
 
 ### Picolabs
-Pico Labs is an open source project for Picos, an actor-based programming system that supports people-centric, 
+Pico Labs is an open source project for Picos, an actor-based programming system that supports people-centric,
 reactive programming on the Internet of Things.
 https://picolabs.atlassian.net/wiki/spaces/docs/overview
 
@@ -1309,7 +1309,7 @@ The EuroPython Society (EPS) is a Swedish non-profit organization which organize
 https://www.europython-society.org/
 
 ### I-Synergy Framework
-Framework for .Net, UWP, WinUI and Uno Platform projects. 
+Framework for .Net, UWP, WinUI and Uno Platform projects.
 [https://github.com/I-Synergy/I-Synergy.Framework](https://github.com/I-Synergy/I-Synergy.Framework)
 
 ### Oh My Zsh
@@ -1376,7 +1376,7 @@ JUnit Pioneer provides extensions for JUnit 5 and its Jupiter API.
 https://junit-pioneer.org
 
 ### Open Voice Network
-The Open Voice Network is a neutral, non-profit industry association dedicated to the development of the standards and ethical use guidelines that will make voice worthy of user trust. 
+The Open Voice Network is a neutral, non-profit industry association dedicated to the development of the standards and ethical use guidelines that will make voice worthy of user trust.
 https://openvoicenetwork.org/
 
 ### MetaDocencia
@@ -1424,7 +1424,7 @@ https://github.com/fervidus/secure_linux_cis
 
 ### PHI Data Lab
 The [Precision Health Informatics Data Lab](https://phidatalab.org/) is an academic research group, spanning [King’s College London](https://www.kcl.ac.uk/), [University College London](https://www.ucl.ac.uk/), and the National Institute for Health Research Maudsley Biomedical Research Centre ([NIHR Maudsley BRC](https://maudsleybrc.nihr.ac.uk/)).
-We develop a number of open source code bases, including the [RADAR-base](https://radar-base.org/) open source platform to leverage data from wearables and mobile technologies. 
+We develop a number of open source code bases, including the [RADAR-base](https://radar-base.org/) open source platform to leverage data from wearables and mobile technologies.
 https://phidatalab.org/
 
 ### AusTech
@@ -1436,7 +1436,7 @@ An open source automation server which enables developers around the world to re
 https://www.jenkins.io
 
 ### Giftamizer
-Giftamizer is an open source gift registry site that has an intuitive UI that simplifies the gift of giving. We (Exploded Code) strive to provide services that enhance day to day activities with the best end user experience using the lastest technologies.  
+Giftamizer is an open source gift registry site that has an intuitive UI that simplifies the gift of giving. We (Exploded Code) strive to provide services that enhance day to day activities with the best end user experience using the lastest technologies.
 https://giftamizer.com/
 
 ### Project Pro-Fli
@@ -1486,7 +1486,7 @@ Alby is a browser extension for the Bitcoin Lightning Network
 https://github.com/getAlby/lightning-browser-extension
 
 ### Network Share Mounter
-Network Share Mounter is a macOS utility to perform automatic network share mounts. It has arisen from the need of our users at the university to automatically mount department/usergroup specific SMB shares.    
+Network Share Mounter is a macOS utility to perform automatic network share mounts. It has arisen from the need of our users at the university to automatically mount department/usergroup specific SMB shares.
 https://gitlab.rrze.fau.de/faumac/networkShareMounter
 
 ### CanDIG
@@ -1607,7 +1607,7 @@ An open-source suite of tools for problems involving chemical kinetics, thermody
 https://cantera.org
 
 ### OpenGeoSys
-OpenGeoSys (OGS) is a scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media. 
+OpenGeoSys (OGS) is a scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media.
 https://www.opengeosys.org
 
 ### Laravel.io
@@ -1712,7 +1712,7 @@ https://www.codeursenseine.com/
 https://github.com/CodeursEnSeine
 
 ### Apache Fineract
-Open source core banking platform for composable financial services. 
+Open source core banking platform for composable financial services.
 
 ### Mifos
 Open source core banking platform for democratizing financial services and scaling the development and impact of inclusive fintech to advance the financial health of the 3 billion underbanked.
@@ -1725,3 +1725,7 @@ https://github.com/ContentCenterize/Website
 ### Sous-Chefs
 The Sous Chefs are a community of Chef cookbook maintainers working together to maintain important cookbooks.
 https://sous-chefs.org/
+
+### Test-Kitchen
+Test Kitchen is an OpenSource integration tool for developing and testing infrastructure code and software on isolated target platforms.
+<https://kitchen.ci>

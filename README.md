@@ -1729,3 +1729,7 @@ https://sous-chefs.org/
 ### Test-Kitchen
 Test Kitchen is an OpenSource integration tool for developing and testing infrastructure code and software on isolated target platforms.
 <https://kitchen.ci>
+
+### SerializationXml
+.NET XML Serialization Helper
+https://github.com/khanhnd157/SerializationXml

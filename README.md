@@ -1733,3 +1733,7 @@ Test Kitchen is an OpenSource integration tool for developing and testing infras
 ### SerializationXml
 .NET XML Serialization Helper
 https://github.com/khanhnd157/SerializationXml
+
+### Cortex
+Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
+https://github.com/cortexproject/cortex

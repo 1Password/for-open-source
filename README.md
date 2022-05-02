@@ -1737,3 +1737,7 @@ https://github.com/khanhnd157/SerializationXml
 ### Contao Open Source CMS
 Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications.
 https://contao.org
+
+### Cortex
+Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
+https://github.com/cortexproject/cortex

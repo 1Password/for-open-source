@@ -1741,3 +1741,7 @@ https://contao.org
 ### Cortex
 Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
 https://github.com/cortexproject/cortex
+
+### Kyverno
+Kyverno is a policy engine designed for Kubernetes. With Kyverno, policies are managed as Kubernetes resources and no new language is required to write policies. Kyverno is a [CNCF project](https://www.cncf.io/projects/kyverno/).
+https://kyverno.io/

@@ -1754,3 +1754,6 @@ https://github.com/djactor/SpeechToText.git
 The Washtenaw ID Project is a non-profit organization based in Washtenaw County, Michigan that seeks to ensure that all residents of Washtenaw County have meaningful access to a government-issued ID that validates their identity and residency. We are building a web app to help people find businesses that actively support the ID and accept it as proof of identity.
 http://www.washtenawid.com/who-we-are/
 https://github.com/washtenawIdtreble?tab=repositories
+
+### Glynhack
+Glynhack ([website](https://glynhack.vercel.app) | [github](https://github.com/glynhack)) is the coding club for the students at Glyn school.

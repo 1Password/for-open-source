@@ -1757,3 +1757,6 @@ https://github.com/washtenawIdtreble?tab=repositories
 
 ### Glynhack
 Glynhack ([website](https://glynhack.vercel.app) | [github](https://github.com/glynhack)) is the coding club for the students at Glyn school.
+
+### PureScript
+PureScript ([website](https://www.purescript.org/) | [github](https://github.com/purescript/purescript) | [try](https://try.purescript.org/)) is a strict, purely functional, modular, programming language inspired by Haskell which compiles to readable JavaScript with a nominal foreign function interface.

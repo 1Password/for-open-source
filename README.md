@@ -1758,5 +1758,8 @@ https://github.com/washtenawIdtreble?tab=repositories
 ### Glynhack
 Glynhack ([website](https://glynhack.vercel.app) | [github](https://github.com/glynhack)) is the coding club for the students at Glyn school.
 
+### Twitch Timestamper
+Twitch Timestamper [website](https://vodtimer.imsam.ca/) [github](https://github.com/samerbam/twitch-timestamper) is a quick and easy way to create a youtube description with timestamps for each category you streamed.
+
 ### PureScript
 PureScript ([website](https://www.purescript.org/) | [github](https://github.com/purescript/purescript) | [try](https://try.purescript.org/)) is a strict, purely functional, modular, programming language inspired by Haskell which compiles to readable JavaScript with a nominal foreign function interface.

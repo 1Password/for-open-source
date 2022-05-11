@@ -1763,3 +1763,7 @@ Twitch Timestamper [website](https://vodtimer.imsam.ca/) [github](https://github
 
 ### PureScript
 PureScript ([website](https://www.purescript.org/) | [github](https://github.com/purescript/purescript) | [try](https://try.purescript.org/)) is a strict, purely functional, modular, programming language inspired by Haskell which compiles to readable JavaScript with a nominal foreign function interface.
+
+### Testify — Android Screenshot Testing
+Testify allows you to easily set up a variety of screenshot tests for your Android project. Testify screenshot tests are built on top of Android Instrumentation tests and so integrate seamlessly with your existing test suites. You can run tests and capture screenshots from within Android Studio or using the Gradle command-line tools. Testify also works well with most Continuous Integration services.
+http://testify.dev

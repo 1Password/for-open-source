@@ -1512,3 +1512,7 @@ https://romanager.bot
 ### The Quilt Project
 The Quilt project is an open, community-driven modding toolchain designed primarily for Minecraft focused on speed, ease of use, and modularity for a sleek and modern modding toolchain.
 https://quiltmc.org
+
+### NAU Alarm
+NAU Alarm is an open source software that monitoring bio-reactor system in realtime. It parses log file from the fermentor then display its status on a monitor. Depend on each protocol, NAU will announce if any paramenter of the system is out of the setting ranges.
+https://github.com/trungnghiatn/NAU-Alarm

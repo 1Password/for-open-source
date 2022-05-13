@@ -1767,3 +1767,8 @@ PureScript ([website](https://www.purescript.org/) | [github](https://github.com
 ### Testify — Android Screenshot Testing
 Testify allows you to easily set up a variety of screenshot tests for your Android project. Testify screenshot tests are built on top of Android Instrumentation tests and so integrate seamlessly with your existing test suites. You can run tests and capture screenshots from within Android Studio or using the Gradle command-line tools. Testify also works well with most Continuous Integration services.
 http://testify.dev
+
+### Distributed Application Runtime (Dapr)
+The Distributed Application Runtime (Dapr) is an open source, project that provides APIs that simplify microservice development and allow you to build complex distributed applications for platforms such as Kubernetes.
+Dapr is a Cloud Native Computing Foundation (CNCF) incubating project.
+https://dapr.io

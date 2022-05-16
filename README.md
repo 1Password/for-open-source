@@ -1775,3 +1775,9 @@ https://dapr.io
 
 ### SwiftUI Examples
 A free to use repository containing code projects and resources kept up to date designed to combat the issue of ever deleloping swift language standards and to aid new iOS developers with their development journey. [github](https://github.com/quintenbuwalda/SwiftUI-Examples)
+
+### Webpasgen
+A web-based password manager that runs 100% offline locally in your browser. It provides different
+types of password formats of passphrases, pseudowords, and random meaningless password strings,
+with incredible language support (30+ languages currently) and attention paid to verbal and visual
+ambiguity, memorability, error checking, and other features. https://github.com/atoponce/webpassgen

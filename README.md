@@ -1772,3 +1772,6 @@ http://testify.dev
 The Distributed Application Runtime (Dapr) is an open source, project that provides APIs that simplify microservice development and allow you to build complex distributed applications for platforms such as Kubernetes.
 Dapr is a Cloud Native Computing Foundation (CNCF) incubating project.
 https://dapr.io
+
+### SwiftUI Examples
+A free to use repository containing code projects and resources kept up to date designed to combat the issue of ever deleloping swift language standards and to aid new iOS developers with their development journey. [github](https://github.com/quintenbuwalda/SwiftUI-Examples)

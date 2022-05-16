@@ -1513,6 +1513,265 @@ https://romanager.bot
 The Quilt project is an open, community-driven modding toolchain designed primarily for Minecraft focused on speed, ease of use, and modularity for a sleek and modern modding toolchain.
 https://quiltmc.org
 
-### NAU Alarm
-NAU Alarm is an open source software that monitoring bio-reactor system in realtime. It parses log file from the fermentor then display its status on a monitor. Depend on each protocol, NAU will announce if any paramenter of the system is out of the setting ranges.
-https://github.com/trungnghiatn/NAU-Alarm
+### CColor
+CColor is an wasy and lightweight way to color text in a C++ command line application
+https://github.com/MicheleCioccarelli/CColor
+
+### Java ChatBot project
+An open-source built with Java focused Facebook Chatbot
+https://github.com/zuyfun/facebook-chatbot
+
+### iSPA Element
+A Component Library for VueJs (Vue 3) base on Tailwind Css support Dark Mode.
+https://element.ispa.io/
+
+### The FastFood Project
+The FastFood Project is an open-source with Java, JavaScript, HTML, and CSS
+https://github.com/nhatnv77/WebFastFood
+
+### CloudFlare dynamic DNS update utility
+Dynamic DNS record update utility for CloudFlare DNS service. Python implemented.
+https://github.com/nhymxu/cf-dns-update-python
+
+### ZaDark – Best Dark Theme for Zalo
+ZaDark helps you turn on Dark Theme for Zalo, making your eyes feel comfortable when you work, especially at night.
+https://github.com/ncdai3651408/za-dark
+
+### gsTool
+Make using easier and automatic for Google Services with Google App Script.
+https://github.com/itlvd/gsTool
+
+### The PHP Foundation
+The PHP Foundation is a collective of people and organizations whose mission is to ensure the prosperity of the PHP language.
+https://opencollective.com/phpfoundation
+
+### eBay - Script update price for team
+eBay tool help your team update price and push to google sheet easy!
+https://github.com/DungSherlock/eBay
+
+### Network info - MAC Address via NetworkInterface
+Open-source check info network, mac Address details. Java implemented.
+https://github.com/vnn7298/Info_Network
+
+### OTP Firebase Twilio
+Create user, request OTP, get OTP through firebase platform
+https://github.com/hungvmtnfl/OTP-Firebase-Twilio
+
+### Socket_Vigenere
+Vigenere ciper with Socket TCP/IP
+https://github.com/KhoaTC/Socket_Vigenere
+
+### WePublish
+Open digital platform and infrastructure for Swiss media.
+https://wepublish.ch/
+
+### JSConf Chile
+We are the JSconf.cl team, we are on a mission to help the Javascript community in Chile.
+https://jsconf.cl
+
+### ESP32_LED
+Control LED RBG with ESP32 Internet of Thing
+https://github.com/cogn99/ESP32_LED
+
+### GitBOM
+[GitBOM](https://gitbom.dev/glossary/gitbom) is a minimalistic scheme for [build tools](https://gitbom.dev/glossary/build_tool) to:
+
+1. Build a compact [artifact tree](https://gitbom.dev/glossary/artifact_tree), tracking every source code file incorporated into each built [artifact](/https://gitbom.dev/glossary/artifact).
+2. [Embed](https://gitbom.dev/glossary/gitbom/#gitbom-identifier-embedding) a unique, content-addressable reference for that [artifact tree](https://gitbom.dev/glossary/artifact_tree/), the [GitBOM identifier](https://gitbom.dev/glossary/gitbom/#gitbom-identifier), into the [artifact](https://gitbom.dev/glossary/artifact) at build time.
+
+https://gitbom.dev/
+
+### Argo Project
+Argo Project is a collection of tools to help engineering teams get more done with Kubernetes. As a CNCF project, Argo Project has thousands for contributors. Learn more at https://argoproj.github.io/
+https://github.com/argoproj/argoproj
+
+### Ubuntu Korea Community
+Ubuntu Korea Community is a South Korea based Ubuntu Linux User and Contributor community for anyone interested in Ubuntu and its related FOSS projects. We organize local Ubuntu meetup and workshop events, Provide online space for Korean Ubuntu users. We also contribute on localization of Ubuntu's UI and documentation, and host our own open source projects such as [Hanjp Input Method](https://github.com/hanjp-im). As a verified Ubuntu Local community, We also collaborate with nearby foreign local communities such as Japan, Taiwan, China and more.
+https://ubuntu-kr.org
+
+### Nervive Studio
+Mini-studio designing and building highly-crafted tools and libraries
+https://github.com/nervive
+
+### Sabily OS
+Linux based Muslim friendly open source operating system for Intel x86, AMD & Server PC's. (Early stage)
+https://github.com/sabily-os
+
+
+### OPW_PixelManipulation
+Simple image processing with pixel
+https://github.com/thafnhlong/OPW_PixelManipulation
+
+### Cantera
+An open-source suite of tools for problems involving chemical kinetics, thermodynamics, and transport processes.
+https://cantera.org
+
+### OpenGeoSys
+OpenGeoSys (OGS) is a scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media.
+https://www.opengeosys.org
+
+### Laravel.io
+The Laravel community Portal.
+https://laravel.io
+
+### HackMcGill
+HackMcGill is McGill University's largest hacker collective. We annually run McGill University's largest hackathon to help empower students with technology.
+https://www.mchacks.ca
+http://github.com/hackmcgill
+
+### The League of Extraordinary FoundryVTT Developers
+We are a group of open source developers creating modules for Foundry Virtual Tabletop, providing community and mentorship for developers of all skill levels.
+https://discord.gg/fvttdevleague
+https://github.com/League-of-Foundry-Developers
+
+### CCExtractor Development
+CCExtractor is the de-facto open source tool for anything related to closed captions and subtitles on broadcast media. CCExtractor Development maintains it and is also engaged in many other open source activities.
+https://www.ccextractor.org
+https://github.com/CCExtractor
+
+### casper2020
+Several different tools from nginx modules to standalone psql database migration (nando)
+https://github.com/casper2020
+
+### Font Style Generator
+Open-source for creating cool texts what can be used for multi-purpose
+https://github.com/loadbot/Font-Style-Generator
+
+### GoogleTranslate PopClip Extension
+[GoogleTranslate PopClip Extension](https://github.com/wizyoung/googletranslate.popclipext) is an unofficial free Google translate Extension for the macOS app PopClip.
+https://github.com/wizyoung/googletranslate.popclipext
+
+### Kata Containers
+Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+https://github.com/kata-containers
+
+### Ghost
+Fiercely independent publishing, memberships and subscriptions for creators and news.
+https://ghost.org
+
+### select2OptionPicker
+Jquery plugin convert standard html select into list ui to picker
+https://github.com/nhtera/select2OptionPicker
+
+### Jenkins X
+CI/CD solution for modern cloud applications on Kubernetes.
+https://jenkins-x.io/
+
+### Colo Shop
+Colo Shop is a shopping site that was built by an retired professinal LoL gamer and a guy who study Japanese Major at university. We both self-study our way to learn how to code, and now we are trying to build a website from scratch. We are still updating the site, it is only used to showcase our ability, completely non-commercial. (Link to website: https://style-ecommerce-prod.vercel.app/)
+https://github.com/StevenOng97/Ecommerce-Frontend
+
+### Stargazer
+Stargazer is a mini mobile Games for 3 Year Olds Children.
+https://github.com/duong199x/Stargazer
+
+### Discourse-elasticsearch
+discourse-elasticsearch is a plugin for elasticsearch forked from discourse-algolia
+https://github.com/m2nx/discourse-elasticsearch
+
+### hyppo
+Python package for multivariate hypothesis testing
+https://github.com/neurodata/hyppo
+
+### Knative
+Knative is an open source, Kubernetes-based platform for building, deploying, and managing serverless and event-driven applications. Knative is a Cloud Native Computing Foundation (CNCF) incubating project.
+https://knative.dev
+
+### CLC Striders
+CLC Stiders running club based in Cheltenham, UK.
+https://clcstriders-runningclub.co.uk
+
+### vue-tiny-validate
+Tiny Vue validate composition library.
+https://github.com/FrontLabsOfficial/vue-tiny-validate
+
+### Typelevel
+Typelevel is an association of projects and individuals united to foster an inclusive, welcoming, and safe environment around functional programming in Scala.
+https://typelevel.org
+
+### Maycon2-0 Repo
+A repo with some helps with pyqt6.
+https://github.com/maycon2-0
+
+### Typed Settings
+Safe and flexible settings in Python: Structure and validate your settings with attrs classes and load them from any source (e.g., env vars, config files, CLI options, 1Password, …).
+https://typed-settings.readthedocs.io
+
+### Nerves Project
+Nerves defines a new way to build embedded systems using Elixir.
+https://nerves-project.org
+https://hexdocs.pm/nerves
+
+### Thermia Online API
+A Thermia Online API is a Python library that allows anyone to connect to their Thermia heat pump, fetch its data, control its temperatures and download historic information for analytical usage.
+https://github.com/klejejs/python-thermia-online-api
+
+### Codeurs en Seine
+Codeurs en Seine is a free conference that takes place every November in Rouen, France, for developers, by developers, powered by a non profit organisation. Codeurs en Seine also hosts a monthly meetup and is live streaming some of its talks on Twitch.
+https://www.codeursenseine.com/
+https://github.com/CodeursEnSeine
+
+### Apache Fineract
+Open source core banking platform for composable financial services.
+
+### Mifos
+Open source core banking platform for democratizing financial services and scaling the development and impact of inclusive fintech to advance the financial health of the 3 billion underbanked.
+https://mifos.org
+
+### ContentCenterize
+A Web Software to manage all the content in Net/Internet, including tools to verify the ownership of one's website.
+https://github.com/ContentCenterize/Website
+
+### Sous-Chefs
+The Sous Chefs are a community of Chef cookbook maintainers working together to maintain important cookbooks.
+https://sous-chefs.org/
+
+### Test-Kitchen
+Test Kitchen is an OpenSource integration tool for developing and testing infrastructure code and software on isolated target platforms.
+<https://kitchen.ci>
+
+### SerializationXml
+.NET XML Serialization Helper
+https://github.com/khanhnd157/SerializationXml
+
+### Contao Open Source CMS
+Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications.
+https://contao.org
+
+### Cortex
+Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
+https://github.com/cortexproject/cortex
+
+### Kyverno
+Kyverno is a policy engine designed for Kubernetes. With Kyverno, policies are managed as Kubernetes resources and no new language is required to write policies. Kyverno is a [CNCF project](https://www.cncf.io/projects/kyverno/).
+https://kyverno.io/
+
+### SpeechToText
+Open speech to text written in Pthon with tensorflow.
+https://github.com/djactor/SpeechToText.git
+
+### Washtenaw ID Project
+The Washtenaw ID Project is a non-profit organization based in Washtenaw County, Michigan that seeks to ensure that all residents of Washtenaw County have meaningful access to a government-issued ID that validates their identity and residency. We are building a web app to help people find businesses that actively support the ID and accept it as proof of identity.
+http://www.washtenawid.com/who-we-are/
+https://github.com/washtenawIdtreble?tab=repositories
+
+### Glynhack
+Glynhack ([website](https://glynhack.vercel.app) | [github](https://github.com/glynhack)) is the coding club for the students at Glyn school.
+
+### Twitch Timestamper
+Twitch Timestamper [website](https://vodtimer.imsam.ca/) [github](https://github.com/samerbam/twitch-timestamper) is a quick and easy way to create a youtube description with timestamps for each category you streamed.
+
+### PureScript
+PureScript ([website](https://www.purescript.org/) | [github](https://github.com/purescript/purescript) | [try](https://try.purescript.org/)) is a strict, purely functional, modular, programming language inspired by Haskell which compiles to readable JavaScript with a nominal foreign function interface.
+
+### Testify — Android Screenshot Testing
+Testify allows you to easily set up a variety of screenshot tests for your Android project. Testify screenshot tests are built on top of Android Instrumentation tests and so integrate seamlessly with your existing test suites. You can run tests and capture screenshots from within Android Studio or using the Gradle command-line tools. Testify also works well with most Continuous Integration services.
+http://testify.dev
+
+### Distributed Application Runtime (Dapr)
+The Distributed Application Runtime (Dapr) is an open source, project that provides APIs that simplify microservice development and allow you to build complex distributed applications for platforms such as Kubernetes.
+Dapr is a Cloud Native Computing Foundation (CNCF) incubating project.
+https://dapr.io
+
+### SwiftUI Examples
+A free to use repository containing code projects and resources kept up to date designed to combat the issue of ever deleloping swift language standards and to aid new iOS developers with their development journey. [github](https://github.com/quintenbuwalda/SwiftUI-Examples)

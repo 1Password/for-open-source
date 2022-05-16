@@ -1767,3 +1767,7 @@ PureScript ([website](https://www.purescript.org/) | [github](https://github.com
 ### Testify — Android Screenshot Testing
 Testify allows you to easily set up a variety of screenshot tests for your Android project. Testify screenshot tests are built on top of Android Instrumentation tests and so integrate seamlessly with your existing test suites. You can run tests and capture screenshots from within Android Studio or using the Gradle command-line tools. Testify also works well with most Continuous Integration services.
 http://testify.dev
+
+### SwiftUI Examples
+
+A free to use repository containing code projects and resources kept up to date designed to combat the issue of ever deleloping swift language standards and to aid new iOS developers with their development journey. [github](https://github.com/quintenbuwalda/SwiftUI-Examples)

@@ -1769,5 +1769,4 @@ Testify allows you to easily set up a variety of screenshot tests for your Andro
 http://testify.dev
 
 ### SwiftUI Examples
-
 A free to use repository containing code projects and resources kept up to date designed to combat the issue of ever deleloping swift language standards and to aid new iOS developers with their development journey. [github](https://github.com/quintenbuwalda/SwiftUI-Examples)

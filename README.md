@@ -1775,3 +1775,7 @@ https://dapr.io
 
 ### SwiftUI Examples
 A free to use repository containing code projects and resources kept up to date designed to combat the issue of ever deleloping swift language standards and to aid new iOS developers with their development journey. [github](https://github.com/quintenbuwalda/SwiftUI-Examples)
+
+### NAU Alarm
+NAU Alarm is an open source software that monitoring bio-reactor system in realtime. It parses log file from the fermentor then display its status on a monitor. Depend on each protocol, NAU will announce if any paramenter of the system is out of the setting ranges.
+https://github.com/trungnghiatn/NAU-Alarm

@@ -1779,3 +1779,9 @@ A free to use repository containing code projects and resources kept up to date 
 ### NAU Alarm
 NAU Alarm is an open source software that monitoring bio-reactor system in realtime. It parses log file from the fermentor then display its status on a monitor. Depend on each protocol, NAU will announce if any paramenter of the system is out of the setting ranges.
 https://github.com/trungnghiatn/NAU-Alarm
+
+### Webpasgen
+A web-based password manager that runs 100% offline locally in your browser. It provides different
+types of password formats of passphrases, pseudowords, and random meaningless password strings,
+with incredible language support (30+ languages currently) and attention paid to verbal and visual
+ambiguity, memorability, error checking, and other features. https://github.com/atoponce/webpassgen

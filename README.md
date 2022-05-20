@@ -1785,3 +1785,7 @@ A web-based password manager that runs 100% offline locally in your browser. It 
 types of password formats of passphrases, pseudowords, and random meaningless password strings,
 with incredible language support (30+ languages currently) and attention paid to verbal and visual
 ambiguity, memorability, error checking, and other features. https://github.com/atoponce/webpassgen
+
+### OMShub
+Open source collaboration for Georgia Tech Online Master of Science (OMS) Programs course reviews.
+https://github.com/omshub

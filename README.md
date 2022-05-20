@@ -1788,4 +1788,4 @@ ambiguity, memorability, error checking, and other features. https://github.com/
 
 ### OMShub
 Open source collaboration for Georgia Tech Online Master of Science (OMS) Programs course reviews.
-https://myawesomeproject.org
+https://github.com/omshub

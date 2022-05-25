@@ -1791,12 +1791,5 @@ Open source collaboration for Georgia Tech Online Master of Science (OMS) Progra
 https://github.com/omshub
 
 ### Back to Dev Ltd
-Building open source software for a bike workshop and beyond.
-
-What we do
-
-- Provide meaningful employment for a diverse range of people
-- Provide career pathways and real world experience
-- Develop people to be their best
-
-https://github.com/Back2bikes/attendance.git
+Bridging the gap between education and being a fully pro dev
+https://back2.dev

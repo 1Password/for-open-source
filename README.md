@@ -1789,3 +1789,7 @@ ambiguity, memorability, error checking, and other features. https://github.com/
 ### OMShub
 Open source collaboration for Georgia Tech Online Master of Science (OMS) Programs course reviews.
 https://github.com/omshub
+
+### Back to Dev Ltd
+Bridging the gap between education and being a fully pro dev
+https://back2.dev

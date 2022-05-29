@@ -1508,3 +1508,8 @@ https://tvm.apache.org
 ### RoManager
 An open-source Roblox focused Discord bot.
 https://romanager.bot
+
+### Interslavic OSS group
+[Medžuslovjansky @ Github](https://github.com/medzuslovjansky) is an umbrella organization for all the software projects related to the [Interslavic auxiliary language](https://en.wikipedia.org/wiki/Interslavic): dictionaries, grammar utilities, applications, websites, etc.
+
+https://interslavic.fun/en/

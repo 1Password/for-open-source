@@ -1798,3 +1798,9 @@ https://github.com/omshub
 ### Back to Dev Ltd
 Bridging the gap between education and being a fully pro dev
 https://back2.dev
+
+### OpenMLS
+An open-source implementation of the Messaging Layer Security protocol.
+OpenMLS is a software library that can serve as a building block in applications that require end-to-end encryption of messages.
+It has a safe and easy-to-use interface that hides the complexity of the underlying cryptographic operations.
+https://openmls.tech

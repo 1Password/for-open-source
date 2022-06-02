@@ -38,12 +38,6 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using 1Password Teams
 
-### One Fact Foundation 
-Our mission is to change global 
-healthcare with open source 
-principles.
-https://myawesomeproject.org
-
 ### WWDCScholars
 WWDCScholars is a community of [Apple WWDC Scholarship winners](https://developer.apple.com/wwdc/scholarships/). Together we developed and maintain an [iOS app](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8), the [main website](https://wwdcscholars.com) and a [sign-up form](https://join.wwdcscholars.com).
 [Link to project](https://github.com/wwdcscholars)
@@ -1791,3 +1785,9 @@ A web-based password manager that runs 100% offline locally in your browser. It 
 types of password formats of passphrases, pseudowords, and random meaningless password strings,
 with incredible language support (30+ languages currently) and attention paid to verbal and visual
 ambiguity, memorability, error checking, and other features. https://github.com/atoponce/webpassgen
+
+### One Fact Foundation 
+Our mission is to change global 
+healthcare with open source 
+principles.
+https://onefact.org

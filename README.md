@@ -1798,3 +1798,7 @@ https://github.com/omshub
 ### Back to Dev Ltd
 Bridging the gap between education and being a fully pro dev
 https://back2.dev
+
+### Pyctuator
+Monitor Python web apps using [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin).
+https://github.com/SolarEdgeTech/pyctuator

@@ -1799,6 +1799,28 @@ https://github.com/omshub
 Bridging the gap between education and being a fully pro dev
 https://back2.dev
 
+### MinIO
+MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads.
+https://min.io
+
+### OpenMLS
+An open-source implementation of the Messaging Layer Security protocol.
+OpenMLS is a software library that can serve as a building block in applications that require end-to-end encryption of messages.
+It has a safe and easy-to-use interface that hides the complexity of the underlying cryptographic operations.
+https://openmls.tech
+
+### Pyctuator
+Monitor Python web apps using [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin).
+https://github.com/SolarEdgeTech/pyctuator
+
+## Tomato Food Delivery
+An open source project for new folks to learn how to build a food delivery app using React JS, mongoDB, Node JS, and Express JS.
+https://github.com/ShahAnuj2610/tomato-food-delivery
+
+### Alauda UI
+Enterprise level Angular UI framework from Alauda Frontend Team.
+https://github.com/alauda/alauda-ui
+
 ### XMYChat
 A Qt based IM software.
 https://github.com/emonq/XMYChat

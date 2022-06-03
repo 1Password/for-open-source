@@ -1820,3 +1820,7 @@ https://github.com/ShahAnuj2610/tomato-food-delivery
 ### Alauda UI
 Enterprise level Angular UI framework from Alauda Frontend Team.
 https://github.com/alauda/alauda-ui
+
+### XMYChat
+A Qt based IM software.
+https://github.com/emonq/XMYChat

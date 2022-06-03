@@ -1799,6 +1799,10 @@ https://github.com/omshub
 Bridging the gap between education and being a fully pro dev
 https://back2.dev
 
+### MinIO
+MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads.
+https://min.io
+
 ### OpenMLS
 An open-source implementation of the Messaging Layer Security protocol.
 OpenMLS is a software library that can serve as a building block in applications that require end-to-end encryption of messages.

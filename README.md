@@ -1808,3 +1808,7 @@ An open-source implementation of the Messaging Layer Security protocol.
 OpenMLS is a software library that can serve as a building block in applications that require end-to-end encryption of messages.
 It has a safe and easy-to-use interface that hides the complexity of the underlying cryptographic operations.
 https://openmls.tech
+
+### Pyctuator
+Monitor Python web apps using [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin).
+https://github.com/SolarEdgeTech/pyctuator

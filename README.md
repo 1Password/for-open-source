@@ -1828,3 +1828,8 @@ https://github.com/emonq/XMYChat
 ### One Fact Foundation 
 Our mission is to change global healthcare with open source principles.
 https://onefact.org
+
+### GDSC Yemen
+GDSC Yemen is a collection of Google Developer Student Clubs (GDSC) Chapters that have partnered together to create a greater impact that reaches the highest number of student developers.
+GDSC community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
+https://gdscyemen.com/

@@ -1833,3 +1833,7 @@ https://onefact.org
 GDSC Yemen is a collection of Google Developer Student Clubs (GDSC) Chapters that have partnered together to create a greater impact that reaches the highest number of student developers.
 GDSC community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 https://gdscyemen.com/
+
+### LFAI & Data Foundation
+The mission of LF AI & Data is to build and support an open artificial intelligence (AI) and data community, and drive open source innovation in the AI and data domains by enabling collaboration and the creation of new opportunities for all the members of the community.
+https://lfaidata.foundation/

@@ -1833,3 +1833,7 @@ https://onefact.org
 GDSC Yemen is a collection of Google Developer Student Clubs (GDSC) Chapters that have partnered together to create a greater impact that reaches the highest number of student developers.
 GDSC community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 https://gdscyemen.com/
+
+### Calva
+A VS Code extension providing an IDE for [Clojure](https://clojure.org) Interactive Development. It is the third most used development environment for Clojure according to the State of Clojure Survey 2022. 
+https://calva.io

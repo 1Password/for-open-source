@@ -1834,6 +1834,22 @@ GDSC Yemen is a collection of Google Developer Student Clubs (GDSC) Chapters tha
 GDSC community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 https://gdscyemen.com/
 
+### React Native V2ex
+The project used React Native to build a V2EX mobile client application. The purpose was to build a React Native rapid development scaffold. The client data is based entirely on the V2EX open API.
+https://github.com/funnyzak/react-native-v2ex
+
+### T-Pot - The All In One Multi Honeypot Plattform
+T-Pot is the all in one, optionally distributed, multiarch (amd64, arm64) honeypot plattform, supporting 20+ honeypots and countless visualization options using the Elastic Stack, animated live attack maps and lots of security tools to further improve the deception experience. 
+https://github.com/telekom-security/tpotce
+
+### RSocket
+RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron. RSocket provides a protocol for Reactive Streams semantics between client-server, and server-server communication.
+https://rsocket.io
+
+### Calva
+A VS Code extension providing an IDE for [Clojure](https://clojure.org) Interactive Development. It is the third most used development environment for Clojure according to the State of Clojure Survey 2022. 
+https://calva.io
+
 ### Magma Core Foundation
 Magma began as a project to bring modern software defined networking techniques to bear on the challenges of rural Internet access. Our experience building rural networks taught us that policy-rich network edges and simple fabrics were a broadly applicable design approach for building flexible, low-cost, and scalable networks, even outside the data center. Magma’s early design decisions reflect this core insight as well as our earliest use cases: small-scale, low-cost community networks and for coverage extension through federation with existing mobile networks.
 https://magmacore.org/

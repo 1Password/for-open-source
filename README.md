@@ -1845,3 +1845,7 @@ https://github.com/telekom-security/tpotce
 ### RSocket
 RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron. RSocket provides a protocol for Reactive Streams semantics between client-server, and server-server communication.
 https://rsocket.io
+
+### Calva
+A VS Code extension providing an IDE for [Clojure](https://clojure.org) Interactive Development. It is the third most used development environment for Clojure according to the State of Clojure Survey 2022. 
+https://calva.io

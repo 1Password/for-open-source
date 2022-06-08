@@ -1799,6 +1799,41 @@ https://github.com/omshub
 Bridging the gap between education and being a fully pro dev
 https://back2.dev
 
+### MinIO
+MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads.
+https://min.io
+
+### OpenMLS
+An open-source implementation of the Messaging Layer Security protocol.
+OpenMLS is a software library that can serve as a building block in applications that require end-to-end encryption of messages.
+It has a safe and easy-to-use interface that hides the complexity of the underlying cryptographic operations.
+https://openmls.tech
+
+### Pyctuator
+Monitor Python web apps using [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin).
+https://github.com/SolarEdgeTech/pyctuator
+
+### Tomato Food Delivery
+An open source project for new folks to learn how to build a food delivery app using React JS, mongoDB, Node JS, and Express JS.
+https://github.com/ShahAnuj2610/tomato-food-delivery
+
+### Alauda UI
+Enterprise level Angular UI framework from Alauda Frontend Team.
+https://github.com/alauda/alauda-ui
+
+### XMYChat
+A Qt based IM software.
+https://github.com/emonq/XMYChat
+
+### One Fact Foundation 
+Our mission is to change global healthcare with open source principles.
+https://onefact.org
+
+### GDSC Yemen
+GDSC Yemen is a collection of Google Developer Student Clubs (GDSC) Chapters that have partnered together to create a greater impact that reaches the highest number of student developers.
+GDSC community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
+https://gdscyemen.com/
+
 ### React Native V2ex
 The project used React Native to build a V2EX mobile client application. The purpose was to build a React Native rapid development scaffold. The client data is based entirely on the V2EX open API.
 https://github.com/funnyzak/react-native-v2ex

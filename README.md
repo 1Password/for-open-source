@@ -1841,3 +1841,7 @@ https://github.com/funnyzak/react-native-v2ex
 ### T-Pot - The All In One Multi Honeypot Plattform
 T-Pot is the all in one, optionally distributed, multiarch (amd64, arm64) honeypot plattform, supporting 20+ honeypots and countless visualization options using the Elastic Stack, animated live attack maps and lots of security tools to further improve the deception experience. 
 https://github.com/telekom-security/tpotce
+
+### RSocket
+RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron. RSocket provides a protocol for Reactive Streams semantics between client-server, and server-server communication.
+https://rsocket.io

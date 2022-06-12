@@ -1856,4 +1856,5 @@ https://magmacore.org/
 
 ### Pulumi.Onepassword
 The 1Password resource provider for Pulumi lets you use 1Password resources in your Pulumi Infrastructure as Code deployments. Based on the official !Password terraform provider.
+The provider is available in C#, Typescript, Python and Go.
 https://github.com/SimCubeLtd/pulumi-onepassword

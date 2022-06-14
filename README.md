@@ -1865,3 +1865,7 @@ https://github.com/SimCubeLtd/pulumi-onepassword
 ### Willston Web
 Willston Web is providing computer science teaching and laptops to high school students who might otherwise not have access to these opportunities. Our curriculum is open source.
 https://willston.org
+
+### Pulumiverse
+Pulumiverse is the universe of all things Pulumi. In a shared maintainer model, we develop [Pulumi](https://www.pulumi.com) providers, examples, the Awesome Pulumi list and others.
+https://github.com/pulumiverse

@@ -1856,3 +1856,8 @@ https://magmacore.org/
 
 ### Alonas
 Automation tools for community management in the social network VKontakte since 2017. https://github.com/MrAlonas
+
+### Pulumi.Onepassword
+The 1Password resource provider for Pulumi lets you use 1Password resources in your Pulumi Infrastructure as Code deployments. Based on the official !Password terraform provider.
+The provider is available in C#, Typescript, Python and Go.
+https://github.com/SimCubeLtd/pulumi-onepassword

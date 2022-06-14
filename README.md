@@ -1869,3 +1869,7 @@ https://willston.org
 ### Pulumiverse
 Pulumiverse is the universe of all things Pulumi. In a shared maintainer model, we develop [Pulumi](https://www.pulumi.com) providers, examples, the Awesome Pulumi list and others.
 https://github.com/pulumiverse
+
+### Climate Mind
+Powering climate conversations. It can be a real challenge to communicate the realities of climate change to people around you, especially those who have different values and personal interests. Often, people don’t realize actionable solutions already exist that don’t require an overhaul of their personality or beliefs. Our aim is to make meaningful conversations about climate change easier. Our web app guides users through the process of finding common ground, personalizing climate conversations with others, and responding to common climate change myths. We also have features that help users explore how their shared values and personal interests are being affected by climate change. We aim to inspire users to take action with a range of attractive solutions consistent with their values that they can get excited about.
+https://climatemind.org

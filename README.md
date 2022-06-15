@@ -1857,6 +1857,10 @@ https://magmacore.org/
 ### Alonas
 Automation tools for community management in the social network VKontakte since 2017. https://github.com/MrAlonas
 
+### Mobile Native Foundation
+The Mobile Native Foundation provides a place to collaborate on open source projects and discuss wide ranging topics in order to improve processes and technologies for large-scale Android and iOS applications.
+https://mobilenativefoundation.org/
+
 ### Pulumi.Onepassword
 The 1Password resource provider for Pulumi lets you use 1Password resources in your Pulumi Infrastructure as Code deployments. Based on the official !Password terraform provider.
 The provider is available in C#, Typescript, Python and Go.

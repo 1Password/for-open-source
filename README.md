@@ -1869,3 +1869,7 @@ https://willston.org
 ### Pulumiverse
 Pulumiverse is the universe of all things Pulumi. In a shared maintainer model, we develop [Pulumi](https://www.pulumi.com) providers, examples, the Awesome Pulumi list and others.
 https://github.com/pulumiverse
+
+### LFAI & Data Foundation
+The mission of LF AI & Data is to build and support an open artificial intelligence (AI) and data community, and drive open source innovation in the AI and data domains by enabling collaboration and the creation of new opportunities for all the members of the community.
+https://lfaidata.foundation/

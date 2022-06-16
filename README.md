@@ -1873,3 +1873,7 @@ https://github.com/pulumiverse
 ### LFAI & Data Foundation
 The mission of LF AI & Data is to build and support an open artificial intelligence (AI) and data community, and drive open source innovation in the AI and data domains by enabling collaboration and the creation of new opportunities for all the members of the community.
 https://lfaidata.foundation/
+
+### The Ruby Programming Language
+Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+https://www.ruby-lang.org

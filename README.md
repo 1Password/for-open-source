@@ -1881,3 +1881,7 @@ https://lfaidata.foundation/
 ### The Ruby Programming Language
 Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 https://www.ruby-lang.org
+
+### Climate Mind
+Powering climate conversations. It can be a real challenge to communicate the realities of climate change to people around you, especially those who have different values and personal interests. Often, people don’t realize actionable solutions already exist that don’t require an overhaul of their personality or beliefs. The [Climate Mind web app](https://climatemind.org) is a tool that makes meaningful conversations about climate change easier.
+https://github.com/ClimateMind

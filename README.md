@@ -1886,6 +1886,10 @@ https://www.ruby-lang.org
 Powering climate conversations. It can be a real challenge to communicate the realities of climate change to people around you, especially those who have different values and personal interests. Often, people don’t realize actionable solutions already exist that don’t require an overhaul of their personality or beliefs. The [Climate Mind web app](https://climatemind.org) is a tool that makes meaningful conversations about climate change easier.
 https://github.com/ClimateMind
 
+### Keyman
+[Keyman](https://keyman.com) makes it possible for you to type in any language on Windows, macOS, Linux, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. Create keyboard layouts with Keyman Developer and share them with the community in the [keyboards repository](https://github.com/keymanapp/keyboards). The [Keyman Community](https://community.software.sil.org/c/keyman) have already contributed keyboard layouts for over 2,000 languages.
+https://keyman.com
+
 ### OWASP WrongSecrets
 OWASP WrongSecrets is an intentionally vulnerable app which learns you evertyhing about secrets management. It contains both a testbed to evaluate your secret scanner for secret detection, as well as many challenges which will teach you something about your own secrets management strategy. The vulnerable app is online available at a [free heroku instance](https://wrongsecrets.herokuapp.com/) and project sourcecode can be found at [the OWASP Project entry](https://github.com/OWASP/www-project-wrongsecrets). 
 https://github.com/commjoen/wrongsecrets

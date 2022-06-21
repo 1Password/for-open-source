@@ -1893,3 +1893,7 @@ https://keyman.com
 ### OWASP WrongSecrets
 OWASP WrongSecrets is an intentionally vulnerable app which learns you evertyhing about secrets management. It contains both a testbed to evaluate your secret scanner for secret detection, as well as many challenges which will teach you something about your own secrets management strategy. The vulnerable app is online available at a [free heroku instance](https://wrongsecrets.herokuapp.com/) and project sourcecode can be found at [the OWASP Project entry](https://github.com/OWASP/www-project-wrongsecrets). 
 https://github.com/commjoen/wrongsecrets
+
+### Text-Image Encryptor
+An Open-source for securing your texts. This is a text-hiding tool. It allows to hide (and get back) text within a image. The output image can be normal used. The text can be encrypted with an password.
+https://github.com/mirepos/Text-Image-Encryptor

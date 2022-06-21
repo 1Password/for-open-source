@@ -1885,3 +1885,7 @@ https://www.ruby-lang.org
 ### Climate Mind
 Powering climate conversations. It can be a real challenge to communicate the realities of climate change to people around you, especially those who have different values and personal interests. Often, people don’t realize actionable solutions already exist that don’t require an overhaul of their personality or beliefs. The [Climate Mind web app](https://climatemind.org) is a tool that makes meaningful conversations about climate change easier.
 https://github.com/ClimateMind
+
+### Text-Image Encryptor
+An Open-source for securing your texts. This is a text-hiding tool. It allows to hide (and get back) text within a image. The output image can be normal used. The text can be encrypted with an password.
+https://github.com/mirepos/Text-Image-Encryptor

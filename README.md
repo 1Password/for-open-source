@@ -1897,3 +1897,7 @@ https://github.com/commjoen/wrongsecrets
 ### Text-Image Encryptor
 An Open-source for securing your texts. This is a text-hiding tool. It allows to hide (and get back) text within a image. The output image can be normal used. The text can be encrypted with an password.
 https://github.com/mirepos/Text-Image-Encryptor
+
+### electron-info
+A CLI to retrieve useful data about Electron releases. Allows for detailed filtering of releases and dependency versions.
+https://github.com/ffflorian/electron-info

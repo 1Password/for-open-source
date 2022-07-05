@@ -1909,3 +1909,7 @@ https://lfedge.org
 ### PythOnRio
 [PythOnRio] is the Rio de Janeiro / Brazil Python community. We strive for organizing events in a public way, and bring more diversity and inclusion to our meetups and conferences. Managed by individuals, who work on this project as volunteers.
 https://github.com/pythonrio
+
+### Python Algorithms
+A collection of algorithms for python to help delevopers all over the world.
+https://github.com/Infiniteflame03/Python

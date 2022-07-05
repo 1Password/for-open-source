@@ -1909,3 +1909,7 @@ https://lfedge.org
 ### PythOnRio
 [PythOnRio] is the Rio de Janeiro / Brazil Python community. We strive for organizing events in a public way, and bring more diversity and inclusion to our meetups and conferences. Managed by individuals, who work on this project as volunteers.
 https://github.com/pythonrio
+
+### Base16 Project
+Base16 is an architecture for building themes based on carefully chosen syntax highlighting using a base of sixteen colors. It allows users to choose a color scheme they know will be available for all their applications (both GUIs and terminal applications).
+https://github.com/base16-project

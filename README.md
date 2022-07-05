@@ -1901,3 +1901,7 @@ https://github.com/mirepos/Text-Image-Encryptor
 ### Open 3D Engine
 [Open 3D Engine (O3DE)](https://www.o3de.org) is a modular, open source, cross-platform 3D engine built to power anything from AAA games to cinema-quality 3D worlds to high-fidelity simulations. No fees or commercial obligations. Apache 2.0-licensed. Managed by The Linux Foundation.
 https://github.com/o3de
+
+### Model Bakery
+[Model Bakery](https://github.com/model-bakers/model_bakery) offers you a smart way to create fixtures for testing in Django (high-level Python web framework). With a simple and powerful API you can create many objects with a single line of code.
+https://github.com/model-bakers/model_bakery

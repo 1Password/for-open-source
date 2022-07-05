@@ -1905,3 +1905,7 @@ https://github.com/o3de
 ### LF Edge
 LF Edge is an umbrella organization that aims to establish an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system. By bringing together industry leaders, LF Edge will create a common framework for hardware and software standards and best practices critical to sustaining current and future generations of IoT and edge devices. We are fostering collaboration and innovation across the multiple industries including industrial manufacturing, cities and government, energy, transportation, retail, home and building automation, automotive, logistics and health care — all of which stand to be transformed by edge computing.
 https://lfedge.org
+
+### PythOnRio
+[PythOnRio] is the Rio de Janeiro / Brazil Python community. We strive for organizing events in a public way, and bring more diversity and inclusion to our meetups and conferences. Managed by individuals, who work on this project as volunteers.
+https://github.com/pythonrio

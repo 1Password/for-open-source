@@ -1921,3 +1921,7 @@ https://github.com/base16-project
 ### Python Algorithms
 A collection of algorithms for python to help delevopers all over the world.
 https://github.com/Infiniteflame03/Python
+
+### Presto
+Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
+https://prestodb.io

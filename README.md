@@ -1918,6 +1918,10 @@ https://github.com/model-bakers/model_bakery
 Base16 is an architecture for building themes based on carefully chosen syntax highlighting using a base of sixteen colors. It allows users to choose a color scheme they know will be available for all their applications (both GUIs and terminal applications).
 https://github.com/base16-project
 
+### Python Algorithms
+A collection of algorithms for python to help delevopers all over the world.
+https://github.com/Infiniteflame03/Python
+
 ### Presto
 Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
 https://prestodb.io

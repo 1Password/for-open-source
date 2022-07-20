@@ -1933,3 +1933,7 @@ https://prestodb.io
 ### MurciaDev
 We are a group of enthusiasts of the development and the new technologies. We aim to share our knowledge and passion for this marvellous world.
 https://murcia.dev
+
+### cSubsidiary
+cSubsidiary is an open source tool for quickly collecting subsidiaries of an organization.
+https://github.com/canc3s/cSubsidiary

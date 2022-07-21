@@ -1933,3 +1933,7 @@ https://prestodb.io
 ### MurciaDev
 We are a group of enthusiasts of the development and the new technologies. We aim to share our knowledge and passion for this marvellous world.
 https://murcia.dev
+
+### SMS - Student Management Software by 18120113@FIT.HCMUS
+SMS is written in Java and uses Swing/Hibernate/MySQL. The software helps teachers manage timetables, class lists, subject lists,... and helps students look up their grades.
+https://github.com/ncdai3651408/ltudjava-summer2020-hibernate

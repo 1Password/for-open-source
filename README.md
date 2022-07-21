@@ -1542,9 +1542,9 @@ https://github.com/nhatnv77/WebFastFood
 Dynamic DNS record update utility for CloudFlare DNS service. Python implemented.
 https://github.com/nhymxu/cf-dns-update-python
 
-### ZaDark – Best Dark Theme for Zalo
-ZaDark helps you turn on Dark Theme for Zalo, making your eyes feel comfortable when you work, especially at night.
-https://github.com/ncdai3651408/za-dark
+### ZaDark – Zalo Dark Mode
+ZaDark is an open source extension that helps you enable Dark Mode for Zalo on PC and Browser.
+https://zadark.ncdaistudio.com
 
 ### gsTool
 Make using easier and automatic for Google Services with Google App Script.
@@ -1937,3 +1937,7 @@ https://murcia.dev
 ### SMS - Student Management Software by 18120113@FIT.HCMUS
 SMS is written in Java and uses Swing/Hibernate/MySQL. The software helps teachers manage timetables, class lists, subject lists,... and helps students look up their grades.
 https://github.com/ncdai3651408/ltudjava-summer2020-hibernate
+
+### repository-settings
+Repository settings using configuration files
+https://github.com/repository-settings

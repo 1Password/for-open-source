@@ -1933,3 +1933,7 @@ https://prestodb.io
 ### MurciaDev
 We are a group of enthusiasts of the development and the new technologies. We aim to share our knowledge and passion for this marvellous world.
 https://murcia.dev
+
+### repository-settings
+Repository settings using configuration files
+https://github.com/repository-settings

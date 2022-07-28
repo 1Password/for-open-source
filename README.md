@@ -1950,3 +1950,7 @@ https://github.com/canc3s/cSubsidiary
 ### SMS - Student Management Software
 SMS is written in Java and uses Swing/Hibernate/MySQL. The software helps teachers manage timetables, class lists, subject lists,... and helps students look up their grades.
 https://github.com/ncdai3651408/ltudjava-summer2020-hibernate
+
+### GDI.JS.ORG Google Drive Index
+GDI is a Beautiful Index Software, which lists your Google Drive Folders and Files on HTTP with UI and allows proxy downloading of content with or without authentication. It is secure and easy.
+[GDI.JS.ORG](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index)

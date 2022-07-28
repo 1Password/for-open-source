@@ -1542,9 +1542,9 @@ https://github.com/nhatnv77/WebFastFood
 Dynamic DNS record update utility for CloudFlare DNS service. Python implemented.
 https://github.com/nhymxu/cf-dns-update-python
 
-### ZaDark – Best Dark Theme for Zalo
-ZaDark helps you turn on Dark Theme for Zalo, making your eyes feel comfortable when you work, especially at night.
-https://github.com/ncdai3651408/za-dark
+### ZaDark – Zalo Dark Mode
+ZaDark is an open source extension that helps you enable Dark Mode for Zalo on PC and Browser.
+https://zadark.ncdaistudio.com
 
 ### gsTool
 Make using easier and automatic for Google Services with Google App Script.
@@ -1933,6 +1933,15 @@ https://prestodb.io
 ### MurciaDev
 We are a group of enthusiasts of the development and the new technologies. We aim to share our knowledge and passion for this marvellous world.
 https://murcia.dev
+
+### OpenMined Syft
+[Syft](https://github.com/OpenMined/PySyft) allows you to perform private and secure Deep Learning by making it possible for you to answer a question using data owned by someone else without ever seeing or acquiring a copy of that data.
+
+[OpenMined](https://www.openmined.org/) is an Open Source 501(c)(3) Tech Charity with goal of enabling access to 1000x more data in every domain.
+
+### repository-settings
+Repository settings using configuration files
+https://github.com/repository-settings
 
 ### cSubsidiary
 cSubsidiary is an open source tool for quickly collecting subsidiaries of an organization.

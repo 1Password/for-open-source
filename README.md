@@ -1942,3 +1942,7 @@ https://murcia.dev
 ### repository-settings
 Repository settings using configuration files
 https://github.com/repository-settings
+
+### cSubsidiary
+cSubsidiary is an open source tool for quickly collecting subsidiaries of an organization.
+https://github.com/canc3s/cSubsidiary

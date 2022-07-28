@@ -1950,3 +1950,8 @@ https://github.com/canc3s/cSubsidiary
 ### SMS - Student Management Software
 SMS is written in Java and uses Swing/Hibernate/MySQL. The software helps teachers manage timetables, class lists, subject lists,... and helps students look up their grades.
 https://github.com/ncdai3651408/ltudjava-summer2020-hibernate
+
+### DaiChat
+DaiChat is a 1-1 and group messaging application written in Java (with Java Networking / Java Swing / Hibernate / MySQL). This is the project of the subject "Java Application Programming" at the University. The source code of this project is valuable reference for those who learn Java programming.
+- https://github.com/ncdai3651408/ltudjava-summer2020-chatapp_client
+- https://github.com/ncdai3651408/ltudjava-summer2020-chatapp_server

@@ -1934,6 +1934,11 @@ https://prestodb.io
 We are a group of enthusiasts of the development and the new technologies. We aim to share our knowledge and passion for this marvellous world.
 https://murcia.dev
 
+### OpenMined Syft
+[Syft](https://github.com/OpenMined/PySyft) allows you to perform private and secure Deep Learning by making it possible for you to answer a question using data owned by someone else without ever seeing or acquiring a copy of that data.
+
+[OpenMined](https://www.openmined.org/) is an Open Source 501(c)(3) Tech Charity with goal of enabling access to 1000x more data in every domain.
+
 ### repository-settings
 Repository settings using configuration files
 https://github.com/repository-settings

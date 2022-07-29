@@ -1950,3 +1950,7 @@ https://github.com/canc3s/cSubsidiary
 ### SMS - Student Management Software
 SMS is written in Java and uses Swing/Hibernate/MySQL. The software helps teachers manage timetables, class lists, subject lists,... and helps students look up their grades.
 https://github.com/ncdai3651408/ltudjava-summer2020-hibernate
+
+### vim - Vim-based configuration file
+This project is a beautified configuration of VIM, and has the corresponding code prompt function
+https://github.com/donald-ning/vim

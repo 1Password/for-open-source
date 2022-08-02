@@ -1959,3 +1959,8 @@ DaiChat is a 1-1 and group messaging application written in Java (with Java Netw
 ### GDI.JS.ORG Google Drive Index
 GDI is a Beautiful Index Software, which lists your Google Drive Folders and Files on HTTP with UI and allows proxy downloading of content with or without authentication. It is secure and easy.
 [GDI.JS.ORG](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index)
+
+### Open Secure Software Foundation
+The OpenSSF is a cross-industry collaboration that brings together leaders to improve the security of open source software (OSS) by building an expert community, targeted initiatives, and best practices.
+OpenSSF serves as the cross-industry focal point for securing investment and resources to improve open source software supply chain security for all.
+https://openssf.org/

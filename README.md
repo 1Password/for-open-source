@@ -1951,6 +1951,11 @@ https://github.com/canc3s/cSubsidiary
 SMS is written in Java and uses Swing/Hibernate/MySQL. The software helps teachers manage timetables, class lists, subject lists,... and helps students look up their grades.
 https://github.com/ncdai3651408/ltudjava-summer2020-hibernate
 
+### DaiChat
+DaiChat is a 1-1 and group messaging application written in Java (with Java Networking / Java Swing / Hibernate / MySQL). This is the project of the subject "Java Application Programming" at the University. The source code of this project is valuable reference for those who learn Java programming.
+- https://github.com/ncdai3651408/ltudjava-summer2020-chatapp_client
+- https://github.com/ncdai3651408/ltudjava-summer2020-chatapp_server
+
 ### GDI.JS.ORG Google Drive Index
 GDI is a Beautiful Index Software, which lists your Google Drive Folders and Files on HTTP with UI and allows proxy downloading of content with or without authentication. It is secure and easy.
 [GDI.JS.ORG](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index)

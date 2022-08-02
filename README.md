@@ -783,9 +783,9 @@ https://www.mumble.info
 Batteries included full stack web framework built-in Crystal
 https://www.luckyframework.org
 
-### Taskord
-Taskord is a community of makers in tech shipping and working together. Makers post their daily tasks and grow a network of supportive, like-minded people! Daily project related tasks, earning reputation, and interacting to get feedback or early users.
-https://taskord.com
+### Lenster
+Lenster is a decentralized, and permissionless social media app built with Lens Protocol
+https://lenster.xyz
 
 ### Tremor
 Tremor is an event processing system for unstructured data with rich support for structural pattern matching, filtering and transformation.

@@ -1959,3 +1959,7 @@ DaiChat is a 1-1 and group messaging application written in Java (with Java Netw
 ### GDI.JS.ORG Google Drive Index
 GDI is a Beautiful Index Software, which lists your Google Drive Folders and Files on HTTP with UI and allows proxy downloading of content with or without authentication. It is secure and easy.
 [GDI.JS.ORG](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index)
+
+### !!Con
+!!Con is a nonprofit conference about the joy, excitement, and surprise of programming. 
+https://bangbangcon.com

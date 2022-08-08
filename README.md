@@ -1965,6 +1965,10 @@ The OpenSSF is a cross-industry collaboration that brings together leaders to im
 OpenSSF serves as the cross-industry focal point for securing investment and resources to improve open source software supply chain security for all.
 https://openssf.org/
 
+### !!Con
+!!Con is a nonprofit conference about the joy, excitement, and surprise of programming. 
+https://bangbangcon.com
+
 ### Awesome-TTRSS
 Awesome TTRSS aims to provide a powerful Dockerized all-in-one solution for Tiny Tiny RSS, an open source RSS feed reader and aggregator written in PHP, with enhanced user experience via simplified deployment and a list of curated plugins.
 http://ttrss.henry.wang/

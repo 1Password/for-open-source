@@ -1964,3 +1964,7 @@ GDI is a Beautiful Index Software, which lists your Google Drive Folders and Fil
 The OpenSSF is a cross-industry collaboration that brings together leaders to improve the security of open source software (OSS) by building an expert community, targeted initiatives, and best practices.
 OpenSSF serves as the cross-industry focal point for securing investment and resources to improve open source software supply chain security for all.
 https://openssf.org/
+
+### !!Con
+!!Con is a nonprofit conference about the joy, excitement, and surprise of programming. 
+https://bangbangcon.com

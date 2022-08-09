@@ -1973,6 +1973,10 @@ https://bangbangcon.com
 Awesome TTRSS aims to provide a powerful Dockerized all-in-one solution for Tiny Tiny RSS, an open source RSS feed reader and aggregator written in PHP, with enhanced user experience via simplified deployment and a list of curated plugins.
 http://ttrss.henry.wang/
 
+### zzfzzf
+an open source blog
+https://zzfzzf.com
+
 ### JSBox-Apps
 The goal of JSBox-Apps is to enhance the functionality and optimize the user experience of iOS and iPadOS by implementing functional extensions based on JSBox and javascript.
 https://github.com/axelburks/JSBox

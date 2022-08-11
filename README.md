@@ -1980,3 +1980,7 @@ https://zzfzzf.com
 ### JSBox-Apps
 The goal of JSBox-Apps is to enhance the functionality and optimize the user experience of iOS and iPadOS by implementing functional extensions based on JSBox and javascript.
 https://github.com/axelburks/JSBox
+
+### Privacy Guides
+We are a non-profit collective operated entirely by volunteer team members and contributors, which provides information for protecting your data security and privacy.
+https://www.privacyguides.org/

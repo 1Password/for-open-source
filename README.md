@@ -1980,3 +1980,7 @@ https://zzfzzf.com
 ### JSBox-Apps
 The goal of JSBox-Apps is to enhance the functionality and optimize the user experience of iOS and iPadOS by implementing functional extensions based on JSBox and javascript.
 https://github.com/axelburks/JSBox
+
+### Script Anti-Ads OpenSource
+Script Anti-Ads OpenSource
+https://github.com/vnn7298/Script-Anti-Ads-OpenSource

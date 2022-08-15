@@ -1980,3 +1980,7 @@ https://zzfzzf.com
 ### JSBox-Apps
 The goal of JSBox-Apps is to enhance the functionality and optimize the user experience of iOS and iPadOS by implementing functional extensions based on JSBox and javascript.
 https://github.com/axelburks/JSBox
+
+### Gradience 
+Customize Adwaita with ease 
+https://github.com/AdwCustomizerTeam/AdwCustomizer 

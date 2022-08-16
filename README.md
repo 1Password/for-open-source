@@ -2008,3 +2008,12 @@ https://github.com/nvnptit/API_STORE
 ### TextFromImage
 Convert text in screenshot image to text with python
 https://github.com/vuhai16/textfromimage
+
+
+### Edge Paths
+Get edge browser paths 
+https://github.com/shirshak55/edge-paths
+
+### Rust Books
+Rust Language pdfs.
+https://github.com/shirshak55/Rust-Book-In-PDF

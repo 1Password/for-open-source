@@ -1996,3 +1996,7 @@ https://www.privacyguides.org/
 ### Script Anti-Ads OpenSource
 Script Anti-Ads OpenSource
 https://github.com/vnn7298/Script-Anti-Ads-OpenSource
+
+### Gradience 
+Customize Adwaita with ease 
+https://github.com/AdwCustomizerTeam/AdwCustomizer 

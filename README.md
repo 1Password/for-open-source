@@ -1989,3 +1989,6 @@ https://drupal.org/project/gin
 Friends of Shopware is a group of developers who creates open-source extensions for Shopware. 
 https://friendsofshopware.com
 
+### Privacy Guides
+We are a non-profit collective operated entirely by volunteer team members and contributors, which provides information for protecting your data security and privacy.
+https://www.privacyguides.org/

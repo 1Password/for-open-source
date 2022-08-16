@@ -1984,3 +1984,8 @@ https://github.com/axelburks/JSBox
 ### Gin Admin Theme
 Drupal's experimental new (future) Admin interface. The Gin admin theme includes things which are currently out of scope for Core's Claro admin theme and/or some customisations we're experimenting with to be added in the future.
 https://drupal.org/project/gin
+
+### FriendsOfShopware
+Friends of Shopware is a group of developers who creates open-source extensions for Shopware. 
+https://friendsofshopware.com
+

@@ -2004,3 +2004,7 @@ https://github.com/AdwCustomizerTeam/AdwCustomizer
 ### API_STORE
 API store for Web, app Android App Shop mobile. Technology used: ASP.NET , MVC , Swagger UI
 https://github.com/nvnptit/API_STORE
+
+### TextFromImage
+Convert text in screenshot image to text with python
+https://github.com/vuhai16/textfromimage

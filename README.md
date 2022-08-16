@@ -1829,7 +1829,7 @@ https://github.com/alauda/alauda-ui
 A Qt based IM software.
 https://github.com/emonq/XMYChat
 
-### One Fact Foundation 
+### One Fact Foundation
 Our mission is to change global healthcare with open source principles.
 https://onefact.org
 
@@ -1843,7 +1843,7 @@ The project used React Native to build a V2EX mobile client application. The pur
 https://github.com/funnyzak/react-native-v2ex
 
 ### T-Pot - The All In One Multi Honeypot Plattform
-T-Pot is the all in one, optionally distributed, multiarch (amd64, arm64) honeypot plattform, supporting 20+ honeypots and countless visualization options using the Elastic Stack, animated live attack maps and lots of security tools to further improve the deception experience. 
+T-Pot is the all in one, optionally distributed, multiarch (amd64, arm64) honeypot plattform, supporting 20+ honeypots and countless visualization options using the Elastic Stack, animated live attack maps and lots of security tools to further improve the deception experience.
 https://github.com/telekom-security/tpotce
 
 ### RSocket
@@ -1851,7 +1851,7 @@ RSocket is a binary protocol for use on byte stream transports such as TCP, WebS
 https://rsocket.io
 
 ### Calva
-A VS Code extension providing an IDE for [Clojure](https://clojure.org) Interactive Development. It is the third most used development environment for Clojure according to the State of Clojure Survey 2022. 
+A VS Code extension providing an IDE for [Clojure](https://clojure.org) Interactive Development. It is the third most used development environment for Clojure according to the State of Clojure Survey 2022.
 https://calva.io
 
 ### Magma Core Foundation
@@ -1895,7 +1895,7 @@ https://github.com/ClimateMind
 https://keyman.com
 
 ### OWASP WrongSecrets
-OWASP WrongSecrets is an intentionally vulnerable app which learns you evertyhing about secrets management. It contains both a testbed to evaluate your secret scanner for secret detection, as well as many challenges which will teach you something about your own secrets management strategy. The vulnerable app is online available at a [free heroku instance](https://wrongsecrets.herokuapp.com/) and project sourcecode can be found at [the OWASP Project entry](https://github.com/OWASP/www-project-wrongsecrets). 
+OWASP WrongSecrets is an intentionally vulnerable app which learns you evertyhing about secrets management. It contains both a testbed to evaluate your secret scanner for secret detection, as well as many challenges which will teach you something about your own secrets management strategy. The vulnerable app is online available at a [free heroku instance](https://wrongsecrets.herokuapp.com/) and project sourcecode can be found at [the OWASP Project entry](https://github.com/OWASP/www-project-wrongsecrets).
 https://github.com/commjoen/wrongsecrets
 
 ### Text-Image Encryptor
@@ -1966,7 +1966,7 @@ OpenSSF serves as the cross-industry focal point for securing investment and res
 https://openssf.org/
 
 ### !!Con
-!!Con is a nonprofit conference about the joy, excitement, and surprise of programming. 
+!!Con is a nonprofit conference about the joy, excitement, and surprise of programming.
 https://bangbangcon.com
 
 ### Awesome-TTRSS
@@ -1981,6 +1981,11 @@ https://zzfzzf.com
 The goal of JSBox-Apps is to enhance the functionality and optimize the user experience of iOS and iPadOS by implementing functional extensions based on JSBox and javascript.
 https://github.com/axelburks/JSBox
 
+### Gin Admin Theme
+Drupal's experimental new (future) Admin interface. The Gin admin theme includes things which are currently out of scope for Core's Claro admin theme and/or some customisations we're experimenting with to be added in the future.
+https://drupal.org/project/gin
+
 ### FriendsOfShopware
 Friends of Shopware is a group of developers who creates open-source extensions for Shopware. 
 https://friendsofshopware.com
+

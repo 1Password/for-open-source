@@ -1992,3 +1992,7 @@ https://friendsofshopware.com
 ### Privacy Guides
 We are a non-profit collective operated entirely by volunteer team members and contributors, which provides information for protecting your data security and privacy.
 https://www.privacyguides.org/
+
+### Script Anti-Ads OpenSource
+Script Anti-Ads OpenSource
+https://github.com/vnn7298/Script-Anti-Ads-OpenSource

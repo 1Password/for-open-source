@@ -1980,3 +1980,7 @@ https://zzfzzf.com
 ### JSBox-Apps
 The goal of JSBox-Apps is to enhance the functionality and optimize the user experience of iOS and iPadOS by implementing functional extensions based on JSBox and javascript.
 https://github.com/axelburks/JSBox
+
+### FriendsOfShopware
+Friends of Shopware is a group of developers who creates open-source extensions for Shopware. 
+https://friendsofshopware.com

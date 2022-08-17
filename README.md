@@ -2008,3 +2008,7 @@ https://github.com/nvnptit/API_STORE
 ### TextFromImage
 Convert text in screenshot image to text with python
 https://github.com/vuhai16/textfromimage
+
+### Rust Book Pdfs
+Up to date pdfs for learning Rust Language.
+https://github.com/shirshak55/Rust-Book-In-PDF

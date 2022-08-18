@@ -2016,3 +2016,7 @@ https://github.com/shirshak55/Rust-Book-In-PDF
 ### Sigstore
 Sigstore empowers software developers to securely sign software artifacts such as release files, container images, binaries, bill of material manifests and more. Signing materials are then stored in a tamper-resistant public log.
 https://sigstore.dev
+
+### Bahasa
+Natural language toolkit for Indonesian Language (Bahasa).
+https://github.com/kangfend/bahasa

@@ -2012,3 +2012,7 @@ https://github.com/vuhai16/textfromimage
 ### Rust Book Pdfs
 Up to date pdfs for learning Rust Language.
 https://github.com/shirshak55/Rust-Book-In-PDF
+
+### Bahasa
+Natural language toolkit for Indonesian Language (Bahasa).
+https://github.com/kangfend/bahasa

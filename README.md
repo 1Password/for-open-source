@@ -2020,3 +2020,7 @@ https://sigstore.dev
 ### Bahasa
 Natural language toolkit for Indonesian Language (Bahasa).
 https://github.com/kangfend/bahasa
+
+### SwiftWasm
+SwiftWasm compiles your Swift code to WebAssembly.
+https://swiftwasm.org/

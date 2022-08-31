@@ -1997,6 +1997,10 @@ https://www.privacyguides.org/
 Script Anti-Ads OpenSource
 https://github.com/vnn7298/Script-Anti-Ads-OpenSource
 
+### workloads.io
+An open-source showcase of infrastructure-as-code workflows for multiple clouds and multiple types of workloads.
+https://github.com/workloads
+
 ### Gradience 
 Customize Adwaita with ease 
 https://github.com/AdwCustomizerTeam/AdwCustomizer 

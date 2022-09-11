@@ -2028,3 +2028,7 @@ https://github.com/kangfend/bahasa
 ### SwiftWasm
 SwiftWasm compiles your Swift code to WebAssembly.
 https://swiftwasm.org/
+
+### LeftWM
+LeftWM is a tiling window manager written in Rust that aims to be stable and performant.
+https://github.com/leftwm

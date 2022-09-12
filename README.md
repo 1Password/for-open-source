@@ -2028,3 +2028,7 @@ https://github.com/kangfend/bahasa
 ### SwiftWasm
 SwiftWasm compiles your Swift code to WebAssembly.
 https://swiftwasm.org/
+
+### Tree.ly
+The Tree.ly platform is based on a set of Open Source components, tools and datascience notebooks to unlock the full carbon sequestration potential of forests.
+https://tree.ly

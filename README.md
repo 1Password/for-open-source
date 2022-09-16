@@ -2028,3 +2028,7 @@ https://github.com/kangfend/bahasa
 ### SwiftWasm
 SwiftWasm compiles your Swift code to WebAssembly.
 https://swiftwasm.org/
+
+### Sub-Store
+Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!
+https://github.com/sub-store-org/Sub-Store

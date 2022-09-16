@@ -2032,3 +2032,7 @@ https://swiftwasm.org/
 ### Sub-Store
 Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!
 https://github.com/sub-store-org/Sub-Store
+
+### LeftWM
+LeftWM is a tiling window manager written in Rust that aims to be stable and performant.
+https://github.com/leftwm

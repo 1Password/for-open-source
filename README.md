@@ -2036,3 +2036,7 @@ https://github.com/sub-store-org/Sub-Store
 ### LeftWM
 LeftWM is a tiling window manager written in Rust that aims to be stable and performant.
 https://github.com/leftwm
+
+### Tree.ly
+The Tree.ly platform is based on a set of Open Source components, tools and datascience notebooks to unlock the full carbon sequestration potential of forests.
+https://tree.ly

@@ -2040,3 +2040,7 @@ https://github.com/leftwm
 ### Tree.ly
 The Tree.ly platform is based on a set of Open Source components, tools and datascience notebooks to unlock the full carbon sequestration potential of forests.
 https://tree.ly
+
+### KKid
+The KKid iOS app provides parents and kids with features like Allowance tracking, Electronic Chore sheets, Movie Watch List, Wish Lists and more. This app is free and open-source.
+https://github.com/kumpeapps/KKid#kkid

@@ -2044,3 +2044,7 @@ https://tree.ly
 ### KKid
 The KKid iOS app provides parents and kids with features like Allowance tracking, Electronic Chore sheets, Movie Watch List, Wish Lists and more. This app is free and open-source.
 https://github.com/kumpeapps/KKid#kkid
+
+### Electric Purple (VS Code theme)
+Electric purple is an open-source VS Code theme that people can modify to their needs.
+https://github.com/reeceatkinson/electricpurple

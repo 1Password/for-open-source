@@ -2040,3 +2040,7 @@ https://github.com/leftwm
 ### Tree.ly
 The Tree.ly platform is based on a set of Open Source components, tools and datascience notebooks to unlock the full carbon sequestration potential of forests.
 https://tree.ly
+
+### Electric Purple (VS Code theme)
+Electric purple is an open-source VS Code theme that people can modify to their needs.
+https://github.com/reeceatkinson/electricpurple

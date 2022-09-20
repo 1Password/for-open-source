@@ -2048,3 +2048,7 @@ https://github.com/kumpeapps/KKid#kkid
 ### Electric Purple (VS Code theme)
 Electric purple is an open-source VS Code theme that people can modify to their needs.
 https://github.com/reeceatkinson/electricpurple
+
+### Kured
+Kured (KUbernetes REboot Daemon) is a Kubernetes daemonset that performs safe automatic node reboots when the need to do so is indicated by the package management system of the underlying OS.
+https://github.com/kubereboot

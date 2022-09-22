@@ -2052,3 +2052,7 @@ https://github.com/reeceatkinson/electricpurple
 ### Kured
 Kured (KUbernetes REboot Daemon) is a Kubernetes daemonset that performs safe automatic node reboots when the need to do so is indicated by the package management system of the underlying OS.
 https://github.com/kubereboot
+
+### Etherisc
+Decentralized insurance protocol to collectively build insurance products.
+https://www.etherisc.com

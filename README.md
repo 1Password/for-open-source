@@ -2056,3 +2056,7 @@ https://github.com/kubereboot
 ### Etherisc
 Decentralized insurance protocol to collectively build insurance products.
 https://www.etherisc.com
+
+### textlint
+The pluggable linter for natural language.
+https://textlint.github.io/

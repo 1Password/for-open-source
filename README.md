@@ -2060,3 +2060,7 @@ https://www.etherisc.com
 ### textlint
 The pluggable linter for natural language.
 https://textlint.github.io/
+
+### Web Scrobbler
+Web Scrobbler is a browser extension created for people who listen to music online through their browser, and would like to keep an updated playback history using scrobbling services, such as Last.fm, Libre.fm and ListenBrainz.
+https://web-scrobbler.com/

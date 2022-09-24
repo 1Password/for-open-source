@@ -2060,3 +2060,7 @@ https://www.etherisc.com
 ### textlint
 The pluggable linter for natural language.
 https://textlint.github.io/
+
+### action-slack
+action-slack is a product that notifies Slack from GitHub Actions.
+https://action-slack.netlify.app/

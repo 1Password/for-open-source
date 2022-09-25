@@ -2060,3 +2060,7 @@ https://www.etherisc.com
 ### textlint
 The pluggable linter for natural language.
 https://textlint.github.io/
+
+### AzisabaNetwork
+An open-source Minecraft plugin development community in Japan.
+https://github.com/AzisabaNetwork

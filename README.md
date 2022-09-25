@@ -2060,3 +2060,7 @@ https://www.etherisc.com
 ### textlint
 The pluggable linter for natural language.
 https://textlint.github.io/
+
+### BlueberryMC
+Open-source modding API for Minecraft that aims to be simple and useful for everyone.
+https://blueberrymc.net

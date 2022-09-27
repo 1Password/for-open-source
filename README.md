@@ -2064,3 +2064,7 @@ https://textlint.github.io/
 ### PythonRobotics
 Python sample codes for robotics algorithms.
 https://github.com/AtsushiSakai/PythonRobotics
+
+### AzisabaNetwork
+An open-source Minecraft plugin development community in Japan.
+https://github.com/AzisabaNetwork

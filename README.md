@@ -2060,3 +2060,7 @@ https://www.etherisc.com
 ### textlint
 The pluggable linter for natural language.
 https://textlint.github.io/
+
+### PythonRobotics
+Python sample codes for robotics algorithms.
+https://github.com/AtsushiSakai/PythonRobotics

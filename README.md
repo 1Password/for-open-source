@@ -2061,6 +2061,18 @@ https://www.etherisc.com
 The pluggable linter for natural language.
 https://textlint.github.io/
 
+### PythonRobotics
+Python sample codes for robotics algorithms.
+https://github.com/AtsushiSakai/PythonRobotics
+
+### AzisabaNetwork
+An open-source Minecraft plugin development community in Japan.
+https://github.com/AzisabaNetwork
+
+### BlueberryMC
+Open-source modding API for Minecraft that aims to be simple and useful for everyone.
+https://blueberrymc.net
+
 ### Web Scrobbler
 Web Scrobbler is a browser extension created for people who listen to music online through their browser, and would like to keep an updated playback history using scrobbling services, such as Last.fm, Libre.fm and ListenBrainz.
 https://web-scrobbler.com/

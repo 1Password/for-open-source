@@ -2068,3 +2068,7 @@ https://github.com/AtsushiSakai/PythonRobotics
 ### AzisabaNetwork
 An open-source Minecraft plugin development community in Japan.
 https://github.com/AzisabaNetwork
+
+### BlueberryMC
+Open-source modding API for Minecraft that aims to be simple and useful for everyone.
+https://blueberrymc.net

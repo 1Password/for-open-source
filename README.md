@@ -2076,3 +2076,7 @@ https://blueberrymc.net
 ### Web Scrobbler
 Web Scrobbler is a browser extension created for people who listen to music online through their browser, and would like to keep an updated playback history using scrobbling services, such as Last.fm, Libre.fm and ListenBrainz.
 https://web-scrobbler.com/
+
+### action-slack
+action-slack is a product that notifies Slack from GitHub Actions.
+https://action-slack.netlify.app/

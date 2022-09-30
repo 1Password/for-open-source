@@ -2082,6 +2082,6 @@ action-slack is a product that notifies Slack from GitHub Actions.
 https://action-slack.netlify.app/
 
 ### Open Privacy Tech
-Open Privacy Tech is democratizing Privacy Technology, a non-profit and open source community. 
-https://github.com/openprivacytech
+Open Privacy Tech is a non profit open source democratizing Privacy Technology.
+https://github.com/openprivacytech,
 https://www.openprivacytech.org

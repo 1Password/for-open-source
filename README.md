@@ -2080,3 +2080,7 @@ https://web-scrobbler.com/
 ### action-slack
 action-slack is a product that notifies Slack from GitHub Actions.
 https://action-slack.netlify.app/
+
+### Poetry
+Python packaging and dependency management made easy 
+https://python-poetry.org 

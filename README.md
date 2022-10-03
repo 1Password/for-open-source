@@ -2093,3 +2093,7 @@ https://seagl.org/
 Open Privacy Tech is a non profit open source democratizing Privacy Technology.
 https://github.com/openprivacytech,
 https://www.openprivacytech.org
+
+### Poetry
+Python packaging and dependency management made easy 
+https://python-poetry.org 

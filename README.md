@@ -2081,6 +2081,14 @@ https://web-scrobbler.com/
 action-slack is a product that notifies Slack from GitHub Actions.
 https://action-slack.netlify.app/
 
+### Kaigi on Rails
+Kaigi on Rails is a nonprofit conference focusing on Ruby on Rails.
+https://kaigionrails.org
+
+### SeaGL - Seattle GNU Linux Conference
+Founded in 2013, SeaGL (the Seattle GNU/Linux Conference) is a free—as in freedom and tea—grassroots technical summit dedicated to spreading awareness and knowledge about free / libre / open source software, hardware, and culture. SeaGL strives to be welcoming, enjoyable, and informative for professional technologists, newcomers, enthusiasts, and all other users of free software, regardless of their background knowledge; providing a space to bridge these experiences and strengthen the free software movement through mentorship, collaboration, and community.
+https://seagl.org/
+
 ### Open Privacy Tech
 Open Privacy Tech is a non profit open source democratizing Privacy Technology.
 https://github.com/openprivacytech,

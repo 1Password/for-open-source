@@ -2080,3 +2080,7 @@ https://web-scrobbler.com/
 ### action-slack
 action-slack is a product that notifies Slack from GitHub Actions.
 https://action-slack.netlify.app/
+
+### Kaigi on Rails
+Kaigi on Rails is a nonprofit conference focusing on Ruby on Rails.
+https://kaigionrails.org

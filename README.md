@@ -2097,3 +2097,7 @@ https://www.openprivacytech.org
 ### Poetry
 Python packaging and dependency management made easy 
 https://python-poetry.org 
+
+### Mac Admins Open Source
+We are an organization to empower open source projects in the Mac Admin community.
+www.macadmins.io

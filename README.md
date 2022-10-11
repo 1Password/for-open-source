@@ -2097,3 +2097,7 @@ https://www.openprivacytech.org
 ### Poetry
 Python packaging and dependency management made easy 
 https://python-poetry.org 
+
+### W3band frondend project
+3band frondend project with html, javascript, css
+https://github.com/nhatnguyen2410/w3band-frondend-project

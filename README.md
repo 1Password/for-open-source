@@ -2105,3 +2105,7 @@ https://github.com/hungvmlotus/project-based-learning-master
 ### Mac Admins Open Source
 We are an organization to empower open source projects in the Mac Admin community.
 www.macadmins.io
+
+### W3band frondend project
+3band frondend project with html, javascript, css
+https://github.com/nhatnguyen2410/w3band-frondend-project

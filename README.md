@@ -2113,3 +2113,7 @@ https://github.com/nhatnguyen2410/w3band-frondend-project
 ### Database project management
 Distributed database material management
 https://github.com/nhatnguyen2410/QLVT
+
+### Kanazawa.js
+Kanazawa.js is a nonprofit community for anyone interested in JavaScript and Kanazawa based in Kanazawa, Ishikawa, Japan.
+https://github.com/kanazawa-js

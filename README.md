@@ -2113,3 +2113,7 @@ https://github.com/nhatnguyen2410/w3band-frondend-project
 ### Database project management
 Distributed database material management
 https://github.com/nhatnguyen2410/QLVT
+
+### Graphs Project
+This project has the aim to help the highschool students understand what the graphs are and how they can be used.
+https://github.com/Patrick-Lari/project_graphs

@@ -2113,3 +2113,7 @@ https://github.com/nhatnguyen2410/w3band-frondend-project
 ### Database project management
 Distributed database material management
 https://github.com/nhatnguyen2410/QLVT
+
+### PyCon JP Association
+The PyCon JP Association (Japanese: 一般社団法人PyCon JP Association) is a nonprofit organization for Python users in Japan, to promote Python and supports its development. Further it is our goal to hold an annual PyCon JP conference.
+https://www.pycon.jp/

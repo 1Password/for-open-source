@@ -2121,3 +2121,7 @@ https://lifememory.team/
 ### Kanazawa.js
 Kanazawa.js is a nonprofit community for anyone interested in JavaScript and Kanazawa based in Kanazawa, Ishikawa, Japan.
 https://github.com/kanazawa-js
+
+### Graphs Project
+This project has the aim to help the highschool students understand what the graphs are and how they can be used.
+https://github.com/Patrick-Lari/project_graphs

@@ -2113,3 +2113,7 @@ https://github.com/nhatnguyen2410/w3band-frondend-project
 ### Database project management
 Distributed database material management
 https://github.com/nhatnguyen2410/QLVT
+
+### Air Cast
+Open Source Air Quality Index Device with its own backend and frontend.
+https://github.com/air-cast

@@ -2117,3 +2117,7 @@ https://github.com/nhatnguyen2410/QLVT
 ### LifeMemoryTeam
 LifeMemoryTeam is an engineering community based in Japan. The team was created for the purpose of friendship among developers and software development. Now, we are building CTF infrastructure and releasing useful tools.
 https://lifememory.team/
+
+### Kanazawa.js
+Kanazawa.js is a nonprofit community for anyone interested in JavaScript and Kanazawa based in Kanazawa, Ishikawa, Japan.
+https://github.com/kanazawa-js

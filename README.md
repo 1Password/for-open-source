@@ -2632,3 +2632,8 @@ https://github.com/Patrick-Lari/project_graphs
 
 The PyCon JP Association (Japanese: 一般社団法人 PyCon JP Association) is a nonprofit organization for Python users in Japan, to promote Python and supports its development. Further it is our goal to hold an annual PyCon JP conference.
 https://www.pycon.jp/
+
+### Air Cast
+
+Open Source Air Quality Index Device with its own backend and frontend.
+https://github.com/air-cast

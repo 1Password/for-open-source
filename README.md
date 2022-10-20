@@ -2114,6 +2114,14 @@ https://github.com/nhatnguyen2410/w3band-frondend-project
 Distributed database material management
 https://github.com/nhatnguyen2410/QLVT
 
+### LifeMemoryTeam
+LifeMemoryTeam is an engineering community based in Japan. The team was created for the purpose of friendship among developers and software development. Now, we are building CTF infrastructure and releasing useful tools.
+https://lifememory.team/
+
+### Kanazawa.js
+Kanazawa.js is a nonprofit community for anyone interested in JavaScript and Kanazawa based in Kanazawa, Ishikawa, Japan.
+https://github.com/kanazawa-js
+
 ### Graphs Project
 This project has the aim to help the highschool students understand what the graphs are and how they can be used.
 https://github.com/Patrick-Lari/project_graphs

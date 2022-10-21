@@ -2637,3 +2637,9 @@ https://www.pycon.jp/
 
 Open Source Air Quality Index Device with its own backend and frontend.
 https://github.com/air-cast
+
+
+### WIDE Project
+
+The WIDE (Widely Integrated Distributed Environment) Project is an Internet project in Japan started in 1985.  With its motto of "research in our left hand, operation in our right," the project serves as a research and educational network in Japan, with a number of projects and research contributions to the Internet as a whole.
+https://www.wide.ad.jp/

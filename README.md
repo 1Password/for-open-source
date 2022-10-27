@@ -2642,3 +2642,9 @@ https://github.com/air-cast
 
 InReach is the world’s first tech platform matching LGBTQ+ people with safe, verified resources.
 https://www.inreach.org
+
+
+### Python Community News
+
+Python Community News is a podcast, livestream, and newsletter that focuses on the Non-Pipable news in the Python Community.
+https://pythoncommunitynews.com

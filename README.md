@@ -2638,6 +2638,20 @@ https://www.pycon.jp/
 Open Source Air Quality Index Device with its own backend and frontend.
 https://github.com/air-cast
 
+### InReach
+
+InReach is the world’s first tech platform matching LGBTQ+ people with safe, verified resources.
+https://www.inreach.org
+
+### Managyment
+
+Open source Gym nanagement system, we are working on new version rebuild in laravel and vuejs 
+https://github.com/pechanxur/managyment
+
+### BCN Engineering
+
+A non-profit organization with a community of more than 7k members. Our mission is to let Barcelona’s tech hub become one of the best tech communities around the globe.
+https://bcneng.org
 
 ### WIDE Project
 

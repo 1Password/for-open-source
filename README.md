@@ -40,6 +40,12 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using 1Password Teams
 
+### Security Knowledge Framework
+
+SKF is a fully open-source organization (with many partnering and contributing organizations) that focuses training you and your team in building secure applications, by design. We're a flagship OWASP project, and also a play a central role as part of Linux Foundation's OpenSSF Education stream (Stream 1: Security Education of the OpenSSF Mobilization Plan). 
+
+https://www.securityknowledgeframework.org/
+
 ### WWDCScholars
 
 WWDCScholars is a community of [Apple WWDC Scholarship winners](https://developer.apple.com/wwdc/scholarships/). Together we developed and maintain an [iOS app](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8), the [main website](https://wwdcscholars.com) and a [sign-up form](https://join.wwdcscholars.com).

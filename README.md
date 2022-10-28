@@ -2642,3 +2642,9 @@ https://github.com/air-cast
 
 InReach is the world’s first tech platform matching LGBTQ+ people with safe, verified resources.
 https://www.inreach.org
+
+### BCN Engineering
+
+A non-profit organization with a community of more than 7k members. Our mission is to let Barcelona’s tech hub become one of the best tech communities around the globe.
+
+https://bcneng.org

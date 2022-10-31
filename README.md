@@ -2657,3 +2657,8 @@ https://bcneng.org
 
 The WIDE (Widely Integrated Distributed Environment) Project is an Internet project in Japan started in 1985.  With its motto of "research in our left hand, operation in our right," the project serves as a research and educational network in Japan, with a number of projects and research contributions to the Internet as a whole.
 https://www.wide.ad.jp/
+
+### AsyncAPI
+
+Building the future of Event-Driven Architectures (EDA). Open-Source tools to easily build and maintain your event-driven architecture. All powered by the AsyncAPI specification, the industry standard for defining asynchronous APIs.
+https://www.asyncapi.com

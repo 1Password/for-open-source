@@ -2648,6 +2648,16 @@ https://www.inreach.org
 Open source Gym nanagement system, we are working on new version rebuild in laravel and vuejs 
 https://github.com/pechanxur/managyment
 
+### BCN Engineering
+
+A non-profit organization with a community of more than 7k members. Our mission is to let Barcelona’s tech hub become one of the best tech communities around the globe.
+https://bcneng.org
+
+### WIDE Project
+
+The WIDE (Widely Integrated Distributed Environment) Project is an Internet project in Japan started in 1985.  With its motto of "research in our left hand, operation in our right," the project serves as a research and educational network in Japan, with a number of projects and research contributions to the Internet as a whole.
+https://www.wide.ad.jp/
+
 ### Python Community News
 
 Python Community News is a podcast, livestream, and newsletter that focuses on the Non-Pipable news in the Python Community.

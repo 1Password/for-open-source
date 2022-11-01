@@ -2662,3 +2662,7 @@ https://www.wide.ad.jp/
 
 Python Community News is a podcast, livestream, and newsletter that focuses on the Non-Pipable news in the Python Community.
 https://pythoncommunitynews.com
+
+### MERL Tech
+We support and encourage the responsible use of digital data and technology in monitoring, evaluation, research and learning (MERL) within the global development, humanitarian, human rights, peacebuilding, and social impact sectors.
+https://merltech.org/

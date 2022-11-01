@@ -2662,3 +2662,7 @@ https://www.wide.ad.jp/
 
 Python Community News is a podcast, livestream, and newsletter that focuses on the Non-Pipable news in the Python Community.
 https://pythoncommunitynews.com
+
+### sbt-schema-registry-downloader
+Scala sbt plugin for downloading schemas from Confluent Schema Registry
+https://github.com/broilogabriel/sbt-schema-registry-downloader

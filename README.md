@@ -2662,3 +2662,7 @@ https://www.wide.ad.jp/
 
 Python Community News is a podcast, livestream, and newsletter that focuses on the Non-Pipable news in the Python Community.
 https://pythoncommunitynews.com
+
+### MERL Center
+The monitoring, evaluation, research and learning (MERL) Center is a community creating resources about the intersection of MERL and open source, data science and human-centered design, for people of any technology capacity.
+https://merlcenter.org/

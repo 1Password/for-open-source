@@ -2645,7 +2645,7 @@ https://www.inreach.org
 
 ### Managyment
 
-Open source Gym nanagement system, we are working on new version rebuild in laravel and vuejs
+Open source Gym nanagement system, we are working on new version rebuild in laravel and vuejs 
 https://github.com/pechanxur/managyment
 
 ### BCN Engineering

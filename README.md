@@ -2645,7 +2645,7 @@ https://www.inreach.org
 
 ### Managyment
 
-Open source Gym nanagement system, we are working on new version rebuild in laravel and vuejs 
+Open source Gym nanagement system, we are working on new version rebuild in laravel and vuejs
 https://github.com/pechanxur/managyment
 
 ### BCN Engineering
@@ -2662,3 +2662,8 @@ https://www.wide.ad.jp/
 
 Python Community News is a podcast, livestream, and newsletter that focuses on the Non-Pipable news in the Python Community.
 https://pythoncommunitynews.com
+
+### Kanazawa.rb
+
+Kanazawa.rb is a nonprofit community for anyone interested in Ruby and Kanazawa based in Kanazawa, Ishikawa, Japan.
+https://github.com/kanazawarb

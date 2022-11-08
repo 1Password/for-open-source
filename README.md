@@ -2662,3 +2662,9 @@ https://www.wide.ad.jp/
 
 Python Community News is a podcast, livestream, and newsletter that focuses on the Non-Pipable news in the Python Community.
 https://pythoncommunitynews.com
+
+### Security Knowledge Framework
+
+SKF is a fully open-source organization (with many partnering and contributing organizations) that focuses training you and your team in building secure applications, by design. We're a flagship OWASP project, and also a play a central role as part of Linux Foundation's OpenSSF Education stream (Stream 1: Security Education of the OpenSSF Mobilization Plan). 
+
+https://www.securityknowledgeframework.org/

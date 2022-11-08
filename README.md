@@ -2681,3 +2681,8 @@ https://github.com/broilogabriel/sbt-schema-registry-downloader
 ### MERL Center
 The monitoring, evaluation, research and learning (MERL) Center is a community creating resources about the intersection of MERL and open source, data science and human-centered design, for people of any technology capacity.
 https://merlcenter.org/
+
+### Kanazawa.rb
+
+Kanazawa.rb is a nonprofit community for anyone interested in Ruby and Kanazawa based in Kanazawa, Ishikawa, Japan.
+https://github.com/kanazawarb

@@ -2677,3 +2677,7 @@ https://www.asyncapi.com
 ### sbt-schema-registry-downloader
 Scala sbt plugin for downloading schemas from Confluent Schema Registry
 https://github.com/broilogabriel/sbt-schema-registry-downloader
+
+### MERL Center
+The monitoring, evaluation, research and learning (MERL) Center is a community creating resources about the intersection of MERL and open source, data science and human-centered design, for people of any technology capacity.
+https://merlcenter.org/

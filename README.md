@@ -2673,3 +2673,7 @@ https://www.securityknowledgeframework.org/
 
 Building the future of Event-Driven Architectures (EDA). Open-Source tools to easily build and maintain your event-driven architecture. All powered by the AsyncAPI specification, the industry standard for defining asynchronous APIs.
 https://www.asyncapi.com
+
+### sbt-schema-registry-downloader
+Scala sbt plugin for downloading schemas from Confluent Schema Registry
+https://github.com/broilogabriel/sbt-schema-registry-downloader

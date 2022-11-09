@@ -2686,3 +2686,9 @@ https://merlcenter.org/
 
 Kanazawa.rb is a nonprofit community for anyone interested in Ruby and Kanazawa based in Kanazawa, Ishikawa, Japan.
 https://github.com/kanazawarb
+
+### Kotlin Fill Class
+
+Kotlin Fill Class is an Intellij plugin that provides intention action for empty constructor or function to fill property with default value.
+https://github.com/suusan2go/kotlin-fill-class
+

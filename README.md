@@ -2645,7 +2645,7 @@ https://www.inreach.org
 
 ### Managyment
 
-Open source Gym nanagement system, we are working on new version rebuild in laravel and vuejs 
+Open source Gym nanagement system, we are working on new version rebuild in laravel and vuejs
 https://github.com/pechanxur/managyment
 
 ### BCN Engineering
@@ -2655,7 +2655,7 @@ https://bcneng.org
 
 ### WIDE Project
 
-The WIDE (Widely Integrated Distributed Environment) Project is an Internet project in Japan started in 1985.  With its motto of "research in our left hand, operation in our right," the project serves as a research and educational network in Japan, with a number of projects and research contributions to the Internet as a whole.
+The WIDE (Widely Integrated Distributed Environment) Project is an Internet project in Japan started in 1985. With its motto of "research in our left hand, operation in our right," the project serves as a research and educational network in Japan, with a number of projects and research contributions to the Internet as a whole.
 https://www.wide.ad.jp/
 
 ### Python Community News
@@ -2665,7 +2665,7 @@ https://pythoncommunitynews.com
 
 ### Security Knowledge Framework
 
-SKF is a fully open-source organization (with many partnering and contributing organizations) that focuses training you and your team in building secure applications, by design. We're a flagship OWASP project, and also a play a central role as part of Linux Foundation's OpenSSF Education stream (Stream 1: Security Education of the OpenSSF Mobilization Plan). 
+SKF is a fully open-source organization (with many partnering and contributing organizations) that focuses training you and your team in building secure applications, by design. We're a flagship OWASP project, and also a play a central role as part of Linux Foundation's OpenSSF Education stream (Stream 1: Security Education of the OpenSSF Mobilization Plan).
 
 https://www.securityknowledgeframework.org/
 
@@ -2675,10 +2675,12 @@ Building the future of Event-Driven Architectures (EDA). Open-Source tools to ea
 https://www.asyncapi.com
 
 ### sbt-schema-registry-downloader
+
 Scala sbt plugin for downloading schemas from Confluent Schema Registry
 https://github.com/broilogabriel/sbt-schema-registry-downloader
 
 ### MERL Center
+
 The monitoring, evaluation, research and learning (MERL) Center is a community creating resources about the intersection of MERL and open source, data science and human-centered design, for people of any technology capacity.
 https://merlcenter.org/
 
@@ -2692,3 +2694,7 @@ https://github.com/kanazawarb
 Kotlin Fill Class is an Intellij plugin that provides intention action for empty constructor or function to fill property with default value.
 https://github.com/suusan2go/kotlin-fill-class
 
+### Center for Lifespan Changes in Brain and Cognition
+
+We are a research center in Oslo (Norway) that in addition to researching brain and cognition, release open source tools for other scientists to use in their research. We create tools in R, python, bash and javascript, depending on the use-case and need of the given tool.
+https://www.oslobrains.no/

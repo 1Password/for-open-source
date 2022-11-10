@@ -2686,3 +2686,7 @@ https://merlcenter.org/
 
 Kanazawa.rb is a nonprofit community for anyone interested in Ruby and Kanazawa based in Kanazawa, Ishikawa, Japan.
 https://github.com/kanazawarb
+
+### Center for Lifespan Changes in Brain and Cognition
+We are a research center in Oslo (Norway) that in addition to researching brain and cognition, release open source tools for other scientists to use in their research. We create tools in R, python, bash and javascript, depending on the use-case and need of the given tool. 
+https://www.oslobrains.no/

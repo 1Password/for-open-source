@@ -2686,3 +2686,8 @@ https://merlcenter.org/
 
 Kanazawa.rb is a nonprofit community for anyone interested in Ruby and Kanazawa based in Kanazawa, Ishikawa, Japan.
 https://github.com/kanazawarb
+
+### Cachet
+
+The Copenhagen Center for Health Technology [cachet] is a strategic partnership between the Capital Health Region of Denmark, the City of Copenhagen, the University of Copenhagen, and the Technical University of Denmark. The strategic objective is to strengthen interdisciplinary and cross-organizational research and development within personalized health technology. 
+https://www.cachet.dk/

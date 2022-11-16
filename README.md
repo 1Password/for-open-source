@@ -2698,3 +2698,8 @@ https://github.com/suusan2go/kotlin-fill-class
 
 We are a research center in Oslo (Norway) that in addition to researching brain and cognition, release open source tools for other scientists to use in their research. We create tools in R, python, bash and javascript, depending on the use-case and need of the given tool.
 https://www.oslobrains.no/
+
+### Cachet
+
+The Copenhagen Center for Health Technology [cachet] is a strategic partnership between the Capital Health Region of Denmark, the City of Copenhagen, the University of Copenhagen, and the Technical University of Denmark. The strategic objective is to strengthen interdisciplinary and cross-organizational research and development within personalized health technology. 
+https://www.cachet.dk/

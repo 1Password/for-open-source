@@ -2707,3 +2707,10 @@ https://www.cachet.dk/
 ### RocketCreations
 We create free and open source minecraft server side modifications called plugins.
 https://github.com/Lorenzo0111
+
+
+### OWASP Dependency-Track
+
+Dependency-Track is an intelligent SBOM Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+[https://dependencytrack.org/](https://dependencytrack.org/)
+

@@ -2714,3 +2714,7 @@ https://github.com/Lorenzo0111
 Dependency-Track is an intelligent SBOM Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 [https://dependencytrack.org/](https://dependencytrack.org/)
 
+### entities
+
+JavaScript library to encode & decode HTML & XML entities with ease & speed.
+https://github.com/fb55/entities

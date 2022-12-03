@@ -2714,6 +2714,11 @@ https://github.com/Lorenzo0111
 Dependency-Track is an intelligent SBOM Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 [https://dependencytrack.org/](https://dependencytrack.org/)
 
+### Nextstrain
+
+Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. Our goal is to aid epidemiological understanding and improve outbreak response.
+https://nextstrain.org
+
 ### entities
 
 JavaScript library to encode & decode HTML & XML entities with ease & speed.

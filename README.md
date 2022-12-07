@@ -1083,6 +1083,11 @@ https://opereon.io/
 Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
 https://apache.airflow.org
 
+### Apache Superset
+Apache Superset is a modern, enterprise-ready business intelligence web application. It is fast, lightweight, intuitive, and loaded with options that make it easy for users of all skill sets to explore and visualize their data.
+
+https://superset.apache.org
+
 ### India Biodiversity Portal
 
 A repository of information on India's biodiversity. The Portal aims to aggregate data through public participation and provide open and free access to biodiversity information.

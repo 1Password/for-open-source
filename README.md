@@ -2718,3 +2718,7 @@ Dependency-Track is an intelligent SBOM Analysis platform that allows organizati
 
 Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. Our goal is to aid epidemiological understanding and improve outbreak response.
 https://nextstrain.org
+
+### Jaybots
+
+The Jaybots are a robotics team from John Jay High School that compete in First Tech Challenge. For more information on what we do, check out our website at [https://jaybots.org/](https://jaybots.org/)

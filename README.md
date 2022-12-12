@@ -1909,8 +1909,8 @@ https://github.com/nhymxu/cf-dns-update-python
 
 ### ZaDark – Zalo Dark Mode
 
-ZaDark is an open source extension that helps you enable Dark Mode for Zalo on PC and Browser.
-https://zadark.ncdaistudio.com
+ZaDark is an extension that helps you enable Dark Mode for Zalo PC and Web.
+https://zadark.quaric.com
 
 ### gsTool
 

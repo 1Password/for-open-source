@@ -1084,6 +1084,7 @@ Airflow is a platform created by the community to programmatically author, sched
 https://apache.airflow.org
 
 ### Apache Superset
+
 Apache Superset is a modern, enterprise-ready business intelligence web application. It is fast, lightweight, intuitive, and loaded with options that make it easy for users of all skill sets to explore and visualize their data.
 
 https://superset.apache.org
@@ -2706,13 +2707,13 @@ https://www.oslobrains.no/
 
 ### Cachet
 
-The Copenhagen Center for Health Technology [cachet] is a strategic partnership between the Capital Health Region of Denmark, the City of Copenhagen, the University of Copenhagen, and the Technical University of Denmark. The strategic objective is to strengthen interdisciplinary and cross-organizational research and development within personalized health technology. 
+The Copenhagen Center for Health Technology [cachet] is a strategic partnership between the Capital Health Region of Denmark, the City of Copenhagen, the University of Copenhagen, and the Technical University of Denmark. The strategic objective is to strengthen interdisciplinary and cross-organizational research and development within personalized health technology.
 https://www.cachet.dk/
 
 ### RocketCreations
+
 We create free and open source minecraft server side modifications called plugins.
 https://github.com/Lorenzo0111
-
 
 ### OWASP Dependency-Track
 
@@ -2738,3 +2739,7 @@ https://gitlab.com/dadangnh/iam
 
 Serratus is a collaborative Open Science project for ultra-rapid discovery of all viruses. Our primary goal is to generate the viral data to accelerate the global research efforts in fighting emerging pathogens.
 https://serratus.io/
+
+### Jaybots
+
+The Jaybots are a robotics team from John Jay High School that compete in First Tech Challenge. For more information on what we do, check out our website at [https://jaybots.org/](https://jaybots.org/)

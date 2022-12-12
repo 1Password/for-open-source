@@ -1083,6 +1083,12 @@ https://opereon.io/
 Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
 https://apache.airflow.org
 
+### Apache Superset
+
+Apache Superset is a modern, enterprise-ready business intelligence web application. It is fast, lightweight, intuitive, and loaded with options that make it easy for users of all skill sets to explore and visualize their data.
+
+https://superset.apache.org
+
 ### India Biodiversity Portal
 
 A repository of information on India's biodiversity. The Portal aims to aggregate data through public participation and provide open and free access to biodiversity information.
@@ -1904,8 +1910,8 @@ https://github.com/nhymxu/cf-dns-update-python
 
 ### ZaDark – Zalo Dark Mode
 
-ZaDark is an open source extension that helps you enable Dark Mode for Zalo on PC and Browser.
-https://zadark.ncdaistudio.com
+ZaDark is an extension that helps you enable Dark Mode for Zalo PC and Web.
+https://zadark.quaric.com
 
 ### gsTool
 
@@ -2701,13 +2707,13 @@ https://www.oslobrains.no/
 
 ### Cachet
 
-The Copenhagen Center for Health Technology [cachet] is a strategic partnership between the Capital Health Region of Denmark, the City of Copenhagen, the University of Copenhagen, and the Technical University of Denmark. The strategic objective is to strengthen interdisciplinary and cross-organizational research and development within personalized health technology. 
+The Copenhagen Center for Health Technology [cachet] is a strategic partnership between the Capital Health Region of Denmark, the City of Copenhagen, the University of Copenhagen, and the Technical University of Denmark. The strategic objective is to strengthen interdisciplinary and cross-organizational research and development within personalized health technology.
 https://www.cachet.dk/
 
 ### RocketCreations
+
 We create free and open source minecraft server side modifications called plugins.
 https://github.com/Lorenzo0111
-
 
 ### OWASP Dependency-Track
 
@@ -2718,6 +2724,25 @@ Dependency-Track is an intelligent SBOM Analysis platform that allows organizati
 
 Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. Our goal is to aid epidemiological understanding and improve outbreak response.
 https://nextstrain.org
+
+### Rinvex
+
+Rinvex Cortex is a solid foundation for enterprise solutions, that provides a flexible and extensible architecture for building multi-lingual, multi-tenant applications with content management, themeable views, application modules and much more.
+https://github.com/rinvex
+
+### IAM
+
+Identity and Access Management based on Api-Platform and Symfony Framework.
+https://gitlab.com/dadangnh/iam
+
+### Serratus
+
+Serratus is a collaborative Open Science project for ultra-rapid discovery of all viruses. Our primary goal is to generate the viral data to accelerate the global research efforts in fighting emerging pathogens.
+https://serratus.io/
+
+### Jaybots
+
+The Jaybots are a robotics team from John Jay High School that compete in First Tech Challenge. For more information on what we do, check out our website at [https://jaybots.org/](https://jaybots.org/)
 
 ### Novu
 

@@ -2733,3 +2733,8 @@ https://github.com/rinvex
 
 Identity and Access Management based on Api-Platform and Symfony Framework.
 https://gitlab.com/dadangnh/iam
+
+### Serratus
+
+Serratus is a collaborative Open Science project for ultra-rapid discovery of all viruses. Our primary goal is to generate the viral data to accelerate the global research efforts in fighting emerging pathogens.
+https://serratus.io/

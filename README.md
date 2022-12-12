@@ -2748,3 +2748,8 @@ The Jaybots are a robotics team from John Jay High School that compete in First 
 
 The open-source notification infrastructure
 https://github.com/novuhq/novu/
+
+### entities
+
+JavaScript library to encode & decode HTML & XML entities with ease & speed.
+https://github.com/fb55/entities

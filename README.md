@@ -2743,3 +2743,8 @@ https://serratus.io/
 ### Jaybots
 
 The Jaybots are a robotics team from John Jay High School that compete in First Tech Challenge. For more information on what we do, check out our website at [https://jaybots.org/](https://jaybots.org/)
+
+### Novu
+
+The open-source notification infrastructure
+https://github.com/novuhq/novu/

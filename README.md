@@ -2718,3 +2718,8 @@ Dependency-Track is an intelligent SBOM Analysis platform that allows organizati
 
 Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. Our goal is to aid epidemiological understanding and improve outbreak response.
 https://nextstrain.org
+
+### Rinvex
+
+Rinvex Cortex is a solid foundation for enterprise solutions, that provides a flexible and extensible architecture for building multi-lingual, multi-tenant applications with content management, themeable views, application modules and much more.
+https://github.com/rinvex

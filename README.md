@@ -2753,3 +2753,6 @@ https://github.com/novuhq/novu/
 
 JavaScript library to encode & decode HTML & XML entities with ease & speed.
 https://github.com/fb55/entities
+
+### PyMC
+[PyMC](https://www.pymc.io/welcome.html) is a probabilistic programming library for Python that allows users to build Bayesian models with a simple Python API and fit them using Markov chain Monte Carlo (MCMC) methods.

@@ -2753,3 +2753,8 @@ https://github.com/novuhq/novu/
 
 JavaScript library to encode & decode HTML & XML entities with ease & speed.
 https://github.com/fb55/entities
+
+### Monica
+
+Monica is personal CRM that let you document your life.
+https://github.com/monicahq/monica

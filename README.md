@@ -2761,3 +2761,7 @@ https://github.com/monicahq/monica
 
 ### PyMC
 [PyMC](https://www.pymc.io/welcome.html) is a probabilistic programming library for Python that allows users to build Bayesian models with a simple Python API and fit them using Markov chain Monte Carlo (MCMC) methods.
+
+### Django Custom User
+
+[django-custom-user](https://github.com/jcugat/django-custom-user) is a custom user model for Django with the same behaviour as the default User class but without a username field.

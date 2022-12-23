@@ -2765,3 +2765,8 @@ https://github.com/monicahq/monica
 ### Django Custom User
 
 [django-custom-user](https://github.com/jcugat/django-custom-user) is a custom user model for Django with the same behaviour as the default User class but without a username field.
+
+### Helm
+
+[Helm](https://helm.sh/) is the package manager for Kubernetes.
+Helm is a graduated project in the [CNCF](https://cncf.io/) and is maintained by the [Helm community](https://github.com/helm/community).

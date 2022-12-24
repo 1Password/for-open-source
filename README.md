@@ -2765,3 +2765,6 @@ https://github.com/monicahq/monica
 ### Django Custom User
 
 [django-custom-user](https://github.com/jcugat/django-custom-user) is a custom user model for Django with the same behaviour as the default User class but without a username field.
+
+### Angelbotics
+[Angelbotics](https://angelbotics.org) exists to advance the education of high school students in the areas of science, technology, engineering and mathematics (STEM), by preparing for and participating in FIRST Robotics competitions, and by providing opportunities to serve in their community. These activities help them build skills and confidence far beyond the classroom, to include teamwork, interpersonal skills, technical knowledge, personal responsibility, leadership, and gracious professionalism.

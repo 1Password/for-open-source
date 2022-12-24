@@ -2765,3 +2765,7 @@ https://github.com/monicahq/monica
 ### Django Custom User
 
 [django-custom-user](https://github.com/jcugat/django-custom-user) is a custom user model for Django with the same behaviour as the default User class but without a username field.
+
+### Cake
+
+[Cake](https://cakebuild.net) (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.

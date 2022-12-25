@@ -2765,3 +2765,8 @@ https://github.com/monicahq/monica
 ### Django Custom User
 
 [django-custom-user](https://github.com/jcugat/django-custom-user) is a custom user model for Django with the same behaviour as the default User class but without a username field.
+
+### Mastodon pro
+
+is providing hosting services for the decentralized, open-source social network [Mastodon](https://joinmastodon.org), that puts users in control of their data and communication.
+<https://github.com/mastodonpro>

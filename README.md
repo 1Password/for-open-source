@@ -2765,3 +2765,7 @@ https://github.com/monicahq/monica
 ### Django Custom User
 
 [django-custom-user](https://github.com/jcugat/django-custom-user) is a custom user model for Django with the same behaviour as the default User class but without a username field.
+
+### OpenMW
+
+[OpenMW](https://openmw.org/) is an open-source open-world RPG game engine that supports playing Morrowind by Bethesda Softworks.

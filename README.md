@@ -2766,6 +2766,35 @@ https://github.com/monicahq/monica
 
 [django-custom-user](https://github.com/jcugat/django-custom-user) is a custom user model for Django with the same behaviour as the default User class but without a username field.
 
+### SonicSpin
+
+[SonicSpin](https://github.com/sonicspinforum) is a community which creates tons of Sonic community related tools and serves everyone.
+
+### Shopware backend servers
+
+Libraries to write backend servers for Shopware apps.
+https://github.com/janbuecker/shopware-appserver-go
+
+### Angelbotics
+[Angelbotics](https://angelbotics.org) exists to advance the education of high school students in the areas of science, technology, engineering and mathematics (STEM), by preparing for and participating in FIRST Robotics competitions, and by providing opportunities to serve in their community. These activities help them build skills and confidence far beyond the classroom, to include teamwork, interpersonal skills, technical knowledge, personal responsibility, leadership, and gracious professionalism.
+
+### Cake
+
+[Cake](https://cakebuild.net) (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
+
+### Mastodon pro
+
+is providing hosting services for the decentralized, open-source social network [Mastodon](https://joinmastodon.org), that puts users in control of their data and communication.
+<https://github.com/mastodonpro>
+
+### DDEV
+Docker-based local development environment for web developers
+https://github.com/drud/ddev
+
+### OpenMW
+
+[OpenMW](https://openmw.org/) is an open-source open-world RPG game engine that supports playing Morrowind by Bethesda Softworks.
+
 ### Helm
 
 [Helm](https://helm.sh/) is the package manager for Kubernetes.

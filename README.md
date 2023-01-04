@@ -2790,3 +2790,7 @@ is providing hosting services for the decentralized, open-source social network 
 ### DDEV
 Docker-based local development environment for web developers
 https://github.com/drud/ddev
+
+### OpenMW
+
+[OpenMW](https://openmw.org/) is an open-source open-world RPG game engine that supports playing Morrowind by Bethesda Softworks.

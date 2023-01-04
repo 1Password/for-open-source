@@ -2765,3 +2765,6 @@ https://github.com/monicahq/monica
 ### Django Custom User
 
 [django-custom-user](https://github.com/jcugat/django-custom-user) is a custom user model for Django with the same behaviour as the default User class but without a username field.
+
+### SonicSpin
+[SonicSpin](https://github.com/sonicspinforum) is a community which creates tons of Sonic community related tools and serves everyone.

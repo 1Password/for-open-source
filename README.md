@@ -2777,3 +2777,7 @@ https://github.com/janbuecker/shopware-appserver-go
 
 ### Angelbotics
 [Angelbotics](https://angelbotics.org) exists to advance the education of high school students in the areas of science, technology, engineering and mathematics (STEM), by preparing for and participating in FIRST Robotics competitions, and by providing opportunities to serve in their community. These activities help them build skills and confidence far beyond the classroom, to include teamwork, interpersonal skills, technical knowledge, personal responsibility, leadership, and gracious professionalism.
+
+### Cake
+
+[Cake](https://cakebuild.net) (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.

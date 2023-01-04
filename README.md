@@ -2781,3 +2781,8 @@ https://github.com/janbuecker/shopware-appserver-go
 ### Cake
 
 [Cake](https://cakebuild.net) (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
+
+### Mastodon pro
+
+is providing hosting services for the decentralized, open-source social network [Mastodon](https://joinmastodon.org), that puts users in control of their data and communication.
+<https://github.com/mastodonpro>

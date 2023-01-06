@@ -1497,7 +1497,7 @@ https://opentelemetry.io/
 ### OpenFeature
 
 An open standard for feature flag management.
-https:/openfeature.dev/
+https://openfeature.dev/
 
 ### Botanit(ism)
 

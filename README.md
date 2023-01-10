@@ -2794,3 +2794,7 @@ https://github.com/drud/ddev
 ### OpenMW
 
 [OpenMW](https://openmw.org/) is an open-source open-world RPG game engine that supports playing Morrowind by Bethesda Softworks.
+
+### Talishar
+[Talishar](https://talishar.net/) is an open-source, fan made project to allow fans of the Flesh and Blood trading card game to play online in their browser. It is an unofficial fan-made project not affiliated with, nor endorsed by Legend Story Studios.
+

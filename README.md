@@ -2794,3 +2794,7 @@ https://github.com/drud/ddev
 ### OpenMW
 
 [OpenMW](https://openmw.org/) is an open-source open-world RPG game engine that supports playing Morrowind by Bethesda Softworks.
+
+### Magento Open Source
+
+[Magento Open Source](https://github.com/magento/magento2) delivers basic eCommerce capabilities to build a unique online store from the ground up.

@@ -2801,3 +2801,6 @@ https://github.com/drud/ddev
 
 ### paper-to-git
 [Paper-to-git](https://github.com/maxking/paper-to-git) is an open source application to synchronize Dropbox paper using its API with a local Git repo. It allows users to also use a small webapp to browser their documents locally.
+
+### IntellectualSites
+[IntellectualStes](https://github.com/IntellectualSites) is a Minecraft Software organization focusing on the development of map editors, world management plugins and other tools. Our software powers 30,000 servers for more than 60,000 people worldwide.

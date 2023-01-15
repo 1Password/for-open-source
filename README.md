@@ -2801,3 +2801,6 @@ https://github.com/drud/ddev
 
 ### paper-to-git
 [Paper-to-git](https://github.com/maxking/paper-to-git) is an open source application to synchronize Dropbox paper using its API with a local Git repo. It allows users to also use a small webapp to browser their documents locally.
+
+### Sun Devil Rocketry
+[Sun Devil Rocketry](https://asurocket.org) is a rocket propulsion research and development student organization at Arizona State University.

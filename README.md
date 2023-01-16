@@ -2807,3 +2807,6 @@ https://github.com/drud/ddev
 
 ### probe-rs
 [probe-rs](https://probe.rs) is a modern, embedded debugging toolkit, written in Rust.
+
+### IntellectualSites
+[IntellectualSites](https://github.com/IntellectualSites) is a Minecraft Software organization focusing on the development of map editors, world management plugins and other tools. Our software powers 30,000 servers for more than 60,000 people worldwide.

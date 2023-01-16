@@ -2813,3 +2813,7 @@ https://github.com/drud/ddev
 
 ### Sun Devil Rocketry
 [Sun Devil Rocketry](https://asurocket.org) is a rocket propulsion research and development student organization at Arizona State University.
+
+### Boston Aquarium Society
+
+The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby. 

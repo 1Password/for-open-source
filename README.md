@@ -2804,3 +2804,6 @@ https://github.com/drud/ddev
 
 ### Talishar
 [Talishar](https://talishar.net/) is an open-source, fan made project to allow fans of the Flesh and Blood trading card game to play online in their browser. It is an unofficial fan-made project not affiliated with, nor endorsed by Legend Story Studios.
+
+### probe-rs
+[probe-rs](https://probe.rs) is a modern, embedded debugging toolkit, written in Rust.

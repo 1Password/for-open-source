@@ -2795,6 +2795,12 @@ https://github.com/drud/ddev
 
 [OpenMW](https://openmw.org/) is an open-source open-world RPG game engine that supports playing Morrowind by Bethesda Softworks.
 
+### Magento Open Source
+
+[Magento Open Source](https://github.com/magento/magento2) delivers basic eCommerce capabilities to build a unique online store from the ground up.
+
+### paper-to-git
+[Paper-to-git](https://github.com/maxking/paper-to-git) is an open source application to synchronize Dropbox paper using its API with a local Git repo. It allows users to also use a small webapp to browser their documents locally.
+
 ### Talishar
 [Talishar](https://talishar.net/) is an open-source, fan made project to allow fans of the Flesh and Blood trading card game to play online in their browser. It is an unofficial fan-made project not affiliated with, nor endorsed by Legend Story Studios.
-

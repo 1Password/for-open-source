@@ -2817,3 +2817,7 @@ https://github.com/drud/ddev
 ### Boston Aquarium Society
 
 The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby. 
+
+### MPI Forum
+
+The [MPI Forum](https://mpi-forum.org) is the standardization forum for the Message Passing Interface (MPI), one of the most used methods of communication in High Performance Computing (HPC) applications. The MPI Forum includes members from industry, academia, and laboratories from around the world who gather to update the MPI Standard in ways to add exciting new features to support future HPC work.

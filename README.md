@@ -2821,3 +2821,7 @@ The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 19
 ### Workstation config
 
 This is a open source tool that installs and configures several software apps in workstations and supports multiple linux distributions (Debian/Ubuntu based distros, Fedora and Arch based distros) [https://github.com/osmollo/my_workstation](https://github.com/osmollo/my_workstation)
+
+### gorkscrew
+
+This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed in GO for tunneling SSH traffic through HTTP proxies. Like **corkscrew**, supports proxy authentication (basic auth) but includes kerberos authentication. [https://github.com/osmollo/gorkscrew](https://github.com/osmollo/gorkscrew)

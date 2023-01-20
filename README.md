@@ -2817,3 +2817,7 @@ https://github.com/drud/ddev
 ### Boston Aquarium Society
 
 The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby. 
+
+### Crown Engine
+
+[Crown](https://crownengine.org) is a general purpose and data-driven game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.

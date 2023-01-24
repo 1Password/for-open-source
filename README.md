@@ -2831,3 +2831,11 @@ The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 19
 ### MPI Forum
 
 The [MPI Forum](https://mpi-forum.org) is the standardization forum for the Message Passing Interface (MPI), one of the most used methods of communication in High Performance Computing (HPC) applications. The MPI Forum includes members from industry, academia, and laboratories from around the world who gather to update the MPI Standard in ways to add exciting new features to support future HPC work.
+
+### Workstation config
+
+This is a open source tool that installs and configures several software apps in workstations and supports multiple linux distributions (Debian/Ubuntu based distros, Fedora and Arch based distros) [https://github.com/osmollo/my_workstation](https://github.com/osmollo/my_workstation)
+
+### gorkscrew
+
+This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed in GO for tunneling SSH traffic through HTTP proxies. Like **corkscrew**, supports proxy authentication (basic auth) but includes kerberos authentication. [https://github.com/osmollo/gorkscrew](https://github.com/osmollo/gorkscrew)

@@ -2823,3 +2823,7 @@ The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 19
 
 ### Surgio
 [Surgio](https://surgio.js.org) is a tool for easily managing proxy rules and endpoints.
+
+### Crown Engine
+
+[Crown](https://crownengine.org) is a general purpose and data-driven game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.

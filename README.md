@@ -2818,6 +2818,20 @@ https://github.com/drud/ddev
 
 The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby. 
 
+### SS Rule Snippet
+[SS Rule Snippet](https://github.com/hackl0us/ss-rule-snippet) provides domain name diversion rule lists and JavaScripts for common proxy tools to assist users in diverting network traffic to achieve the best web browsing experience, and can unlock some iOS system functional restrictions.
+
+### Surgio
+[Surgio](https://surgio.js.org) is a tool for easily managing proxy rules and endpoints.
+
+### Crown Engine
+
+[Crown](https://crownengine.org) is a general purpose and data-driven game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.
+
+### MPI Forum
+
+The [MPI Forum](https://mpi-forum.org) is the standardization forum for the Message Passing Interface (MPI), one of the most used methods of communication in High Performance Computing (HPC) applications. The MPI Forum includes members from industry, academia, and laboratories from around the world who gather to update the MPI Standard in ways to add exciting new features to support future HPC work.
+
 ### Workstation config
 
 This is a open source tool that installs and configures several software apps in workstations and supports multiple linux distributions (Debian/Ubuntu based distros, Fedora and Arch based distros) [https://github.com/osmollo/my_workstation](https://github.com/osmollo/my_workstation)

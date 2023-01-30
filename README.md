@@ -2843,3 +2843,7 @@ This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed i
 ### Tekton
 
 [Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.
+
+### Bioconda
+
+The [Bioconda project](https://bioconda.github.io) packages life science related software for the package manager conda. It let's you install thousands of software packages related to biomedical research with ease, and has an active community with hundreds of contributors and millions of downloads.

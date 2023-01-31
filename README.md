@@ -2843,3 +2843,7 @@ This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed i
 ### Tekton
 
 [Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.
+
+### holidays-jp
+
+[holidays-jp](https://holidays-jp.github.io/) is API service to get Japanese national holidays data. <https://github.com/holidays-jp>

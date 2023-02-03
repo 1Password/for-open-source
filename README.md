@@ -2843,3 +2843,9 @@ This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed i
 ### Tekton
 
 [Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.
+
+### Nova Labs
+
+[Nova Labs](https://www.nova-labs.org/whatwedo) is a community makerspace based in Fairfax VA, USA. Nova Labs is home to a large collaborative workshop, in addition to [many open source projects](https://github.com/orgs/nova-labs/repositories?q=&type=all&language=&sort=stargazers). Nova Labs [hosts events](https://www.nova-labs.org/calendar) including community meetups and various classes.
+
+Nova Labs, Inc. is a 501(c)(3) nonprofit organization, EIN 45-3796580.

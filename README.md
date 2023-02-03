@@ -2843,3 +2843,7 @@ This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed i
 ### Tekton
 
 [Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.
+
+### Bitcoin Address Validator
+PHP package to validate legacy, segwit, native segwit (bech32) and taproot Bitcoin addresses  
+https://github.com/kielabokkie/bitcoin-address-validator

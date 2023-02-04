@@ -2816,7 +2816,7 @@ https://github.com/drud/ddev
 
 ### Boston Aquarium Society
 
-The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby. 
+The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby.
 
 ### SS Rule Snippet
 [SS Rule Snippet](https://github.com/hackl0us/ss-rule-snippet) provides domain name diversion rule lists and JavaScripts for common proxy tools to assist users in diverting network traffic to achieve the best web browsing experience, and can unlock some iOS system functional restrictions.
@@ -2843,3 +2843,7 @@ This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed i
 ### Tekton
 
 [Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.
+
+### Gensosenkyo
+
+[Gensosenkyo](https://election.suikoden.info/) is a popularity vote event for game characters held by volunteers. In conducting the event, we are developing OSS to collect tweets and creating a Web API to return information about game productions. These have been improved a little each time the event is held. cf. https://github.com/true-runes

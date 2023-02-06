@@ -2844,6 +2844,18 @@ This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed i
 
 [Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.
 
+### Skytils
+
+[Skytils](https://skytils.gg) develops Minecraft utility features designed to improve quality of life. For example, [SkytilsMod](https://github.com/Skytils/SkytilsMod) provides critical open-source modifications for the MMORPG Hypixel Skyblock as an alternative to paid options.
+
+### Bioconda
+
+The [Bioconda project](https://bioconda.github.io) packages life science related software for the package manager conda. It let's you install thousands of software packages related to biomedical research with ease, and has an active community with hundreds of contributors and millions of downloads.
+
+### holidays-jp
+
+[holidays-jp](https://holidays-jp.github.io/) is API service to get Japanese national holidays data. <https://github.com/holidays-jp>
+
 ### Cloud Native Computing Foundation (CNCF)
 
 [CNCF](https://www.cncf.io/) is the open source, vendor-neutral hub of cloud native computing, hosting projects like Kubernetes and Prometheus to make cloud native universal and sustainable.

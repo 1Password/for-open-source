@@ -2867,3 +2867,8 @@ The [Bioconda project](https://bioconda.github.io) packages life science related
 ### EnvBoyX
 
 [EnvBoyX](https://github.com/yakumo-saki/EnvBoyX) is an open source environment monitor program for Arduino. Supports multiple sensors.
+
+### Bitcoin Address Validator
+
+PHP package to validate legacy, segwit, native segwit (bech32) and taproot Bitcoin addresses  
+https://github.com/kielabokkie/bitcoin-address-validator

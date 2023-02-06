@@ -2855,3 +2855,7 @@ The [Bioconda project](https://bioconda.github.io) packages life science related
 ### holidays-jp
 
 [holidays-jp](https://holidays-jp.github.io/) is API service to get Japanese national holidays data. <https://github.com/holidays-jp>
+
+### Cloud Native Computing Foundation (CNCF)
+
+[CNCF](https://www.cncf.io/) is the open source, vendor-neutral hub of cloud native computing, hosting projects like Kubernetes and Prometheus to make cloud native universal and sustainable.

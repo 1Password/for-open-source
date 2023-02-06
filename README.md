@@ -2863,3 +2863,7 @@ The [Bioconda project](https://bioconda.github.io) packages life science related
 ### Dockle
 
 [Dockle](https://github.com/goodwithtech/dockle) is a container image linter for security. Dockle helps you build best-practice docker images.
+
+### EnvBoyX
+
+[EnvBoyX](https://github.com/yakumo-saki/EnvBoyX) is an open source environment monitor program for Arduino. Supports multiple sensors.

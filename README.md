@@ -2847,3 +2847,7 @@ This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed i
 ### Skytils
 
 [Skytils](https://skytils.gg) develops Minecraft utility features designed to improve quality of life. For example, [SkytilsMod](https://github.com/Skytils/SkytilsMod) provides critical open-source modifications for the MMORPG Hypixel Skyblock as an alternative to paid options.
+
+### Bioconda
+
+The [Bioconda project](https://bioconda.github.io) packages life science related software for the package manager conda. It let's you install thousands of software packages related to biomedical research with ease, and has an active community with hundreds of contributors and millions of downloads.

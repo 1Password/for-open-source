@@ -2851,3 +2851,7 @@ This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed i
 ### Bioconda
 
 The [Bioconda project](https://bioconda.github.io) packages life science related software for the package manager conda. It let's you install thousands of software packages related to biomedical research with ease, and has an active community with hundreds of contributors and millions of downloads.
+
+### holidays-jp
+
+[holidays-jp](https://holidays-jp.github.io/) is API service to get Japanese national holidays data. <https://github.com/holidays-jp>

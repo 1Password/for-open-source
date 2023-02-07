@@ -2844,6 +2844,35 @@ This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed i
 
 [Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.
 
+### Skytils
+
+[Skytils](https://skytils.gg) develops Minecraft utility features designed to improve quality of life. For example, [SkytilsMod](https://github.com/Skytils/SkytilsMod) provides critical open-source modifications for the MMORPG Hypixel Skyblock as an alternative to paid options.
+
+### Bioconda
+
+The [Bioconda project](https://bioconda.github.io) packages life science related software for the package manager conda. It let's you install thousands of software packages related to biomedical research with ease, and has an active community with hundreds of contributors and millions of downloads.
+
+### holidays-jp
+
+[holidays-jp](https://holidays-jp.github.io/) is API service to get Japanese national holidays data. <https://github.com/holidays-jp>
+
+### Cloud Native Computing Foundation (CNCF)
+
+[CNCF](https://www.cncf.io/) is the open source, vendor-neutral hub of cloud native computing, hosting projects like Kubernetes and Prometheus to make cloud native universal and sustainable.
+
+### Dockle
+
+[Dockle](https://github.com/goodwithtech/dockle) is a container image linter for security. Dockle helps you build best-practice docker images.
+
+### EnvBoyX
+
+[EnvBoyX](https://github.com/yakumo-saki/EnvBoyX) is an open source environment monitor program for Arduino. Supports multiple sensors.
+
+### Bitcoin Address Validator
+
+PHP package to validate legacy, segwit, native segwit (bech32) and taproot Bitcoin addresses
+https://github.com/kielabokkie/bitcoin-address-validator
+
 ### Gensosenkyo
 
 [Gensosenkyo](https://election.suikoden.info/) is a popularity vote event for game characters held by volunteers. In conducting the event, we are developing OSS to collect tweets and creating a Web API to return information about game productions. These have been improved a little each time the event is held. cf. https://github.com/true-runes

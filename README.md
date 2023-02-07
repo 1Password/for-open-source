@@ -2816,7 +2816,7 @@ https://github.com/drud/ddev
 
 ### Boston Aquarium Society
 
-The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby. 
+The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby.
 
 ### SS Rule Snippet
 [SS Rule Snippet](https://github.com/hackl0us/ss-rule-snippet) provides domain name diversion rule lists and JavaScripts for common proxy tools to assist users in diverting network traffic to achieve the best web browsing experience, and can unlock some iOS system functional restrictions.
@@ -2870,9 +2870,11 @@ The [Bioconda project](https://bioconda.github.io) packages life science related
 
 ### Bitcoin Address Validator
 
-PHP package to validate legacy, segwit, native segwit (bech32) and taproot Bitcoin addresses  
+PHP package to validate legacy, segwit, native segwit (bech32) and taproot Bitcoin addresses
 https://github.com/kielabokkie/bitcoin-address-validator
 
 ### Kabootar
 With [Kabootar](https://staging.kabootar.potatokitty.me/), now you can share all your files with your friends and family in a jiffy. Using Kabootar's peer-to-peer framework, we can now share files securely and privately without the need for any third-party servers. Kabootar is cross-platform and works on any device without any downloads. Kabootar uses WebRTC to transfer files.
 
+### Gensosenkyo
+[Gensosenkyo](https://election.suikoden.info/) is a popularity vote event for game characters held by volunteers. In conducting the event, we are developing OSS to collect tweets and creating a Web API to return information about game productions. These have been improved a little each time the event is held. cf. https://github.com/true-runes

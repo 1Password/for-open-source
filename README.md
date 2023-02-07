@@ -2860,6 +2860,10 @@ The [Bioconda project](https://bioconda.github.io) packages life science related
 
 [CNCF](https://www.cncf.io/) is the open source, vendor-neutral hub of cloud native computing, hosting projects like Kubernetes and Prometheus to make cloud native universal and sustainable.
 
+### OpenJS Foundation
+
+[OpenJSF](https://openjsf.org/) is host to projects like [jQuery](https://jquery.com/), Grunt, and QUnit.
+
 ### Dockle
 
 [Dockle](https://github.com/goodwithtech/dockle) is a container image linter for security. Dockle helps you build best-practice docker images.

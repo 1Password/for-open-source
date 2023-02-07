@@ -2872,3 +2872,7 @@ The [Bioconda project](https://bioconda.github.io) packages life science related
 
 PHP package to validate legacy, segwit, native segwit (bech32) and taproot Bitcoin addresses  
 https://github.com/kielabokkie/bitcoin-address-validator
+
+### Kabootar
+With [Kabootar](https://staging.kabootar.potatokitty.me/), now you can share all your files with your friends and family in a jiffy. Using Kabootar's peer-to-peer framework, we can now share files securely and privately without the need for any third-party servers. Kabootar is cross-platform and works on any device without any downloads. Kabootar uses WebRTC to transfer files.
+

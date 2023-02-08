@@ -2882,3 +2882,7 @@ With [Kabootar](https://staging.kabootar.potatokitty.me/), now you can share all
 
 ### Gensosenkyo
 [Gensosenkyo](https://election.suikoden.info/) is a popularity vote event for game characters held by volunteers. In conducting the event, we are developing OSS to collect tweets and creating a Web API to return information about game productions. These have been improved a little each time the event is held. cf. https://github.com/true-runes
+
+### Rucksack
+Rucksack is a CLI tool written in Rust that can backup and maintain passwords from remote services (file store is encrypted, and sensitive records in the filestore are also encrypted). It also supports exporting files for use by services for importing. It can manage passwords, service credentials, cert files, and asymmetric crypto files (public/private keys). 
+https://github.com/oxur/rucksack

@@ -2886,3 +2886,7 @@ With [Kabootar](https://staging.kabootar.potatokitty.me/), now you can share all
 ### Rucksack
 Rucksack is a CLI tool written in Rust that can backup and maintain passwords from remote services (file store is encrypted, and sensitive records in the filestore are also encrypted). It also supports exporting files for use by services for importing. It can manage passwords, service credentials, cert files, and asymmetric crypto files (public/private keys). 
 https://github.com/oxur/rucksack
+
+### Open Programmable Infrastructure
+OPI is focused on utilizing  open software and standards, as well as frameworks and toolkits, to allow for the rapid adoption and use of DPUs/IPUs. The OPI Project is both hardware and software companies coming together to establish and nurture an ecosystem to support these solutions. It “seeks to help define the architecture and frameworks for the DPU and IPU software stacks that can be applied to any vendor’s hardware offerings. The OPI Project also aims to foster a rich open source application ecosystem, leveraging existing open source projects, such as DPDK, SPDK, OvS, P4, etc., as appropriate.”
+https://opiproject.org

@@ -2886,3 +2886,7 @@ With [Kabootar](https://staging.kabootar.potatokitty.me/), now you can share all
 ### Rucksack
 Rucksack is a CLI tool written in Rust that can backup and maintain passwords from remote services (file store is encrypted, and sensitive records in the filestore are also encrypted). It also supports exporting files for use by services for importing. It can manage passwords, service credentials, cert files, and asymmetric crypto files (public/private keys). 
 https://github.com/oxur/rucksack
+
+### OATS Center
+The [Open Agricultural Technologies and Systems Center](https://oatscenter.org) at [Purdue University](https://purdue.edu) works to enhance agricultural innovation in the areas of sensing, control, logistics, analytics, and data management via the catalyzing effects of open source technologies and educational outreach. Our mission leverages and creates new open source technologies. Some examples are:
+https://github.com/oats-center, https://github.com/oada, https://github.com/trellisfw, https://github.com/openatk

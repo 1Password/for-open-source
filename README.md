@@ -2897,3 +2897,7 @@ Nova Labs, Inc. is a 501(c)(3) nonprofit organization, EIN 45-3796580.
 
 OPI is focused on utilizing  open software and standards, as well as frameworks and toolkits, to allow for the rapid adoption and use of DPUs/IPUs. The OPI Project is both hardware and software companies coming together to establish and nurture an ecosystem to support these solutions. It “seeks to help define the architecture and frameworks for the DPU and IPU software stacks that can be applied to any vendor’s hardware offerings. The OPI Project also aims to foster a rich open source application ecosystem, leveraging existing open source projects, such as DPDK, SPDK, OvS, P4, etc., as appropriate.”
 https://opiproject.org
+
+### Komitet Społeczny Kronika Polskiej Demosceny (Polish Demoscene Chronicles)
+The “[Polish Demoscene Chronicles](https://kskpd.pl/en)” works closely with demoscene groups, cultural organizations, and researchers focusing on digital culture and art.
+https://github.com/Kronika-Polskiej-Demosceny

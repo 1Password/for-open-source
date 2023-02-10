@@ -2892,3 +2892,8 @@ https://github.com/oxur/rucksack
 [Nova Labs](https://www.nova-labs.org/whatwedo) is a community makerspace based in Fairfax VA, USA. Nova Labs is home to a large collaborative workshop, in addition to [many open source projects](https://github.com/orgs/nova-labs/repositories?q=&type=all&language=&sort=stargazers). Nova Labs [hosts events](https://www.nova-labs.org/calendar) including community meetups and various classes.
 
 Nova Labs, Inc. is a 501(c)(3) nonprofit organization, EIN 45-3796580.
+
+### Open Programmable Infrastructure
+
+OPI is focused on utilizing  open software and standards, as well as frameworks and toolkits, to allow for the rapid adoption and use of DPUs/IPUs. The OPI Project is both hardware and software companies coming together to establish and nurture an ecosystem to support these solutions. It “seeks to help define the architecture and frameworks for the DPU and IPU software stacks that can be applied to any vendor’s hardware offerings. The OPI Project also aims to foster a rich open source application ecosystem, leveraging existing open source projects, such as DPDK, SPDK, OvS, P4, etc., as appropriate.”
+https://opiproject.org

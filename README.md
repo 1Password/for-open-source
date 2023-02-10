@@ -2886,3 +2886,9 @@ With [Kabootar](https://staging.kabootar.potatokitty.me/), now you can share all
 ### Rucksack
 Rucksack is a CLI tool written in Rust that can backup and maintain passwords from remote services (file store is encrypted, and sensitive records in the filestore are also encrypted). It also supports exporting files for use by services for importing. It can manage passwords, service credentials, cert files, and asymmetric crypto files (public/private keys). 
 https://github.com/oxur/rucksack
+
+### Nova Labs
+
+[Nova Labs](https://www.nova-labs.org/whatwedo) is a community makerspace based in Fairfax VA, USA. Nova Labs is home to a large collaborative workshop, in addition to [many open source projects](https://github.com/orgs/nova-labs/repositories?q=&type=all&language=&sort=stargazers). Nova Labs [hosts events](https://www.nova-labs.org/calendar) including community meetups and various classes.
+
+Nova Labs, Inc. is a 501(c)(3) nonprofit organization, EIN 45-3796580.

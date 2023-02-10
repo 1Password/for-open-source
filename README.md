@@ -2886,3 +2886,7 @@ With [Kabootar](https://staging.kabootar.potatokitty.me/), now you can share all
 ### Rucksack
 Rucksack is a CLI tool written in Rust that can backup and maintain passwords from remote services (file store is encrypted, and sensitive records in the filestore are also encrypted). It also supports exporting files for use by services for importing. It can manage passwords, service credentials, cert files, and asymmetric crypto files (public/private keys). 
 https://github.com/oxur/rucksack
+
+### Komitet Społeczny Kronika Polskiej Demosceny (Polish Demoscene Chronicles)
+The “[Polish Demoscene Chronicles](https://kskpd.pl/en)” works closely with demoscene groups, cultural organizations, and researchers focusing on digital culture and art.
+https://github.com/Kronika-Polskiej-Demosceny

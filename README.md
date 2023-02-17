@@ -2905,3 +2905,7 @@ https://github.com/Kronika-Polskiej-Demosceny
 ### OATS Center
 The [Open Agricultural Technologies and Systems Center](https://oatscenter.org) at [Purdue University](https://purdue.edu) works to enhance agricultural innovation in the areas of sensing, control, logistics, analytics, and data management via the catalyzing effects of open source technologies and educational outreach. Our mission leverages and creates new open source technologies. Some examples are:
 https://github.com/oats-center, https://github.com/oada, https://github.com/trellisfw, https://github.com/openatk
+
+### Pillow
+Pillow is the imaging library for Python.
+https://pillow.readthedocs.io

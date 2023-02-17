@@ -2906,6 +2906,13 @@ https://github.com/Kronika-Polskiej-Demosceny
 The [Open Agricultural Technologies and Systems Center](https://oatscenter.org) at [Purdue University](https://purdue.edu) works to enhance agricultural innovation in the areas of sensing, control, logistics, analytics, and data management via the catalyzing effects of open source technologies and educational outreach. Our mission leverages and creates new open source technologies. Some examples are:
 https://github.com/oats-center, https://github.com/oada, https://github.com/trellisfw, https://github.com/openatk
 
+### Project QWERTY
+[Project QWERTY](https://projectqwerty.com) is a free therapy website for people with aphasia. It targets spelling and typing with the option of accessing everyday words via the pre-programmed categories or by creating custom categories.
+
+Aphasia is a neurological disorder and communication disability which can affect talking, understanding, reading, writing and numeracy. Causes for aphasia include stroke, brain tumour or brain injury. It can have a significant impact on all areas of a person's quality of life.
+
+For more details about Project QWERTY, see [https://projectqwerty.com/about](https://projectqwerty.com/about).
+
 ### Pillow
 Pillow is the imaging library for Python.
 https://pillow.readthedocs.io

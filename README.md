@@ -2912,3 +2912,7 @@ https://github.com/oats-center, https://github.com/oada, https://github.com/trel
 Aphasia is a neurological disorder and communication disability which can affect talking, understanding, reading, writing and numeracy. Causes for aphasia include stroke, brain tumour or brain injury. It can have a significant impact on all areas of a person's quality of life.
 
 For more details about Project QWERTY, see [https://projectqwerty.com/about](https://projectqwerty.com/about).
+
+### Pillow
+Pillow is the imaging library for Python.
+https://pillow.readthedocs.io

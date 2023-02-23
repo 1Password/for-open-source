@@ -2916,3 +2916,7 @@ For more details about Project QWERTY, see [https://projectqwerty.com/about](htt
 ### Pillow
 Pillow is the imaging library for Python.
 https://pillow.readthedocs.io
+
+### PaiGram
+
+[PaiGram](https://github.com/PaiGramTeam/PaiGram) is a Telegram robot project that can assist people in looking for information about Genshin Impact.

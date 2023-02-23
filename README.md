@@ -2917,6 +2917,10 @@ For more details about Project QWERTY, see [https://projectqwerty.com/about](htt
 Pillow is the imaging library for Python.
 https://pillow.readthedocs.io
 
+### PaiGram
+
+[PaiGram](https://github.com/PaiGramTeam/PaiGram) is a Telegram robot project that can assist people in looking for information about Genshin Impact.
+
 ### Dent
 As a Linux Foundation project, DENT utilizes the Linux Kernel, Switchdev, and other Linux based projects as the basis for building a new standardized network operating system without abstractions or overhead. All underlying infrastructure — including ASIC and Silicon for networking and datapath — is treated equally; while existing abstractions, APIs, drivers, low-level overhead, and other open software are simplified. DENT unites silicon vendors, ODMs, SIs, OEMs, and end users across all verticals to enable the transition to disaggregated networks.
 

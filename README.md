@@ -2925,3 +2925,9 @@ https://pillow.readthedocs.io
 As a Linux Foundation project, DENT utilizes the Linux Kernel, Switchdev, and other Linux based projects as the basis for building a new standardized network operating system without abstractions or overhead. All underlying infrastructure — including ASIC and Silicon for networking and datapath — is treated equally; while existing abstractions, APIs, drivers, low-level overhead, and other open software are simplified. DENT unites silicon vendors, ODMs, SIs, OEMs, and end users across all verticals to enable the transition to disaggregated networks.
 
 For more details visit [DENT] (https://dent.dev).
+
+## PyTorch
+
+PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella.
+
+https://pytorch.org/

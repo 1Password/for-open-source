@@ -2925,3 +2925,10 @@ https://pillow.readthedocs.io
 As a Linux Foundation project, DENT utilizes the Linux Kernel, Switchdev, and other Linux based projects as the basis for building a new standardized network operating system without abstractions or overhead. All underlying infrastructure — including ASIC and Silicon for networking and datapath — is treated equally; while existing abstractions, APIs, drivers, low-level overhead, and other open software are simplified. DENT unites silicon vendors, ODMs, SIs, OEMs, and end users across all verticals to enable the transition to disaggregated networks.
 
 For more details visit [DENT] (https://dent.dev).
+
+### FINOS
+The Fintech Open Source Foundation (FINOS) is an independent 501(c)(6) nonprofit organization - part of Linux Foundation - whose purpose is to accelerate collaboration and innovation in financial services through the adoption of open source software, standards and best practices.
+
+We’re a diverse community of developers, financial services and technology companies large and small. Over 30 Member organizations comprising 300+ contributors developing within 75 open-source repositories.
+
+For more details visit [finos.org](https://finos.org).

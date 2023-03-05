@@ -1,38 +1,56 @@
-## Your Project ##
+## Your Project
 
-#### 1Password Teams URL ####
-<!-- myteam.1password.com (create the account before applying) -->
+#### 1Password Teams URL
+<!--
+  Make sure you create an account before applying. Don't have one?
+  https://start.1password.com/signup/?t=B
+  
+  Example: myteam.1password.com
+-->
 
-#### Project Name ####
+#### Project Name
+<!--
+  If this is for a team that works on multiple projects, a team name
+  can be used instead.
+-->
 
-#### Short Description ####
+#### Short Description
 
-#### Project Age ####
+#### Project Age
+<!--
+  Your project needs to be active and at least 30 days old to be
+  eligible for this program.
+-->
 
-#### Number Of Core Contributors ####
+#### Number Of Core Contributors
 
-#### Project Website ####
+#### Project Website
 
-#### Repository URL(s) ####
+#### Repository URL(s)
 
-#### Latest Release URL(s) ####
+#### Latest Release URL(s)
 
-#### License Type ####
-<!-- e.g. MIT, BSD, GPL, etc. -->
+#### License
+<!--
+  Please include the type (e.g. MIT, BSD, GPL, etc.), and a link
+  to where it can be found in your repository.
+-->
 
-#### License URL ####
-<!-- A copy of the license terms and conditions for your software -->
+## A Bit About Yourself
 
+#### Name
 
-## A Bit About Yourself  ##
+#### Email
+<!-- We will use this to validate the application with your account -->
 
-#### Name ####
+#### Project Role
 
-#### Email ####
+#### Profile/Website
+<!-- Link to GitHub profile page, project page bio, etc. -->
 
-#### Project Role ####
+#### Anything else to add?
 
-#### Profile/Website ####
-<!-- link to GitHub profile page, project page bio, etc. -->
+#### Can we contact you?
+We'd love to be in touch to learn how you're using 1Password. Would you be open to our Developer Advocates reaching out?
 
-#### Comments ####
+- [ ] Yes, I'm open.

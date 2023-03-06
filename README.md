@@ -2944,5 +2944,8 @@ Online Judge maintained by Computer Science Department, National Taiwan Normal U
 
 https://noj.tw
 
+### SvChatGPT
+[SVGPT](https://github.com/vuhai16/SVGPT) is a chat configuration server using ChatGPT
+
 ### Dglobal
- Dglobal is an open source community that is working to create technologies that help people in their daily lives. We work in the field of biomedicine, AI and web programming. We have also just opened our blog where we publish content related to science and technology.[Dglobal] (https://dglobal.dev)
+Dglobal is an open source community that is working to create technologies that help people in their daily lives. We work in the field of biomedicine, AI and web programming. We have also just opened our blog where we publish content related to science and technology.[Dglobal] (https://dglobal.dev)

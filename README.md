@@ -2943,3 +2943,6 @@ https://pytorch.org/
 Online Judge maintained by Computer Science Department, National Taiwan Normal University
 
 https://noj.tw
+
+### SvChatGPT
+[SVGPT](https://github.com/vuhai16/SVGPT) is a chat configuration server using ChatGPT

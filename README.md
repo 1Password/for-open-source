@@ -2932,3 +2932,9 @@ The Fintech Open Source Foundation (FINOS) is an independent 501(c)(6) nonprofit
 We’re a diverse community of developers, financial services and technology companies large and small. Over 30 Member organizations comprising 300+ contributors developing within 75 open-source repositories.
 
 For more details visit [finos.org](https://finos.org).
+
+## PyTorch
+
+PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella.
+
+https://pytorch.org/

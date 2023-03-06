@@ -2933,5 +2933,16 @@ We’re a diverse community of developers, financial services and technology com
 
 For more details visit [finos.org](https://finos.org).
 
+## PyTorch
+
+PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella.
+
+https://pytorch.org/
+
+### Normal-OJ
+Online Judge maintained by Computer Science Department, National Taiwan Normal University
+
+https://noj.tw
+
 ### SvChatGPT
 [SVGPT](https://github.com/vuhai16/SVGPT) is a chat configuration server using ChatGPT

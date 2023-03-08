@@ -2949,3 +2949,6 @@ https://noj.tw
 
 ### Dglobal
 Dglobal is an open source community that is working to create technologies that help people in their daily lives. We work in the field of biomedicine, AI and web programming. We have also just opened our blog where we publish content related to science and technology.[Dglobal] (https://dglobal.dev)
+
+### ArkoWrapper
+[ArkoWrapper](https://github.com/ArkoClub/ArkoWrapper) is a wrapper for python iterators, it adds magic methods to your python iterators to have a style like in Rust along with other methods, and any operation on the iterator will not corrupt the data in the iterator.

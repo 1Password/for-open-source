@@ -2949,3 +2949,7 @@ https://noj.tw
 
 ### Dglobal
 Dglobal is an open source community that is working to create technologies that help people in their daily lives. We work in the field of biomedicine, AI and web programming. We have also just opened our blog where we publish content related to science and technology.[Dglobal] (https://dglobal.dev)
+
+### Les 4 Sources
+We are a third-place located in Belgium with open source and open knowledge at the core of our projects. We build Claudy, an open source software to manage bookings, reservations and finances for places and collectives like ours.
+https://www.les4sources.be

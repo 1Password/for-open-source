@@ -2957,3 +2957,6 @@ https://playcover.io
 ### Les 4 Sources
 We are a third-place located in Belgium with open source and open knowledge at the core of our projects. We build Claudy, an open source software to manage bookings, reservations and finances for places and collectives like ours.
 https://www.les4sources.be
+
+### Loadability
+[Loadability](https://github.com/julianschiavo/Loadability) offers an advanced networking and caching library for Swift hat allows you to effortlessly implement a custom networking and/or caching stack in your app, with native support for Combine and SwiftUI.

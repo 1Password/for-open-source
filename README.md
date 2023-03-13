@@ -2960,3 +2960,6 @@ https://www.les4sources.be
 
 ### Loadability
 [Loadability](https://github.com/julianschiavo/Loadability) offers an advanced networking and caching library for Swift hat allows you to effortlessly implement a custom networking and/or caching stack in your app, with native support for Combine and SwiftUI.
+
+### ArkoWrapper
+[ArkoWrapper](https://github.com/ArkoClub/ArkoWrapper) is a wrapper for python iterators, it adds magic methods to your python iterators to have a style like in Rust along with other methods, and any operation on the iterator will not corrupt the data in the iterator.

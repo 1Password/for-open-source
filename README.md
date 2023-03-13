@@ -2954,6 +2954,13 @@ Dglobal is an open source community that is working to create technologies that 
 PlayCover allows you to run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support.
 https://playcover.io
 
+### Les 4 Sources
+We are a third-place located in Belgium with open source and open knowledge at the core of our projects. We build Claudy, an open source software to manage bookings, reservations and finances for places and collectives like ours.
+https://www.les4sources.be
+
+### Loadability
+[Loadability](https://github.com/julianschiavo/Loadability) offers an advanced networking and caching library for Swift hat allows you to effortlessly implement a custom networking and/or caching stack in your app, with native support for Combine and SwiftUI.
+
 ### ShortNotes
 Small meetup group of college where we create shortnotes of different college curriculum subjects for future students
 [shortnotes](https://shortnotes.github.io)

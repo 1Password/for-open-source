@@ -2963,3 +2963,8 @@ https://www.les4sources.be
 
 ### ArkoWrapper
 [ArkoWrapper](https://github.com/ArkoClub/ArkoWrapper) is a wrapper for python iterators, it adds magic methods to your python iterators to have a style like in Rust along with other methods, and any operation on the iterator will not corrupt the data in the iterator.
+
+### DigitalPlat
+A global non-profit organization that supports open source and community development and explores innovative projects
+
+[DigitalPlat](https://www.digitalplat.org)

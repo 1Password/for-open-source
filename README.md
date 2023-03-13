@@ -2968,3 +2968,7 @@ https://www.les4sources.be
 A global non-profit organization that supports open source and community development and explores innovative projects
 
 [DigitalPlat](https://www.digitalplat.org)
+
+### ShortNotes
+Small meetup group of college where we create shortnotes of different college curriculum subjects for future students
+[shortnotes](https://shortnotes.github.io)

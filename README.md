@@ -2953,3 +2953,7 @@ Dglobal is an open source community that is working to create technologies that 
 ### PlayCover
 PlayCover allows you to run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support.
 https://playcover.io
+
+### Les 4 Sources
+We are a third-place located in Belgium with open source and open knowledge at the core of our projects. We build Claudy, an open source software to manage bookings, reservations and finances for places and collectives like ours.
+https://www.les4sources.be

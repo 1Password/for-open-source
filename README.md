@@ -2953,3 +2953,7 @@ Dglobal is an open source community that is working to create technologies that 
 ### PlayCover
 PlayCover allows you to run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support.
 https://playcover.io
+
+### ShortNotes
+Small meetup group of college where we create shortnotes of different college curriculum subjects for future students
+[shortnotes](https://shortnotes.github.io)

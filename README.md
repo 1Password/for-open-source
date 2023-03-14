@@ -2972,3 +2972,6 @@ A global non-profit organization that supports open source and community develop
 ### ShortNotes
 Small meetup group of college where we create shortnotes of different college curriculum subjects for future students
 [shortnotes](https://shortnotes.github.io)
+
+### LinkScape
+[LinkScape](https://linkscape.hackclub.com)  is a Chinese student-led nonprofit that support students to make their own OSS

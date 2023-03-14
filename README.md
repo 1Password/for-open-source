@@ -2972,3 +2972,7 @@ A global non-profit organization that supports open source and community develop
 ### ShortNotes
 Small meetup group of college where we create shortnotes of different college curriculum subjects for future students
 [shortnotes](https://shortnotes.github.io)
+
+### napari
+A multidimensional image viewer for Python.  
+https://napari.org

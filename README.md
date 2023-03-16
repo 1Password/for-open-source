@@ -2973,8 +2973,25 @@ A global non-profit organization that supports open source and community develop
 Small meetup group of college where we create shortnotes of different college curriculum subjects for future students
 [shortnotes](https://shortnotes.github.io)
 
+### LinkScape
+[LinkScape](https://linkscape.hackclub.com)  is a Chinese student-led nonprofit that support students to make their own OSS
+
+### napari
+A multidimensional image viewer for Python.  
+https://napari.org
+
+### react-confirm
+Open source React dialog component library.
+
+[react-confirm](https://github.com/haradakunihiko/react-confirm)
+
+### PYONEPASSWORD
+A Python API to sign into and query a 1Password account using the op command
+[pyonepassword](https://github.com/zcutlip/pyonepassword)
+
 ### sdr-trunk
 [sdr-trunk](https://github.com/Gibby/sdr-trunk)
 A container that uses [trunk-recorder](https://github.com/robotastic/trunk-recorder) along with a SDR(software defined radio) to record calls on trunked and conventional radio systems. A web interface is included from [trunk-player](https://github.com/ScanOC/trunk-player).
 Support for streaming to https://www.broadcastify.com/ is also included.
 We stream to - https://www.broadcastify.com/listen/feed/30028
+

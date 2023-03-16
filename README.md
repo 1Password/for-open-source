@@ -2984,3 +2984,7 @@ https://napari.org
 Open source React dialog component library.
 
 [react-confirm](https://github.com/haradakunihiko/react-confirm)
+
+### PYONEPASSWORD
+A Python API to sign into and query a 1Password account using the op command
+[pyonepassword](https://github.com/zcutlip/pyonepassword)

@@ -2979,3 +2979,8 @@ Small meetup group of college where we create shortnotes of different college cu
 ### napari
 A multidimensional image viewer for Python.  
 https://napari.org
+
+### react-confirm
+Open source React dialog component library.
+
+[react-confirm](https://github.com/haradakunihiko/react-confirm)

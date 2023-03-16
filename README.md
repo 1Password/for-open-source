@@ -2975,3 +2975,7 @@ Small meetup group of college where we create shortnotes of different college cu
 
 ### LinkScape
 [LinkScape](https://linkscape.hackclub.com)  is a Chinese student-led nonprofit that support students to make their own OSS
+
+### napari
+A multidimensional image viewer for Python.  
+https://napari.org

@@ -2973,6 +2973,18 @@ A global non-profit organization that supports open source and community develop
 Small meetup group of college where we create shortnotes of different college curriculum subjects for future students
 [shortnotes](https://shortnotes.github.io)
 
+### LinkScape
+[LinkScape](https://linkscape.hackclub.com)  is a Chinese student-led nonprofit that support students to make their own OSS
+
+### napari
+A multidimensional image viewer for Python.  
+https://napari.org
+
+### react-confirm
+Open source React dialog component library.
+
+[react-confirm](https://github.com/haradakunihiko/react-confirm)
+
 ### PYONEPASSWORD
 A Python API to sign into and query a 1Password account using the op command
 [pyonepassword](https://github.com/zcutlip/pyonepassword)

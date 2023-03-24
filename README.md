@@ -2995,3 +2995,7 @@ A container that uses [trunk-recorder](https://github.com/robotastic/trunk-recor
 Support for streaming to https://www.broadcastify.com/ is also included.
 We stream to - https://www.broadcastify.com/listen/feed/30028
 
+### Yocto Project
+We help developers create custom Linux-based systems regardless of hardware architecture. 
+The project provides a flexible set of tools and a space where embedded developers worldwide can share technologies, software stacks, configurations, and best practices that can be used to create tailored Linux images for embedded and IOT devices, or anywhere a customized Linux OS is needed.
+https://www.yoctoproject.org/

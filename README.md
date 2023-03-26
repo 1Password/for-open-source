@@ -1483,11 +1483,10 @@ https://www.watonomous.ca
 Trainer for teaching the ten-finger method of typing on the keyboard.
 https://typerun.top
 
-### BrightChain: The Revolution(ary) Network
+### Digital Defiance incubator projects
 
-A Lightweight BlockChain- LightChain based on a Brightnet Blockstore- BrightChain. All the benefits of blockchain dApps and contracts without the mining and waste. Unlimited storage for everyone, and a mathematically reinforced and moderated community that will last for the ages.
-https://apidocs.therevolution.network
-https://github.com/The-Revolution-Network/BrightChain
+501c driven collection of repositories for project seeds, and numerous in-house projects including a blockchain concept, a social network experiment, an AI based game, and more. Our organization builds and contributes to open source projects with impact.
+https://digitaldefiance.org
 
 ### OpenTelemetry
 

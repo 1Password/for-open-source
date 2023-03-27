@@ -2995,3 +2995,8 @@ A container that uses [trunk-recorder](https://github.com/robotastic/trunk-recor
 Support for streaming to https://www.broadcastify.com/ is also included.
 We stream to - https://www.broadcastify.com/listen/feed/30028
 
+### pandas
+
+pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.  
+https://pandas.pydata.org/

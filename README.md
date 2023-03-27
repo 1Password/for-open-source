@@ -3004,3 +3004,7 @@ https://pandas.pydata.org/
 ### Keptn
 Cloud-native application life-cycle orchestration
 [keptn](https://keptn.sh)
+
+### Softrams bulwark
+An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.
+[bulwark](https://github.com/softrams/bulwark)

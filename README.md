@@ -3016,3 +3016,8 @@ An organizational asset and vulnerability management tool, with Jira integration
 We help developers create custom Linux-based systems regardless of hardware architecture. 
 The project provides a flexible set of tools and a space where embedded developers worldwide can share technologies, software stacks, configurations, and best practices that can be used to create tailored Linux images for embedded and IOT devices, or anywhere a customized Linux OS is needed.
 https://www.yoctoproject.org/
+
+### One World-One Heart Foundation
+
+[One World-One Heart Foundation](https://oneworld-oneheart.pl) activities are focused on the mission of building a society sensitive to diversity, committed to creating a welcoming, tolerant environment, open to building relationships with migrants in Krakow, to provide them with support and assistance in the daily challenges of adapting to a new society.
+https://github.com/oneworld-oneheart

@@ -3017,6 +3017,10 @@ We help developers create custom Linux-based systems regardless of hardware arch
 The project provides a flexible set of tools and a space where embedded developers worldwide can share technologies, software stacks, configurations, and best practices that can be used to create tailored Linux images for embedded and IOT devices, or anywhere a customized Linux OS is needed.
 https://www.yoctoproject.org/
 
+### OJPP
+Open public transport data framework for Slovenia
+https://www.ojpp.si/
+
 ### DRPC
 Robust Discord RPC implementation written in Go
 [DRPC](https://github.com/altfoxie/drpc)

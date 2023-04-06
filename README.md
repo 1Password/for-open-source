@@ -3020,3 +3020,7 @@ https://www.yoctoproject.org/
 ### OJPP
 Open public transport data framework for Slovenia
 https://www.ojpp.si/
+
+### DRPC
+Robust Discord RPC implementation written in Go
+[DRPC](https://github.com/altfoxie/drpc)

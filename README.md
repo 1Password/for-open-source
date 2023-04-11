@@ -3024,3 +3024,7 @@ https://www.ojpp.si/
 ### DRPC
 Robust Discord RPC implementation written in Go
 [DRPC](https://github.com/altfoxie/drpc)
+
+### Mautic
+We are a community creating open source marketing automation for everyone.
+https://mautic.org

@@ -3028,3 +3028,7 @@ Robust Discord RPC implementation written in Go
 ### Mautic
 We are a community creating open source marketing automation for everyone.
 https://mautic.org
+
+### SPIFFE/SPIRE
+A set of specifications (SPIFFE) and reference implementation (SPIRE) for establishing trust between software systems.
+[SPIFFE](https://spiffe.io)

@@ -3028,3 +3028,7 @@ Robust Discord RPC implementation written in Go
 ### Mautic
 We are a community creating open source marketing automation for everyone.
 https://mautic.org
+
+### EVMap
+An open source Android app to find electric vehicle chargers
+https://github.com/ev-map/EVMap

@@ -40,6 +40,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using 1Password Teams
 
+### PwnLab.mx
+We create open source hardware for everyone into cybersecurity.
+https://pwnlab.mx
+
 ### freeCodeCamp.org
 We help people learn to code for free.
 https://www.freecodecamp.org

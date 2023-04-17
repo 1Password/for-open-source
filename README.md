@@ -3025,6 +3025,11 @@ https://www.ojpp.si/
 Robust Discord RPC implementation written in Go
 [DRPC](https://github.com/altfoxie/drpc)
 
+### Conda
+
+Conda is a multi-platform (Windows, macOS, Linux, ...) language agnostic, open source package and environment management system. Conda installs, runs and updates packages and their dependencies; and creates, saves, loads and switches between runtime environments.
+[conda](https://conda.io)
+
 ### Mautic
 We are a community creating open source marketing automation for everyone.
 https://mautic.org

@@ -3036,3 +3036,7 @@ A set of specifications (SPIFFE) and reference implementation (SPIRE) for establ
 ### EVMap
 An open source Android app to find electric vehicle chargers
 https://github.com/ev-map/EVMap
+
+### Bluetooth mod for vacuum cleaner based on Arduino
+An open source hardware mod for the Festool Vacuum cleaner. Adds bluetooth capabilities their entry level models.
+https://github.com/jenskueper/festool-ctl-sys-bluetooth

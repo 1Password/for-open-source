@@ -3041,3 +3041,7 @@ A set of specifications (SPIFFE) and reference implementation (SPIRE) for establ
 ### EVMap
 An open source Android app to find electric vehicle chargers
 https://github.com/ev-map/EVMap
+
+### scverse
+scverse is a consortium of open-source analysis tools (mostly in Python) for omics data.
+https://scverse.org

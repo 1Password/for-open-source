@@ -3045,3 +3045,7 @@ https://github.com/ev-map/EVMap
 ### scverse
 scverse is a consortium of open-source analysis tools (mostly in Python) for omics data.
 https://scverse.org
+
+### Hack+
+Hack+ is a 501(c)(3) nonprofit organization that helps students start their own businesses, nonprofits, and events.
+https://hackplus.io

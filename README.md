@@ -3047,4 +3047,4 @@ scverse is a consortium of open-source analysis tools (mostly in Python) for omi
 https://scverse.org
 
 ### Riverside Valley
-We craft stunning apps, libraries and even programming languages skilfully pushing the boundaries of what is possible. We strive to make our projects open-source and do not believe in advertisements, in-app-purchases, or alike. [Riverside](https://theriversi.de)
+We craft stunning apps, libraries and even programming languages skilfully pushing the boundaries of what is possible. We strive to make our projects open-source and do not believe in advertisements, in-app-purchases, or alike. https://theriversi.de

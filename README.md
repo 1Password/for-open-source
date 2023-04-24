@@ -3048,3 +3048,7 @@ https://scverse.org
 
 ### Riverside Valley
 We craft stunning apps, libraries and even programming languages skilfully pushing the boundaries of what is possible. We strive to make our projects open-source and do not believe in advertisements, in-app-purchases, or alike. https://theriversi.de
+
+### Hack+
+Hack+ is a 501(c)(3) nonprofit organization that helps students start their own businesses, nonprofits, and events.
+https://hackplus.io

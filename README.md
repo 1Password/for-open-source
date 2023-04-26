@@ -446,10 +446,10 @@ https://wpgwinnett.com
 An event-driven networking engine written in Python, implementing many protocols, including HTTP, IMAP, SMTP, DNS, SSH, and more.
 https://twistedmatrix.com/
 
-### LibertyLand
+### Craftium
 
-[LibertyLand](https://github.com/LibertyLand), a new Minecraft server with different scopes other than competition. More open for our players and developers interested in the project.
-https://libertyland.xyz
+[Craftium](https://github.com/CraftiumMC), a Minecraft server network developing plugins and software related to Minecraft.
+https://www.craftium.net
 
 ### Dropwizard
 

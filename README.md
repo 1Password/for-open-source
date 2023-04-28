@@ -3052,3 +3052,7 @@ We craft stunning apps, libraries and even programming languages skilfully pushi
 ### Hack+
 Hack+ is a 501(c)(3) nonprofit organization that helps students start their own businesses, nonprofits, and events.
 https://hackplus.io
+
+### FUG-BR (FreeBSD Brazilian Users Group)
+FUG-BR is a non-profit third sector organization founded in 1999 and is focused on increasing the adoption of FreeBSD in Brazil, supporting the users, conferences and code. Current members contribute actively to the development of FreeBSD porject, including actively supporting the FreeBSD Ports Collection, FreeBSD Brazilian Portuguese official documentation projet, FreeBSD base system contributions and organize BSDcon Brasil, BSD Day and keep a periodic FreeBSD booth at infosec events.
+http://www.fug.com.br

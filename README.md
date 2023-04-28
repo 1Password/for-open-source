@@ -3052,3 +3052,7 @@ We craft stunning apps, libraries and even programming languages skilfully pushi
 ### Hack+
 Hack+ is a 501(c)(3) nonprofit organization that helps students start their own businesses, nonprofits, and events.
 https://hackplus.io
+
+### UnifiedMetrics
+UnifiedMetrics is a fully-featured metrics collection agent for Minecraft servers.
+https://github.com/cubxity/unifiedmetrics

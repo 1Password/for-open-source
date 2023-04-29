@@ -3052,3 +3052,7 @@ We craft stunning apps, libraries and even programming languages skilfully pushi
 ### Hack+
 Hack+ is a 501(c)(3) nonprofit organization that helps students start their own businesses, nonprofits, and events.
 https://hackplus.io
+
+### Neuron
+Neuron is an open-source blockchain wallet aiming at exploiting the potential of [cell model](https://docs.nervos.org/docs/basics/concepts/cell-model/), a generalized [UTxO model](https://en.wikipedia.org/wiki/Unspent_transaction_output). Meanwhile, Neuron offers users the top level security for management of keys, assets, and governance.
+https://github.com/nervosnetwork/neuron

@@ -3052,3 +3052,8 @@ We craft stunning apps, libraries and even programming languages skilfully pushi
 ### Hack+
 Hack+ is a 501(c)(3) nonprofit organization that helps students start their own businesses, nonprofits, and events.
 https://hackplus.io
+
+### Fukui.rb
+
+Fukui.rb is a nonprofit community for anyone interested in Ruby and Fukui based in Fukui, Japan.
+https://github.com/fukuirb

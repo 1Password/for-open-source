@@ -3052,3 +3052,9 @@ We craft stunning apps, libraries and even programming languages skilfully pushi
 ### Hack+
 Hack+ is a 501(c)(3) nonprofit organization that helps students start their own businesses, nonprofits, and events.
 https://hackplus.io
+
+### O-RAN-SC
+This community is partnering with the O-RAN Alliance and Linux Foundation to support the software develop for an open RAN solution that is available to everyone. The community will align with the architecture and specifications that are created by the O-RAN Alliance working groups to create a working software solution to enable an open and intelligent 5G radio access network
+https://o-ran-sc.org/
+https://https://wiki.o-ran-sc.org/
+

@@ -3056,4 +3056,4 @@ https://hackplus.io
 
 ### Paketo Buildpacks
 Paketo Buildpacks is a Linux Foundation subproject, under the Cloud Foundry Foundation.  
-https://https://paketo.io/
+https://paketo.io/

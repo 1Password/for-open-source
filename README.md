@@ -3060,3 +3060,7 @@ https://github.com/cubxity/unifiedmetrics
 ### FUG-BR (FreeBSD Brazilian Users Group)
 FUG-BR is a non-profit third sector organization founded in 1999 and is focused on increasing the adoption of FreeBSD in Brazil, supporting the users, conferences and code. Current members contribute actively to the development of FreeBSD porject, including actively supporting the FreeBSD Ports Collection, FreeBSD Brazilian Portuguese official documentation projet, FreeBSD base system contributions and organize BSDcon Brasil, BSD Day and keep a periodic FreeBSD booth at infosec events.
 http://www.fug.com.br
+
+### Neuron
+Neuron is an open-source blockchain wallet aiming at exploiting the potential of [cell model](https://docs.nervos.org/docs/basics/concepts/cell-model/), a generalized [UTxO model](https://en.wikipedia.org/wiki/Unspent_transaction_output). Meanwhile, Neuron offers users the top level security for management of keys, assets, and governance.
+https://github.com/nervosnetwork/neuron

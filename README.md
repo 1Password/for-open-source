@@ -3078,3 +3078,7 @@ https://https://wiki.o-ran-sc.org/
 
 Fukui.rb is a nonprofit community for anyone interested in Ruby and Fukui based in Fukui, Japan.
 https://github.com/fukuirb
+
+### VKM
+OpenSource music player for VK.com
+[https://github.com/RockyBadlandSolutions/VKM](https://github.com/RockyBadlandSolutions/VKM)

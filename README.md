@@ -3073,3 +3073,8 @@ https://paketo.io/
 This community is partnering with the O-RAN Alliance and Linux Foundation to support the software develop for an open RAN solution that is available to everyone. The community will align with the architecture and specifications that are created by the O-RAN Alliance working groups to create a working software solution to enable an open and intelligent 5G radio access network
 https://o-ran-sc.org/
 https://https://wiki.o-ran-sc.org/
+
+### Fukui.rb
+
+Fukui.rb is a nonprofit community for anyone interested in Ruby and Fukui based in Fukui, Japan.
+https://github.com/fukuirb

@@ -3053,8 +3053,23 @@ We craft stunning apps, libraries and even programming languages skilfully pushi
 Hack+ is a 501(c)(3) nonprofit organization that helps students start their own businesses, nonprofits, and events.
 https://hackplus.io
 
+### UnifiedMetrics
+UnifiedMetrics is a fully-featured metrics collection agent for Minecraft servers.
+https://github.com/cubxity/unifiedmetrics
+
+### FUG-BR (FreeBSD Brazilian Users Group)
+FUG-BR is a non-profit third sector organization founded in 1999 and is focused on increasing the adoption of FreeBSD in Brazil, supporting the users, conferences and code. Current members contribute actively to the development of FreeBSD porject, including actively supporting the FreeBSD Ports Collection, FreeBSD Brazilian Portuguese official documentation projet, FreeBSD base system contributions and organize BSDcon Brasil, BSD Day and keep a periodic FreeBSD booth at infosec events.
+http://www.fug.com.br
+
+### Neuron
+Neuron is an open-source blockchain wallet aiming at exploiting the potential of [cell model](https://docs.nervos.org/docs/basics/concepts/cell-model/), a generalized [UTxO model](https://en.wikipedia.org/wiki/Unspent_transaction_output). Meanwhile, Neuron offers users the top level security for management of keys, assets, and governance.
+https://github.com/nervosnetwork/neuron
+
+### Paketo Buildpacks
+Paketo Buildpacks is a Linux Foundation subproject, under the Cloud Foundry Foundation.  
+https://paketo.io/
+
 ### O-RAN-SC
 This community is partnering with the O-RAN Alliance and Linux Foundation to support the software develop for an open RAN solution that is available to everyone. The community will align with the architecture and specifications that are created by the O-RAN Alliance working groups to create a working software solution to enable an open and intelligent 5G radio access network
 https://o-ran-sc.org/
 https://https://wiki.o-ran-sc.org/
-

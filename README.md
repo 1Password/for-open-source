@@ -3082,3 +3082,7 @@ https://github.com/fukuirb
 ### VKM
 OpenSource music player for VK.com
 [https://github.com/RockyBadlandSolutions/VKM](https://github.com/RockyBadlandSolutions/VKM)
+
+### UbuCon Asia
+An annual Ubuntu conference gathers and connects Ubuntu local communities around Asia since 2021.
+https://www.ubucon.asia https://wiki.ubuntu.com/UbuconAsia

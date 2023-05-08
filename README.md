@@ -3082,3 +3082,7 @@ https://github.com/fukuirb
 ### VKM
 OpenSource music player for VK.com
 [https://github.com/RockyBadlandSolutions/VKM](https://github.com/RockyBadlandSolutions/VKM)
+
+### Aria Music
+We provide Discord Voice QoL Bots.
+https://github.com/aria-music

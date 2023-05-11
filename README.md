@@ -3086,3 +3086,8 @@ OpenSource music player for VK.com
 ### Aria Music
 We provide Discord Voice QoL Bots.
 https://github.com/aria-music
+
+### Apache OpenDAL (incubating)
+
+OpenDAL is a data access layer that allows users to easily and efficiently retrieve data from various storage services in a unified way.
+https://opendal.apache.org/

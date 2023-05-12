@@ -3086,3 +3086,7 @@ OpenSource music player for VK.com
 ### Aria Music
 We provide Discord Voice QoL Bots.
 https://github.com/aria-music
+
+### SSEVTT
+SSEVTT - Simple Social Engineering Vulnerabilities Test Tool based on pytgbotapi, only for educational purposes.
+https://github.com/d3d0n/tg_leaked_scam_bot

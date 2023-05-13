@@ -3086,3 +3086,7 @@ OpenSource music player for VK.com
 ### Aria Music
 We provide Discord Voice QoL Bots.
 https://github.com/aria-music
+
+### Python User Group Reggio Emilia (PyRe)
+We are a community dedicated to Python programming language, based in Reggio Emilia, Italy. Our mission is to bring together Python enthusiasts of all experience levels, to share knowledge, collaborate, and foster a strong local Python community. We aim to organize regular events, presentations, and coding sessions, aiming to promote learning, networking, and collaboration among our members. We welcome everyone with an interest in Python, regardless of their background or experience level.
+https://www.pyre.it/

@@ -3086,3 +3086,7 @@ OpenSource music player for VK.com
 ### Aria Music
 We provide Discord Voice QoL Bots.
 https://github.com/aria-music
+
+### Cypress Cucumber Step Definition Generator
+This is vscode extension allows to generate automatically the step definitions of the gherkin steps of a feature and copy them to the clipboard or export them to file, powered by the Gherkin.
+[Cypress Cucumber Step Definition Generator](https://github.com/nguyenngoclongdev/cypress-cucumber-step-definition-generator)

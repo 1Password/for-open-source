@@ -3086,3 +3086,7 @@ OpenSource music player for VK.com
 ### Aria Music
 We provide Discord Voice QoL Bots.
 https://github.com/aria-music
+
+### Shrt
+A shortener. Written in Go.
+https://github.com/hararudoka/shrt

@@ -3086,3 +3086,7 @@ OpenSource music player for VK.com
 ### Aria Music
 We provide Discord Voice QoL Bots.
 https://github.com/aria-music
+
+### HoloViz
+HoloViz is a set of open-source and interoperable Python-based tools for making sense of data at any scale, primarily through visualization in a web browser. These high-level tools are systematically layered, allowing users to quickly build with high-level interfaces and then drop down to lower levels when precise control is required. This layered approach results in visualizations that are immediately usable but can then continue to be inspected, pulled apart, reconfigured, and recomposed as needed. Whether conducting exploratory analysis or building complex dashboards, HoloViz tools are designed to work together to solve the entire problem of visually understanding and communicating data.
+https://holoviz.org/

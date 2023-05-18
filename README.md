@@ -3102,3 +3102,7 @@ https://opendal.apache.org/
 ### CNCF Serverless Workflow Specification
 Standards-based DSL and open-source dev tools and runtimes are at the heart of the Serverless Workflow project. We connect developers around the world to foster innovation and provide a community-driven workflow ecosystem.
 https://serverlessworkflow.io/
+
+### PHP com Rapadura
+Group of PHP developers from Ceará - Brazil, brought together by a sweet connection, like rapadura and coffee, with the purpose of teaching, professionalizing, spreading, evangelizing, and programming in PHP, bringing PHP to people it didn't reach before, taking PHP to places where it didn't reach. A PHP Community from the State of Ceará.
+[https://myawesomeproject.org](https://phpcomrapadura.org/)

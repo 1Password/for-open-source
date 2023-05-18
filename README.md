@@ -3106,3 +3106,8 @@ https://serverlessworkflow.io/
 ### PHP com Rapadura
 Group of PHP developers from Ceará - Brazil, brought together by a sweet connection, like rapadura and coffee, with the purpose of teaching, professionalizing, spreading, evangelizing, and programming in PHP, bringing PHP to people it didn't reach before, taking PHP to places where it didn't reach. A PHP Community from the State of Ceará.
 [https://myawesomeproject.org](https://phpcomrapadura.org/)
+
+
+### Apache Kvrocks (incubating)
+Apache Kvrocks(Incubating) is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
+https://kvrocks.apache.org/

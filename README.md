@@ -3099,8 +3099,6 @@ The OpenAPI Specification is a specification language for HTTP APIs that provide
 OpenDAL is a data access layer that allows users to easily and efficiently retrieve data from various storage services in a unified way.
 https://opendal.apache.org/
 
-```markdown
 ### Groovy API for Asana
-A short description of what we do.
+Provides an effortlessly access and interact with Asana's project management platform using the Asana API. It provides a convenient and flexible solution for tasks such as task creation, updates, and deletions, project management, task assignments, and task comments. With authentication support and error handling mechanisms, this project streamlines workflow automation and enhances collaboration within Asana.
 https://github.com/Vijay-Duke/Groovy-Asana-Api
-```

@@ -3086,3 +3086,7 @@ OpenSource music player for VK.com
 ### Aria Music
 We provide Discord Voice QoL Bots.
 https://github.com/aria-music
+
+### UbuCon Asia
+An annual Ubuntu conference gathers and connects Ubuntu local communities around Asia since 2021.
+https://www.ubucon.asia https://wiki.ubuntu.com/UbuconAsia

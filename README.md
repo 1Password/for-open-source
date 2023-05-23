@@ -3118,3 +3118,7 @@ https://holoviz.org/
 ### ReactPHP
 ReactPHP is a low-level library for event-driven programming in PHP. At its core is an event loop, on top of which it provides low-level utilities, such as: Streams abstraction, async DNS resolver, network client/server, HTTP client/server and interaction with processes. Third-party libraries can use these components to create async network clients/servers and more.
 [https://github.com/aria-music](https://reactphp.org/)
+
+### Apache Kvrocks (incubating)
+Apache Kvrocks(Incubating) is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
+https://kvrocks.apache.org/

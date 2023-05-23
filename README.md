@@ -3114,3 +3114,7 @@ https://github.com/hararudoka/shrt
 ### HoloViz
 HoloViz is a set of open-source and interoperable Python-based tools for making sense of data at any scale, primarily through visualization in a web browser. These high-level tools are systematically layered, allowing users to quickly build with high-level interfaces and then drop down to lower levels when precise control is required. This layered approach results in visualizations that are immediately usable but can then continue to be inspected, pulled apart, reconfigured, and recomposed as needed. Whether conducting exploratory analysis or building complex dashboards, HoloViz tools are designed to work together to solve the entire problem of visually understanding and communicating data.
 https://holoviz.org/
+
+### ReactPHP
+ReactPHP is a low-level library for event-driven programming in PHP. At its core is an event loop, on top of which it provides low-level utilities, such as: Streams abstraction, async DNS resolver, network client/server, HTTP client/server and interaction with processes. Third-party libraries can use these components to create async network clients/servers and more.
+[https://github.com/aria-music](https://reactphp.org/)

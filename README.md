@@ -3087,6 +3087,34 @@ OpenSource music player for VK.com
 We provide Discord Voice QoL Bots.
 https://github.com/aria-music
 
+### UbuCon Asia
+An annual Ubuntu conference gathers and connects Ubuntu local communities around Asia since 2021.
+https://www.ubucon.asia https://wiki.ubuntu.com/UbuconAsia
+
+### OpenAPI Initiative
+The OpenAPI Specification is a specification language for HTTP APIs that provides a standardized means to define your API to others. You can quickly discover how an API works, configure infrastructure, generate client code, and create test cases for your APIs. Read more about how you can get control of your APIs now, understand the full API lifecycle and communicate with developer communities inside and outside your organization.
+[https://www.openapis.org](https://www.openapis.org/)
+
+### Apache OpenDAL (incubating)
+OpenDAL is a data access layer that allows users to easily and efficiently retrieve data from various storage services in a unified way.
+https://opendal.apache.org/
+
+### CNCF Serverless Workflow Specification
+Standards-based DSL and open-source dev tools and runtimes are at the heart of the Serverless Workflow project. We connect developers around the world to foster innovation and provide a community-driven workflow ecosystem.
+https://serverlessworkflow.io/
+
+### PHP com Rapadura
+Group of PHP developers from Ceará - Brazil, brought together by a sweet connection, like rapadura and coffee, with the purpose of teaching, professionalizing, spreading, evangelizing, and programming in PHP, bringing PHP to people it didn't reach before, taking PHP to places where it didn't reach. A PHP Community from the State of Ceará.
+[https://myawesomeproject.org](https://phpcomrapadura.org/)
+
+### Shrt
+A shortener. Written in Go.
+https://github.com/hararudoka/shrt
+
+### HoloViz
+HoloViz is a set of open-source and interoperable Python-based tools for making sense of data at any scale, primarily through visualization in a web browser. These high-level tools are systematically layered, allowing users to quickly build with high-level interfaces and then drop down to lower levels when precise control is required. This layered approach results in visualizations that are immediately usable but can then continue to be inspected, pulled apart, reconfigured, and recomposed as needed. Whether conducting exploratory analysis or building complex dashboards, HoloViz tools are designed to work together to solve the entire problem of visually understanding and communicating data.
+https://holoviz.org/
+
 ### ReactPHP
 ReactPHP is a low-level library for event-driven programming in PHP. At its core is an event loop, on top of which it provides low-level utilities, such as: Streams abstraction, async DNS resolver, network client/server, HTTP client/server and interaction with processes. Third-party libraries can use these components to create async network clients/servers and more.
 [https://github.com/aria-music](https://reactphp.org/)

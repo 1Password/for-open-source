@@ -3127,3 +3127,7 @@ https://kvrocks.apache.org/
 An open-source software to manage past-exam with Upload, Update, Tag, Remove, Ban features.
 Help students in whatever school to share their past exam paper
 https://github.com/nthu-dev/NTHUPastExam
+
+### Social Income
+Social Income is a community-driven Open Source project fighting poverty with technology and solidarity.
+https://socialincome.org

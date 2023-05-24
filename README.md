@@ -3131,3 +3131,8 @@ https://github.com/nthu-dev/NTHUPastExam
 ### Social Income
 Social Income is a community-driven Open Source project fighting poverty with technology and solidarity.
 https://socialincome.org
+
+### ZOS Open Tools
+The z/OS Open Tools community is here to provide popular Open Source tools and to encourage z/OS Open Source tools development.
+We currently host 70+ z/OS Open Source projects and we're looking for more!
+https://github.com/ZOSOpenTools/

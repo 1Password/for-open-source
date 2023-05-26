@@ -3136,3 +3136,7 @@ https://socialincome.org
 The z/OS Open Tools community is here to provide popular Open Source tools and to encourage z/OS Open Source tools development.
 We currently host 70+ z/OS Open Source projects and we're looking for more!
 https://github.com/ZOSOpenTools/
+
+### Ruby for Good
+Ruby for Good is a non-profit organization that builds and maintains software for other non-profits. Some of our noteworthy projects are human-essentials (helping over 3 million children and 500,000 period supply recipients a year), casa (helping foster youth), and flaredown (being used in over 100 countries by individuals suffering chronic pain to track their symptoms.)
+https://github.com/rubyforgood || https://rubyforgood.org

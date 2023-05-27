@@ -6,7 +6,7 @@ Are you working on an open source project that needs a password manager? How abo
 
 ## How to apply
 
-1. Create a team account: https://start.1password.com/signup/?t=B
+1. Create a team account: [Click Here](https://start.1password.com/signup/?t=B).
 2. Invite at least one other person to your team and [add them to the Owners group](https://support.1password.com/groups/#manage-group-membership).
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 

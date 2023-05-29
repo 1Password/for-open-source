@@ -3136,3 +3136,7 @@ https://socialincome.org
 The z/OS Open Tools community is here to provide popular Open Source tools and to encourage z/OS Open Source tools development.
 We currently host 70+ z/OS Open Source projects and we're looking for more!
 https://github.com/ZOSOpenTools/
+
+### Static File Add Version (Maven-Plugin)
+Static File Add Version (Maven-Plugin) is a tool to automatically add version numbers to static resources, for web projects developed by JSP or Springboot.
+https://github.com/zmlu/static-file-add-version-maven-plugin/tree/main

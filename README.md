@@ -3145,3 +3145,6 @@ https://github.com/thousandyears
 Ruby for Good is a non-profit organization that builds and maintains software for other non-profits. Some of our noteworthy projects are human-essentials (helping over 3 million children and 500,000 period supply recipients a year), casa (helping foster youth), and flaredown (being used in over 100 countries by individuals suffering chronic pain to track their symptoms.)
 https://github.com/rubyforgood || https://rubyforgood.org
 
+### Static File Add Version (Maven-Plugin)
+Static File Add Version (Maven-Plugin) is a tool to automatically add version numbers to static resources, for web projects developed by JSP or Springboot.
+https://github.com/zmlu/static-file-add-version-maven-plugin/tree/main

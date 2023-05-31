@@ -3148,3 +3148,7 @@ https://github.com/rubyforgood || https://rubyforgood.org
 ### Static File Add Version (Maven-Plugin)
 Static File Add Version (Maven-Plugin) is a tool to automatically add version numbers to static resources, for web projects developed by JSP or Springboot.
 https://github.com/zmlu/static-file-add-version-maven-plugin/tree/main
+
+### Fatiando a Terra
+Community-driven project that provides open-source Python libraries for Geosciences. Fatiando a Terra has the goal of building more open and reproducible science through high quality research software.
+https://github.com/fatiando || https://www.fatiando.org

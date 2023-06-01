@@ -3148,3 +3148,7 @@ https://github.com/rubyforgood || https://rubyforgood.org
 ### Static File Add Version (Maven-Plugin)
 Static File Add Version (Maven-Plugin) is a tool to automatically add version numbers to static resources, for web projects developed by JSP or Springboot.
 https://github.com/zmlu/static-file-add-version-maven-plugin/tree/main
+
+### Hashbang Productions
+We develop various different critical software for the iOS jailbreaking scene including the popular NewTerm terminal emulator and Cephei, the most widely-used developer framework by the various developers in the community.
+https://github.com/hbang

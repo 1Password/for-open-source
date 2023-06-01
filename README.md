@@ -3148,3 +3148,8 @@ https://github.com/rubyforgood || https://rubyforgood.org
 ### Static File Add Version (Maven-Plugin)
 Static File Add Version (Maven-Plugin) is a tool to automatically add version numbers to static resources, for web projects developed by JSP or Springboot.
 https://github.com/zmlu/static-file-add-version-maven-plugin/tree/main
+
+### Pixie
+[Pixie](https://px.dev) is an open source observability tool for Kubernetes applications. Leveraging technology such as eBPF, Pixie automatically collects telemetry data, including full-body requests, resource and network metrics, application profiles, and more. This allows developers to view the high-level state of their cluster (service maps, cluster resources, application traffic) and also drill down into more detailed views (pod state, flame graphs). Pixie was accepted as a CNCF sandbox project in June 2021.
+https://github.com/pixie-io/pixie
+

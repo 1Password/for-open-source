@@ -3157,3 +3157,7 @@ https://github.com/Vijay-Duke/Groovy-Asana-Api
 ### Fatiando a Terra
 Community-driven project that provides open-source Python libraries for Geosciences. Fatiando a Terra has the goal of building more open and reproducible science through high quality research software.
 https://github.com/fatiando || https://www.fatiando.org
+
+### Hypera Development
+We're a team of passionate developers who need to come up with a better tagline.
+https://github.com/HyperaDev https://hypera.dev/

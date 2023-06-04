@@ -3157,3 +3157,7 @@ https://github.com/Vijay-Duke/Groovy-Asana-Api
 ### Fatiando a Terra
 Community-driven project that provides open-source Python libraries for Geosciences. Fatiando a Terra has the goal of building more open and reproducible science through high quality research software.
 https://github.com/fatiando || https://www.fatiando.org
+
+### Hawkerrate
+A solution for buyers of hawker centre food in Singapore to read, create, and post ratings and reviews for individual stalls, while increasing visibility of hawker centre stalls.
+https://github.com/natlv || https://hawkerrate.my.canva.site/

@@ -3169,3 +3169,7 @@ https://github.com/pixie-io/pixie
 ### Hashbang Productions
 We develop various different critical software for the iOS jailbreaking scene including the popular NewTerm terminal emulator and Cephei, the most widely-used developer framework by the various developers in the community.
 https://github.com/hbang
+
+### Hypera Development
+We're a team of passionate developers who need to come up with a better tagline.
+https://github.com/HyperaDev https://hypera.dev/

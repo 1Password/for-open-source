@@ -3165,3 +3165,7 @@ https://github.com/Youssef-Radwan/Arduca.git
 ### Pixie
 [Pixie](https://px.dev) is an open source observability tool for Kubernetes applications. Leveraging technology such as eBPF, Pixie automatically collects telemetry data, including full-body requests, resource and network metrics, application profiles, and more. This allows developers to view the high-level state of their cluster (service maps, cluster resources, application traffic) and also drill down into more detailed views (pod state, flame graphs). Pixie was accepted as a CNCF sandbox project in June 2021.
 https://github.com/pixie-io/pixie
+
+### Hashbang Productions
+We develop various different critical software for the iOS jailbreaking scene including the popular NewTerm terminal emulator and Cephei, the most widely-used developer framework by the various developers in the community.
+https://github.com/hbang

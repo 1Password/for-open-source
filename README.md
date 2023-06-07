@@ -3107,6 +3107,7 @@ https://serverlessworkflow.io/
 Group of PHP developers from Ceará - Brazil, brought together by a sweet connection, like rapadura and coffee, with the purpose of teaching, professionalizing, spreading, evangelizing, and programming in PHP, bringing PHP to people it didn't reach before, taking PHP to places where it didn't reach. A PHP Community from the State of Ceará.
 [https://myawesomeproject.org](https://phpcomrapadura.org/)
 
+
 ### Shrt
 A shortener. Written in Go.
 https://github.com/hararudoka/shrt
@@ -3149,7 +3150,18 @@ https://github.com/rubyforgood || https://rubyforgood.org
 Static File Add Version (Maven-Plugin) is a tool to automatically add version numbers to static resources, for web projects developed by JSP or Springboot.
 https://github.com/zmlu/static-file-add-version-maven-plugin/tree/main
 
+### Groovy API for Asana
+Provides an effortlessly access and interact with Asana's project management platform using the Asana API. It provides a convenient and flexible solution for tasks such as task creation, updates, and deletions, project management, task assignments, and task comments. With authentication support and error handling mechanisms, this project streamlines workflow automation and enhances collaboration within Asana.
+https://github.com/Vijay-Duke/Groovy-Asana-Api
+
+### Fatiando a Terra
+Community-driven project that provides open-source Python libraries for Geosciences. Fatiando a Terra has the goal of building more open and reproducible science through high quality research software.
+https://github.com/fatiando || https://www.fatiando.org
+
+### Arduca
+Arduca is an open-source project written in Python language that calculates the following body composition percentages: fat, muscle, bone, water, VFI (Visceral Fat Index), and BMR (Basal Metabolic Rate). It supports both male and female users and is easy to use. Arduca is constantly being updated with new features and improvements.
+https://github.com/Youssef-Radwan/Arduca.git
+
 ### Pixie
 [Pixie](https://px.dev) is an open source observability tool for Kubernetes applications. Leveraging technology such as eBPF, Pixie automatically collects telemetry data, including full-body requests, resource and network metrics, application profiles, and more. This allows developers to view the high-level state of their cluster (service maps, cluster resources, application traffic) and also drill down into more detailed views (pod state, flame graphs). Pixie was accepted as a CNCF sandbox project in June 2021.
 https://github.com/pixie-io/pixie
-

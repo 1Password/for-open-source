@@ -3157,3 +3157,7 @@ https://github.com/Vijay-Duke/Groovy-Asana-Api
 ### Fatiando a Terra
 Community-driven project that provides open-source Python libraries for Geosciences. Fatiando a Terra has the goal of building more open and reproducible science through high quality research software.
 https://github.com/fatiando || https://www.fatiando.org
+
+### Arduca
+Arduca is an open-source project written in Python language that calculates the following body composition percentages: fat, muscle, bone, water, VFI (Visceral Fat Index), and BMR (Basal Metabolic Rate). It supports both male and female users and is easy to use. Arduca is constantly being updated with new features and improvements.
+https://github.com/Youssef-Radwan/Arduca.git

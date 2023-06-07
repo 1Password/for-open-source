@@ -3161,3 +3161,7 @@ https://github.com/fatiando || https://www.fatiando.org
 ### Arduca
 Arduca is an open-source project written in Python language that calculates the following body composition percentages: fat, muscle, bone, water, VFI (Visceral Fat Index), and BMR (Basal Metabolic Rate). It supports both male and female users and is easy to use. Arduca is constantly being updated with new features and improvements.
 https://github.com/Youssef-Radwan/Arduca.git
+
+### Pixie
+[Pixie](https://px.dev) is an open source observability tool for Kubernetes applications. Leveraging technology such as eBPF, Pixie automatically collects telemetry data, including full-body requests, resource and network metrics, application profiles, and more. This allows developers to view the high-level state of their cluster (service maps, cluster resources, application traffic) and also drill down into more detailed views (pod state, flame graphs). Pixie was accepted as a CNCF sandbox project in June 2021.
+https://github.com/pixie-io/pixie

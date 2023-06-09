@@ -3087,6 +3087,93 @@ OpenSource music player for VK.com
 We provide Discord Voice QoL Bots.
 https://github.com/aria-music
 
+### UbuCon Asia
+An annual Ubuntu conference gathers and connects Ubuntu local communities around Asia since 2021.
+https://www.ubucon.asia https://wiki.ubuntu.com/UbuconAsia
+
+### OpenAPI Initiative
+The OpenAPI Specification is a specification language for HTTP APIs that provides a standardized means to define your API to others. You can quickly discover how an API works, configure infrastructure, generate client code, and create test cases for your APIs. Read more about how you can get control of your APIs now, understand the full API lifecycle and communicate with developer communities inside and outside your organization.
+[https://www.openapis.org](https://www.openapis.org/)
+
+### Apache OpenDAL (incubating)
+OpenDAL is a data access layer that allows users to easily and efficiently retrieve data from various storage services in a unified way.
+https://opendal.apache.org/
+
+### CNCF Serverless Workflow Specification
+Standards-based DSL and open-source dev tools and runtimes are at the heart of the Serverless Workflow project. We connect developers around the world to foster innovation and provide a community-driven workflow ecosystem.
+https://serverlessworkflow.io/
+
+### PHP com Rapadura
+Group of PHP developers from Ceará - Brazil, brought together by a sweet connection, like rapadura and coffee, with the purpose of teaching, professionalizing, spreading, evangelizing, and programming in PHP, bringing PHP to people it didn't reach before, taking PHP to places where it didn't reach. A PHP Community from the State of Ceará.
+[https://myawesomeproject.org](https://phpcomrapadura.org/)
+
+
+### Shrt
+A shortener. Written in Go.
+https://github.com/hararudoka/shrt
+
+### HoloViz
+HoloViz is a set of open-source and interoperable Python-based tools for making sense of data at any scale, primarily through visualization in a web browser. These high-level tools are systematically layered, allowing users to quickly build with high-level interfaces and then drop down to lower levels when precise control is required. This layered approach results in visualizations that are immediately usable but can then continue to be inspected, pulled apart, reconfigured, and recomposed as needed. Whether conducting exploratory analysis or building complex dashboards, HoloViz tools are designed to work together to solve the entire problem of visually understanding and communicating data.
+https://holoviz.org/
+
+### ReactPHP
+ReactPHP is a low-level library for event-driven programming in PHP. At its core is an event loop, on top of which it provides low-level utilities, such as: Streams abstraction, async DNS resolver, network client/server, HTTP client/server and interaction with processes. Third-party libraries can use these components to create async network clients/servers and more.
+[https://github.com/aria-music](https://reactphp.org/)
+
+### Apache Kvrocks (incubating)
+Apache Kvrocks(Incubating) is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
+https://kvrocks.apache.org/
+
+### PastExam System
+An open-source software to manage past-exam with Upload, Update, Tag, Remove, Ban features.
+Help students in whatever school to share their past exam paper
+https://github.com/nthu-dev/NTHUPastExam
+
+### Social Income
+Social Income is a community-driven Open Source project fighting poverty with technology and solidarity.
+https://socialincome.org
+
+### ZOS Open Tools
+The z/OS Open Tools community is here to provide popular Open Source tools and to encourage z/OS Open Source tools development.
+We currently host 70+ z/OS Open Source projects and we're looking for more!
+https://github.com/ZOSOpenTools/
+
+### Thousand Years
+Thousand Years is a company focused on creating sustainable organizational cultures that foster diversity and innovation, primarily through the development of tools and environments that allow experts to express their skills autonomously, applying a metaphor of gardening as opposed to traditional software development concepts.
+https://github.com/thousandyears
+
+### Ruby for Good
+Ruby for Good is a non-profit organization that builds and maintains software for other non-profits. Some of our noteworthy projects are human-essentials (helping over 3 million children and 500,000 period supply recipients a year), casa (helping foster youth), and flaredown (being used in over 100 countries by individuals suffering chronic pain to track their symptoms.)
+https://github.com/rubyforgood || https://rubyforgood.org
+
+### Static File Add Version (Maven-Plugin)
+Static File Add Version (Maven-Plugin) is a tool to automatically add version numbers to static resources, for web projects developed by JSP or Springboot.
+https://github.com/zmlu/static-file-add-version-maven-plugin/tree/main
+
+### Groovy API for Asana
+Provides an effortlessly access and interact with Asana's project management platform using the Asana API. It provides a convenient and flexible solution for tasks such as task creation, updates, and deletions, project management, task assignments, and task comments. With authentication support and error handling mechanisms, this project streamlines workflow automation and enhances collaboration within Asana.
+https://github.com/Vijay-Duke/Groovy-Asana-Api
+
+### Fatiando a Terra
+Community-driven project that provides open-source Python libraries for Geosciences. Fatiando a Terra has the goal of building more open and reproducible science through high quality research software.
+https://github.com/fatiando || https://www.fatiando.org
+
+### Arduca
+Arduca is an open-source project written in Python language that calculates the following body composition percentages: fat, muscle, bone, water, VFI (Visceral Fat Index), and BMR (Basal Metabolic Rate). It supports both male and female users and is easy to use. Arduca is constantly being updated with new features and improvements.
+https://github.com/Youssef-Radwan/Arduca.git
+
+### Pixie
+[Pixie](https://px.dev) is an open source observability tool for Kubernetes applications. Leveraging technology such as eBPF, Pixie automatically collects telemetry data, including full-body requests, resource and network metrics, application profiles, and more. This allows developers to view the high-level state of their cluster (service maps, cluster resources, application traffic) and also drill down into more detailed views (pod state, flame graphs). Pixie was accepted as a CNCF sandbox project in June 2021.
+https://github.com/pixie-io/pixie
+
+### Hashbang Productions
+We develop various different critical software for the iOS jailbreaking scene including the popular NewTerm terminal emulator and Cephei, the most widely-used developer framework by the various developers in the community.
+https://github.com/hbang
+
+### Hypera Development
+We're a team of passionate developers who need to come up with a better tagline.
+https://github.com/HyperaDev https://hypera.dev/
+
 ### Python User Group Reggio Emilia (PyRe)
 We are a community dedicated to Python programming language, based in Reggio Emilia, Italy. Our mission is to bring together Python enthusiasts of all experience levels, to share knowledge, collaborate, and foster a strong local Python community. We aim to organize regular events, presentations, and coding sessions, aiming to promote learning, networking, and collaboration among our members. We welcome everyone with an interest in Python, regardless of their background or experience level.
 https://www.pyre.it/

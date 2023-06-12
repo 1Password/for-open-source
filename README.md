@@ -3173,3 +3173,7 @@ https://github.com/hbang
 ### Hypera Development
 We're a team of passionate developers who need to come up with a better tagline.
 https://github.com/HyperaDev https://hypera.dev/
+
+### Python User Group Reggio Emilia (PyRe)
+We are a community dedicated to Python programming language, based in Reggio Emilia, Italy. Our mission is to bring together Python enthusiasts of all experience levels, to share knowledge, collaborate, and foster a strong local Python community. We aim to organize regular events, presentations, and coding sessions, aiming to promote learning, networking, and collaboration among our members. We welcome everyone with an interest in Python, regardless of their background or experience level.
+https://www.pyre.it/

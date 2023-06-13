@@ -3177,3 +3177,7 @@ https://github.com/HyperaDev https://hypera.dev/
 ### Python User Group Reggio Emilia (PyRe)
 We are a community dedicated to Python programming language, based in Reggio Emilia, Italy. Our mission is to bring together Python enthusiasts of all experience levels, to share knowledge, collaborate, and foster a strong local Python community. We aim to organize regular events, presentations, and coding sessions, aiming to promote learning, networking, and collaboration among our members. We welcome everyone with an interest in Python, regardless of their background or experience level.
 https://www.pyre.it/
+
+### OpenMRS
+We're a global community of truly dedicated, talented, and generous contributors who build and maintain a electronic medical record system platform to support resource-constrained implementers to save lives around the world.
+https://openmrs.org

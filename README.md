@@ -3186,6 +3186,10 @@ https://openmrs.org
 This is vscode extension allows to generate automatically the step definitions of the gherkin steps of a feature and copy them to the clipboard or export them to file, powered by the Gherkin.
 [Cypress Cucumber Step Definition Generator](https://github.com/nguyenngoclongdev/cypress-cucumber-step-definition-generator)
 
+### Podlove
+Podlove is an initiative to improve the overall technical infrastructure for podcasting. Podlove is both an network for developers to discuss features and agree on standards as well as an incubator for software and file formats under the Podlove name.
+https://podlove.org
+
 ### NestJS Toolbox
 Multipe tools for NestJS framework 
 [nestjs-toolbox](https://github.com/lupu60/nestjs-toolbox)

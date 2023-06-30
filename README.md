@@ -3204,3 +3204,7 @@ a systems and service monitoring system. It collects metrics from configured
 targets at given intervals, evaluates rule expressions, displays the results,
 and can trigger alerts when specified conditions are observed.
 https://prometheus.io
+
+### Vorta
+A desktop backup client for Borg Backup. Will run in the background and send encrypted, incremental backups to a local or remote storage repository.
+https://vorta.borgbase.com/

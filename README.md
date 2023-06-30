@@ -3197,3 +3197,10 @@ Multipe tools for NestJS framework
 ### NLnet Labs
 Founded in 1999, NLnet Labs is an independent, non-profit foundation based in the Netherlands. Our mission is to make the core of the Internet a better, safer place by developing open-source software, through applied research and by promoting and contributing to open standards. Proud maintainers of NSD nameserver, Unbound DNS resolver, Krill and Routinator RPKI software.
 https://github.com/NLnetLabs 
+
+### Prometheus
+Prometheus, a [Cloud Native Computing Foundation](https://cncf.io/) project, is
+a systems and service monitoring system. It collects metrics from configured
+targets at given intervals, evaluates rule expressions, displays the results,
+and can trigger alerts when specified conditions are observed.
+https://prometheus.io

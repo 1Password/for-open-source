@@ -3208,3 +3208,9 @@ https://prometheus.io
 ### Vorta
 A desktop backup client for Borg Backup. Will run in the background and send encrypted, incremental backups to a local or remote storage repository.
 https://vorta.borgbase.com/
+
+### Docusaurus
+Build great docs websites, focus on your content - by Meta
+Docusaurus helps you ship a top-notch documentation site in no time!
+[Docusaurus](https://github.com/facebook/docusaurus)
+https://github.com/facebook/docusaurus

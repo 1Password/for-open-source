@@ -3208,3 +3208,7 @@ https://prometheus.io
 ### Vorta
 A desktop backup client for Borg Backup. Will run in the background and send encrypted, incremental backups to a local or remote storage repository.
 https://vorta.borgbase.com/
+
+### WSA-Script
+The small web-app using HTML and Github Action for helping user to integrate Magisk root and Google Apps into Windows Subsystem for Android (WSA), which will be powerful for user who working with Android simulator and for Android app tester
+https://YT-Advanced.github.io/WSA-Script/

@@ -3208,3 +3208,7 @@ https://prometheus.io
 ### Vorta
 A desktop backup client for Borg Backup. Will run in the background and send encrypted, incremental backups to a local or remote storage repository.
 https://vorta.borgbase.com/
+
+### LinkSnipper
+LinkSnipper project provides a Python script that takes a list of URLs from a file and uses a URL shortener API to generate shortened URLs for each of them. It then writes the shortened URLs to a file, prints them to the console, and generates QR codes for each shortened URL.
+https://github.com/anhkhoakz/LinkSnipper

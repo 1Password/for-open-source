@@ -46,7 +46,7 @@ https://github.com/HaiTX3004/HaiTX3004
 
 ### freeCodeCamp.org
 We help people learn to code for free.
-[https://www.freecodecamp.org](https://github.com/open-license-manager/licensecc)
+[https://www.freecodecamp.org]
 
 ### WWDCScholars
 

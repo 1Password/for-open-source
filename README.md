@@ -40,9 +40,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using 1Password Teams
 
-### Small tools
-Copy protection, licensing library and license generator for Windows and Linux.
-https://github.com/HaiTX3004/HaiTX3004
+
 
 ### freeCodeCamp.org
 We help people learn to code for free.
@@ -3212,3 +3210,7 @@ https://prometheus.io
 ### Vorta
 A desktop backup client for Borg Backup. Will run in the background and send encrypted, incremental backups to a local or remote storage repository.
 https://vorta.borgbase.com/
+
+### Small tools
+Copy protection, licensing library and license generator for Windows and Linux.
+https://github.com/HaiTX3004/HaiTX3004

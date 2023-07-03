@@ -1,0 +1,10 @@
+#ifndef PUBLIC_KEY_H_
+#define PUBLIC_KEY_H_
+
+#define PRODUCT_NAME {{ product_name }}
+
+#define PUBLIC_KEY {\
+{%for i in public_key%}{% if loop.index1 > 1 %},{% endif %}{{ i }}{%endfor%}\
+}
+#define PUBLIC_KEY_LEN {{ public_key_len }}
+#endif

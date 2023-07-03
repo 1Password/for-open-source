@@ -3208,3 +3208,7 @@ https://prometheus.io
 ### Vorta
 A desktop backup client for Borg Backup. Will run in the background and send encrypted, incremental backups to a local or remote storage repository.
 https://vorta.borgbase.com/
+
+### TNTools
+Desktop application
+https://github.com/thaanhmt/TNTools

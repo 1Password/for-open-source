@@ -40,9 +40,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using 1Password Teams
 
-### Licensecc
+### Small tools
 Copy protection, licensing library and license generator for Windows and Linux.
-https://myawesomeproject.org
+https://github.com/HaiTX3004/HaiTX3004
 
 ### freeCodeCamp.org
 We help people learn to code for free.

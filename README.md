@@ -3216,3 +3216,7 @@ https://github.com/anhkhoakz/LinkSnipper
 ### WSA-Script
 The small web-app using HTML and Github Action for helping user to integrate Magisk root and Google Apps into Windows Subsystem for Android (WSA), which will be powerful for user who working with Android simulator and for Android app tester
 https://YT-Advanced.github.io/WSA-Script/
+
+### Prism Launcher
+An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
+https://prismlauncher.org

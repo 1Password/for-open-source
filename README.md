@@ -3220,3 +3220,6 @@ https://YT-Advanced.github.io/WSA-Script/
 ### Prism Launcher
 An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
 https://prismlauncher.org
+
+### TangpingCup
+A zero-base friendly CTF Competition in China. Every year the committee will open source the Write-Ups and the source code of every challenge for studying.

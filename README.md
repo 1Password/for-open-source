@@ -3227,3 +3227,8 @@ A zero-base friendly CTF Competition in China. Every year the committee will ope
 ### igraph
 igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. igraph is open source and free. igraph can be programmed in R, Python, Mathematica and C/C++.
 https://igraph.org
+
+### (ISC)2 Israel
+We provide free of charge membership for security professionals, as well as reachout initiatives such as women-in-tech and low income teens, providing
+them with free education, mentorship and assistance to get into cybersecurity and become a professional expert/leader.
+https://isc2chapter-israel.org/

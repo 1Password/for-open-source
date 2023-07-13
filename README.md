@@ -3227,3 +3227,8 @@ A zero-base friendly CTF Competition in China. Every year the committee will ope
 ### igraph
 igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. igraph is open source and free. igraph can be programmed in R, Python, Mathematica and C/C++.
 https://igraph.org
+
+### VULSEC Labs
+1. We provide specialized tools, services, and training free of charge to protect the democracy fundamentals by helping and protecting: journalists, activists.
+2. FOSS security research (vulnerabilities, threats, weaknesses), researcher assistance as a registered non profit CNA, tool (and PoC, YARA, etc...) development, verification, publication.
+https://www.vulsec.org

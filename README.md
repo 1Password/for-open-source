@@ -3227,3 +3227,7 @@ A zero-base friendly CTF Competition in China. Every year the committee will ope
 ### igraph
 igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. igraph is open source and free. igraph can be programmed in R, Python, Mathematica and C/C++.
 https://igraph.org
+
+### AUSG
+AUSG is a developer community for university students, studying and sharing AWS and cloud. We share experiences and practices at community conferences such as AUSGCON, AWS Summit, and AWS Community Day.
+https://ausg.me

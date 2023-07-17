@@ -3227,3 +3227,7 @@ A zero-base friendly CTF Competition in China. Every year the committee will ope
 ### igraph
 igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. igraph is open source and free. igraph can be programmed in R, Python, Mathematica and C/C++.
 https://igraph.org
+
+### Mathesar
+Mathesar is an open source tool that provides a spreadsheet-like interface to a PostgreSQL database. Our web-based interface helps you and your collaborators work with data more independently and comfortably – no technical skills needed.
+https://mathesar.org/

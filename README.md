@@ -3231,3 +3231,7 @@ https://igraph.org
 ### CHIPS Alliance
 The CHIPS Alliance develops high-quality, open source hardware designs relevant to silicon devices and FPGAs. By creating an open and collaborative environment, CHIPS Alliance shares resources to lower the cost of development. Companies and individuals can work together to develop open source CPUs, various peripherals, and complex IP blocks. CHIPS Alliance is open to all organizations who are interested in collaborating on open source hardware or software tools to accelerate the creation of more efficient and innovative chip designs.
 https://www.chipsalliance.org/
+
+### ServeRest
+ServeRest is a small web-app project that provides a platform to be used by the Brazilian QA community when learning about test automation. The front end is used to practice E2E automation tests, and the API is used on integration and performance tests. Is a platform well known in the BR QA community, being extensively used on free courses, meetups, and talks.
+https://github.com/ServeRest/ServeRest

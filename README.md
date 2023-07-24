@@ -3235,3 +3235,7 @@ https://www.chipsalliance.org/
 ### Mathesar
 Mathesar is an open source tool that provides a spreadsheet-like interface to a PostgreSQL database. Our web-based interface helps you and your collaborators work with data more independently and comfortably – no technical skills needed.
 https://mathesar.org/
+
+### ServeRest
+ServeRest is a small web-app project that provides a platform to be used by the Brazilian QA community when learning about test automation. The front end is used to practice E2E automation tests, and the API is used on integration and performance tests. Is a platform well known in the BR QA community, being extensively used on free courses, meetups, and talks.
+https://github.com/ServeRest/ServeRest

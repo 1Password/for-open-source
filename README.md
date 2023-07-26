@@ -3239,3 +3239,7 @@ https://mathesar.org/
 ### ServeRest
 ServeRest is a small web-app project that provides a platform to be used by the Brazilian QA community when learning about test automation. The front end is used to practice E2E automation tests, and the API is used on integration and performance tests. Is a platform well known in the BR QA community, being extensively used on free courses, meetups, and talks.
 https://github.com/ServeRest/ServeRest
+
+### Caricare
+A simple cross-platform desktop application for S3-Compatible Object Storage. Built in Rust using egui.
+https://github.com/fireyy/caricare

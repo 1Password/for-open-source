@@ -3243,3 +3243,7 @@ https://github.com/ServeRest/ServeRest
 ### Caricare
 A simple cross-platform desktop application for S3-Compatible Object Storage. Built in Rust using egui.
 https://github.com/fireyy/caricare
+
+### Immich
+Self-hosted photo and video backup solution directly from your mobile phone.
+https://immich.app

@@ -3251,3 +3251,7 @@ https://immich.app
 ### SOPS
 SOPS (Secret OPerationS), a [Cloud Native Computing Foundation](https://cncf.io/) Sandbox project, is an editor in the form of a command-line tool and SDK designed to help manage sensitive content stored within structured files. Various formats, including YAML, JSON, ENV and binary, are supported and their content is managed by encrypting only the values portion of a key/value pair to maintain their readability as it lies at rest.
 https://github.com/getsops/sops
+
+### Cloud Native Austria
+Cloud Native Austria is a CNCF Community Group, enthusiastic about cloud-native technologies. Our mission is to help people to learn, speak and guide them through the Austrian cloud-native landscape. Furthermore, we are helping to start up new events and meetups.
+https://community.cncf.io/cloud-native-austria/

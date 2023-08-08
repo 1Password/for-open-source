@@ -3251,3 +3251,7 @@ https://immich.app
 ### SOPS
 SOPS (Secret OPerationS), a [Cloud Native Computing Foundation](https://cncf.io/) Sandbox project, is an editor in the form of a command-line tool and SDK designed to help manage sensitive content stored within structured files. Various formats, including YAML, JSON, ENV and binary, are supported and their content is managed by encrypting only the values portion of a key/value pair to maintain their readability as it lies at rest.
 https://github.com/getsops/sops
+
+### Open Oracle Origami (OOO)
+Open Oracle Origami (OOO) believes that building and deploying an oracle for blockchain shouldn’t be rocket science. Our end goal is to allow expedient development of blockchain oracles while providing a myriad of oracle solutions to the world. It offers feeless Oracles that drive network value and actively contribute to the growth of networks by enhancing their value proposition. Our product thesis lies in embracing an open-source, community-driven oracle. Conventional oracles often function as third-party intermediaries that opportunistically exploit native L1/L2 networks in order to enhance the value of their own tokens.
+https://oracleorigami.com/

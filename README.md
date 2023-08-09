@@ -3251,6 +3251,7 @@ https://immich.app
 ### SOPS
 SOPS (Secret OPerationS), a [Cloud Native Computing Foundation](https://cncf.io/) Sandbox project, is an editor in the form of a command-line tool and SDK designed to help manage sensitive content stored within structured files. Various formats, including YAML, JSON, ENV and binary, are supported and their content is managed by encrypting only the values portion of a key/value pair to maintain their readability as it lies at rest.
 https://github.com/getsops/sops
+
 ### Kill-OTA
 Kill OTA for iOS devices
 https://github.com/HaiTX3004/Kill-OTA

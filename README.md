@@ -3255,3 +3255,7 @@ https://github.com/getsops/sops
 ### Kill-OTA
 Kill OTA for iOS devices
 https://github.com/HaiTX3004/Kill-OTA
+
+### Open Oracle Origami (OOO)
+Open Oracle Origami (OOO) believes that building and deploying an oracle for blockchain shouldn’t be rocket science. Our end goal is to allow expedient development of blockchain oracles while providing a myriad of oracle solutions to the world. It offers feeless Oracles that drive network value and actively contribute to the growth of networks by enhancing their value proposition. Our product thesis lies in embracing an open-source, community-driven oracle. Conventional oracles often function as third-party intermediaries that opportunistically exploit native L1/L2 networks in order to enhance the value of their own tokens.
+https://oracleorigami.com/

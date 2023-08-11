@@ -3267,3 +3267,7 @@ https://community.cncf.io/cloud-native-austria/
 ### Show Current Width
 Show Current Width is a WordPress plugin which shows a current screen width on WP adminbar.
 https://github.com/web83info/show-current-width
+
+### graz.sh
+A collection of frontend toolings containing everything one needs to start working with the [Cosmos ecosystem](https://cosmos.network).
+https://graz.sh

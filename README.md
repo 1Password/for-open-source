@@ -3275,3 +3275,7 @@ https://graz.sh
 ### RespImageLint
 RespImageLint is a bookmarklet that checks images of a webpage against a list of common mistakes and best practises.
 https://ausi.github.io/respimagelint/
+
+### Freelancer Collection
+Freelancer Collection is a simple launcher written with C# WPF .NETFramework that makes it easy to install the game, as well as mods and language packs for it.
+https://github.com/TrainzCity/FreelancerCollection

@@ -3284,3 +3284,6 @@ https://www.growstuff.org
 PyLadies is an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.
 https://www.pyladies.com
 
+### Nginx PHP-FPM
+A lightweight images with nginx, php-fpm on Alpine Linux. Simplify packaging and deploying php applications on k8s(Kubernetes)
+https://github.com/haipham22/nginx-php-fpm

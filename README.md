@@ -3287,3 +3287,7 @@ https://www.pyladies.com
 ### Nginx PHP-FPM
 A lightweight images with nginx, php-fpm on Alpine Linux. Simplify packaging and deploying php applications on k8s(Kubernetes)
 https://github.com/haipham22/nginx-php-fpm
+
+### proxy-script
+Used for request proxy configuration
+https://github.com/ProxyStorage/For-Own-Use

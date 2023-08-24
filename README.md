@@ -3287,3 +3287,7 @@ https://www.pyladies.com
 ### Nginx PHP-FPM
 A lightweight images with nginx, php-fpm on Alpine Linux. Simplify packaging and deploying php applications on k8s(Kubernetes)
 https://github.com/haipham22/nginx-php-fpm
+
+### Kreato Linux
+An independent Linux distribution that focuses on modularity, simplicity and code readability.
+https://linux.kreato.dev

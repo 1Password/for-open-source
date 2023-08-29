@@ -3291,3 +3291,8 @@ https://github.com/haipham22/nginx-php-fpm
 ### GitTools
 A bunch of assorted Git related tools which help with debugging, versioning, releasing etc.
 https://github.com/gittools
+
+### proxy-script
+
+Used for request proxy configuration
+<https://github.com/ProxyStorage/For-Own-Use>

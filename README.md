@@ -3296,3 +3296,7 @@ https://github.com/gittools
 
 Used for request proxy configuration
 <https://github.com/ProxyStorage/For-Own-Use>
+
+### Kreato Linux
+An independent Linux distribution that focuses on modularity, simplicity and code readability.
+https://linux.kreato.dev

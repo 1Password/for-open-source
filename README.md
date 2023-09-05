@@ -3300,3 +3300,7 @@ Used for request proxy configuration
 ### Kreato Linux
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
+
+### Freelancer Collection
+Freelancer Collection is a simple launcher written with C# WPF .NETFramework that makes it easy to install the game, as well as mods and language packs for it.
+https://github.com/TrainzCity/FreelancerCollection

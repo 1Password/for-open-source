@@ -3300,3 +3300,8 @@ Used for request proxy configuration
 ### Kreato Linux
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
+
+### OS-Climate
+
+OS-Climate is establishing an Open Source collaboration community to build a data and software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
+https://os-climate.org/

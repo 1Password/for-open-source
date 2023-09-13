@@ -3300,3 +3300,7 @@ Used for request proxy configuration
 ### Kreato Linux
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
+
+### DailyPics
+An open source, hand-selected wallpaper recommendation app
+https://www.dailypics.cn

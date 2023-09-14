@@ -3300,3 +3300,6 @@ Used for request proxy configuration
 ### Kreato Linux
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
+
+### CNCF TAG Contributor Strategy
+[Contributor Strategy](https://github.com/cncf/tag-contributor-strategy) is a [Technical Advisory Group](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) (TAG) responsible for contributor experience, sustainability, governance, and openness guidance to help CNCF community groups and projects with their own contributor strategies for a healthy project. 

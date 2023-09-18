@@ -3300,3 +3300,6 @@ Used for request proxy configuration
 ### Kreato Linux
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
+
+### RythmHacks
+We're one of the only high school hackathons in Canada, running annual events that focus around entrepreurship and empowering high schoolers. Check out our website [here](https://www.rythmhacks.ca)!

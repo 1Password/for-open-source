@@ -53,4 +53,4 @@ I really need 1password, and I really hope to get it approved
 #### Can we contact you?
 We'd love to be in touch to learn how you're using 1Password. Would you be open to our Developer Advocates reaching out?
 
-- [ ] Yes, I'm open.
+- [yes] Yes, I'm open.

@@ -1,27 +1,27 @@
 ## Your Project
 
 #### 1Password Teams URL
-<!--fkeys.1password.com
+<!--
   Make sure you create an account before applying. Don't have one?
   https://start.1password.com/signup/?t=B
   
   Example: myteam.1password.com
 -->
-
+fkeys.1password.com
 #### Project Name
-<!--Development of code
+<!--
   If this is for a team that works on multiple projects, a team name
   can be used instead.
 -->
-
+Development of code
 #### Short Description
 
 #### Project Age
-<!--2years
+<!--
   Your project needs to be active and at least 30 days old to be
   eligible for this program.
 -->
-
+2years
 #### Number Of Core Contributors
 2
 #### Project Website
@@ -31,11 +31,11 @@ https://github.com/Frees-Ling/Caesar-cipher.git
 #### Latest Release URL(s)
 https://www.apache.org/licenses/LICENSE-2.0
 #### License
-<!--Apache License
+<!--
   Please include the type (e.g. MIT, BSD, GPL, etc.), and a link
   to where it can be found in your repository.
 -->
-
+Apache License
 ## A Bit About Yourself
 Someone who is interested in code development
 #### Name

@@ -3300,3 +3300,7 @@ Used for request proxy configuration
 ### Kreato Linux
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
+
+### fortserver
+FortServer is the open-source Bastion Host and is licensed under the GPLv3. It is a 4A-compliant professional operation and maintenance security audit system.
+https://github.com/skysecs/fortserver

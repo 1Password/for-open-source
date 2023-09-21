@@ -3300,3 +3300,7 @@ Used for request proxy configuration
 ### Kreato Linux
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
+
+### OneLiteFeather
+OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers. 
+https://github.com/OneLiteFeatherNET

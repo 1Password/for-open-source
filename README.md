@@ -1,12 +1,12 @@
 # 1Password for Open Source Projects
 
-We rely on open source software every day to develop 1Password. It's fair to say that 1Password wouldn't exist without the open source community, so we want to give back and help teams be more productive and secure.
+We rely on open-source software every day to develop 1Password. It's fair to say that 1Password wouldn't exist without the open-source community, so we want to give back and help teams be more productive and secure.
 
-Are you working on an open source project that needs a password manager? How about a secure place to keep and share secrets — social media logins, code signing certificates, ssh keys, etc? We've got your back: get 1Password Teams free on us.
+Are you working on an open-source project that needs a password manager? How about a secure place to keep and share secrets — social media logins, code signing certificates, SSH keys, etc.? We've got your back: get 1Password Teams free on us.
 
 ## How to apply
 
-1. Create a team account: https://start.1password.com/signup/?t=B
+1. [Create a team account](https://start.1password.com/signup/?t=B)
 2. Invite at least one other person to your team and [add them to the Owners group](https://support.1password.com/groups/#manage-group-membership).
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
@@ -20,17 +20,17 @@ https://myawesomeproject.org
 
 ## Requirements
 
-To apply, you need to be a core contributor for an active open source project that is at least 30 days old. We’ll also accept applications from the organisers of community meetups and events, as well as some conferences.
+To apply, you need to be a core contributor for an active open-source project that is at least 30 days old. We’ll also accept applications from the organizers of community meetups and events, as well as some conferences.
 
-Projects need to use a standard open source license and must be non-commercial. If your company is looking for an enterprise password manager, check out [1Password Business](https://1password.com/business/).
+Projects need to use a standard open-source license and must be non-commercial. If your company is looking for an enterprise password manager, check out [1Password Business](https://1password.com/business/).
 
-If you're not sure if your project meets these requirements, ask us [@1Password](https://twitter.com/1password) or opensource@1password.com.
+If you're not sure if your project meets these requirements, ask us at [@1Password](https://twitter.com/1password) or opensource@1password.com.
 
 ## Membership details
 
 - You'll receive a membership to [1Password Teams](https://1password.com/teams).
 - You can invite core contributors to your team account.
-- Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
+- Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS, and the web.
 - Your membership does not expire. If you signed up before November 26, 2021, please contact opensource@1password.com to convert your two-year membership into one that doesn't need to be renewed.
 - Memberships cannot be transferred or sold.
 
@@ -47,7 +47,7 @@ https://www.freecodecamp.org
 ### WWDCScholars
 
 WWDCScholars is a community of [Apple WWDC Scholarship winners](https://developer.apple.com/wwdc/scholarships/). Together we developed and maintain an [iOS app](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8), the [main website](https://wwdcscholars.com) and a [sign-up form](https://join.wwdcscholars.com).
-[Link to project](https://github.com/wwdcscholars)
+[Link to the project](https://github.com/wwdcscholars)
 
 ### Reddit Enhancement Suite
 
@@ -61,7 +61,7 @@ https://github.com/pyca
 
 ### PKIjs
 
-PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.
+PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP, and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.
 https://github.com/PeculiarVentures/PKI.js
 
 ### canvas.place
@@ -76,7 +76,7 @@ https://www.coreboot.org
 
 ### Pluto Video Snapshoter
 
-Cross platform video snapshot software, stitching snapshots automatically with subtitle detection.
+Cross-platform video snapshot software, stitching snapshots automatically with subtitle detection.
 A short description of what we do.
 http://pluto.shootsoft.net
 
@@ -90,12 +90,12 @@ https://libgit2.github.com
 
 ### Textpattern CMS
 
-A flexible, elegant, fast and easy-to-use content management system written in PHP.
+A flexible, elegant, fast, and easy-to-use content management system written in PHP.
 https://textpattern.com
 
 ### Express Gateway
 
-Express Gateway is an API Gateway that sits at the heart of any microservices architecture, regardless of what language or platform you're using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware. Developing microservices, orchestrating and managing them now can be done insanely fast all on one seamless platform without having to introduce additional infrastructure.
+Express Gateway is an API Gateway that sits at the heart of any microservices architecture, regardless of what language or platform you're using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS, and Express middleware. Developing microservices, orchestrating and managing them now can be done insanely fast all on one seamless platform without having to introduce additional infrastructure.
 https://express-gateway.io
 
 ### Evolution
@@ -110,7 +110,7 @@ https://github.com/ssl/ezXSS
 
 ### SimplePresence
 
-SimplePresence is an open source and non profit app that allows developers (and other consumers) set their status on the popular chat app, Discord.
+SimplePresence is an open-source and non-profit app that allows developers (and other consumers) to set their status on the popular chat app, Discord.
 https://github.com/justjs/simplepresence
 
 ### MLTSHP
@@ -138,11 +138,11 @@ https://github.com/opencollective/opencollective
 [IdentityServer](https://github.com/IdentityServer/IdentityServer4) is a free, open source [OpenID Connect](http://openid.net/connect/) and [OAuth 2.0](https://tools.ietf.org/html/rfc6749) framework for ASP.NET Core.
 Founded and maintained by [Dominick Baier](https://twitter.com/leastprivilege) and [Brock Allen](https://twitter.com/brocklallen), IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.
 IdentityServer4 is officially [certified](https://openid.net/certification/) by the [OpenID Foundation](https://openid.net) and thus spec-compliant and interoperable.
-It is part of the [.NET Foundation](https://www.dotnetfoundation.org/), and operates under their [code of conduct](https://www.dotnetfoundation.org/code-of-conduct). It is licensed under [Apache 2](https://opensource.org/licenses/Apache-2.0) (an OSI approved license).
+It is part of the [.NET Foundation](https://www.dotnetfoundation.org/), and operates under their [code of conduct](https://www.dotnetfoundation.org/code-of-conduct). It is licensed under [Apache 2](https://opensource.org/licenses/Apache-2.0) (an OSI-approved license).
 
 ### Ti.OnePassword
 
-The iOS Titanium module "Ti.OnePassword" enables developers to integrate 1Password in their JavaScript powered
+The iOS Titanium module "Ti.OnePassword" enables developers to integrate 1Password in their JavaScript-powered
 Titanium apps. It is built using Objective-C and is based on the [official AgileBits library](https://github.com/AgileBits/onepassword-app-extension).
 https://github.com/hansemannn/ti.onepassword
 
@@ -153,12 +153,12 @@ https://github.com/rkk09c/Broadcast
 
 ### PyGotham
 
-[PyGotham](https://pygotham.org) is a New York City based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
+[PyGotham](https://pygotham.org) is a New York City-based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
 
 ### Bokeh
 
 Bokeh ([Main Site](https://bokeh.org) |
-[GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive
+[GitHub](https://github.com/bokeh/bokeh)) is a BSD-licensed interactive
 visualization library for Python that enables beautiful and meaningful visual
 presentation of data in modern web browsers. Bokeh provides an elegant and concise
 way to construct versatile graphics while delivering **high-performance**
@@ -166,7 +166,7 @@ interactivity for large or streamed datasets.
 
 ### Vizzy
 
-Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel by pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views.
+Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel-by-pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views.
 https://github.com/Workday/vizzy)
 
 ### Phalcon
@@ -186,7 +186,7 @@ https://github.com/irazasyed/telegram-bot-sdk
 
 ### Bike Index
 
-Bike Index is the world's most widely-used bicycle registry. We're universal and open-source, meaning that anyone, anywhere can register their bikes and tap into our grassroots network of users and organizations to report and find their bike if stolen.
+The Bike Index is the world's most widely used bicycle registry. We're universal and open-source, meaning that anyone, anywhere can register their bikes and tap into our grassroots network of users and organizations to report and find their bike if stolen.
 https://github.com/bikeindex/bike_index
 
 ### Xanyah
@@ -216,7 +216,7 @@ https://indieweb.org
 
 ### Pluginkollektiv
 
-Community project dedicated to the maintenance and continuous development several popular WordPress plugins.
+Community project dedicated to the maintenance and continuous development of several popular WordPress plugins.
 https://pluginkollektiv.org
 
 ### MyBB

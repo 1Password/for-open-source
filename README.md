@@ -3300,3 +3300,7 @@ Used for request proxy configuration
 ### Kreato Linux
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
+
+### Schedge
+An open API to NYU's course data, encouraging open data access and providing support for students interested in learning how to work with APIs.
+https://nyu.a1liu.com

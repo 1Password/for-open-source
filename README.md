@@ -3310,3 +3310,7 @@ https://github.com/TrainzCity/FreelancerCollection
 
 ### RythmHacks
 We're one of the only high school hackathons in Canada, running annual events that focus around entrepreurship and empowering high schoolers. Check out our website [here](https://www.rythmhacks.ca)!
+
+### fortserver
+FortServer is the open-source Bastion Host and is licensed under the GPLv3. It is a 4A-compliant professional operation and maintenance security audit system.
+https://github.com/skysecs/fortserver

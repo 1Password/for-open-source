@@ -3307,3 +3307,6 @@ https://github.com/TrainzCity/FreelancerCollection
 
 ### CNCF TAG Contributor Strategy
 [Contributor Strategy](https://github.com/cncf/tag-contributor-strategy) is a [Technical Advisory Group](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) (TAG) responsible for contributor experience, sustainability, governance, and openness guidance to help CNCF community groups and projects with their own contributor strategies for a healthy project. 
+
+### RythmHacks
+We're one of the only high school hackathons in Canada, running annual events that focus around entrepreurship and empowering high schoolers. Check out our website [here](https://www.rythmhacks.ca)!

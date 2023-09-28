@@ -3314,3 +3314,7 @@ We're one of the only high school hackathons in Canada, running annual events th
 ### fortserver
 FortServer is the open-source Bastion Host and is licensed under the GPLv3. It is a 4A-compliant professional operation and maintenance security audit system.
 https://github.com/skysecs/fortserver
+
+### go2rtc
+Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+https://github.com/AlexxIT/go2rtc

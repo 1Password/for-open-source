@@ -3314,3 +3314,6 @@ We're one of the only high school hackathons in Canada, running annual events th
 ### fortserver
 FortServer is the open-source Bastion Host and is licensed under the GPLv3. It is a 4A-compliant professional operation and maintenance security audit system.
 https://github.com/skysecs/fortserver
+
+### Nextest
+Nextest is a next-generation test runner for Rust. [Website](https://nexte.st/), [repository](https://github.com/nextest-rs/nextest).

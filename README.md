@@ -3314,3 +3314,7 @@ We're one of the only high school hackathons in Canada, running annual events th
 ### fortserver
 FortServer is the open-source Bastion Host and is licensed under the GPLv3. It is a 4A-compliant professional operation and maintenance security audit system.
 https://github.com/skysecs/fortserver
+
+### auto-approve-circle-ci
+Streamline CircleCI pipeline management by automating the approval of "on-hold" stages. Eliminate bottlenecks and keep your CI/CD workflows running smoothly with customizable scripts.
+https://github.com/huukhanh/auto-approve-circle-ci

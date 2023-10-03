@@ -3301,6 +3301,29 @@ Used for request proxy configuration
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
 
+### Freelancer Collection
+Freelancer Collection is a simple launcher written with C# WPF .NETFramework that makes it easy to install the game, as well as mods and language packs for it.
+https://github.com/TrainzCity/FreelancerCollection
+
+### CNCF TAG Contributor Strategy
+[Contributor Strategy](https://github.com/cncf/tag-contributor-strategy) is a [Technical Advisory Group](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) (TAG) responsible for contributor experience, sustainability, governance, and openness guidance to help CNCF community groups and projects with their own contributor strategies for a healthy project. 
+
+### RythmHacks
+We're one of the only high school hackathons in Canada, running annual events that focus around entrepreurship and empowering high schoolers. Check out our website [here](https://www.rythmhacks.ca)!
+
+### fortserver
+FortServer is the open-source Bastion Host and is licensed under the GPLv3. It is a 4A-compliant professional operation and maintenance security audit system.
+https://github.com/skysecs/fortserver
+
+### DailyPics
+An open source, hand-selected wallpaper recommendation app
+https://www.dailypics.cn
+
+### denhac
+denhac is a hackerspace on a mission to create and sustain a local, community driven, shared space that enables education, experimentation, and collaboration, by applying the spirit of DIY to science, technology, engineering, and art. Based in Denver, CO, USA, the tools we build to manage the space are all [open source](https://github.com/denhac) and we host a wide range of [events and meetups](https://www.meetup.com/denhac-hackerspace/) that are all free and open to the public.
+
+denhac is a volunteer run 501(c)(3) nonprofit organization, EIN 27-0799310.
+
 ### OneLiteFeather
 OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers. 
 https://github.com/OneLiteFeatherNET

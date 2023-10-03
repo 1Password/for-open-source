@@ -3314,3 +3314,7 @@ We're one of the only high school hackathons in Canada, running annual events th
 ### fortserver
 FortServer is the open-source Bastion Host and is licensed under the GPLv3. It is a 4A-compliant professional operation and maintenance security audit system.
 https://github.com/skysecs/fortserver
+
+### semver-gradle-plugin
+Set projects versions based on git tags and following semantic versioning.
+https://semver-gradle-plugin.javiersc.com/

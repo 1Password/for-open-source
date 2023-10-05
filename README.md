@@ -3335,3 +3335,7 @@ https://kube-logging.dev
 ### go2rtc
 Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 https://github.com/AlexxIT/go2rtc
+
+### Universal Blue 
+Customized Fedora Linux based immutable desktop distros (Silverblue, Kinoite, Sericea, etc) and CoreOS, providing hardware enablement and quality of life improvements, utilizing cloud-native tooling (ostree-container-native, Containers, podman, CI) for build and delivery.
+https://universal-blue.org/

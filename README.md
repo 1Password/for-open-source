@@ -3335,3 +3335,7 @@ https://kube-logging.dev
 ### go2rtc
 Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 https://github.com/AlexxIT/go2rtc
+
+### OneLiteFeather
+OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers. 
+https://github.com/OneLiteFeatherNET

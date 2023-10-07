@@ -3339,3 +3339,7 @@ https://github.com/AlexxIT/go2rtc
 ### OneLiteFeather
 OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers. 
 https://github.com/OneLiteFeatherNET
+
+### Wolf rbac
+Wolf is a universal Role-Based Access Control (RBAC) system, designed to provide unified authorization and access control for all HTTP applications.
+https://github.com/iGeeky/wolf

@@ -3339,3 +3339,7 @@ https://github.com/AlexxIT/go2rtc
 ### OneLiteFeather
 OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers. 
 https://github.com/OneLiteFeatherNET
+
+### The R Foundation
+The not-for-profit organization supporting the R project. R is a software for data analytic workflows, licensed under GPLv2.
+https://www.r-project.org/foundation/

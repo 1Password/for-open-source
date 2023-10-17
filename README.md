@@ -3343,3 +3343,6 @@ https://github.com/OneLiteFeatherNET
 ### auto-approve-circle-ci
 Streamline CircleCI pipeline management by automating the approval of "on-hold" stages. Eliminate bottlenecks and keep your CI/CD workflows running smoothly with customizable scripts.
 https://github.com/huukhanh/auto-approve-circle-ci
+
+### PyTexas Foundation
+The PyTexas Foundation is a 501(c)3 non-profit run by a Texas-based volunteer group. We are Python enthusiasts that want to share the programming language with the world, starting right here in Texas. We currently facilitate the PyTexas Conference (The oldest regional Python conference in North America) and the PyTexas Meetup.

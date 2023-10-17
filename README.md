@@ -1063,10 +1063,10 @@ https://www.openttd.org/
 The Flux project aspires to be a vendor-neutral home for GitOps in a Cloud Native world.
 https://fluxcd.io/
 
-### React-Native-Mapbox-GL
+### ReactNative Mapbox
 
-An unofficial React Native library for building maps with the Mapbox Maps SDK for iOS and Mapbox Maps SDK for Android
-https://github.com/react-native-mapbox-gl/maps
+Community-supported, open-source React Native library for building maps with the Mapbox Maps SDK for iOS and Mapbox Maps SDK for Android
+https://github.com/rnmapbox/maps
 
 ### Fork CMS
 
@@ -3301,6 +3301,10 @@ Used for request proxy configuration
 An independent Linux distribution that focuses on modularity, simplicity and code readability.
 https://linux.kreato.dev
 
+### Schedge
+An open API to NYU's course data, encouraging open data access and providing support for students interested in learning how to work with APIs.
+https://nyu.a1liu.com
+
 ### Freelancer Collection
 Freelancer Collection is a simple launcher written with C# WPF .NETFramework that makes it easy to install the game, as well as mods and language packs for it.
 https://github.com/TrainzCity/FreelancerCollection
@@ -3314,6 +3318,34 @@ We're one of the only high school hackathons in Canada, running annual events th
 ### fortserver
 FortServer is the open-source Bastion Host and is licensed under the GPLv3. It is a 4A-compliant professional operation and maintenance security audit system.
 https://github.com/skysecs/fortserver
+
+### DailyPics
+An open source, hand-selected wallpaper recommendation app
+https://www.dailypics.cn
+
+### denhac
+denhac is a hackerspace on a mission to create and sustain a local, community driven, shared space that enables education, experimentation, and collaboration, by applying the spirit of DIY to science, technology, engineering, and art. Based in Denver, CO, USA, the tools we build to manage the space are all [open source](https://github.com/denhac) and we host a wide range of [events and meetups](https://www.meetup.com/denhac-hackerspace/) that are all free and open to the public.
+
+denhac is a volunteer run 501(c)(3) nonprofit organization, EIN 27-0799310.
+
+### Kube Logging
+Accessible, understandable, and straightforward logging on Kubernetes.
+https://kube-logging.dev
+
+### go2rtc
+Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+https://github.com/AlexxIT/go2rtc
+
+### OneLiteFeather
+OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers. 
+https://github.com/OneLiteFeatherNET
+
+### auto-approve-circle-ci
+Streamline CircleCI pipeline management by automating the approval of "on-hold" stages. Eliminate bottlenecks and keep your CI/CD workflows running smoothly with customizable scripts.
+https://github.com/huukhanh/auto-approve-circle-ci
+
+### PyTexas Foundation
+The PyTexas Foundation is a 501(c)3 non-profit run by a Texas-based volunteer group. We are Python enthusiasts that want to share the programming language with the world, starting right here in Texas. We currently facilitate the PyTexas Conference (The oldest regional Python conference in North America) and the PyTexas Meetup.
 
 ### Nextest
 Nextest is a next-generation test runner for Rust. [Website](https://nexte.st/), [repository](https://github.com/nextest-rs/nextest).

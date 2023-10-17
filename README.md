@@ -3353,3 +3353,7 @@ Nextest is a next-generation test runner for Rust. [Website](https://nexte.st/),
 ### semver-gradle-plugin
 Set projects versions based on git tags and following semantic versioning.
 https://semver-gradle-plugin.javiersc.com/
+
+### Open Source Observer
+Open Source Observer is a free analytics suite that helps funders measure the impact of open source software contributions to the health of their ecosystem.
+https://www.opensource.observer

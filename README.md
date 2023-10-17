@@ -3361,3 +3361,7 @@ https://www.opensource.observer
 ### Universal Blue 
 Customized Fedora Linux based immutable desktop distros (Silverblue, Kinoite, Sericea, etc) and CoreOS, providing hardware enablement and quality of life improvements, utilizing cloud-native tooling (ostree-container-native, Containers, podman, CI) for build and delivery.
 https://universal-blue.org/
+
+### Mopidy
+Mopidy is an extensible music server written in Python. Mopidy plays music from local disk, Spotify, SoundCloud, TuneIn, and more. You can edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.
+https://mopidy.com/

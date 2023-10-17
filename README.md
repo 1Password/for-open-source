@@ -3346,3 +3346,6 @@ https://github.com/huukhanh/auto-approve-circle-ci
 
 ### PyTexas Foundation
 The PyTexas Foundation is a 501(c)3 non-profit run by a Texas-based volunteer group. We are Python enthusiasts that want to share the programming language with the world, starting right here in Texas. We currently facilitate the PyTexas Conference (The oldest regional Python conference in North America) and the PyTexas Meetup.
+
+### Nextest
+Nextest is a next-generation test runner for Rust. [Website](https://nexte.st/), [repository](https://github.com/nextest-rs/nextest).

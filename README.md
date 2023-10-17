@@ -3349,3 +3349,7 @@ The PyTexas Foundation is a 501(c)3 non-profit run by a Texas-based volunteer gr
 
 ### Nextest
 Nextest is a next-generation test runner for Rust. [Website](https://nexte.st/), [repository](https://github.com/nextest-rs/nextest).
+
+### semver-gradle-plugin
+Set projects versions based on git tags and following semantic versioning.
+https://semver-gradle-plugin.javiersc.com/

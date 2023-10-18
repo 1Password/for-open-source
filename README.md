@@ -3358,6 +3358,10 @@ https://semver-gradle-plugin.javiersc.com/
 Open Source Observer is a free analytics suite that helps funders measure the impact of open source software contributions to the health of their ecosystem.
 https://www.opensource.observer
 
+### Hack the Hill
+Hack the Hill is a student-run hackathon based in Canada's capital, aimed at making the hackathon experience fun and entertaining for university students across Ottawa
+https://hackthehill.com
+
 ### Universal Blue 
 Customized Fedora Linux based immutable desktop distros (Silverblue, Kinoite, Sericea, etc) and CoreOS, providing hardware enablement and quality of life improvements, utilizing cloud-native tooling (ostree-container-native, Containers, podman, CI) for build and delivery.
 https://universal-blue.org/

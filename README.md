@@ -3361,3 +3361,8 @@ https://www.opensource.observer
 ### Universal Blue 
 Customized Fedora Linux based immutable desktop distros (Silverblue, Kinoite, Sericea, etc) and CoreOS, providing hardware enablement and quality of life improvements, utilizing cloud-native tooling (ostree-container-native, Containers, podman, CI) for build and delivery.
 https://universal-blue.org/
+
+### SERS Robotics
+School organization that consists of multiple teams that compete in various European and international RoboCup Junior competitions. The teams aim to build a robot from scratch and program it to navigate a maze while avoiding obstacles and traps and identifying various victims.  
+Some of our repositories: [_robocup17_](https://github.com/s3r5-robotics/robocup17), [_S3R5-TEAM-RESCUEMAZE-2022_](https://github.com/s3r5-robotics/S3R5-TEAM-RESCUEMAZE-2022)  
+https://robocup.sers.si/

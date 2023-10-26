@@ -3339,3 +3339,7 @@ https://github.com/AlexxIT/go2rtc
 ### OneLiteFeather
 OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers. 
 https://github.com/OneLiteFeatherNET
+
+### Sheffield iForge
+iForge is the UK's first student-led makerspace.
+https://iforgesheffield.org https://github.com/iforge-uos

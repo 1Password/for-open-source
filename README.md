@@ -1063,10 +1063,10 @@ https://www.openttd.org/
 The Flux project aspires to be a vendor-neutral home for GitOps in a Cloud Native world.
 https://fluxcd.io/
 
-### React-Native-Mapbox-GL
+### ReactNative Mapbox
 
-An unofficial React Native library for building maps with the Mapbox Maps SDK for iOS and Mapbox Maps SDK for Android
-https://github.com/react-native-mapbox-gl/maps
+Community-supported, open-source React Native library for building maps with the Mapbox Maps SDK for iOS and Mapbox Maps SDK for Android
+https://github.com/rnmapbox/maps
 
 ### Fork CMS
 
@@ -3339,6 +3339,28 @@ https://github.com/AlexxIT/go2rtc
 ### OneLiteFeather
 OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers. 
 https://github.com/OneLiteFeatherNET
+
+### auto-approve-circle-ci
+Streamline CircleCI pipeline management by automating the approval of "on-hold" stages. Eliminate bottlenecks and keep your CI/CD workflows running smoothly with customizable scripts.
+https://github.com/huukhanh/auto-approve-circle-ci
+
+### PyTexas Foundation
+The PyTexas Foundation is a 501(c)3 non-profit run by a Texas-based volunteer group. We are Python enthusiasts that want to share the programming language with the world, starting right here in Texas. We currently facilitate the PyTexas Conference (The oldest regional Python conference in North America) and the PyTexas Meetup.
+
+### Nextest
+Nextest is a next-generation test runner for Rust. [Website](https://nexte.st/), [repository](https://github.com/nextest-rs/nextest).
+
+### semver-gradle-plugin
+Set projects versions based on git tags and following semantic versioning.
+https://semver-gradle-plugin.javiersc.com/
+
+### Open Source Observer
+Open Source Observer is a free analytics suite that helps funders measure the impact of open source software contributions to the health of their ecosystem.
+https://www.opensource.observer
+
+### Universal Blue 
+Customized Fedora Linux based immutable desktop distros (Silverblue, Kinoite, Sericea, etc) and CoreOS, providing hardware enablement and quality of life improvements, utilizing cloud-native tooling (ostree-container-native, Containers, podman, CI) for build and delivery.
+https://universal-blue.org/
 
 ### Sheffield iForge
 iForge is the UK's first student-led makerspace.

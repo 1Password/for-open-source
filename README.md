@@ -3366,3 +3366,6 @@ https://universal-blue.org/
 Wolf is a universal Role-Based Access Control (RBAC) system, designed to provide unified authorization and access control for all HTTP applications.
 https://github.com/iGeeky/wolf
 
+### The R Foundation
+The not-for-profit organization supporting the R project. R is a software for data analytic workflows, licensed under GPLv2.
+https://www.r-project.org/foundation/

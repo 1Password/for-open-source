@@ -3361,3 +3361,6 @@ https://www.opensource.observer
 ### Universal Blue 
 Customized Fedora Linux based immutable desktop distros (Silverblue, Kinoite, Sericea, etc) and CoreOS, providing hardware enablement and quality of life improvements, utilizing cloud-native tooling (ostree-container-native, Containers, podman, CI) for build and delivery.
 https://universal-blue.org/
+
+### scikit-learn
+Machine Learning in Python: https://scikit-learn.org

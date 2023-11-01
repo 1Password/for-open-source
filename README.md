@@ -3362,6 +3362,18 @@ https://www.opensource.observer
 Customized Fedora Linux based immutable desktop distros (Silverblue, Kinoite, Sericea, etc) and CoreOS, providing hardware enablement and quality of life improvements, utilizing cloud-native tooling (ostree-container-native, Containers, podman, CI) for build and delivery.
 https://universal-blue.org/
 
+### Wolf rbac
+Wolf is a universal Role-Based Access Control (RBAC) system, designed to provide unified authorization and access control for all HTTP applications.
+https://github.com/iGeeky/wolf
+
+### The R Foundation
+The not-for-profit organization supporting the R project. R is a software for data analytic workflows, licensed under GPLv2.
+https://www.r-project.org/foundation/
+
+### Mopidy
+Mopidy is an extensible music server written in Python. Mopidy plays music from local disk, Spotify, SoundCloud, TuneIn, and more. You can edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.
+https://mopidy.com/
+
 ### Retrospring
 Retrospring is a free, open-source social network following the Q/A (question and answer) principle.
 https://retrospring.net

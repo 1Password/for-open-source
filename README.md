@@ -3366,3 +3366,11 @@ https://universal-blue.org/
 School organization that consists of multiple teams that compete in various European and international RoboCup Junior competitions. The teams aim to build a robot from scratch and program it to navigate a maze while avoiding obstacles and traps and identifying various victims.  
 Some of our repositories: [_robocup17_](https://github.com/s3r5-robotics/robocup17), [_S3R5-TEAM-RESCUEMAZE-2022_](https://github.com/s3r5-robotics/S3R5-TEAM-RESCUEMAZE-2022)  
 https://robocup.sers.si/
+
+### Wolf rbac
+Wolf is a universal Role-Based Access Control (RBAC) system, designed to provide unified authorization and access control for all HTTP applications.
+https://github.com/iGeeky/wolf
+
+### The R Foundation
+The not-for-profit organization supporting the R project. R is a software for data analytic workflows, licensed under GPLv2.
+https://www.r-project.org/foundation/

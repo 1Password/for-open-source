@@ -3373,3 +3373,7 @@ https://www.r-project.org/foundation/
 ### Mopidy
 Mopidy is an extensible music server written in Python. Mopidy plays music from local disk, Spotify, SoundCloud, TuneIn, and more. You can edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.
 https://mopidy.com/
+
+### The ReScript Programming Language
+ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. It comes with a lightning fast compiler toolchain that scales to any codebase size. The language is supported by the non-profit organization ReScript Association based in Vienna / Austria.
+https://rescript-lang.org

@@ -3364,3 +3364,14 @@ https://universal-blue.org/
 
 ### scikit-learn
 Machine Learning in Python: https://scikit-learn.org
+### Wolf rbac
+Wolf is a universal Role-Based Access Control (RBAC) system, designed to provide unified authorization and access control for all HTTP applications.
+https://github.com/iGeeky/wolf
+
+### The R Foundation
+The not-for-profit organization supporting the R project. R is a software for data analytic workflows, licensed under GPLv2.
+https://www.r-project.org/foundation/
+
+### Mopidy
+Mopidy is an extensible music server written in Python. Mopidy plays music from local disk, Spotify, SoundCloud, TuneIn, and more. You can edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.
+https://mopidy.com/

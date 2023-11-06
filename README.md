@@ -3373,3 +3373,10 @@ https://www.r-project.org/foundation/
 ### Mopidy
 Mopidy is an extensible music server written in Python. Mopidy plays music from local disk, Spotify, SoundCloud, TuneIn, and more. You can edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.
 https://mopidy.com/
+
+### Klynge Næringsforening
+
+Klynge is a non-profit organization working to improve welfare and quality of life, we do that through organizing networking events, having people share their experiences, mentoring others and building relationships. Everything we build is released Open Source, most notably our membership system.
+
+https://klyngeorg.no/
+https://github.com/klyngeorg

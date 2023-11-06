@@ -3381,3 +3381,7 @@ https://mopidy.com/
 ### Retrospring
 Retrospring is a free, open-source social network following the Q/A (question and answer) principle.
 https://retrospring.net
+
+### Sheffield iForge
+iForge is the UK's first student-led makerspace.
+https://iforgesheffield.org https://github.com/iforge-uos

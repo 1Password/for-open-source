@@ -3397,7 +3397,10 @@ https://github.com/kkfive/nextjs-start-template
 Build tools for OSGi based applications.
 https://bndtools.org
 
+### The ReScript Programming Language
+ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. It comes with a lightning fast compiler toolchain that scales to any codebase size. The language is supported by the non-profit organization ReScript Association based in Vienna / Austria.
+https://rescript-lang.org
+
 ### Rustls
 A modern TLS library in Rust
 https://github.com/rustls/rustls
-

@@ -3392,3 +3392,7 @@ https://iforgesheffield.org https://github.com/iforge-uos
 ### Nextjs Start Template
 We make template to help developers create NextJS project.
 https://github.com/kkfive/nextjs-start-template
+
+### Bndtools
+Build tools for OSGi based applications.
+https://bndtools.org

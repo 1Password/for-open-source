@@ -3358,9 +3358,16 @@ https://semver-gradle-plugin.javiersc.com/
 Open Source Observer is a free analytics suite that helps funders measure the impact of open source software contributions to the health of their ecosystem.
 https://www.opensource.observer
 
+### Hack the Hill
+Hack the Hill is a student-run hackathon based in Canada's capital, aimed at making the hackathon experience fun and entertaining for university students across Ottawa
+https://hackthehill.com
+
 ### Universal Blue 
 Customized Fedora Linux based immutable desktop distros (Silverblue, Kinoite, Sericea, etc) and CoreOS, providing hardware enablement and quality of life improvements, utilizing cloud-native tooling (ostree-container-native, Containers, podman, CI) for build and delivery.
 https://universal-blue.org/
+
+### scikit-learn
+Machine Learning in Python: https://scikit-learn.org
 
 ### Wolf rbac
 Wolf is a universal Role-Based Access Control (RBAC) system, designed to provide unified authorization and access control for all HTTP applications.
@@ -3373,6 +3380,22 @@ https://www.r-project.org/foundation/
 ### Mopidy
 Mopidy is an extensible music server written in Python. Mopidy plays music from local disk, Spotify, SoundCloud, TuneIn, and more. You can edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.
 https://mopidy.com/
+
+### Retrospring
+Retrospring is a free, open-source social network following the Q/A (question and answer) principle.
+https://retrospring.net
+
+### Sheffield iForge
+iForge is the UK's first student-led makerspace.
+https://iforgesheffield.org https://github.com/iforge-uos
+
+### Nextjs Start Template
+We make template to help developers create NextJS project.
+https://github.com/kkfive/nextjs-start-template
+
+### Bndtools
+Build tools for OSGi based applications.
+https://bndtools.org
 
 ### The ReScript Programming Language
 ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. It comes with a lightning fast compiler toolchain that scales to any codebase size. The language is supported by the non-profit organization ReScript Association based in Vienna / Austria.

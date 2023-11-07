@@ -3396,3 +3396,8 @@ https://github.com/kkfive/nextjs-start-template
 ### Bndtools
 Build tools for OSGi based applications.
 https://bndtools.org
+
+### Rustls
+A modern TLS library in Rust
+https://github.com/rustls/rustls
+

@@ -3409,3 +3409,11 @@ https://github.com/rustls/rustls
 Klynge is a non-profit organization working to improve welfare and quality of life, we do that through organizing networking events, having people share their experiences, mentoring others and building relationships. Everything we build is released Open Source, most notably our membership system.
 
 https://klyngeorg.no/ https://github.com/klyngeorg
+
+### Snap Hutao
+
+Snap Hutao is a Windows gaming tool desktop program made using modern Microsoft WinUI 3.
+
+Website: [https://hut.ao](https://hut.ao) 
+
+Repository: [https://github.com/DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)

@@ -3409,3 +3409,8 @@ https://github.com/rustls/rustls
 Klynge is a non-profit organization working to improve welfare and quality of life, we do that through organizing networking events, having people share their experiences, mentoring others and building relationships. Everything we build is released Open Source, most notably our membership system.
 
 https://klyngeorg.no/ https://github.com/klyngeorg
+
+### Pretendo Network
+Free and open source replacement servers for the WiiU and 3DS
+
+https://pretendo.network https://github.com/PretendoNetwork

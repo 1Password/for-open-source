@@ -3420,3 +3420,8 @@ Snap Hutao is a Windows gaming tool desktop program made using modern Microsoft 
 ### Cucumber
 Automated acceptance tests, written in plain language.
 https://github.com/cucumber
+
+### Pretendo Network
+Free and open source replacement servers for the WiiU and 3DS
+
+https://pretendo.network https://github.com/PretendoNetwork

@@ -3434,3 +3434,7 @@ https://rubykaigi.org/
 ### poddie
 A command-line podcast fetcher in PHP.
 https://github.com/jakobbg/poddie
+
+### Tvheadend
+Tvheadend is the leading TV streaming server for Linux supporting ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
+https://tvheadend.org

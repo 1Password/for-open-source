@@ -3409,7 +3409,6 @@ https://github.com/rustls/rustls
 Klynge is a non-profit organization working to improve welfare and quality of life, we do that through organizing networking events, having people share their experiences, mentoring others and building relationships. Everything we build is released Open Source, most notably our membership system.
 https://klyngeorg.no/ https://github.com/klyngeorg
 
-
 ### Ncuhome
 [Ncuhome](https://github.com/ncuhome) is a campus-level internet community at Nanchang University in China, aiming to serve students and faculty with a vision to change the world. We have created numerous products such as a campus life app and a student information management platform, and we are passionate about contributing to the open-source community.
 https://team.ncuos.com/
@@ -3421,6 +3420,11 @@ Snap Hutao is a Windows gaming tool desktop program made using modern Microsoft 
 ### Cucumber
 Automated acceptance tests, written in plain language.
 https://github.com/cucumber
+
+### Pretendo Network
+Free and open source replacement servers for the WiiU and 3DS
+
+https://pretendo.network https://github.com/PretendoNetwork
 
 ### RubyKaigi
 RubyKaigi is the world's largest international conference on the Ruby programming language.

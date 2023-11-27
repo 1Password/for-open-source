@@ -3430,3 +3430,7 @@ https://pretendo.network https://github.com/PretendoNetwork
 RubyKaigi is the world's largest international conference on the Ruby programming language.
 
 https://rubykaigi.org/
+
+### poddie
+A command-line podcast fetcher in PHP.
+https://github.com/jakobbg/poddie

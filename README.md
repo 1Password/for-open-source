@@ -3434,3 +3434,7 @@ https://rubykaigi.org/
 ### poddie
 A command-line podcast fetcher in PHP.
 https://github.com/jakobbg/poddie
+
+### Teip
+We are a technology company that offers various financial services: payments, accounts and credits.
+https://teip.io

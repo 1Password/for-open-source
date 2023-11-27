@@ -3425,3 +3425,8 @@ https://github.com/cucumber
 Free and open source replacement servers for the WiiU and 3DS
 
 https://pretendo.network https://github.com/PretendoNetwork
+
+### RubyKaigi
+RubyKaigi is the world's largest international conference on the Ruby programming language.
+
+https://rubykaigi.org/

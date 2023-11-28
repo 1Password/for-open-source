@@ -3434,3 +3434,7 @@ https://rubykaigi.org/
 ### poddie
 A command-line podcast fetcher in PHP.
 https://github.com/jakobbg/poddie
+
+### Eclipse Expositions
+We're organizing the world's largest youth-led conference, with the goal of uniting youth individuals from around the world for a day of sharing ideas, inspiration, and building for the future!
+https://eclipseexpos.org/

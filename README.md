@@ -3434,3 +3434,7 @@ https://rubykaigi.org/
 ### poddie
 A command-line podcast fetcher in PHP.
 https://github.com/jakobbg/poddie
+
+### QuickXSS
+Security tool to automate XSS vulnerabilities.
+https://github.com/theinfosecguy/QuickXSS

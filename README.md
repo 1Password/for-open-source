@@ -3426,6 +3426,23 @@ Free and open source replacement servers for the WiiU and 3DS
 
 https://pretendo.network https://github.com/PretendoNetwork
 
+### RubyKaigi
+RubyKaigi is the world's largest international conference on the Ruby programming language.
+
+https://rubykaigi.org/
+
+### poddie
+A command-line podcast fetcher in PHP.
+https://github.com/jakobbg/poddie
+
+### The Drop Bears Robotics
+
+[The Drop Bears](https://www.thedropbears.org.au) are a not-for-profit robotics team from Sydney, Australia, founded in 2013. We give high school age students the opportunity to design, build, and code complex robots in order to compete in the FIRST Robotics Competition and gain crucial skills for study and jobs in a range of STEM fields.
+
+### Tvheadend
+Tvheadend is the leading TV streaming server for Linux supporting ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
+https://tvheadend.org
+
 ### Commune
 Networked community gardens on the chattyverse. \
 https://commune.sh \

@@ -3442,3 +3442,7 @@ https://github.com/jakobbg/poddie
 ### Tvheadend
 Tvheadend is the leading TV streaming server for Linux supporting ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
 https://tvheadend.org
+
+### BIDS Standard
+The [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/) is an emerging standard for the organization of neuroimaging data.
+https://github.com/bids-standard/

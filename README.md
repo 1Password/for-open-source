@@ -3442,3 +3442,8 @@ https://github.com/jakobbg/poddie
 ### Tvheadend
 Tvheadend is the leading TV streaming server for Linux supporting ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
 https://tvheadend.org
+
+### Commune
+Networked community gardens on the chattyverse. \
+https://commune.sh \
+https://github.com/commune-os/

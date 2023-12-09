@@ -3447,3 +3447,7 @@ https://tvheadend.org
 Networked community gardens on the chattyverse. \
 https://commune.sh \
 https://github.com/commune-os/
+
+### kdocs-script
+Use scripts to increase efficiency for cloud documents
+https://github.com/dev-config/kdocs-script

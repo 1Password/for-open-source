@@ -3447,3 +3447,7 @@ https://tvheadend.org
 Networked community gardens on the chattyverse. \
 https://commune.sh \
 https://github.com/commune-os/
+
+### LibreELEC
+LibreELEC is 'Just Enough OS for Kodi' - a minimalist Linux distro to run Kodi on HTPC hardware
+https://libreelec.tv

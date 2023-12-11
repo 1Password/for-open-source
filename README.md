@@ -3451,3 +3451,7 @@ https://github.com/commune-os/
 ### LibreELEC
 LibreELEC is 'Just Enough OS for Kodi' - a minimalist Linux distro to run Kodi on HTPC hardware
 https://libreelec.tv
+
+### QuickXSS
+Security tool to automate XSS vulnerabilities.
+https://github.com/theinfosecguy/QuickXSS

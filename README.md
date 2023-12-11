@@ -3455,3 +3455,7 @@ https://libreelec.tv
 ### QuickXSS
 Security tool to automate XSS vulnerabilities.
 https://github.com/theinfosecguy/QuickXSS
+
+### BIDS Standard
+The [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/) is an emerging standard for the organization of neuroimaging data.
+https://github.com/bids-standard/

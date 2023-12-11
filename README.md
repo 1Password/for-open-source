@@ -3435,6 +3435,23 @@ https://rubykaigi.org/
 A command-line podcast fetcher in PHP.
 https://github.com/jakobbg/poddie
 
+### The Drop Bears Robotics
+
+[The Drop Bears](https://www.thedropbears.org.au) are a not-for-profit robotics team from Sydney, Australia, founded in 2013. We give high school age students the opportunity to design, build, and code complex robots in order to compete in the FIRST Robotics Competition and gain crucial skills for study and jobs in a range of STEM fields.
+
+### Tvheadend
+Tvheadend is the leading TV streaming server for Linux supporting ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
+https://tvheadend.org
+
+### Commune
+Networked community gardens on the chattyverse. \
+https://commune.sh \
+https://github.com/commune-os/
+
+### LibreELEC
+LibreELEC is 'Just Enough OS for Kodi' - a minimalist Linux distro to run Kodi on HTPC hardware
+https://libreelec.tv
+
 ### QuickXSS
 Security tool to automate XSS vulnerabilities.
 https://github.com/theinfosecguy/QuickXSS

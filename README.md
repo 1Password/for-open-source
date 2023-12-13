@@ -3459,3 +3459,7 @@ https://github.com/theinfosecguy/QuickXSS
 ### BIDS Standard
 The [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/) is an emerging standard for the organization of neuroimaging data.
 https://github.com/bids-standard/
+
+### Helsinki ruby
+Helsinki Ruby ry is a non-profit organisation that aims to promote Ruby and software engineering in general in Helsinki and Finland and beyond. We aim to put together events that aren’t available through commercial channels and to increase diversity and representation in tech.
+https://helsinkiruby.fi

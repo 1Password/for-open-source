@@ -3463,3 +3463,8 @@ https://github.com/bids-standard/
 ### kdocs-script
 Use scripts to increase efficiency for cloud documents
 https://github.com/dev-config/kdocs-script
+
+### Inspektor Gadget
+The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
+https://www.inspektor-gadget.io
+https://github.com/inspektor-gadget/inspektor-gadget

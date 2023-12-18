@@ -3459,3 +3459,7 @@ https://github.com/theinfosecguy/QuickXSS
 ### BIDS Standard
 The [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/) is an emerging standard for the organization of neuroimaging data.
 https://github.com/bids-standard/
+
+### kdocs-script
+Use scripts to increase efficiency for cloud documents
+https://github.com/dev-config/kdocs-script

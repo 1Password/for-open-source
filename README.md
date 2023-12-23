@@ -40,7 +40,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using 1Password Teams
 
-### TSKaigi
+### TSKaigi Association
+
 The TSKaigi Association (Japanese: 一般社団法人 TSKaigi Association) is a nonprofit organization to hold an annual Tech Conference about TypeScript in Japan. 
 https://association.tskaigi.org/
 

@@ -3463,3 +3463,7 @@ https://github.com/bids-standard/
 ### kdocs-script
 Use scripts to increase efficiency for cloud documents
 https://github.com/dev-config/kdocs-script
+
+### LineageOS
+LineageOS is an open source android distribution for smart phones, tablets, and set top boxes
+https://lineageos.org

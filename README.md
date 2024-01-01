@@ -10,21 +10,7 @@ Are you working on an open source project that needs a password manager? How abo
 2. Invite at least one other person to your team and [add them to the Owners group](https://support.1password.com/groups/#manage-group-membership).
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
-```markdown
-### Project name
-A short description of what we do.
-https://myawesomeproject.org
-```
-
-4. Create a pull request and fill out the template with the requested details.
-
-## Requirements
-
-To apply, you need to be a core contributor for an active open source project that is at least 30 days old. We’ll also accept applications from the organisers of community meetups and events, as well as some conferences.
-
-Projects need to use a standard open source license and must be non-commercial. If your company is looking for an enterprise password manager, check out [1Password Business](https://1password.com/business/).
-
-If you're not sure if your project meets these requirements, ask us [@1Password](https://twitter.com/1password) or opensource@1password.com.
+4. Create a pull request and fill out the template with the requested 
 
 ## Membership details
 
@@ -37,66 +23,6 @@ If you're not sure if your project meets these requirements, ask us [@1Password]
 We'll review all requests and accept them at our discretion. If accepted, your project may be listed below. Memberships may be canceled if accounts are found to no longer meet the requirements.
 
 ---
-
-## Open source projects using 1Password Teams
-
-### freeCodeCamp.org
-We help people learn to code for free.
-https://www.freecodecamp.org
-
-### WWDCScholars
-
-WWDCScholars is a community of [Apple WWDC Scholarship winners](https://developer.apple.com/wwdc/scholarships/). Together we developed and maintain an [iOS app](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8), the [main website](https://wwdcscholars.com) and a [sign-up form](https://join.wwdcscholars.com).
-[Link to project](https://github.com/wwdcscholars)
-
-### Reddit Enhancement Suite
-
-Community-driven unofficial browser extension for Reddit.
-https://redditenhancementsuite.com
-
-### Python Cryptographic Authority
-
-A group managing the development of most of Python's major cryptographic libraries including [pyca/cryptography](https://cryptography.io), [pyNaCl](https://github.com/pyca/pynacl), and [pyOpenSSL](https://github.com/pyca/pyopenssl).
-https://github.com/pyca
-
-### PKIjs
-
-PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.
-https://github.com/PeculiarVentures/PKI.js
-
-### canvas.place
-
-canvas.place is a community-focused game, where people work together to make art. The aim of the game is to bring people together in a fun and new way.
-https://github.com/dynastic/place
-
-### coreboot
-
-Open Source firmware for x86 and other architectures.
-https://www.coreboot.org
-
-### Pluto Video Snapshoter
-
-Cross platform video snapshot software, stitching snapshots automatically with subtitle detection.
-A short description of what we do.
-http://pluto.shootsoft.net
-
-### libgit2
-
-libgit2 is a portable, pure C implementation of the Git core methods
-provided as a re-entrant linkable library with a solid API, allowing you
-to write native speed custom Git applications in any language which
-supports C bindings.
-https://libgit2.github.com
-
-### Textpattern CMS
-
-A flexible, elegant, fast and easy-to-use content management system written in PHP.
-https://textpattern.com
-
-### Express Gateway
-
-Express Gateway is an API Gateway that sits at the heart of any microservices architecture, regardless of what language or platform you're using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware. Developing microservices, orchestrating and managing them now can be done insanely fast all on one seamless platform without having to introduce additional infrastructure.
-https://express-gateway.io
 
 ### Evolution
 

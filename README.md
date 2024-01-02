@@ -3464,6 +3464,15 @@ https://github.com/bids-standard/
 Use scripts to increase efficiency for cloud documents
 https://github.com/dev-config/kdocs-script
 
+### Helsinki ruby
+Helsinki Ruby ry is a non-profit organisation that aims to promote Ruby and software engineering in general in Helsinki and Finland and beyond. We aim to put together events that aren’t available through commercial channels and to increase diversity and representation in tech.
+https://helsinkiruby.fi
+
+### Inspektor Gadget
+The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
+https://www.inspektor-gadget.io
+https://github.com/inspektor-gadget/inspektor-gadget
+
 ### dbt-athena
 The dbt-athena adapter for dbt Core contains all the code to enable dbt to work with AWS Athena and transform data using SQL.
 https://github.com/dbt-athena/dbt-athena

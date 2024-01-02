@@ -3472,3 +3472,7 @@ https://helsinkiruby.fi
 The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 https://www.inspektor-gadget.io
 https://github.com/inspektor-gadget/inspektor-gadget
+
+### dbt-athena
+The dbt-athena adapter for dbt Core contains all the code to enable dbt to work with AWS Athena and transform data using SQL.
+https://github.com/dbt-athena/dbt-athena

@@ -3463,3 +3463,7 @@ https://github.com/bids-standard/
 ### kdocs-script
 Use scripts to increase efficiency for cloud documents
 https://github.com/dev-config/kdocs-script
+
+### Helsinki ruby
+Helsinki Ruby ry is a non-profit organisation that aims to promote Ruby and software engineering in general in Helsinki and Finland and beyond. We aim to put together events that aren’t available through commercial channels and to increase diversity and representation in tech.
+https://helsinkiruby.fi

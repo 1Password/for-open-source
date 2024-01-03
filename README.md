@@ -3483,4 +3483,4 @@ An award searching project aims to using public data by airlines more efficientl
 
 ### tiny11builder
 This tool allows to build a light installation image of Windows 11, by downloading the original ISO file from Microsoft and then removing unwanted components. Unwanted components can be configured in the config file.
-[https://myawesomeproject.org](https://github.com/ianis58/tiny11builder)https://github.com/ianis58/tiny11builder
+https://github.com/ianis58/tiny11builder

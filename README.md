@@ -3476,3 +3476,7 @@ https://github.com/inspektor-gadget/inspektor-gadget
 ### dbt-athena
 The dbt-athena adapter for dbt Core contains all the code to enable dbt to work with AWS Athena and transform data using SQL.
 https://github.com/dbt-athena/dbt-athena
+
+### nt_tool
+An award searching project aims to using public data by airlines more efficiently.
+[https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool

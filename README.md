@@ -11,7 +11,6 @@ provided as a re-entrant linkable library with a solid API, allowing you
 to write native speed custom Git applications in any language which
 supports C bindings.
 
-
 ### Express Gateway
 
 Express Gateway is an API Gateway that sits at the heart of any microservices architecture, regardless of what language or platform you're using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware. Developing microservices, orchestrating and managing them now can be done insanely fast all on one seamless platform without having to introduce additional infrastructure.
@@ -19,8 +18,6 @@ Express Gateway is an API Gateway that sits at the heart of any microservices ar
 ### Evolution
 
 An unofficial app to follow proposals for Swift Evolution.
-
-# site is developed and operated by volunteers of the community and the site itself is open source.
 
 ### Bankrs OS Go client
 

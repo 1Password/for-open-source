@@ -3344,36 +3344,3 @@ https://tvheadend.org
 Networked community gardens on the chattyverse. \
 https://commune.sh \
 https://github.com/commune-os/
-
-### LibreELEC
-LibreELEC is 'Just Enough OS for Kodi' - a minimalist Linux distro to run Kodi on HTPC hardware
-https://libreelec.tv
-
-### QuickXSS
-Security tool to automate XSS vulnerabilities.
-https://github.com/theinfosecguy/QuickXSS
-
-### BIDS Standard
-The [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/) is an emerging standard for the organization of neuroimaging data.
-https://github.com/bids-standard/
-
-### kdocs-script
-Use scripts to increase efficiency for cloud documents
-https://github.com/dev-config/kdocs-script
-
-### Helsinki ruby
-Helsinki Ruby ry is a non-profit organisation that aims to promote Ruby and software engineering in general in Helsinki and Finland and beyond. We aim to put together events that aren’t available through commercial channels and to increase diversity and representation in tech.
-https://helsinkiruby.fi
-
-### Inspektor Gadget
-The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
-https://www.inspektor-gadget.io
-https://github.com/inspektor-gadget/inspektor-gadget
-
-### dbt-athena
-The dbt-athena adapter for dbt Core contains all the code to enable dbt to work with AWS Athena and transform data using SQL.
-https://github.com/dbt-athena/dbt-athena
-
-### nt_tool
-An award searching project aims to using public data by airlines more efficiently.
-[https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool

@@ -77,9 +77,5 @@ The IndieWeb community maintains for helping individuals own their online data a
 
 Community project dedicated to the maintenance and continuous development several popular WordPress plugins.
 
-### MyBB
-
-MyBB is a free and open source, community-based forum software project.
-https://mybb.com
-
-### semantic-git-commit-cli
+![IMG_0027](https://github.com/IST-Github/1password/assets/155141998/9c09734b-552b-491a-89f1-d424ce331af3)
+![IMG_0123](https://github.com/IST-Github/1password/assets/155141998/d47cfbde-53c7-4519-a5eb-55e27fc36913)

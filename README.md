@@ -1,4 +1,4 @@
-# Password for Open Source Projects
+# COPYRIGHT OpenSource AND POSTGRESS95 by Isabel Schoeps Thiel
 
 We rely on open source software every day to develop 1Password. It's fair to say that 1Password wouldn't exist without the open source community, so we want to give back and help teams be more productive and secure.
 

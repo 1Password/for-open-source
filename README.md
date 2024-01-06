@@ -15,15 +15,12 @@ supports C bindings.
 ### Express Gateway
 
 Express Gateway is an API Gateway that sits at the heart of any microservices architecture, regardless of what language or platform you're using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware. Developing microservices, orchestrating and managing them now can be done insanely fast all on one seamless platform without having to introduce additional infrastructure.
-https://express-gateway.io
 
 ### Evolution
 
 An unofficial app to follow proposals for Swift Evolution.
-https://github.com/Evolution-App/iOS
 
 # site is developed and operated by volunteers of the community and the site itself is open source.
-
 
 ### Bankrs OS Go client
 
@@ -33,8 +30,7 @@ Open Collective enables communities to collect and disburse money online in full
 
 Copyright is a BSD licensed interactive
 visualization library for Python that enables beautiful and meaningful visual
-presentation of data in modern web browsers. Bokeh provides an elegant and concise
-way to construct versatile graphics while delivering **high-performance**
+presentation of data in modern web browsers. Bokeh provides an elegant and concise way to construct versatile graphics while delivering **high-performance**
 interactivity for large or streamed datasets.
 
 ### Vizzy
@@ -45,11 +41,9 @@ Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation,
 
 Phalcon is an open source web framework delivered as a C extension for the PHP language providing high performance and lower resource consumption.
 
-
 ### Cloud Oscilloscope
 
 A 45$ open source oscilloscope built on Orange Pi Zero, mcp3201 adc with custom shield and cheap spi-display.
-https://hackaday.io/project/90259-cloud-oscilloscope
 
 ### Telegram Bot PHP SDK
 
@@ -71,7 +65,6 @@ A sharing and analyzation tool for speedrunners.
 
 eHealth is a Ukrainian state-wide API platform for Medical Services Providers, such as clinics and pharmacies.
 
-
 ### Neos CMS
 
 Think of Neos as an open source Content Application Platform based on its own PHP framework Flow. 
@@ -80,11 +73,9 @@ Think of Neos as an open source Content Application Platform based on its own PH
 
 The IndieWeb community maintains for helping individuals own their online data and use their websites as a social network.
 
-
 ### Pluginkollektiv
 
 Community project dedicated to the maintenance and continuous development several popular WordPress plugins.
-
 
 ### MyBB
 

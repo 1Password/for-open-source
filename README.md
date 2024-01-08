@@ -3482,5 +3482,5 @@ An award searching project aims to using public data by airlines more efficientl
 [https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
 
 ### Spatie
-We create open source software for the Laravel and PHP community. Our packages have been download nearly a billion times.
+We create open source software for the Laravel and PHP community. Our packages have been downloaded nearly a billion times.
 https://github.com/spatie

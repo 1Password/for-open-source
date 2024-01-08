@@ -3480,3 +3480,7 @@ https://github.com/dbt-athena/dbt-athena
 ### nt_tool
 An award searching project aims to using public data by airlines more efficiently.
 [https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
+
+### dujiaoka-docker
+A stable Docker image for deploying an open-source automated vending system named [Dujiaoka](https://github.com/assimon/dujiaoka).
+[https://github.com/Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker/blob/main/README.EN.md)

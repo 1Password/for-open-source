@@ -3481,7 +3481,7 @@ https://github.com/dbt-athena/dbt-athena
 An award searching project aims to using public data by airlines more efficiently.
 [https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
 
-### EvoSC-Sharp
-An open-source server administration tool for Trackmania game servers.
+### Evo eSports e.V.
+Evo eSports e.V. manages several open-source projects, mostly revolving around adding functionality to the Trackmania games by Ubisoft Nadeo.
 https://evosc.io
-https://github.com/evoesports/EvoSC-Sharp
+https://github.com/evoesports

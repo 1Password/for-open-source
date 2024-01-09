@@ -3480,3 +3480,7 @@ https://github.com/dbt-athena/dbt-athena
 ### nt_tool
 An award searching project aims to using public data by airlines more efficiently.
 [https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
+
+### SteamAuto
+A tool to help automation selling / buying steam (mainly CS and DOTA2) items to different kind of platforms (mainly BUFF and UU).
+[https://github.com/jiajiaxd/Steamauto](https://github.com/jiajiaxd/Steamauto)

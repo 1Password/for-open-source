@@ -3483,4 +3483,5 @@ An award searching project aims to using public data by airlines more efficientl
 
 ### SteamAuto
 A tool to help automation selling / buying steam (mainly CS and DOTA2) items to different kind of platforms (mainly BUFF and UU).
+免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
 [https://github.com/jiajiaxd/Steamauto](https://github.com/jiajiaxd/Steamauto)

@@ -3480,3 +3480,6 @@ https://github.com/dbt-athena/dbt-athena
 ### nt_tool
 An award searching project aims to using public data by airlines more efficiently.
 [https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
+
+### vue-tel-input
+International Telephone Input with Vue https://vue-tel-input.iamstevendao.com/

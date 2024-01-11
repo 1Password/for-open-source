@@ -3480,3 +3480,7 @@ https://github.com/dbt-athena/dbt-athena
 ### nt_tool
 An award searching project aims to using public data by airlines more efficiently.
 [https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
+
+### LCMP-Minimal
+LCMP Minimal : Debian - Caddy - MariaDB - PHP
+[https://myawesomeproject.org](https://github.com/bibicadotnet/LCMP-Minimal)https://github.com/bibicadotnet/LCMP-Minimal

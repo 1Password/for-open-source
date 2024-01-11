@@ -3479,4 +3479,8 @@ https://github.com/dbt-athena/dbt-athena
 
 ### nt_tool
 An award searching project aims to using public data by airlines more efficiently.
-[https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
+[https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool)
+
+### DallasNews Interactives
+We are the Dallas Morning News' news apps team and we build software, tools and workflows to help journalists do their work better. We've releaased code behind our investigative projects, Django apps we've built, and various scrapers and bots to improve accessibility, transparency and accountability of our local, state and federal government agencies.
+[github.com/DallasMorningNews/](github.com/DallasMorningNews/)

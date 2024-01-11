@@ -3483,4 +3483,4 @@ An award searching project aims to using public data by airlines more efficientl
 
 ### LCMP-Minimal
 LCMP Minimal : Debian - Caddy - MariaDB - PHP
-[https://myawesomeproject.org](https://github.com/bibicadotnet/LCMP-Minimal)https://github.com/bibicadotnet/LCMP-Minimal
+https://github.com/bibicadotnet/LCMP-Minimal

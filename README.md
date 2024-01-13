@@ -3480,3 +3480,6 @@ https://github.com/dbt-athena/dbt-athena
 ### nt_tool
 An award searching project aims to using public data by airlines more efficiently.
 [https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
+
+### Python Brasil
+Python Brasil organises [Python Brasil Conference](https:/pythonbrasil.org.br/), the largest Python programming language conference in South America. Each year, the event is hosted in a different city in Brazil and is entirely organized by volunteers from the local community. We are a non-profit event organized by the community for the community.

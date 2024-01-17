@@ -3496,3 +3496,7 @@ A Kubernetes Operator for the [Qdrant](https://qdrant.tech/) vector database.
 ### Alveus Sanctuary
 Alveus Sanctuary is a non-profit virtual education center following the journeys of non-releasable exotic ambassadors.
 https://www.alveussanctuary.org
+
+### dujiaoka-docker
+A stable Docker image for deploying an open-source automated vending system named [Dujiaoka](https://github.com/assimon/dujiaoka).
+[https://github.com/Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker/blob/main/README.EN.md)

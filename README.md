@@ -3504,3 +3504,8 @@ A stable Docker image for deploying an open-source automated vending system name
 ### Spatie
 We create open source software for the Laravel and PHP community. Our packages have been downloaded nearly a billion times.
 https://github.com/spatie
+
+### Evo eSports e.V.
+Evo eSports e.V. manages several open-source projects, mostly revolving around adding functionality to the Trackmania games by Ubisoft Nadeo.
+https://evosc.io
+https://github.com/evoesports

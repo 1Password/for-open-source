@@ -3492,3 +3492,7 @@ https://github.com/ianis58/tiny11builder
 ### Qdrant Operator
 A Kubernetes Operator for the [Qdrant](https://qdrant.tech/) vector database.
 [https://github.com/qdrant-operator/qdrant-operator](https://github.com/qdrant-operator/qdrant-operator)
+
+### Alveus Sanctuary
+Alveus Sanctuary is a non-profit virtual education center following the journeys of non-releasable exotic ambassadors.
+https://www.alveussanctuary.org

@@ -3481,6 +3481,22 @@ https://github.com/dbt-athena/dbt-athena
 An award searching project aims to using public data by airlines more efficiently.
 [https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
 
+### LineageOS
+LineageOS is an open source android distribution for smart phones, tablets, and set top boxes
+https://lineageos.org
+
+### tiny11builder
+This tool allows to build a light installation image of Windows 11, by downloading the original ISO file from Microsoft and then removing unwanted components. Unwanted components can be configured in the config file. \
+https://github.com/ianis58/tiny11builder
+
+### Qdrant Operator
+A Kubernetes Operator for the [Qdrant](https://qdrant.tech/) vector database.
+[https://github.com/qdrant-operator/qdrant-operator](https://github.com/qdrant-operator/qdrant-operator)
+
+### Alveus Sanctuary
+Alveus Sanctuary is a non-profit virtual education center following the journeys of non-releasable exotic ambassadors.
+https://www.alveussanctuary.org
+
 ### dujiaoka-docker
 A stable Docker image for deploying an open-source automated vending system named [Dujiaoka](https://github.com/assimon/dujiaoka).
 [https://github.com/Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker/blob/main/README.EN.md)

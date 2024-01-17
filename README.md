@@ -3484,3 +3484,7 @@ An award searching project aims to using public data by airlines more efficientl
 ### LineageOS
 LineageOS is an open source android distribution for smart phones, tablets, and set top boxes
 https://lineageos.org
+
+### tiny11builder
+This tool allows to build a light installation image of Windows 11, by downloading the original ISO file from Microsoft and then removing unwanted components. Unwanted components can be configured in the config file. \
+https://github.com/ianis58/tiny11builder

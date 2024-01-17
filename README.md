@@ -3509,3 +3509,6 @@ https://github.com/spatie
 Evo eSports e.V. manages several open-source projects, mostly revolving around adding functionality to the Trackmania games by Ubisoft Nadeo.
 https://evosc.io
 https://github.com/evoesports
+
+### vue-tel-input
+International Telephone Input with Vue https://vue-tel-input.iamstevendao.com/

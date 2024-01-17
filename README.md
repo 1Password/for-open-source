@@ -3500,3 +3500,7 @@ https://www.alveussanctuary.org
 ### dujiaoka-docker
 A stable Docker image for deploying an open-source automated vending system named [Dujiaoka](https://github.com/assimon/dujiaoka).
 [https://github.com/Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker/blob/main/README.EN.md)
+
+### Spatie
+We create open source software for the Laravel and PHP community. Our packages have been downloaded nearly a billion times.
+https://github.com/spatie

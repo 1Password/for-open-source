@@ -3512,3 +3512,8 @@ https://github.com/evoesports
 
 ### vue-tel-input
 International Telephone Input with Vue https://vue-tel-input.iamstevendao.com/
+
+### ishare
+The ultimate free and open-source macOS screencapture utility.
+https://isharemac.app
+https://github.com/castdrian/ishare

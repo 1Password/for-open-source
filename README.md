@@ -3497,6 +3497,27 @@ A Kubernetes Operator for the [Qdrant](https://qdrant.tech/) vector database.
 Alveus Sanctuary is a non-profit virtual education center following the journeys of non-releasable exotic ambassadors.
 https://www.alveussanctuary.org
 
+### dujiaoka-docker
+A stable Docker image for deploying an open-source automated vending system named [Dujiaoka](https://github.com/assimon/dujiaoka).
+[https://github.com/Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker/blob/main/README.EN.md)
+
+### Spatie
+We create open source software for the Laravel and PHP community. Our packages have been downloaded nearly a billion times.
+https://github.com/spatie
+
+### Evo eSports e.V.
+Evo eSports e.V. manages several open-source projects, mostly revolving around adding functionality to the Trackmania games by Ubisoft Nadeo.
+https://evosc.io
+https://github.com/evoesports
+
+### vue-tel-input
+International Telephone Input with Vue https://vue-tel-input.iamstevendao.com/
+
+### ishare
+The ultimate free and open-source macOS screencapture utility.
+https://isharemac.app
+https://github.com/castdrian/ishare
+
 ### hexo-theme-redefine
 The "Redefine" theme for the blog framework "Hexo" is a blend of simplicity, speed, and purity, yet it makes no compromises on functionality or design. Loaded with widely utilized features and polished web design, it seamlessly marries practicality with aesthetics.
 https://redefine.ohevan.com

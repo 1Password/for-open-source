@@ -3517,3 +3517,7 @@ International Telephone Input with Vue https://vue-tel-input.iamstevendao.com/
 The ultimate free and open-source macOS screencapture utility.
 https://isharemac.app
 https://github.com/castdrian/ishare
+
+### PyOhio
+PyOhio is a free, regional Python community conference held in Ohio. We bring together folks from Ohio, the surrounding states, and around the world to meet new people and learn from each other.
+https://www.pyohio.org

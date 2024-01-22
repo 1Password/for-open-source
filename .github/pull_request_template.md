@@ -7,7 +7,7 @@
   
   Example: myteam.1password.com
 -->
-fkeys.1password.com
+[fkeys.1password.com](https://frees-ling.1password.com/)
 #### Project Name
 <!--
   If this is for a team that works on multiple projects, a team name
@@ -21,7 +21,7 @@ Development of code
   Your project needs to be active and at least 30 days old to be
   eligible for this program.
 -->
-2years
+six month
 #### Number Of Core Contributors
 2
 #### Project Website
@@ -39,7 +39,7 @@ Apache License
 ## A Bit About Yourself
 Someone who is interested in code development
 #### Name
-Free Keys
+Frees Ling
 #### Email
 <!-- We will use this to validate the application with your account -->
 freesling496@gmail.com

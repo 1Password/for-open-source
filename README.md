@@ -3517,3 +3517,8 @@ International Telephone Input with Vue https://vue-tel-input.iamstevendao.com/
 The ultimate free and open-source macOS screencapture utility.
 https://isharemac.app
 https://github.com/castdrian/ishare
+
+### Python India
+
+Python India organises PyCon India and maintains the infrastructure and knowledge base required to conduct the event.
+https://github.com/pythonindia

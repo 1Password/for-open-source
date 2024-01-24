@@ -3517,3 +3517,8 @@ International Telephone Input with Vue https://vue-tel-input.iamstevendao.com/
 The ultimate free and open-source macOS screencapture utility.
 https://isharemac.app
 https://github.com/castdrian/ishare
+
+### Kubeflow
+The Machine Learning Toolkit for Kubernetes. (A CNCF Project)
+https://www.kubeflow.org/
+https://github.com/kubeflow/

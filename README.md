@@ -3517,3 +3517,8 @@ International Telephone Input with Vue https://vue-tel-input.iamstevendao.com/
 The ultimate free and open-source macOS screencapture utility.
 https://isharemac.app
 https://github.com/castdrian/ishare
+
+### pyiron
+A workflow framework for computational materials science and beyond. Covering the whole development lifecycle of a simulation protocol from rapid prototyping to high performance computing.
+https://pyiron.org
+https://github.com/pyiron

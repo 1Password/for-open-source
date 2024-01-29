@@ -3518,6 +3518,18 @@ The ultimate free and open-source macOS screencapture utility.
 https://isharemac.app
 https://github.com/castdrian/ishare
 
+### SteamAuto
+A tool to help automation selling / buying steam (mainly CS and DOTA2) items to different kind of platforms (mainly BUFF and UU).
+免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
+[https://github.com/jiajiaxd/Steamauto](https://github.com/jiajiaxd/Steamauto)
+
+### Python Brasil
+Python Brasil organises [Python Brasil Conference](https:/pythonbrasil.org.br/), the largest Python programming language conference in South America. Each year, the event is hosted in a different city in Brazil and is entirely organized by volunteers from the local community. We are a non-profit event organized by the community for the community.
+
+### Leptos
+A signals-based Rust frontend web framework that allows you to build interactive web apps easily.
+https://leptos.dev
+
 ### hexo-theme-redefine
 The "Redefine" theme for the blog framework "Hexo" is a blend of simplicity, speed, and purity, yet it makes no compromises on functionality or design. Loaded with widely utilized features and polished web design, it seamlessly marries practicality with aesthetics.
 https://redefine.ohevan.com

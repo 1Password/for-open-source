@@ -3537,3 +3537,8 @@ https://redefine.ohevan.com
 ### PyOhio
 PyOhio is a free, regional Python community conference held in Ohio. We bring together folks from Ohio, the surrounding states, and around the world to meet new people and learn from each other.
 https://www.pyohio.org
+
+### Python India
+
+Python India organises PyCon India and maintains the infrastructure and knowledge base required to conduct the event.
+https://github.com/pythonindia

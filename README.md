@@ -3533,3 +3533,7 @@ https://leptos.dev
 ### hexo-theme-redefine
 The "Redefine" theme for the blog framework "Hexo" is a blend of simplicity, speed, and purity, yet it makes no compromises on functionality or design. Loaded with widely utilized features and polished web design, it seamlessly marries practicality with aesthetics.
 https://redefine.ohevan.com
+
+### PyOhio
+PyOhio is a free, regional Python community conference held in Ohio. We bring together folks from Ohio, the surrounding states, and around the world to meet new people and learn from each other.
+https://www.pyohio.org

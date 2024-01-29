@@ -3529,3 +3529,7 @@ Python Brasil organises [Python Brasil Conference](https:/pythonbrasil.org.br/),
 ### Leptos
 A signals-based Rust frontend web framework that allows you to build interactive web apps easily.
 https://leptos.dev
+
+### hexo-theme-redefine
+The "Redefine" theme for the blog framework "Hexo" is a blend of simplicity, speed, and purity, yet it makes no compromises on functionality or design. Loaded with widely utilized features and polished web design, it seamlessly marries practicality with aesthetics.
+https://redefine.ohevan.com

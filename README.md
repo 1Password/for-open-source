@@ -3481,6 +3481,82 @@ https://github.com/dbt-athena/dbt-athena
 An award searching project aims to using public data by airlines more efficiently.
 [https://github.com/dev-config/kdocs-script](https://github.com/xmsley614/nt_tool)https://github.com/xmsley614/nt_tool
 
+### LineageOS
+LineageOS is an open source android distribution for smart phones, tablets, and set top boxes
+https://lineageos.org
+
+### tiny11builder
+This tool allows to build a light installation image of Windows 11, by downloading the original ISO file from Microsoft and then removing unwanted components. Unwanted components can be configured in the config file. \
+https://github.com/ianis58/tiny11builder
+
+### Qdrant Operator
+A Kubernetes Operator for the [Qdrant](https://qdrant.tech/) vector database.
+[https://github.com/qdrant-operator/qdrant-operator](https://github.com/qdrant-operator/qdrant-operator)
+
+### Alveus Sanctuary
+Alveus Sanctuary is a non-profit virtual education center following the journeys of non-releasable exotic ambassadors.
+https://www.alveussanctuary.org
+
+### dujiaoka-docker
+A stable Docker image for deploying an open-source automated vending system named [Dujiaoka](https://github.com/assimon/dujiaoka).
+[https://github.com/Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker/blob/main/README.EN.md)
+
+### Spatie
+We create open source software for the Laravel and PHP community. Our packages have been downloaded nearly a billion times.
+https://github.com/spatie
+
+### Evo eSports e.V.
+Evo eSports e.V. manages several open-source projects, mostly revolving around adding functionality to the Trackmania games by Ubisoft Nadeo.
+https://evosc.io
+https://github.com/evoesports
+
+### vue-tel-input
+International Telephone Input with Vue https://vue-tel-input.iamstevendao.com/
+
+### ishare
+The ultimate free and open-source macOS screencapture utility.
+https://isharemac.app
+https://github.com/castdrian/ishare
+
+### SteamAuto
+A tool to help automation selling / buying steam (mainly CS and DOTA2) items to different kind of platforms (mainly BUFF and UU).
+免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
+[https://github.com/jiajiaxd/Steamauto](https://github.com/jiajiaxd/Steamauto)
+
+### Python Brasil
+Python Brasil organises [Python Brasil Conference](https:/pythonbrasil.org.br/), the largest Python programming language conference in South America. Each year, the event is hosted in a different city in Brazil and is entirely organized by volunteers from the local community. We are a non-profit event organized by the community for the community.
+
+### Leptos
+A signals-based Rust frontend web framework that allows you to build interactive web apps easily.
+https://leptos.dev
+
+### hexo-theme-redefine
+The "Redefine" theme for the blog framework "Hexo" is a blend of simplicity, speed, and purity, yet it makes no compromises on functionality or design. Loaded with widely utilized features and polished web design, it seamlessly marries practicality with aesthetics.
+https://redefine.ohevan.com
+
+### PyOhio
+PyOhio is a free, regional Python community conference held in Ohio. We bring together folks from Ohio, the surrounding states, and around the world to meet new people and learn from each other.
+https://www.pyohio.org
+
+### Python India
+
+Python India organises PyCon India and maintains the infrastructure and knowledge base required to conduct the event.
+https://github.com/pythonindia
+
+### DallasNews Interactives
+We are the Dallas Morning News' news apps team and we build software, tools and workflows to help journalists do their work better. We've releaased code behind our investigative projects, Django apps we've built, and various scrapers and bots to improve accessibility, transparency and accountability of our local, state and federal government agencies.
+[github.com/DallasMorningNews/](github.com/DallasMorningNews/)
+
+### Kubeflow
+The Machine Learning Toolkit for Kubernetes. (A CNCF Project)
+https://www.kubeflow.org/
+https://github.com/kubeflow/
+
+### pyiron
+A workflow framework for computational materials science and beyond. Covering the whole development lifecycle of a simulation protocol from rapid prototyping to high performance computing.
+https://pyiron.org
+https://github.com/pyiron
+
 ### LCMP-Minimal
 LCMP Minimal : Debian - Caddy - MariaDB - PHP
 

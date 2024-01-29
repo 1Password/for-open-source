@@ -3525,3 +3525,7 @@ A tool to help automation selling / buying steam (mainly CS and DOTA2) items to 
 
 ### Python Brasil
 Python Brasil organises [Python Brasil Conference](https:/pythonbrasil.org.br/), the largest Python programming language conference in South America. Each year, the event is hosted in a different city in Brazil and is entirely organized by volunteers from the local community. We are a non-profit event organized by the community for the community.
+
+### Leptos
+A signals-based Rust frontend web framework that allows you to build interactive web apps easily.
+https://leptos.dev

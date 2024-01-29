@@ -3556,3 +3556,8 @@ https://github.com/kubeflow/
 A workflow framework for computational materials science and beyond. Covering the whole development lifecycle of a simulation protocol from rapid prototyping to high performance computing.
 https://pyiron.org
 https://github.com/pyiron
+
+### LCMP-Minimal
+LCMP Minimal : Debian - Caddy - MariaDB - PHP
+
+https://github.com/bibicadotnet/LCMP-Minimal

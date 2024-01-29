@@ -3542,3 +3542,7 @@ https://www.pyohio.org
 
 Python India organises PyCon India and maintains the infrastructure and knowledge base required to conduct the event.
 https://github.com/pythonindia
+
+### DallasNews Interactives
+We are the Dallas Morning News' news apps team and we build software, tools and workflows to help journalists do their work better. We've releaased code behind our investigative projects, Django apps we've built, and various scrapers and bots to improve accessibility, transparency and accountability of our local, state and federal government agencies.
+[github.com/DallasMorningNews/](github.com/DallasMorningNews/)

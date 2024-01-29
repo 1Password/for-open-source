@@ -3522,3 +3522,6 @@ https://github.com/castdrian/ishare
 A tool to help automation selling / buying steam (mainly CS and DOTA2) items to different kind of platforms (mainly BUFF and UU).
 免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
 [https://github.com/jiajiaxd/Steamauto](https://github.com/jiajiaxd/Steamauto)
+
+### Python Brasil
+Python Brasil organises [Python Brasil Conference](https:/pythonbrasil.org.br/), the largest Python programming language conference in South America. Each year, the event is hosted in a different city in Brazil and is entirely organized by volunteers from the local community. We are a non-profit event organized by the community for the community.

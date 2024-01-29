@@ -3551,3 +3551,8 @@ We are the Dallas Morning News' news apps team and we build software, tools and 
 The Machine Learning Toolkit for Kubernetes. (A CNCF Project)
 https://www.kubeflow.org/
 https://github.com/kubeflow/
+
+### pyiron
+A workflow framework for computational materials science and beyond. Covering the whole development lifecycle of a simulation protocol from rapid prototyping to high performance computing.
+https://pyiron.org
+https://github.com/pyiron

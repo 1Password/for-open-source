@@ -3561,3 +3561,7 @@ https://github.com/pyiron
 LCMP Minimal : Debian - Caddy - MariaDB - PHP
 
 https://github.com/bibicadotnet/LCMP-Minimal
+
+### TSKaigi Association
+The TSKaigi Association (Japanese: 一般社団法人 TSKaigi Association) is a nonprofit organization to hold an annual Tech Conference about TypeScript in Japan.
+https://association.tskaigi.org/

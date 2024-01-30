@@ -3562,7 +3562,8 @@ LCMP Minimal : Debian - Caddy - MariaDB - PHP
 
 https://github.com/bibicadotnet/LCMP-Minimal
 
-### salary-manager-solution
+### Salary Manager Solution
 Salary Manage : Laravel - PHP - MariaDB
+(This is a free salary management and salary payment solution for non-profit organizations)
 
 https://github.com/duongnga/salary-manager-solution

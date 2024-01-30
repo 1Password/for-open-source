@@ -3561,3 +3561,8 @@ https://github.com/pyiron
 LCMP Minimal : Debian - Caddy - MariaDB - PHP
 
 https://github.com/bibicadotnet/LCMP-Minimal
+
+### salary-manager-solution
+Salary Manage : Laravel - PHP - MariaDB
+
+https://github.com/duongnga/salary-manager-solution

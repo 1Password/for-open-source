@@ -3571,6 +3571,10 @@ Harbor is an open source registry that secures artifacts with policies and role-
 
 https://goharbor.io
 
+### InvenTree
+Open Source Inventory Management System, mainly focused on electronics.
+https://inventree.org
+
 ### STranslate
 A ready-to-use, ready-to-go translation ocr tool developed by WPF
 https://github.com/ZGGSONG/STranslate

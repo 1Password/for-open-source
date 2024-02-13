@@ -3574,3 +3574,7 @@ https://goharbor.io
 ### InvenTree
 Open Source Inventory Management System, mainly focused on electronics.
 https://inventree.org
+
+### STranslate
+A ready-to-use, ready-to-go translation ocr tool developed by WPF
+https://github.com/ZGGSONG/STranslate

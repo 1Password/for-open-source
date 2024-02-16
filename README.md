@@ -3578,3 +3578,7 @@ https://inventree.org
 ### STranslate
 A ready-to-use, ready-to-go translation ocr tool developed by WPF
 https://github.com/ZGGSONG/STranslate
+
+### nf-core
+A community effort to collect a curated set of analysis pipelines built using Nextflow.
+https://nf-co.re/

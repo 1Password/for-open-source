@@ -3578,3 +3578,6 @@ https://inventree.org
 ### STranslate
 A ready-to-use, ready-to-go translation ocr tool developed by WPF
 https://github.com/ZGGSONG/STranslate
+
+### Mod Malware and Phishing Investigation
+[Mod Malware and Phishing Investigation](https://github.com/ModMalwareInvestigation) creates educational resources and tools to help prevent cyber attacks, primarily in the Minecraft community.

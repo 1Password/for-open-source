@@ -3578,3 +3578,7 @@ https://inventree.org
 ### STranslate
 A ready-to-use, ready-to-go translation ocr tool developed by WPF
 https://github.com/ZGGSONG/STranslate
+
+### Changelog.com (The Changelog)
+We make podcasts for developers.
+https://changelog.com

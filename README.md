@@ -3578,3 +3578,9 @@ https://inventree.org
 ### STranslate
 A ready-to-use, ready-to-go translation ocr tool developed by WPF
 https://github.com/ZGGSONG/STranslate
+
+
+### Circuitverse
+Digital circuits simulator .
+https://circuitverse.org
+

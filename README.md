@@ -3578,3 +3578,7 @@ https://inventree.org
 ### STranslate
 A ready-to-use, ready-to-go translation ocr tool developed by WPF
 https://github.com/ZGGSONG/STranslate
+
+### WasmEdge
+WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime. WasmEdge is an official sandbox project hosted by the CNCF.
+https://wasmedge.org/

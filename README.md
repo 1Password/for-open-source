@@ -3581,3 +3581,7 @@ https://github.com/ZGGSONG/STranslate
 
 ### Code for Romania
 [Code for Romania](https://code4.ro), a non-governmental organization in Romania, is the largest civic technology organization in the world, with a community of over 3000 volunteers. Since 2016 it has been identifying systemic and widespread social problems and building the free and open-source digital infrastructure that society needs. The organization's mission: to help solve as many social problems as possible through digital technology. So far, Code for Romania has developed over 60 vital digital solutions for Romania, including digital infrastructure for managing the Covid-19 crisis and the refugee crisis in Ukraine.
+
+### S3M
+A command-line tool for storing streams of data in s3 buckets.
+https://s3m.stream

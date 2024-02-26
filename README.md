@@ -10,7 +10,7 @@ Are you working on an open source project that needs a password manager? How abo
 2. Invite at least one other person to your team and [add them to the Owners group](https://support.1password.com/groups/#manage-group-membership).
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
-```markdown
+```markdown
 ### Project name
 A short description of what we do.
 https://myawesomeproject.org
@@ -3579,8 +3579,20 @@ https://inventree.org
 A ready-to-use, ready-to-go translation ocr tool developed by WPF
 https://github.com/ZGGSONG/STranslate
 
+### Code for Romania
+[Code for Romania](https://code4.ro), a non-governmental organization in Romania, is the largest civic technology organization in the world, with a community of over 3000 volunteers. Since 2016 it has been identifying systemic and widespread social problems and building the free and open-source digital infrastructure that society needs. The organization's mission: to help solve as many social problems as possible through digital technology. So far, Code for Romania has developed over 60 vital digital solutions for Romania, including digital infrastructure for managing the Covid-19 crisis and the refugee crisis in Ukraine.
+
+### nf-core
+A community effort to collect a curated set of analysis pipelines built using Nextflow.
+https://nf-co.re/
+
+### Mod Malware and Phishing Investigation
+[Mod Malware and Phishing Investigation](https://github.com/ModMalwareInvestigation) creates educational resources and tools to help prevent cyber attacks, primarily in the Minecraft community.
+
+### WasmEdge
+WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime. WasmEdge is an official sandbox project hosted by the CNCF.
+https://wasmedge.org/
 
 ### Circuitverse
 Digital circuits simulator .
 https://circuitverse.org
-

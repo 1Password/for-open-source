@@ -3596,3 +3596,7 @@ https://wasmedge.org/
 ### Circuitverse
 Digital circuits simulator .
 https://circuitverse.org
+
+### S3M
+A command-line tool for storing streams of data in s3 buckets.
+https://s3m.stream

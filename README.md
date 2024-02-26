@@ -3585,3 +3585,6 @@ https://github.com/ZGGSONG/STranslate
 ### nf-core
 A community effort to collect a curated set of analysis pipelines built using Nextflow.
 https://nf-co.re/
+
+### Mod Malware and Phishing Investigation
+[Mod Malware and Phishing Investigation](https://github.com/ModMalwareInvestigation) creates educational resources and tools to help prevent cyber attacks, primarily in the Minecraft community.

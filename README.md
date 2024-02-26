@@ -3588,3 +3588,7 @@ https://nf-co.re/
 
 ### Mod Malware and Phishing Investigation
 [Mod Malware and Phishing Investigation](https://github.com/ModMalwareInvestigation) creates educational resources and tools to help prevent cyber attacks, primarily in the Minecraft community.
+
+### WasmEdge
+WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime. WasmEdge is an official sandbox project hosted by the CNCF.
+https://wasmedge.org/

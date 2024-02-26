@@ -3592,3 +3592,7 @@ https://nf-co.re/
 ### WasmEdge
 WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime. WasmEdge is an official sandbox project hosted by the CNCF.
 https://wasmedge.org/
+
+### Circuitverse
+Digital circuits simulator .
+https://circuitverse.org

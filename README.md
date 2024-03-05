@@ -3600,3 +3600,7 @@ https://circuitverse.org
 ### S3M
 A command-line tool for storing streams of data in s3 buckets.
 https://s3m.stream
+
+### Cumbuca Dev
+"Cumbuca Dev" is a Brazilian initiative focused on empowering underrepresented minorities in the IT industry. We offer a comprehensive course in open-source principles to help individuals excel in their careers, fostering diversity, inclusivity, and equal opportunities in technology.
+https://www.cumbuca.dev/

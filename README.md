@@ -10,7 +10,7 @@ Are you working on an open source project that needs a password manager? How abo
 2. Invite at least one other person to your team and [add them to the Owners group](https://support.1password.com/groups/#manage-group-membership).
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
-```markdown
+```markdown
 ### Project name
 A short description of what we do.
 https://myawesomeproject.org
@@ -3561,9 +3561,3 @@ https://github.com/pyiron
 LCMP Minimal : Debian - Caddy - MariaDB - PHP
 
 https://github.com/bibicadotnet/LCMP-Minimal
-
-### Salary Manager Solution
-Salary Manage : Laravel - PHP - MariaDB
-(This is a free salary management and salary payment solution for non-profit organizations)
-
-https://github.com/duongnga/salary-manager-solution

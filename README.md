@@ -3600,3 +3600,7 @@ https://circuitverse.org
 ### S3M
 A command-line tool for storing streams of data in s3 buckets.
 https://s3m.stream
+
+### CNCF TAG Environmental Sustainability
+Technical Advisory Group that works to advocate for, develop, support, and help evaluate environmental sustainability initiatives in cloud native and open source landscape.
+https://tag-env-sustainability.cncf.io

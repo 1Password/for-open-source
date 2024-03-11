@@ -3600,3 +3600,7 @@ https://circuitverse.org
 ### S3M
 A command-line tool for storing streams of data in s3 buckets.
 https://s3m.stream
+
+### OS-Climate
+OS-Climate is establishing an Open Source collaboration community to build a data and software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
+https://os-climate.org/

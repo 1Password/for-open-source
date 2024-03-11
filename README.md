@@ -3600,3 +3600,6 @@ https://circuitverse.org
 ### S3M
 A command-line tool for storing streams of data in s3 buckets.
 https://s3m.stream
+
+### NetEx iOS Club
+We are a group of iOS developers which originated from the university's iOS Club. Many of us have won WWDC scholarships, including [Knowledge Graph](https://github.com/iamStephenFang/KnowledgeGraph), [CameraSimulator](https://github.com/Lambozhuang/Playground_CameraSimulator) and so on. We pay attention to iOS development trends, continue to share iOS-related content, and develop some tools driven by interest, such as [WhatsNewInUIKit](https://github.com/iamStephenFang/WhatsNewInUIKit), [SFTintedIconPicker](https://github.com/iamStephenFang/SFTintedIconPicker). 

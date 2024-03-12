@@ -3620,3 +3620,6 @@ https://tape.xyz
 ### Southern California Linux Expo
 Largest volunteer-run opensource conference in the US
 https://www.socallinuxexpo.org/
+
+### Epsilla
+Epsilla is a high performance vector database: https://github.com/epsilla-cloud/vectordb

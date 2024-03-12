@@ -3604,3 +3604,7 @@ https://s3m.stream
 ### Paperlib
 An open-source academic paper management tool.
 https://paperlib.app/en
+
+### Cumbuca Dev
+"Cumbuca Dev" is a Brazilian initiative focused on empowering underrepresented minorities in the IT industry. We offer a comprehensive course in open-source principles to help individuals excel in their careers, fostering diversity, inclusivity, and equal opportunities in technology.
+https://www.cumbuca.dev/

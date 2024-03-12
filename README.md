@@ -3616,3 +3616,7 @@ https://tag-env-sustainability.cncf.io
 ### Tape
 A decentralized, open-source media-sharing social platform built on Lens Protocol.
 https://tape.xyz
+
+### Southern California Linux Expo
+Largest volunteer-run opensource conference in the US
+https://www.socallinuxexpo.org/

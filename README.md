@@ -3600,3 +3600,6 @@ https://circuitverse.org
 ### S3M
 A command-line tool for storing streams of data in s3 buckets.
 https://s3m.stream
+
+### Epsilla
+Epsilla is a high performance vector database: https://github.com/epsilla-cloud/vectordb

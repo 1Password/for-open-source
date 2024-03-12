@@ -3623,3 +3623,7 @@ https://www.socallinuxexpo.org/
 
 ### Epsilla
 Epsilla is a high performance vector database: https://github.com/epsilla-cloud/vectordb
+
+### OS-Climate
+OS-Climate is establishing an Open Source collaboration community to build a data and software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
+https://os-climate.org/

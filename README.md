@@ -3601,5 +3601,25 @@ https://circuitverse.org
 A command-line tool for storing streams of data in s3 buckets.
 https://s3m.stream
 
+### Paperlib
+An open-source academic paper management tool.
+https://paperlib.app/en
+
+### Cumbuca Dev
+"Cumbuca Dev" is a Brazilian initiative focused on empowering underrepresented minorities in the IT industry. We offer a comprehensive course in open-source principles to help individuals excel in their careers, fostering diversity, inclusivity, and equal opportunities in technology.
+https://www.cumbuca.dev/
+
+### CNCF TAG Environmental Sustainability
+Technical Advisory Group that works to advocate for, develop, support, and help evaluate environmental sustainability initiatives in cloud native and open source landscape.
+https://tag-env-sustainability.cncf.io
+
+### Tape
+A decentralized, open-source media-sharing social platform built on Lens Protocol.
+https://tape.xyz
+
+### Southern California Linux Expo
+Largest volunteer-run opensource conference in the US
+https://www.socallinuxexpo.org/
+
 ### Epsilla
 Epsilla is a high performance vector database: https://github.com/epsilla-cloud/vectordb

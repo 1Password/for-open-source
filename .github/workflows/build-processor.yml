@@ -1,0 +1,40 @@
+name: Build and release processor
+
+on:
+  push:
+    tags:
+      - "processor-*"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: "script/go.mod"
+          cache-dependency-path: "script/go.sum"
+
+      - name: Install dependencies
+        run: make install_deps
+
+      - name: Build processor script
+        run: make build_processor
+
+      - name: Get release version
+        id: get_version
+        run: echo "VERSION=${GITHUB_REF#refs/tags/processor-}" >> $GITHUB_OUTPUT
+
+      - name: Create processor release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Release processor v${{ steps.get_version.outputs.VERSION }}
+          tag_name: ${{ github.ref }}
+          files: ./processor

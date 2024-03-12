@@ -3612,3 +3612,7 @@ https://www.cumbuca.dev/
 ### CNCF TAG Environmental Sustainability
 Technical Advisory Group that works to advocate for, develop, support, and help evaluate environmental sustainability initiatives in cloud native and open source landscape.
 https://tag-env-sustainability.cncf.io
+
+### Tape
+A decentralized, open-source media-sharing social platform built on Lens Protocol.
+https://tape.xyz

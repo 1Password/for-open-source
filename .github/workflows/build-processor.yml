@@ -38,3 +38,5 @@ jobs:
           name: Release processor v${{ steps.get_version.outputs.VERSION }}
           tag_name: ${{ github.ref }}
           files: ./processor
+          make_latest: true
+          body: Version ${{ steps.get_version.outputs.VERSION }} of open source program processing script

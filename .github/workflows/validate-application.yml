@@ -1,0 +1,28 @@
+name: Validate application
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  validate-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch processor
+        uses: dsaltares/fetch-gh-release-asset@master
+        with:
+          file: "processor"
+          target: "./processor"
+
+      - name: Validate application
+        run: |
+          chmod +x ./processor
+          ./processor validate
+        env:
+          OP_BOT_PAT: ${{ secrets.OP_BOT_PAT }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPOSITORY_OWNER: ${{ github.repository_owner }}
+          REPOSITORY_NAME: ${{ github.event.repository.name }}

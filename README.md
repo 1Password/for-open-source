@@ -3560,4 +3560,6 @@ https://github.com/pyiron
 ### LCMP-Minimal
 LCMP Minimal : Debian - Caddy - MariaDB - PHP
 
-https://github.com/bibicadotnet/LCMP-Minimal
+### Salary management and salary payment solution for non-profit organizations
+This is a free salary management and salary payment solution for non-profit organizations
+https://github.com/duongnga/salary-manager-solution

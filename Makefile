@@ -6,7 +6,7 @@ install_deps:
 
 build_processor:
 	$(info Building processor...)
-	@cd ./script && go build -v -o ../processor ./main.go
+	@cd ./script && go build -v -o ../processor .
 
 bump_version:
 	$(info Bumping version...)

@@ -3603,3 +3603,29 @@ https://s3m.stream
 
 ### NetEx iOS Club
 We are a group of iOS developers which originated from the university's iOS Club. Many of us have won WWDC scholarships, including [Knowledge Graph](https://github.com/iamStephenFang/KnowledgeGraph), [CameraSimulator](https://github.com/Lambozhuang/Playground_CameraSimulator) and so on. We pay attention to iOS development trends, continue to share iOS-related content, and develop some tools driven by interest, such as [WhatsNewInUIKit](https://github.com/iamStephenFang/WhatsNewInUIKit), [SFTintedIconPicker](https://github.com/iamStephenFang/SFTintedIconPicker). 
+### Paperlib
+An open-source academic paper management tool.
+https://paperlib.app/en
+
+### Cumbuca Dev
+"Cumbuca Dev" is a Brazilian initiative focused on empowering underrepresented minorities in the IT industry. We offer a comprehensive course in open-source principles to help individuals excel in their careers, fostering diversity, inclusivity, and equal opportunities in technology.
+https://www.cumbuca.dev/
+
+### CNCF TAG Environmental Sustainability
+Technical Advisory Group that works to advocate for, develop, support, and help evaluate environmental sustainability initiatives in cloud native and open source landscape.
+https://tag-env-sustainability.cncf.io
+
+### Tape
+A decentralized, open-source media-sharing social platform built on Lens Protocol.
+https://tape.xyz
+
+### Southern California Linux Expo
+Largest volunteer-run opensource conference in the US
+https://www.socallinuxexpo.org/
+
+### Epsilla
+Epsilla is a high performance vector database: https://github.com/epsilla-cloud/vectordb
+
+### OS-Climate
+OS-Climate is establishing an Open Source collaboration community to build a data and software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
+https://os-climate.org/

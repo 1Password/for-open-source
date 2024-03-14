@@ -3627,3 +3627,7 @@ Epsilla is a high performance vector database: https://github.com/epsilla-cloud/
 ### OS-Climate
 OS-Climate is establishing an Open Source collaboration community to build a data and software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
 https://os-climate.org/
+
+### VidStickerBot
+Free to use, no ads no metrics FFMPEG based python telegram bot for converting any video to webm VP9 for creating video stickers.
+https://t.me/VidStickerBot

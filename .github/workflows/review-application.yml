@@ -1,11 +1,11 @@
-name: Validate application
+name: Review application
 
 on:
   issues:
     types: [opened, edited]
 
 jobs:
-  validate-issue:
+  review-application:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -17,10 +17,10 @@ jobs:
           file: "processor"
           target: "./processor"
 
-      - name: Validate application
+      - name: Automated application review
         run: |
           chmod +x ./processor
-          ./processor validate
+          ./processor review
         env:
           OP_BOT_PAT: ${{ secrets.OP_BOT_PAT }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}

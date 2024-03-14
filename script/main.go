@@ -6,7 +6,7 @@ import (
 )
 
 func printUsageAndExit() {
-	fmt.Println("Usage: ./processor <validate>")
+	fmt.Println("Usage: ./processor <review>")
 	os.Exit(1)
 }
 
@@ -17,8 +17,8 @@ func main() {
 
 	command := os.Args[1]
 	switch command {
-	case "validate":
-		// handle app validation
+	case "review":
+		// handle app review
 	default:
 		fmt.Printf("Invalid command: %s\n", command)
 		printUsageAndExit()

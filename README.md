@@ -3560,6 +3560,73 @@ https://github.com/pyiron
 ### LCMP-Minimal
 LCMP Minimal : Debian - Caddy - MariaDB - PHP
 
+https://github.com/bibicadotnet/LCMP-Minimal
+
+### TSKaigi Association
+The TSKaigi Association (Japanese: 一般社団法人 TSKaigi Association) is a nonprofit organization to hold an annual Tech Conference about TypeScript in Japan.
+https://association.tskaigi.org/
+
+### Harbor
+Harbor is an open source registry that secures artifacts with policies and role-based access control, ensures images are scanned and free from vulnerabilities, and signs images as trusted. Harbor, a CNCF Graduated project, delivers compliance, performance, and interoperability to help you consistently and securely manage artifacts across cloud native compute platforms like Kubernetes and Docker.
+
+https://goharbor.io
+
+### InvenTree
+Open Source Inventory Management System, mainly focused on electronics.
+https://inventree.org
+
+### STranslate
+A ready-to-use, ready-to-go translation ocr tool developed by WPF
+https://github.com/ZGGSONG/STranslate
+
+### Code for Romania
+[Code for Romania](https://code4.ro), a non-governmental organization in Romania, is the largest civic technology organization in the world, with a community of over 3000 volunteers. Since 2016 it has been identifying systemic and widespread social problems and building the free and open-source digital infrastructure that society needs. The organization's mission: to help solve as many social problems as possible through digital technology. So far, Code for Romania has developed over 60 vital digital solutions for Romania, including digital infrastructure for managing the Covid-19 crisis and the refugee crisis in Ukraine.
+
+### nf-core
+A community effort to collect a curated set of analysis pipelines built using Nextflow.
+https://nf-co.re/
+
+### Mod Malware and Phishing Investigation
+[Mod Malware and Phishing Investigation](https://github.com/ModMalwareInvestigation) creates educational resources and tools to help prevent cyber attacks, primarily in the Minecraft community.
+
+### WasmEdge
+WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime. WasmEdge is an official sandbox project hosted by the CNCF.
+https://wasmedge.org/
+
+### Circuitverse
+Digital circuits simulator .
+https://circuitverse.org
+
+### S3M
+A command-line tool for storing streams of data in s3 buckets.
+https://s3m.stream
+
+### Paperlib
+An open-source academic paper management tool.
+https://paperlib.app/en
+
+### Cumbuca Dev
+"Cumbuca Dev" is a Brazilian initiative focused on empowering underrepresented minorities in the IT industry. We offer a comprehensive course in open-source principles to help individuals excel in their careers, fostering diversity, inclusivity, and equal opportunities in technology.
+https://www.cumbuca.dev/
+
+### CNCF TAG Environmental Sustainability
+Technical Advisory Group that works to advocate for, develop, support, and help evaluate environmental sustainability initiatives in cloud native and open source landscape.
+https://tag-env-sustainability.cncf.io
+
+### Tape
+A decentralized, open-source media-sharing social platform built on Lens Protocol.
+https://tape.xyz
+
+### Southern California Linux Expo
+Largest volunteer-run opensource conference in the US
+https://www.socallinuxexpo.org/
+
+### Epsilla
+Epsilla is a high performance vector database: https://github.com/epsilla-cloud/vectordb
+
+### OS-Climate
+OS-Climate is establishing an Open Source collaboration community to build a data and software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
+https://os-climate.org/
 ### Salary management and salary payment solution for non-profit organizations
 This is a free salary management and salary payment solution for non-profit organizations
 https://github.com/duongnga/salary-manager-solution

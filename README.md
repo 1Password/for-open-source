@@ -3627,3 +3627,7 @@ Epsilla is a high performance vector database: https://github.com/epsilla-cloud/
 ### OS-Climate
 OS-Climate is establishing an Open Source collaboration community to build a data and software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
 https://os-climate.org/
+
+### Commonhaus Foundation
+The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
+https://www.commonhaus.org

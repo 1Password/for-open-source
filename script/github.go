@@ -21,6 +21,7 @@ type GitHub struct {
 func (g *GitHub) Init() error {
 	if isTestingIssue() {
 		debugMessage("Skipping GitHub Init")
+		g.Issue = getTestIssue()
 		return nil
 	}
 

@@ -3,8 +3,6 @@ package main
 import (
 	"fmt"
 	"log"
-
-	"github.com/google/go-github/v60/github"
 )
 
 type Reviewer struct {
@@ -19,15 +17,7 @@ func (r *Reviewer) Review() {
 	}
 
 	// TODO: parse and validate the issue's body contents
-	fmt.Println(r.GetIssue())
-}
-
-func (r *Reviewer) GetIssue() github.Issue {
-	if isTestingIssue() {
-		return getTestIssue()
-	} else {
-		return *r.GitHub.Issue
-	}
+	fmt.Println(r.GitHub.Issue)
 }
 
 func (r *Reviewer) PrintErrorAndExit(err error) {

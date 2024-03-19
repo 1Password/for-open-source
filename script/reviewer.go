@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"os"
+	"log"
 
 	"github.com/google/go-github/v60/github"
 )
@@ -31,6 +31,5 @@ func (r *Reviewer) GetIssue() github.Issue {
 }
 
 func (r *Reviewer) PrintErrorAndExit(err error) {
-	fmt.Printf("Error reviewing issue: %s\n", err.Error())
-	os.Exit(1)
+	log.Fatalf("Error reviewing issue: %s\n", err.Error())
 }

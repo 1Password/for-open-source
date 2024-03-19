@@ -15,7 +15,7 @@ func isTestingIssue() bool {
 	return testIssueName != ""
 }
 
-func testMessage(message string, data ...interface{}) {
+func debugMessage(message string, data ...interface{}) {
 	if isTestingIssue() {
 		fmt.Printf("[DEBUG] %s\n", message)
 

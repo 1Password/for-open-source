@@ -4,7 +4,6 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"os"
 	"strconv"
 
 	"github.com/google/go-github/v60/github"
@@ -21,16 +20,16 @@ type GitHub struct {
 
 func (g *GitHub) Init() error {
 	if isTestingIssue() {
-		testMessage("Skipping GitHub initialization")
+		debugMessage("Skipping GitHub Init")
 		return nil
 	}
 
-	token, err := g.GetEnv("OP_BOT_PAT")
+	token, err := getEnv("OP_BOT_PAT")
 	if err != nil {
 		return err
 	}
 
-	issueNumberValue, err := g.GetEnv("ISSUE_NUMBER")
+	issueNumberValue, err := getEnv("ISSUE_NUMBER")
 	if err != nil {
 		return err
 	}
@@ -40,13 +39,13 @@ func (g *GitHub) Init() error {
 		return errors.New("could not parse variable ISSUE_NUMBER")
 	}
 
-	repoOwnerValue, err := g.GetEnv("REPOSITORY_OWNER")
+	repoOwnerValue, err := getEnv("REPOSITORY_OWNER")
 	if err != nil {
 		return err
 	}
 	g.RepoOwner = repoOwnerValue
 
-	repoNameValue, err := g.GetEnv("REPOSITORY_NAME")
+	repoNameValue, err := getEnv("REPOSITORY_NAME")
 	if err != nil {
 		return err
 	}
@@ -70,14 +69,4 @@ func (g *GitHub) Init() error {
 	g.Issue = issue
 
 	return nil
-}
-
-func (g *GitHub) GetEnv(key string) (string, error) {
-	value := os.Getenv(key)
-
-	if value == "" {
-		return "", fmt.Errorf("missing variable %s", key)
-	}
-
-	return value, nil
 }

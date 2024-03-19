@@ -6,7 +6,7 @@ import (
 )
 
 func printUsageAndExit() {
-	fmt.Println("Usage: ./processor <command> [--test-issue <issue name>]")
+	fmt.Println("Usage: ./processor <review> [--test-issue <issue name>]")
 	os.Exit(1)
 }
 

@@ -25,7 +25,7 @@ func debugMessage(message string, data ...interface{}) {
 	}
 }
 
-func getTestIssue() github.Issue {
+func getTestIssue() *github.Issue {
 	data, err := os.ReadFile(fmt.Sprintf("./script/test-issues/%s.json", testIssueName))
 	if err != nil {
 		log.Fatalf("Unable to read the file: %v", err)
@@ -38,5 +38,5 @@ func getTestIssue() github.Issue {
 		log.Fatalf("Unable to unmarshal JSON: %v", err)
 	}
 
-	return issue
+	return &issue
 }

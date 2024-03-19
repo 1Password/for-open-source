@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/google/go-github/github"
+	"github.com/google/go-github/v60/github"
 )
 
 var testIssueName string

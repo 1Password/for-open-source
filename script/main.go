@@ -17,14 +17,10 @@ func main() {
 
 	command := os.Args[1]
 
-	if len(os.Args) == 4 {
-		if os.Args[2] == "--test-issue" {
-			testIssueName = os.Args[3]
-			testMessage(fmt.Sprintf("Using test issue '%s'", testIssueName))
-		} else {
-			printUsageAndExit()
-		}
-	} else if len(os.Args) > 4 || len(os.Args) == 3 {
+	if len(os.Args) == 4 && os.Args[2] == "--test-issue" {
+		testIssueName = os.Args[3]
+		testMessage(fmt.Sprintf("Using test issue '%s'", testIssueName))
+	} else if len(os.Args) != 2 {
 		printUsageAndExit()
 	}
 

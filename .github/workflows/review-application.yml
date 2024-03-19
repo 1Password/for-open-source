@@ -19,7 +19,9 @@ jobs:
           target: "./processor"
 
       - name: Automated application review
-        run: ./processor review
+        run: |
+          chmod +x ./processor
+          ./processor review
         env:
           OP_BOT_PAT: ${{ secrets.OP_BOT_PAT }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}

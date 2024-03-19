@@ -3601,12 +3601,6 @@ https://circuitverse.org
 A command-line tool for storing streams of data in s3 buckets.
 https://s3m.stream
 
-### NetEx iOS Club
-We are a group of iOS developers which originated from the university's iOS Club. Many of us have won WWDC scholarships, including [Knowledge Graph](https://github.com/iamStephenFang/KnowledgeGraph), [CameraSimulator](https://github.com/Lambozhuang/Playground_CameraSimulator) and so on. We pay attention to iOS development trends, continue to share iOS-related content, and develop some tools driven by interest, such as [WhatsNewInUIKit](https://github.com/iamStephenFang/WhatsNewInUIKit), [SFTintedIconPicker](https://github.com/iamStephenFang/SFTintedIconPicker). 
-### Paperlib
-An open-source academic paper management tool.
-https://paperlib.app/en
-
 ### Cumbuca Dev
 "Cumbuca Dev" is a Brazilian initiative focused on empowering underrepresented minorities in the IT industry. We offer a comprehensive course in open-source principles to help individuals excel in their careers, fostering diversity, inclusivity, and equal opportunities in technology.
 https://www.cumbuca.dev/
@@ -3629,3 +3623,14 @@ Epsilla is a high performance vector database: https://github.com/epsilla-cloud/
 ### OS-Climate
 OS-Climate is establishing an Open Source collaboration community to build a data and software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
 https://os-climate.org/
+
+### Salary management and salary payment solution for non-profit organizations
+This is a free salary management and salary payment solution for non-profit organizations
+https://github.com/duongnga/salary-manager-solution
+
+### NetEx iOS Club
+We are a group of iOS developers which originated from the university's iOS Club. Many of us have won WWDC scholarships, including [Knowledge Graph](https://github.com/iamStephenFang/KnowledgeGraph), [CameraSimulator](https://github.com/Lambozhuang/Playground_CameraSimulator) and so on. We pay attention to iOS development trends, continue to share iOS-related content, and develop some tools driven by interest, such as [WhatsNewInUIKit](https://github.com/iamStephenFang/WhatsNewInUIKit), [SFTintedIconPicker](https://github.com/iamStephenFang/SFTintedIconPicker). 
+### Paperlib
+An open-source academic paper management tool.
+https://paperlib.app/en
+

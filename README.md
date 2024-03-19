@@ -3559,6 +3559,7 @@ https://github.com/pyiron
 
 ### LCMP-Minimal
 LCMP Minimal : Debian - Caddy - MariaDB - PHP
+
 https://github.com/bibicadotnet/LCMP-Minimal
 
 ### TSKaigi Association

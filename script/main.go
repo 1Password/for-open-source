@@ -2,12 +2,22 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"os"
 )
 
 func printUsageAndExit() {
-	fmt.Println("Usage: ./processor <review> [--test-issue <issue name>]")
-	os.Exit(1)
+	log.Fatalf("Usage: ./processor <review> [--test-issue <issue name>]")
+}
+
+func getEnv(key string) (string, error) {
+	value := os.Getenv(key)
+
+	if value == "" {
+		return "", fmt.Errorf("missing variable %s", key)
+	}
+
+	return value, nil
 }
 
 func main() {
@@ -19,7 +29,7 @@ func main() {
 
 	if len(os.Args) == 4 && os.Args[2] == "--test-issue" {
 		testIssueName = os.Args[3]
-		testMessage(fmt.Sprintf("Using test issue '%s'", testIssueName))
+		debugMessage(fmt.Sprintf("Using test issue '%s'", testIssueName))
 	} else if len(os.Args) != 2 {
 		printUsageAndExit()
 	}

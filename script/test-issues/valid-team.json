@@ -3,8 +3,8 @@
   "number": 6,
   "state": "open",
   "locked": false,
-  "title": "Application for Some Project",
-  "body": "",
+  "title": "Application for AcmeCo",
+  "body": "### Account URL\n\nacmeco.1password.com\n\n### Non-commercial confirmation\n\n- [X] No, this account won't be used for commercial activity\n\n### Team application\n\n- [X] Yes, this application is for a team\n\n### Event application\n\n- [ ] Yes, this application is for an event\n\n### Project name\n\nAcmeCo Team\n\n### Short description\n\nAcmeCo is an open, collaborative team to improve user experiences and inclusiveness of open source software.\r\n\r\nThe Acme community consists of an international team of partners, individuals, and institutions focused on designing inclusive, ﬂexible, customizable, user-centered interfaces.\n\n### Number of team members/core contributors\n\n27\n\n### Homepage URL\n\nhttps://acme.co/\n\n### Repository URL\n\nhttps://github.com/acmeco/example\n\n### License type\n\n_No response_\n\n### License URL\n\n_No response_\n\n### Age confirmation\n\n- [ ] Yes, this project is at least 30 days old\n\n### Name\n\nWendy Appleseed\n\n### Email\n\nwendyappleseed@example.com\n\n### Project role\n\nFounder or Owner\n\n### Profile or website\n\nhttps://github.com/wendyappleseed/\n\n### Can we contact you?\n\n- [X] Yes, you may contact me\n\n### Additional comments\n\nThanks for this program!",
   "user": {
     "login": "wendyappleseed",
     "id": 38230737,

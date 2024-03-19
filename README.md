@@ -3627,3 +3627,7 @@ Epsilla is a high performance vector database: https://github.com/epsilla-cloud/
 ### OS-Climate
 OS-Climate is establishing an Open Source collaboration community to build a data and software platform that will dramatically boost global capital flows into climate change mitigation and resilience.
 https://os-climate.org/
+
+### Salary management and salary payment solution for non-profit organizations
+This is a free salary management and salary payment solution for non-profit organizations
+https://github.com/duongnga/salary-manager-solution

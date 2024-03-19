@@ -3638,3 +3638,7 @@ We are a group of iOS developers which originated from the university's iOS Club
 ### VidStickerBot
 Free to use, no ads no metrics FFMPEG based python telegram bot for converting any video to webm VP9 for creating video stickers.
 https://t.me/VidStickerBot
+
+### Commonhaus Foundation
+The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
+https://www.commonhaus.org

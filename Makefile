@@ -7,7 +7,6 @@ install_deps:
 build_processor:
 	$(info Building processor...)
 	@cd ./script && go build -v -o ../processor .
-	@chmod +x ./processor
 
 bump_version:
 	$(info Bumping version...)

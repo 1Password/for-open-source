@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/google/go-github/github"
+	"github.com/google/go-github/v60/github"
 )
 
 type Reviewer struct {

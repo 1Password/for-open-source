@@ -1,0 +1,25 @@
+name: Test processor
+
+on:
+  push:
+    paths:
+      - "script/**"
+
+jobs:
+  test-processor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: "script/go.mod"
+          cache-dependency-path: "script/go.sum"
+
+      - name: Install dependencies
+        run: make install_deps
+
+      - name: Test processor
+        run: make test

@@ -3642,3 +3642,7 @@ https://t.me/VidStickerBot
 ### Commonhaus Foundation
 The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
 https://www.commonhaus.org
+
+### Pulsate
+Pulsate is the next generation of faster and developer-friendly distributed SNS (and of course user-friendly). It is being developed with the goal of becoming a powerful alternative to existing distributed SNSs in the future.
+https://github.com/pulsate-dev/pulsate

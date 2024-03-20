@@ -40,3 +40,32 @@ func getTestIssue() *github.Issue {
 
 	return &issue
 }
+
+func errSliceEqual(a, b []error) bool {
+	if len(a) != len(b) {
+		return false
+	}
+
+	countA := make(map[string]int)
+	countB := make(map[string]int)
+
+	for _, err := range a {
+		countA[err.Error()]++
+	}
+
+	for _, err := range b {
+		countB[err.Error()]++
+	}
+
+	if len(countA) != len(countB) {
+		return false
+	}
+
+	for k, v := range countA {
+		if countB[k] != v {
+			return false
+		}
+	}
+
+	return true
+}

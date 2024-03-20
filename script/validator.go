@@ -17,8 +17,7 @@ var (
 	accountUrlRegex = regexp.MustCompile(`^(https?:\/\/)?[\w.-]+\.1password\.(com|ca|eu)\/?$`)
 	urlRegex        = regexp.MustCompile(`https?://[^\s]+`)
 	emailRegex      = regexp.MustCompile(`[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}`)
-	emojiRegex      = regexp.MustCompile(`[\x{1F300}-\x{1F5FF}\x{1F600}-\x{1F64F}\x{1F680}-\x{1F6FF}\x{1F700}-\x{1F77F}\x{1F780}-\x{1F7FF}\x{1F800}-\x{1F8FF}\x{1F900}-\x{1F9FF}\x{1FA00}-\x{1FA6F}\x{1FA70}-\x{1FAFF}\x{1FB00}-\x{1FBFF}]+`)
-	applicantRoles  = []string{"Founder or Owner", "Team Member or Employee", "Project Lead", "Core Maintainer", "Developer", "Organizer or Admin", "Program Manager"}
+	emojiRegex      = regexp.MustCompile(`[\x{1F600}-\x{1F64F}\x{1F300}-\x{1F5FF}\x{1F680}-\x{1F6FF}\x{1F700}-\x{1F77F}\x{1F780}-\x{1F7FF}\x{1F800}-\x{1F8FF}\x{1F900}-\x{1F9FF}\x{1FA00}-\x{1FA6F}\x{1FA70}-\x{1FAFF}\x{1FB00}-\x{1FBFF}]+`)
 )
 
 type ValidationError struct {
@@ -54,8 +53,6 @@ func (v *Validator) HasError(section string) bool {
 	return false
 }
 
-// Parsing and validation utilities
-
 func When(condition bool, callback ValidatorCallback) ValidatorCallback {
 	if condition {
 		return callback
@@ -74,6 +71,30 @@ func ParseInput(value string) (bool, string, string) {
 	return true, value, ""
 }
 
+func ParsePlainString(value string) (bool, string, string) {
+	// strip all formattig, except for newlines
+	html := blackfriday.Run([]byte(value))
+	doc, err := goquery.NewDocumentFromReader(bytes.NewReader(html))
+	if err != nil {
+		return false, value, err.Error()
+	}
+	value = strings.TrimSpace(doc.Text())
+
+	if urlRegex.MatchString(value) {
+		return false, value, "cannot contain URLs"
+	}
+
+	if emailRegex.MatchString(value) {
+		return false, value, "cannot contain email addresses"
+	}
+
+	if emojiRegex.MatchString(value) {
+		return false, value, "cannot contain emoji characters"
+	}
+
+	return true, value, ""
+}
+
 func ParseAccountUrl(value string) (bool, string, string) {
 	if accountUrlRegex.Match([]byte(value)) {
 		if !strings.HasPrefix(value, "http://") && !strings.HasPrefix(value, "https://") {
@@ -87,7 +108,7 @@ func ParseAccountUrl(value string) (bool, string, string) {
 
 		return true, u.Hostname(), ""
 	} else {
-		return false, value, "is an invalid 1Password account URL"
+		return false, value, "is invalid 1Password account URL"
 	}
 }
 
@@ -166,40 +187,6 @@ func IsUrl(value string) (bool, string, string) {
 	}
 
 	return true, value, ""
-}
-
-func IsRegularString(value string) (bool, string, string) {
-	// strip all formattig, except for newlines
-	html := blackfriday.Run([]byte(value))
-	doc, err := goquery.NewDocumentFromReader(bytes.NewReader(html))
-	if err != nil {
-		return false, value, err.Error()
-	}
-	value = strings.TrimSpace(doc.Text())
-
-	if urlRegex.MatchString(value) {
-		return false, value, "cannot contain URLs"
-	}
-
-	if emailRegex.MatchString(value) {
-		return false, value, "cannot contain email addresses"
-	}
-
-	if emojiRegex.MatchString(value) {
-		return false, value, "cannot contain emoji characters"
-	}
-
-	return true, value, ""
-}
-
-func IsProjectRole(value string) (bool, string, string) {
-	for _, item := range applicantRoles {
-		if item == value {
-			return true, value, ""
-		}
-	}
-
-	return false, value, "is an invalid project role"
 }
 
 func IsChecked(value string) (bool, string, string) {

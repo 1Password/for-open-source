@@ -71,18 +71,18 @@ func (a *Application) Parse(issue github.Issue) {
 
 	isProject := !a.Project.IsTeam && !a.Project.IsEvent
 
-	a.Project.Name = a.stringSection("Project name", IsPresent, IsRegularString)
-	a.Project.Description = a.stringSection("Short description", IsPresent, IsRegularString)
-	a.Project.Contributors = a.intSection("Number of team members/core contributors", IsPresent, IsRegularString)
+	a.Project.Name = a.stringSection("Project name", IsPresent, ParsePlainString)
+	a.Project.Description = a.stringSection("Short description", IsPresent, ParsePlainString)
+	a.Project.Contributors = a.intSection("Number of team members/core contributors", IsPresent, ParsePlainString)
 	a.Project.HomeUrl = a.stringSection("Homepage URL", IsPresent, IsUrl)
 	a.Project.RepoUrl = a.stringSection("Repository URL", IsUrl)
-	a.Project.LicenseType = a.stringSection("License type", When(isProject, IsPresent), IsRegularString)
+	a.Project.LicenseType = a.stringSection("License type", When(isProject, IsPresent), ParsePlainString)
 	a.Project.LicenseUrl = a.stringSection("License URL", When(isProject, IsPresent), IsUrl)
 	a.boolSection("Age confirmation", When(isProject, IsPresent), ParseCheckbox, When(isProject, IsChecked))
 
-	a.Applicant.Name = a.stringSection("Name", IsPresent, IsRegularString)
+	a.Applicant.Name = a.stringSection("Name", IsPresent, ParsePlainString)
 	a.Applicant.Email = a.stringSection("Email", IsPresent, IsEmail)
-	a.Applicant.Role = a.stringSection("Project role", IsPresent, IsProjectRole)
+	a.Applicant.Role = a.stringSection("Project role", IsPresent)
 	a.Applicant.Id = *issue.User.ID
 
 	a.stringSection("Profile or website", IsUrl)

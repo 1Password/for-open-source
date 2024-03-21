@@ -3642,3 +3642,7 @@ https://t.me/VidStickerBot
 ### Commonhaus Foundation
 The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
 https://www.commonhaus.org
+
+### VirtualCoffeeIO
+Virtual Coffee is a tech community where friendships are formed and support is given to people at all stages of their journey. Join our laid-back twice-weekly conversations and our online events to connect with people who share your passion for technology.
+https://virtualcoffee.io

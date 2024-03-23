@@ -3642,3 +3642,7 @@ https://t.me/VidStickerBot
 ### Commonhaus Foundation
 The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
 https://www.commonhaus.org
+
+### Open Healthcare Network
+The [Open Healthcare Network (OHC)](https://ohc.network/), is a visionary open source initiative dedicated to revolutionizing healthcare access through technology. As a recognized [Digital Public Good (DPG)](https://app.digitalpublicgoods.net/a/11211), OHC leverages open-source healthcare solutions to make significant strides in saving lives and enhancing healthcare systems globally. With a focus on underserved regions, OHC harnesses the power of collaboration, bringing together a global community of volunteers, developers, and healthcare professionals. We are committed to innovation, security, and the open sharing of resources to make high-quality healthcare accessible to all, ensuring a healthier future for communities around the globe. With numerous deployments across diverse communities, OHC has established itself as a pivotal player in making high-quality healthcare universally accessible, marking a substantial impact on the well-being of populations worldwide.
+[Github](https://github.com/coronasafe/)

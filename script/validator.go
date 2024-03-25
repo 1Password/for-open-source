@@ -8,13 +8,14 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
+	"unicode"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/russross/blackfriday/v2"
 )
 
 var (
-	accountUrlRegex = regexp.MustCompile(`^(https?:\/\/)?[\w.-]+\.1password\.(com|ca|eu)\/?$`)
+	accountURLRegex = regexp.MustCompile(`^(https?:\/\/)?[\w.-]+\.1password\.(com|ca|eu)\/?$`)
 	urlRegex        = regexp.MustCompile(`https?://[^\s]+`)
 	emailRegex      = regexp.MustCompile(`[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}`)
 	emojiRegex      = regexp.MustCompile(`[\x{1F600}-\x{1F64F}\x{1F300}-\x{1F5FF}\x{1F680}-\x{1F6FF}\x{1F700}-\x{1F77F}\x{1F780}-\x{1F7FF}\x{1F800}-\x{1F8FF}\x{1F900}-\x{1F9FF}\x{1FA00}-\x{1FA6F}\x{1FA70}-\x{1FAFF}\x{1FB00}-\x{1FBFF}]+`)
@@ -95,21 +96,20 @@ func ParsePlainString(value string) (bool, string, string) {
 	return true, value, ""
 }
 
-func ParseAccountUrl(value string) (bool, string, string) {
-	if accountUrlRegex.Match([]byte(value)) {
-		if !strings.HasPrefix(value, "http://") && !strings.HasPrefix(value, "https://") {
-			value = "https://" + value
-		}
-
-		u, err := url.Parse(value)
-		if err != nil {
-			return false, value, err.Error()
-		}
-
-		return true, u.Hostname(), ""
-	} else {
+func ParseAccountURL(value string) (bool, string, string) {
+	if !accountURLRegex.Match([]byte(value)) {
 		return false, value, "is invalid 1Password account URL"
 	}
+	if !strings.HasPrefix(value, "http://") && !strings.HasPrefix(value, "https://") {
+		value = "https://" + value
+	}
+
+	u, err := url.Parse(value)
+	if err != nil {
+		return false, value, err.Error()
+	}
+
+	return true, u.Hostname(), ""
 }
 
 func ParseCheckbox(value string) (bool, string, string) {
@@ -128,7 +128,7 @@ func ParseNumber(value string) (bool, int, string) {
 	cleanedString := ""
 
 	for _, char := range value {
-		if char >= '0' && char <= '9' {
+		if unicode.IsDigit(char) {
 			cleanedString += string(char)
 		}
 	}
@@ -161,10 +161,6 @@ func IsPresent(value string) (bool, string, string) {
 }
 
 func IsEmail(value string) (bool, string, string) {
-	if value == "" {
-		return true, value, ""
-	}
-
 	if _, err := mail.ParseAddress(value); err == nil {
 		return true, value, ""
 	}
@@ -172,11 +168,7 @@ func IsEmail(value string) (bool, string, string) {
 	return false, value, "is an invalid email"
 }
 
-func IsUrl(value string) (bool, string, string) {
-	if value == "" {
-		return true, value, ""
-	}
-
+func IsURL(value string) (bool, string, string) {
 	parsedURL, err := url.ParseRequestURI(value)
 	if err != nil {
 		return false, value, "is an invalid URL"

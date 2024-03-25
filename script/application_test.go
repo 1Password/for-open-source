@@ -22,7 +22,7 @@ func errMustBeChecked(sectionTitle string) error {
 	return fmt.Errorf("%s: must be checked", sectionTitle)
 }
 
-func errInvalidAccountUrl(sectionTitle string) error {
+func errInvalidAccountURL(sectionTitle string) error {
 	return fmt.Errorf("%s: is invalid 1Password account URL", sectionTitle)
 }
 
@@ -34,7 +34,7 @@ func errParsingNumber(sectionTitle string) error {
 	return fmt.Errorf("%s: could not be parsed into a number", sectionTitle)
 }
 
-func errInvalidUrl(sectionTitle string) error {
+func errInvalidURL(sectionTitle string) error {
 	return fmt.Errorf("%s: is an invalid URL", sectionTitle)
 }
 
@@ -77,22 +77,16 @@ func TestApplication(t *testing.T) {
 			expectedProblems: []error{
 				errIncomplete("Account URL"),
 				errIncomplete("Non-commercial confirmation"),
-				errIncomplete("Team application"),
-				errIncomplete("Event application"),
 				errIncomplete("Project name"),
 				errIncomplete("Short description"),
 				errIncomplete("Number of team members/core contributors"),
 				errIncomplete("Homepage URL"),
-				errIncomplete("Repository URL"),
 				errIncomplete("License type"),
 				errIncomplete("License URL"),
 				errIncomplete("Age confirmation"),
 				errIncomplete("Name"),
 				errIncomplete("Email"),
 				errIncomplete("Project role"),
-				errIncomplete("Profile or website"),
-				errIncomplete("Additional comments"),
-				errIncomplete("Can we contact you?"),
 			},
 		},
 		{
@@ -119,11 +113,11 @@ func TestApplication(t *testing.T) {
 			expectedValid: false,
 			expectedProblems: []error{
 				errNoProjectName("Application title"),
-				errInvalidAccountUrl("Account URL"),
+				errInvalidAccountURL("Account URL"),
 				errMustBeChecked("Non-commercial confirmation"),
 				errContainsEmoji("Project name"),
 				errParsingNumber("Number of team members/core contributors"),
-				errInvalidUrl("Homepage URL"),
+				errInvalidURL("Homepage URL"),
 			},
 		},
 	}
@@ -138,7 +132,7 @@ func TestApplication(t *testing.T) {
 				testIssueName = fmt.Sprintf("invalid-%s", tt.name)
 			}
 
-			application.Parse(*getTestIssue())
+			application.Parse(getTestIssue())
 
 			if application.IsValid() != tt.expectedValid {
 				if tt.expectedValid {

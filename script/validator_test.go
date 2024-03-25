@@ -48,7 +48,7 @@ func TestParseAccountUrl(t *testing.T) {
 	testCases := []validationTestCase{
 		{"myteam.1password.com", true, "myteam.1password.com", ""},
 	}
-	runValidationTests(t, testCases, ParseAccountUrl, "ParseAccountUrl")
+	runValidationTests(t, testCases, ParseAccountURL, "ParseAccountUrl")
 }
 
 func TestParseCheckbox(t *testing.T) {
@@ -123,16 +123,22 @@ func TestIsPresent(t *testing.T) {
 
 func TestIsEmail(t *testing.T) {
 	testCases := []validationTestCase{
-		{"", true, "", ""},
+		{"test@example.com", true, "test@example.com", ""},
+		{"@example.com", false, "@example.com", ""},
+		{"", false, "", ""},
 	}
 	runValidationTests(t, testCases, IsEmail, "IsEmail")
 }
 
 func TestIsUrl(t *testing.T) {
 	testCases := []validationTestCase{
-		{"", true, "", ""},
+		{"https://www.com", true, "https://www.com", ""},
+		{"ftp://www.com", false, "ftp://www.com", ""},
+		{"example.com", false, "example.com", ""},
+		{"foo", false, "foo", ""},
+		{"", false, "", ""},
 	}
-	runValidationTests(t, testCases, IsUrl, "IsUrl")
+	runValidationTests(t, testCases, IsURL, "IsUrl")
 }
 
 func TestIsChecked(t *testing.T) {

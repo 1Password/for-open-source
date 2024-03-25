@@ -19,7 +19,7 @@ func (r *Reviewer) Review() {
 		r.printErrorAndExit(err)
 	}
 
-	r.application.Parse(*r.gitHub.Issue)
+	r.application.Parse(r.gitHub.Issue)
 
 	if isTestingIssue() {
 		if r.application.IsValid() {

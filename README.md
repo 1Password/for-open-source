@@ -3642,3 +3642,7 @@ https://t.me/VidStickerBot
 ### Commonhaus Foundation
 The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
 https://www.commonhaus.org
+
+### RSS Filter
+RSS Filter is a TypeScript app to ingest an RSS feed, and filter the items based on one's own criteria. It can be self-hosted as a Cloudflare Worker or easily modified for other services, or hosting as a Node app.
+https://gitlab.com/kane-c/rss-filter

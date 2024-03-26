@@ -30,7 +30,7 @@ type ValidationError struct {
 type ValidatorCallback func(string) (bool, string, string)
 
 func (e *ValidationError) Error() string {
-	return fmt.Sprintf("%s: %s", e.Section, e.Message)
+	return fmt.Sprintf("**%s** %s", e.Section, e.Message)
 }
 
 type Validator struct {

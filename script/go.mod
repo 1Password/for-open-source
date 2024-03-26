@@ -3,11 +3,14 @@ module 1password-open-source-processor
 go 1.19
 
 require (
+	github.com/PuerkitoBio/goquery v1.9.1
 	github.com/google/go-github/v60 v60.0.0
+	github.com/russross/blackfriday/v2 v2.1.0
 	golang.org/x/oauth2 v0.18.0
 )
 
 require (
+	github.com/andybalholm/cascadia v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	golang.org/x/net v0.22.0 // indirect

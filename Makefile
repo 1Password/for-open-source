@@ -8,6 +8,10 @@ build_processor:
 	$(info Building processor...)
 	@cd ./script && go build -v -o ../processor .
 
+test:
+	$(info Running tests...)
+	@cd ./script && go test
+
 bump_version:
 	$(info Bumping version...)
 	@$(eval LAST_TAG=$(shell git rev-list --tags='processor-*' --max-count=1 | xargs -r git describe --tags --match 'processor-*'))

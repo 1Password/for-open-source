@@ -1,0 +1,46 @@
+name: Approve application
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      is_approved: ${{ steps.check_label.outputs.is_approved }}
+      approver_id: ${{ steps.check_label.outputs.approver_id }}
+      approver_username: ${{ steps.check_label.outputs.approver_username }}
+    steps:
+      - id: check_label
+        name: "Check if label is 'status: approved'"
+        run: |
+          echo "is_approved=$(echo ${{ github.event.label.name == 'status: approved' }})" >> $GITHUB_OUTPUT
+          echo "approver_id=${{ github.event.sender.id }}" >> $GITHUB_OUTPUT
+          echo "approver_username=${{ github.event.sender.login }}" >> $GITHUB_OUTPUT
+
+  approve:
+    needs: check
+    runs-on: ubuntu-latest
+    if: needs.check.outputs.is_approved == 'true'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch processor
+        uses: dsaltares/fetch-gh-release-asset@1.1.1
+        with:
+          file: "processor"
+          target: "./processor"
+
+      - name: Automated application approval
+        run: |
+          chmod +x ./processor
+          ./processor approve
+        env:
+          APPROVER_ID: ${{ needs.check.outputs.approver_id }}
+          APPROVER_USERNAME: ${{ needs.check.outputs.approver_username }}
+          OP_BOT_PAT: ${{ secrets.OP_BOT_PAT }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPOSITORY_OWNER: ${{ github.repository_owner }}
+          REPOSITORY_NAME: ${{ github.event.repository.name }}

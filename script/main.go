@@ -7,7 +7,7 @@ import (
 )
 
 func printUsageAndExit() {
-	log.Fatalf("Usage: ./processor <review> [--test-issue <issue name>]")
+	log.Fatalf("Usage: ./processor <review|approve> [--test-issue <issue name>]")
 }
 
 func getEnv(key string) (string, error) {
@@ -38,6 +38,9 @@ func main() {
 	case "review":
 		reviewer := Reviewer{}
 		reviewer.Review()
+	case "approve":
+		approver := Approver{}
+		approver.Approve()
 	default:
 		fmt.Printf("Invalid command: %s\n", command)
 		printUsageAndExit()

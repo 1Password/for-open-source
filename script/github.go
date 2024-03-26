@@ -71,3 +71,115 @@ func (g *GitHub) Init() error {
 
 	return nil
 }
+
+func (g *GitHub) CreateIssueComment(message string) error {
+	if isTestingIssue() {
+		botMessage(message)
+		return nil
+	}
+
+	_, _, err := g.Client.Issues.CreateComment(
+		g.Context,
+		g.RepoOwner,
+		g.RepoName,
+		*g.Issue.Number,
+		&github.IssueComment{
+			Body: github.String(message),
+		},
+	)
+
+	return err
+}
+
+func (g *GitHub) IssueHasLabel(label string) bool {
+	for _, entry := range g.Issue.Labels {
+		if label == *entry.Name {
+			return true
+		}
+	}
+
+	return false
+}
+
+func (g *GitHub) AddIssueLabel(label string) error {
+	if isTestingIssue() {
+		debugMessage(fmt.Sprintf("Adding label \"%s\"", label))
+		return nil
+	}
+
+	_, _, err := g.Client.Issues.AddLabelsToIssue(
+		g.Context,
+		g.RepoOwner,
+		g.RepoName,
+		*g.Issue.Number,
+		[]string{label},
+	)
+
+	return err
+}
+
+func (g *GitHub) RemoveIssueLabel(label string) error {
+	if isTestingIssue() {
+		debugMessage(fmt.Sprintf("Removing label \"%s\"", label))
+		return nil
+	}
+
+	_, err := g.Client.Issues.RemoveLabelForIssue(
+		g.Context,
+		g.RepoOwner,
+		g.RepoName,
+		*g.Issue.Number,
+		label,
+	)
+
+	return err
+}
+
+func (g *GitHub) CloseIssue() error {
+	if isTestingIssue() {
+		debugMessage("Closing issue")
+		return nil
+	}
+
+	_, _, err := g.Client.Issues.Edit(
+		g.Context,
+		g.RepoOwner,
+		g.RepoName,
+		*g.Issue.Number,
+		&github.IssueRequest{
+			State: github.String("closed"),
+		},
+	)
+
+	return err
+}
+
+func (g *GitHub) CommitNewFile(filePath string, content []byte, message string) error {
+	commitBranch := "main"
+
+	if isTestingIssue() {
+		debugMessage(
+			fmt.Sprintf(
+				"Commiting the following contents to a file located at \"%s\" with the commit message \"%s\":",
+				filePath, message,
+			),
+			string(content),
+		)
+
+		return nil
+	}
+
+	_, _, err := g.Client.Repositories.CreateFile(
+		g.Context,
+		g.RepoOwner,
+		g.RepoName,
+		filePath,
+		&github.RepositoryContentFileOptions{
+			Content: content,
+			Message: &message,
+			Branch:  &commitBranch,
+		},
+	)
+
+	return err
+}

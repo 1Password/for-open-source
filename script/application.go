@@ -10,6 +10,12 @@ import (
 	"github.com/google/go-github/v60/github"
 )
 
+const (
+	LabelStatusApproved  = "status: approved"
+	LabelStatusInvalid   = "status: invalid"
+	LabelStatusReviewing = "status: reviewing"
+)
+
 type Project struct {
 	Name         string `json:"name"`
 	Description  string `json:"description"`

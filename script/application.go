@@ -109,6 +109,16 @@ func (a *Application) IsValid() bool {
 	return len(a.Problems) == 0
 }
 
+func (a *Application) RenderProblems() string {
+	var problemStrings []string
+
+	for _, err := range a.Problems {
+		problemStrings = append(problemStrings, fmt.Sprintf("- %s", err.Error()))
+	}
+
+	return strings.Join(problemStrings, "\n")
+}
+
 func (a *Application) GetData() string {
 	data, err := json.MarshalIndent(a, "", "\t")
 	if err != nil {

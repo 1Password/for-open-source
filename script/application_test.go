@@ -7,35 +7,35 @@ import (
 )
 
 func errNoProjectName(sectionTitle string) error {
-	return fmt.Errorf("%s: is missing project name", sectionTitle)
+	return fmt.Errorf("**%s** is missing project name", sectionTitle)
 }
 
 func errIncomplete(sectionTitle string) error {
-	return fmt.Errorf("%s: was not completed for application", sectionTitle)
+	return fmt.Errorf("**%s** was not completed for application", sectionTitle)
 }
 
 func errEmpty(sectionTitle string) error {
-	return fmt.Errorf("%s: is empty", sectionTitle)
+	return fmt.Errorf("**%s** is empty", sectionTitle)
 }
 
 func errMustBeChecked(sectionTitle string) error {
-	return fmt.Errorf("%s: must be checked", sectionTitle)
+	return fmt.Errorf("**%s** must be checked", sectionTitle)
 }
 
 func errInvalidAccountURL(sectionTitle string) error {
-	return fmt.Errorf("%s: is invalid 1Password account URL", sectionTitle)
+	return fmt.Errorf("**%s** is invalid 1Password account URL", sectionTitle)
 }
 
 func errContainsEmoji(sectionTitle string) error {
-	return fmt.Errorf("%s: cannot contain emoji characters", sectionTitle)
+	return fmt.Errorf("**%s** cannot contain emoji characters", sectionTitle)
 }
 
 func errParsingNumber(sectionTitle string) error {
-	return fmt.Errorf("%s: could not be parsed into a number", sectionTitle)
+	return fmt.Errorf("**%s** could not be parsed into a number", sectionTitle)
 }
 
 func errInvalidURL(sectionTitle string) error {
-	return fmt.Errorf("%s: is an invalid URL", sectionTitle)
+	return fmt.Errorf("**%s** is an invalid URL", sectionTitle)
 }
 
 func TestApplication(t *testing.T) {

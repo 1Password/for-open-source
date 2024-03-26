@@ -25,6 +25,12 @@ func debugMessage(message string, data ...interface{}) {
 	}
 }
 
+func botMessage(message string) {
+	if testIssueName != "" {
+		fmt.Printf("[BOT] %s\n", message)
+	}
+}
+
 func getTestIssue() *github.Issue {
 	data, err := os.ReadFile(fmt.Sprintf("./script/test-issues/%s.json", testIssueName))
 	if err != nil {

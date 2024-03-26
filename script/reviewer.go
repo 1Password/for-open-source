@@ -1,9 +1,7 @@
 package main
 
 import (
-	"fmt"
 	"log"
-	"strings"
 )
 
 type Reviewer struct {
@@ -25,21 +23,11 @@ func (r *Reviewer) Review() {
 		if r.application.IsValid() {
 			debugMessage("Application has no problems")
 		} else {
-			debugMessage("Application problems:", r.renderProblems())
+			debugMessage("Application problems:", r.application.RenderProblems())
 		}
 	}
 }
 
 func (r *Reviewer) printErrorAndExit(err error) {
 	log.Fatalf("Error reviewing issue: %s\n", err.Error())
-}
-
-func (r *Reviewer) renderProblems() string {
-	var problemStrings []string
-
-	for _, err := range r.application.Problems {
-		problemStrings = append(problemStrings, fmt.Sprintf("- %s", err.Error()))
-	}
-
-	return strings.Join(problemStrings, "\n")
 }

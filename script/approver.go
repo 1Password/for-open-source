@@ -94,9 +94,9 @@ func (a *Approver) getApprovalMessage() string {
 
 Congratulations, @%s has approved your application! A promotion will be applied to your 1Password account shortly.
 
-If you haven't done so already, we highly recommend implementing a [recovery plan for your team](https://support.1password.com/team-recovery-plan/) in case access for a particular contributor is ever lost. You may add additional core contributors as you see fit.
+To lower the risk of lockout, [assign at least one other person to help with account recovery](https://support.1password.com/team-recovery-plan/) in case access for a particular team member is ever lost. You may add additional core contributors as you see fit.
 
-Finally, we'd love to hear more about your experience using 1Password in your development workflows! Feel free to join us over on the [1Password Developers Slack](https://join.slack.com/t/1password-devs/shared_invite/zt-15k6lhima-GRb5Ga~fo7mjS9xPzDaF2A) workspace.
+Finally, we’d love to hear more about your experience using 1Password in your development workflows! Feel free to join us over on the [1Password Developers Slack](https://join.slack.com/t/1password-devs/shared_invite/zt-15k6lhima-GRb5Ga~fo7mjS9xPzDaF2A) workspace.
 
 Welcome to the program and happy coding! 🧑‍💻`, a.application.ApproverUsername))
 }

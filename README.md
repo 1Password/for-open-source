@@ -3642,3 +3642,8 @@ https://t.me/VidStickerBot
 ### Commonhaus Foundation
 The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
 https://www.commonhaus.org
+
+### HashiCorp Korea User Group
+
+HashiCorp Korea User Group is a South Korea based HashiCorp users and contributors community for anyone interested in HashiCorp products and its OSS projects like Terraform, Packer, Consul, Vault, Nomad and more. We organize local HashiCorp meetup and workshop events, and provide online space for Korean HashiCorp users.
+https://www.facebook.com/groups/hashicorpkrug

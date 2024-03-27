@@ -60,12 +60,14 @@ func (r *Reviewer) createComment(status Status) {
 		body = "This application is closed and changes will not be reviewed. If this is an error, contact us at [opensource@1password.com](mailto:opensource@1password.com)."
 	} else if status == Approved {
 		body = fmt.Sprintf("This application has already been approved and changes will not be reviewed. If you would like to modify the details of your application, submit a pull request against the stored [application data](%s). If this is an error, contact us at [opensource@1password.com](mailto:opensource@1password.com).", dataPath)
-	} else if status == Reviewing && r.application.IsValid() {
-		title = "### 👍 Application still valid"
-		body = fmt.Sprintf("\n\n%s\n\nWe’ve evaluated your updated application and it is still valid.", details)
 	} else if r.application.IsValid() {
-		title = "### ✅ Your application is valid"
-		body = fmt.Sprintf("\n\n%s\n\nThanks for applying! Next step: our team will review your application and may have follow-up questions. You can still make changes to your application and it’ll be re-evaluated.", details)
+		if status == Reviewing {
+			title = "### 👍 Application still valid"
+			body = fmt.Sprintf("\n\n%s\n\nWe’ve evaluated your updated application and it is still valid.", details)
+		} else {
+			title = "### ✅ Your application is valid"
+			body = fmt.Sprintf("\n\n%s\n\nThanks for applying! Next step: our team will review your application and may have follow-up questions. You can still make changes to your application and it’ll be re-evaluated.", details)
+		}
 	} else {
 		title = "### ❌ Your application is invalid"
 		body = fmt.Sprintf("\n\n%s\n\nThe following issues need to be addressed:\n\n%s", details, r.application.RenderProblems())

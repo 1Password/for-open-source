@@ -1,6 +1,7 @@
 package main
 
 import (
+	"errors"
 	"fmt"
 	"log"
 	"path/filepath"
@@ -25,7 +26,7 @@ func (a *Approver) Approve() {
 	}
 
 	if *a.gitHub.Issue.State == "closed" {
-		a.printErrorAndExit(fmt.Errorf("script run on closed issue"))
+		a.printErrorAndExit(errors.New("script run on closed issue"))
 	}
 
 	if !a.gitHub.IssueHasLabel(LabelStatusApproved) {

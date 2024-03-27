@@ -57,20 +57,20 @@ func (r *Reviewer) createComment(status Status) {
 	dataPath := fmt.Sprintf("https://github.com/1Password/1password-teams-open-source/blob/main/data/%s", "FILE_NAME")
 
 	if status == Closed {
-		body = "This application is closed and changes will not be reviewed. If this is an error, contact us at [opensource@1password.com](mailto:opensource@1password.com)."
+		body = "This application is closed and changes will not be reviewed. If you have any questions, contact us at [opensource@1password.com](mailto:opensource@1password.com)."
 	} else if status == Approved {
-		body = fmt.Sprintf("This application has already been approved and changes will not be reviewed. If you would like to modify the details of your application, submit a pull request against the stored [application data](%s). If this is an error, contact us at [opensource@1password.com](mailto:opensource@1password.com).", dataPath)
+		body = fmt.Sprintf("This application has already been approved and changes will not be reviewed. If you would like to modify the details of your application, submit a pull request against the stored [application data](%s). If you have any questions, contact us at [opensource@1password.com](mailto:opensource@1password.com).", dataPath)
 	} else if r.application.IsValid() {
 		if status == Reviewing {
 			title = "### 👍 Application still valid"
-			body = fmt.Sprintf("\n\n%s\n\nWe’ve evaluated your updated application and it is still valid.", details)
+			body = fmt.Sprintf("\n\n%s\n\nWe’ve run our automated pre-checks and your updated application is still valid.", details)
 		} else {
 			title = "### ✅ Your application is valid"
-			body = fmt.Sprintf("\n\n%s\n\nThanks for applying! Next step: our team will review your application and may have follow-up questions. You can still make changes to your application and it’ll be re-evaluated.", details)
+			body = fmt.Sprintf("\n\n%s\n\nThanks for applying! Our automated pre-checks have determined your application is valid. Next step: our team will review your application and may have follow-up questions. You can still make changes to your application and it’ll be re-evaluated.", details)
 		}
 	} else {
 		title = "### ❌ Your application is invalid"
-		body = fmt.Sprintf("\n\n%s\n\nThe following issues need to be addressed:\n\n%s", details, r.application.RenderProblems())
+		body = fmt.Sprintf("\n\n%s\n\nOur automated pre-checks have detected the following issues:\n\n%s", details, r.application.RenderProblems())
 	}
 
 	r.gitHub.CreateIssueComment(fmt.Sprintf("%s%s", title, body))

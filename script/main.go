@@ -7,7 +7,7 @@ import (
 )
 
 func printUsageAndExit() {
-	log.Fatalf("Usage: ./processor <review|approve> [--test-issue <issue name>]")
+	log.Fatal("Usage: ./processor <review|approve> [--test-issue <issue name>]")
 }
 
 func getEnv(key string) (string, error) {

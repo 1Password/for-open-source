@@ -3642,3 +3642,7 @@ https://t.me/VidStickerBot
 ### Commonhaus Foundation
 The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
 https://www.commonhaus.org
+
+### Apache Cordova
+An open-source mobile development framework that allows developers to use standard web technologies (HTML5, CSS3, and JavaScript) for cross-platform development.
+https://cordova.apache.org/

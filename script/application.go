@@ -131,9 +131,9 @@ func (a *Application) GetData() []byte {
 	return data
 }
 
-// Take the application issue number and project name and turn it into
-// a file path. This will always be unique because it is relying on
-// github's issue numbers
+// FileName takes application issue number and project name and turn it
+// into a file path. This will always be unique because it is relying on
+// GitHub's issue numbers
 // e.g. 782-foo.json
 func (a *Application) FileName() string {
 	filename := fmt.Sprintf("%s-%s.json",

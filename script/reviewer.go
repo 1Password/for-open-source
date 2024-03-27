@@ -5,6 +5,16 @@ import (
 	"log"
 )
 
+type Status int
+
+const (
+	Closed Status = iota
+	Approved
+	Reviewing
+	Invalid
+	New
+)
+
 type Reviewer struct {
 	gitHub      GitHub
 	application Application
@@ -25,30 +35,30 @@ func (r *Reviewer) Review() {
 	r.createComment(status)
 }
 
-func (r *Reviewer) getStatus() string {
+func (r *Reviewer) getStatus() Status {
 	if *r.gitHub.Issue.State == "closed" {
-		return "closed"
+		return Closed
 	} else if r.gitHub.IssueHasLabel(LabelStatusApproved) {
-		return "approved"
+		return Approved
 	} else if r.gitHub.IssueHasLabel(LabelStatusReviewing) {
-		return "reviewing"
+		return Reviewing
 	} else if r.gitHub.IssueHasLabel(LabelStatusInvalid) {
-		return "invalid"
+		return Invalid
 	} else {
-		return "new"
+		return New
 	}
 }
 
-func (r *Reviewer) createComment(status string) {
+func (r *Reviewer) createComment(status Status) {
 	title := ""
 	body := ""
 	details := fmt.Sprintf("<details>\n<summary>Application data...</summary>\n\n```json\n%s\n```\n</details>", r.application.GetData())
 
-	if status == "closed" {
+	if status == Closed {
 		body = "Oops! This application is closed can no longer be processed. If this is an error, please reach out to [opensource@1password.com](mailto:opensource@1password.com)."
-	} else if status == "approved" {
+	} else if status == Approved {
 		body = "Oops! This application has been updated but has already been approved and can no longer be processed. If this is an error, please reach out to [opensource@1password.com](mailto:opensource@1password.com)."
-	} else if status == "reviewing" && r.application.IsValid() {
+	} else if status == Reviewing && r.application.IsValid() {
 		title = "### 👍 Application still valid"
 		body = fmt.Sprintf("\n\n%s\n\nWe've processed your updated application and everything still looks good.", details)
 	} else if r.application.IsValid() {
@@ -62,12 +72,12 @@ func (r *Reviewer) createComment(status string) {
 	r.gitHub.CreateIssueComment(fmt.Sprintf("%s%s", title, body))
 }
 
-func (r *Reviewer) updateLabels(status string) {
-	if status == "approved" || status == "closed" {
+func (r *Reviewer) updateLabels(status Status) {
+	if status == Approved || status == Closed {
 		return
 	}
 
-	if status == "invalid" && r.application.IsValid() {
+	if status == Invalid && r.application.IsValid() {
 		if err := r.gitHub.RemoveIssueLabel(LabelStatusInvalid); err != nil {
 			r.printErrorAndExit(
 				fmt.Errorf("could not remove issue label '%s': %s", LabelStatusInvalid, err.Error()),
@@ -76,7 +86,7 @@ func (r *Reviewer) updateLabels(status string) {
 	}
 
 	if r.application.IsValid() {
-		if status != "reviewing" {
+		if status != Reviewing {
 			if err := r.gitHub.AddIssueLabel(LabelStatusReviewing); err != nil {
 				r.printErrorAndExit(
 					fmt.Errorf("could not add issue label '%s': %s", LabelStatusReviewing, err.Error()),
@@ -84,7 +94,7 @@ func (r *Reviewer) updateLabels(status string) {
 			}
 		}
 	} else {
-		if status != "invalid" {
+		if status != Invalid {
 			if err := r.gitHub.AddIssueLabel(LabelStatusInvalid); err != nil {
 				r.printErrorAndExit(
 					fmt.Errorf("could not add issue label '%s': %s", LabelStatusInvalid, err.Error()),
@@ -92,7 +102,7 @@ func (r *Reviewer) updateLabels(status string) {
 			}
 		}
 
-		if status == "reviewing" {
+		if status == Reviewing {
 			if err := r.gitHub.RemoveIssueLabel(LabelStatusReviewing); err != nil {
 				r.printErrorAndExit(
 					fmt.Errorf("could not remove issue label '%s': %s", LabelStatusReviewing, err.Error()),

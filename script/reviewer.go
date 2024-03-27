@@ -53,19 +53,21 @@ func (r *Reviewer) createComment(status Status) {
 	title := ""
 	body := ""
 	details := fmt.Sprintf("<details>\n<summary>Application data...</summary>\n\n```json\n%s\n```\n</details>", r.application.GetData())
+	// TODO: replace FILE_NAME with Application.FileName once available
+	dataPath := fmt.Sprintf("https://github.com/1Password/1password-teams-open-source/blob/main/data/%s", "FILE_NAME")
 
 	if status == Closed {
-		body = "Oops! This application is closed can no longer be processed. If this is an error, please reach out to [opensource@1password.com](mailto:opensource@1password.com)."
+		body = "This application is closed and changes will not be reviewed. If this is an error, contact us at [opensource@1password.com](mailto:opensource@1password.com)."
 	} else if status == Approved {
-		body = "Oops! This application has been updated but has already been approved and can no longer be processed. If this is an error, please reach out to [opensource@1password.com](mailto:opensource@1password.com)."
+		body = fmt.Sprintf("This application has already been approved and changes will not be reviewed. If you would like to modify the details of your application, submit a pull request against the stored [application data](%s). If this is an error, contact us at [opensource@1password.com](mailto:opensource@1password.com).", dataPath)
 	} else if status == Reviewing && r.application.IsValid() {
 		title = "### 👍 Application still valid"
-		body = fmt.Sprintf("\n\n%s\n\nWe've processed your updated application and everything still looks good.", details)
+		body = fmt.Sprintf("\n\n%s\n\nWe’ve evaluated your updated application and it is still valid.", details)
 	} else if r.application.IsValid() {
 		title = "### ✅ Your application is valid"
-		body = fmt.Sprintf("\n\n%s\n\nThanks for applying! Next step: our team will review your application and may have follow-up questions. You can still make changes to your application and we'll process it again.", details)
+		body = fmt.Sprintf("\n\n%s\n\nThanks for applying! Next step: our team will review your application and may have follow-up questions. You can still make changes to your application and it’ll be re-evaluated.", details)
 	} else {
-		title = "### ❌ Your application needs some work"
+		title = "### ❌ Your application is invalid"
 		body = fmt.Sprintf("\n\n%s\n\nThe following issues need to be addressed:\n\n%s", details, r.application.RenderProblems())
 	}
 

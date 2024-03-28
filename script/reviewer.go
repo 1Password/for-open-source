@@ -70,7 +70,7 @@ func (r *Reviewer) createComment(status Status) {
 		}
 	} else {
 		title = "### ❌ Your application is invalid"
-		body = fmt.Sprintf("\n\n%s\n\nOur automated pre-checks have detected the following issues:\n\n%s", details, r.application.RenderProblems())
+		body = fmt.Sprintf("\n\n%s\n\nOur automated pre-checks have detected the following problems:\n\n%s\n\nUpdate this issue to correct these problems and we’ll automatically re-evaluate your application.", details, r.application.RenderProblems())
 	}
 
 	r.gitHub.CreateIssueComment(fmt.Sprintf("%s%s", title, body))

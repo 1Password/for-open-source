@@ -8,8 +8,7 @@ import (
 type Status int
 
 const (
-	Closed Status = iota
-	Approved
+	Approved Status = iota
 	Reviewing
 	Invalid
 	New
@@ -31,14 +30,14 @@ func (r *Reviewer) Review() {
 	r.application.Parse(r.gitHub.Issue)
 
 	status := r.getStatus()
-	r.updateLabels(status)
-	r.createComment(status)
+	isClosed := *r.gitHub.Issue.State == "closed"
+
+	r.updateLabels(status, isClosed)
+	r.createComment(status, isClosed)
 }
 
 func (r *Reviewer) getStatus() Status {
-	if *r.gitHub.Issue.State == "closed" {
-		return Closed
-	} else if r.gitHub.IssueHasLabel(LabelStatusApproved) {
+	if r.gitHub.IssueHasLabel(LabelStatusApproved) {
 		return Approved
 	} else if r.gitHub.IssueHasLabel(LabelStatusReviewing) {
 		return Reviewing
@@ -49,35 +48,46 @@ func (r *Reviewer) getStatus() Status {
 	}
 }
 
-func (r *Reviewer) createComment(status Status) {
+func (r *Reviewer) createComment(status Status, isClosed bool) {
 	title := ""
 	body := ""
-	details := fmt.Sprintf("<details>\n<summary>Application data...</summary>\n\n```json\n%s\n```\n</details>", r.application.GetData())
-	// TODO: replace FILE_NAME with Application.FileName once available
-	dataPath := fmt.Sprintf("https://github.com/1Password/1password-teams-open-source/blob/main/data/%s", "FILE_NAME")
 
-	if status == Closed {
-		body = "This application is closed and changes will not be reviewed. If you have any questions, contact us at [opensource@1password.com](mailto:opensource@1password.com)."
+	applicationData := fmt.Sprintf("<details>\n<summary>Application data...</summary>\n\n```json\n%s\n```\n</details>", r.application.GetData())
+	applicationFilePath := fmt.Sprintf("https://github.com/1Password/1password-teams-open-source/blob/main/data/%s", r.application.FileName())
+	approvedBody := fmt.Sprintf("This application has already been approved and changes will not be reviewed. If you would like to modify the details of your application, submit a pull request against the stored [application data](%s). If you have any questions, contact us at [opensource@1password.com](mailto:opensource@1password.com).", applicationFilePath)
+	closedBody := "This application is closed and changes will not be reviewed. If you have any questions, contact us at [opensource@1password.com](mailto:opensource@1password.com)."
+
+	// If the issue is closed, let the user know that they can't make changes.
+	// If the issue was closed because it got approved, let them know how they can
+	// modify their application details after the fact.
+	if isClosed {
+		if status == Approved {
+			body = approvedBody
+		} else {
+			body = closedBody
+		}
+		// This scanerio should never occur, as an approved issue should
+		// immediately be closed, but let's cover all bases.
 	} else if status == Approved {
-		body = fmt.Sprintf("This application has already been approved and changes will not be reviewed. If you would like to modify the details of your application, submit a pull request against the stored [application data](%s). If you have any questions, contact us at [opensource@1password.com](mailto:opensource@1password.com).", dataPath)
+		body = approvedBody
 	} else if r.application.IsValid() {
 		if status == Reviewing {
 			title = "### 👍 Application still valid"
-			body = fmt.Sprintf("\n\n%s\n\nWe’ve run our automated pre-checks and your updated application is still valid.", details)
+			body = fmt.Sprintf("\n\n%s\n\nWe’ve run our automated pre-checks and your updated application is still valid.", applicationData)
 		} else {
 			title = "### ✅ Your application is valid"
-			body = fmt.Sprintf("\n\n%s\n\nThanks for applying! Our automated pre-checks have determined your application is valid. Next step: our team will review your application and may have follow-up questions. You can still make changes to your application and it’ll be re-evaluated.", details)
+			body = fmt.Sprintf("\n\n%s\n\nThanks for applying! Our automated pre-checks have determined your application is valid. Next step: our team will review your application and may have follow-up questions. You can still make changes to your application and it’ll be re-evaluated.", applicationData)
 		}
 	} else {
 		title = "### ❌ Your application is invalid"
-		body = fmt.Sprintf("\n\n%s\n\nOur automated pre-checks have detected the following problems:\n\n%s\n\nUpdate this issue to correct these problems and we’ll automatically re-evaluate your application.", details, r.application.RenderProblems())
+		body = fmt.Sprintf("\n\n%s\n\nOur automated pre-checks have detected the following problems:\n\n%s\n\nUpdate this issue to correct these problems and we’ll automatically re-evaluate your application.", applicationData, r.application.RenderProblems())
 	}
 
 	r.gitHub.CreateIssueComment(fmt.Sprintf("%s%s", title, body))
 }
 
-func (r *Reviewer) updateLabels(status Status) {
-	if status == Approved || status == Closed {
+func (r *Reviewer) updateLabels(status Status, isClosed bool) {
+	if status == Approved || isClosed {
 		return
 	}
 

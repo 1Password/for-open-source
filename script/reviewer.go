@@ -81,15 +81,15 @@ func (r *Reviewer) updateLabels(status Status) {
 		return
 	}
 
-	if status == Invalid && r.application.IsValid() {
-		if err := r.gitHub.RemoveIssueLabel(LabelStatusInvalid); err != nil {
-			r.printErrorAndExit(
-				fmt.Errorf("could not remove issue label '%s': %s", LabelStatusInvalid, err.Error()),
-			)
-		}
-	}
-
 	if r.application.IsValid() {
+		if status == Invalid {
+			if err := r.gitHub.RemoveIssueLabel(LabelStatusInvalid); err != nil {
+				r.printErrorAndExit(
+					fmt.Errorf("could not remove issue label '%s': %s", LabelStatusInvalid, err.Error()),
+				)
+			}
+		}
+
 		if status != Reviewing {
 			if err := r.gitHub.AddIssueLabel(LabelStatusReviewing); err != nil {
 				r.printErrorAndExit(

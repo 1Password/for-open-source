@@ -72,6 +72,10 @@ func TestApplication(t *testing.T) {
 			expectedValid: true,
 		},
 		{
+			name:          "project-character-test",
+			expectedValid: true,
+		},
+		{
 			name:          "empty-body",
 			expectedValid: false,
 			expectedProblems: []error{

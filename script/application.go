@@ -4,6 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
+	"regexp"
+	"strconv"
 	"strings"
 	"time"
 
@@ -40,13 +42,14 @@ type Application struct {
 	sections  map[string]string `json:"-"`
 	Problems  []error           `json:"-"`
 
-	Account     string    `json:"account"`
-	Project     Project   `json:"project"`
-	Applicant   Applicant `json:"applicant"`
-	CanContact  bool      `json:"can_contact"`
-	ApproverId  int       `json:"approver_id,omitempty"`
-	IssueNumber int       `json:"issue_number"`
-	CreatedAt   time.Time `json:"created_at"`
+	Account          string    `json:"account"`
+	Project          Project   `json:"project"`
+	Applicant        Applicant `json:"applicant"`
+	CanContact       bool      `json:"can_contact"`
+	ApproverId       int       `json:"approver_id,omitempty"`
+	ApproverUsername string    `json:"-"`
+	IssueNumber      int       `json:"issue_number"`
+	CreatedAt        time.Time `json:"created_at"`
 }
 
 func (a *Application) Parse(issue *github.Issue) {
@@ -97,7 +100,7 @@ func (a *Application) Parse(issue *github.Issue) {
 	a.CanContact = a.boolSection("Can we contact you?", false, ParseCheckbox)
 
 	if isTestingIssue() {
-		debugMessage("Application data:", a.GetData())
+		debugMessage("Application data:", string(a.GetData()))
 	}
 
 	for _, err := range a.validator.Errors {
@@ -119,13 +122,59 @@ func (a *Application) RenderProblems() string {
 	return strings.Join(problemStrings, "\n")
 }
 
-func (a *Application) GetData() string {
+func (a *Application) GetData() []byte {
 	data, err := json.MarshalIndent(a, "", "\t")
 	if err != nil {
 		log.Fatalf("Could not marshal Application data: %s", err.Error())
 	}
 
-	return string(data)
+	return data
+}
+
+// FileName takes application issue number and project name and turn it
+// into a file path. This will always be unique because it is relying on
+// GitHub's issue numbers
+// e.g. 782-foo.json
+func (a *Application) FileName() string {
+	filename := fmt.Sprintf("%s-%s.json",
+		strconv.FormatInt(int64(a.IssueNumber), 10),
+		strings.ToLower(a.Project.Name),
+	)
+
+	filename = strings.ReplaceAll(strings.ToLower(filename), " ", "-")
+	filename = regexp.MustCompile(`[^\w.-]`).ReplaceAllString(filename, "")
+	filename = regexp.MustCompile(`-+`).ReplaceAllString(filename, "-")
+
+	return filename
+}
+
+func (a *Application) SetApprover() error {
+	if isTestingIssue() {
+		a.ApproverId = 123
+		a.ApproverUsername = "test-username"
+
+		return nil
+	}
+
+	approverIdValue, err := getEnv("APPROVER_ID")
+	if err != nil {
+		return err
+	}
+
+	approverId, err := strconv.Atoi(approverIdValue)
+	if err != nil {
+		return err
+	}
+
+	approverUsername, err := getEnv("APPROVER_USERNAME")
+	if err != nil {
+		return err
+	}
+
+	a.ApproverId = approverId
+	a.ApproverUsername = approverUsername
+
+	return nil
 }
 
 // Take the Markdown-format body of an issue and break it down by section header

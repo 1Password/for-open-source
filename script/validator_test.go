@@ -30,6 +30,7 @@ func TestParseInput(t *testing.T) {
 		{"_No response_", true, "", ""},
 		{"None", true, "", ""},
 		{"hello", true, "hello", ""},
+		{"Testing <b>formatting</b> and <a href=\"#\">link</a> stripping", true, "Testing formatting and link stripping", ""},
 	}
 	runValidationTests(t, testCases, ParseInput, "ParseInput")
 }
@@ -39,7 +40,6 @@ func TestParsePlainString(t *testing.T) {
 		{"", true, "", ""},
 		{"Hello world", true, "Hello world", ""},
 		{"👋 howdy", false, "👋 howdy", "cannot contain emoji characters"},
-		{"Testing <b>formatting</b> and <a href=\"#\">link</a> stripping", true, "Testing formatting and link stripping", ""},
 	}
 	runValidationTests(t, testCases, ParsePlainString, "ParsePlainString")
 }

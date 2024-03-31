@@ -3642,3 +3642,8 @@ https://t.me/VidStickerBot
 ### Commonhaus Foundation
 The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
 https://www.commonhaus.org
+
+### Mihomo
+
+Mihomo offers a versatile networking solution with support for local servers, various protocols, DNS security features, flexible routing rules, remote group management, and comprehensive API control.
+https://wiki.metacubex.one

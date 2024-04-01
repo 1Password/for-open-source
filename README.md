@@ -3663,3 +3663,8 @@ https://cordova.apache.org/
 
 HashiCorp Korea User Group is a South Korea based HashiCorp users and contributors community for anyone interested in HashiCorp products and its OSS projects like Terraform, Packer, Consul, Vault, Nomad and more. We organize local HashiCorp meetup and workshop events, and provide online space for Korean HashiCorp users.
 https://www.facebook.com/groups/hashicorpkrug
+
+### Mihomo
+
+Mihomo offers a versatile networking solution with support for local servers, various protocols, DNS security features, flexible routing rules, remote group management, and comprehensive API control.
+https://wiki.metacubex.one

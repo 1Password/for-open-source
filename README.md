@@ -3658,3 +3658,8 @@ https://gitlab.com/kane-c/rss-filter
 ### Apache Cordova
 An open-source mobile development framework that allows developers to use standard web technologies (HTML5, CSS3, and JavaScript) for cross-platform development.
 https://cordova.apache.org/
+
+### HashiCorp Korea User Group
+
+HashiCorp Korea User Group is a South Korea based HashiCorp users and contributors community for anyone interested in HashiCorp products and its OSS projects like Terraform, Packer, Consul, Vault, Nomad and more. We organize local HashiCorp meetup and workshop events, and provide online space for Korean HashiCorp users.
+https://www.facebook.com/groups/hashicorpkrug

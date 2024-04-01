@@ -3654,3 +3654,7 @@ The [Open Healthcare Network (OHC)](https://ohc.network/), is a visionary open s
 ### RSS Filter
 RSS Filter is a TypeScript app to ingest an RSS feed, and filter the items based on one's own criteria. It can be self-hosted as a Cloudflare Worker or easily modified for other services, or hosting as a Node app.
 https://gitlab.com/kane-c/rss-filter
+
+### Apache Cordova
+An open-source mobile development framework that allows developers to use standard web technologies (HTML5, CSS3, and JavaScript) for cross-platform development.
+https://cordova.apache.org/

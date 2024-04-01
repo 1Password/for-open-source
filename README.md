@@ -3650,3 +3650,7 @@ https://virtualcoffee.io
 ### Open Healthcare Network
 The [Open Healthcare Network (OHC)](https://ohc.network/), is a visionary open source initiative dedicated to revolutionizing healthcare access through technology. As a recognized [Digital Public Good (DPG)](https://app.digitalpublicgoods.net/a/11211), OHC leverages open-source healthcare solutions to make significant strides in saving lives and enhancing healthcare systems globally. With a focus on underserved regions, OHC harnesses the power of collaboration, bringing together a global community of volunteers, developers, and healthcare professionals. We are committed to innovation, security, and the open sharing of resources to make high-quality healthcare accessible to all, ensuring a healthier future for communities around the globe. With numerous deployments across diverse communities, OHC has established itself as a pivotal player in making high-quality healthcare universally accessible, marking a substantial impact on the well-being of populations worldwide.
 [Github](https://github.com/coronasafe/)
+
+### RSS Filter
+RSS Filter is a TypeScript app to ingest an RSS feed, and filter the items based on one's own criteria. It can be self-hosted as a Cloudflare Worker or easily modified for other services, or hosting as a Node app.
+https://gitlab.com/kane-c/rss-filter

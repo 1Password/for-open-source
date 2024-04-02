@@ -7,7 +7,7 @@ import (
 )
 
 func printUsageAndExit() {
-	log.Fatal("Usage: ./processor <review|approve> [--test-issue <issue name>]")
+	log.Fatal("Usage: ./processor <review|approve> [--test <name>]")
 }
 
 func getEnv(key string) (string, error) {
@@ -27,9 +27,8 @@ func main() {
 
 	command := os.Args[1]
 
-	if len(os.Args) == 4 && os.Args[2] == "--test-issue" {
-		testIssueName = os.Args[3]
-		debugMessage(fmt.Sprintf("Using test issue '%s'", testIssueName))
+	if len(os.Args) == 4 && os.Args[2] == "--test" {
+		setTestApplication(os.Args[3])
 	} else if len(os.Args) != 2 {
 		printUsageAndExit()
 	}

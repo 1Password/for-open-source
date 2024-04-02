@@ -19,9 +19,9 @@ type GitHub struct {
 }
 
 func (g *GitHub) Init() error {
-	if isTestingIssue() {
+	if isTesting() {
 		debugMessage("Skipping GitHub Init")
-		g.Issue = getTestIssue()
+		g.Issue = testIssue
 		return nil
 	}
 
@@ -73,7 +73,7 @@ func (g *GitHub) Init() error {
 }
 
 func (g *GitHub) CreateIssueComment(message string) error {
-	if isTestingIssue() {
+	if isTesting() {
 		botMessage(message)
 		return nil
 	}
@@ -102,7 +102,7 @@ func (g *GitHub) IssueHasLabel(label string) bool {
 }
 
 func (g *GitHub) AddIssueLabel(label string) error {
-	if isTestingIssue() {
+	if isTesting() {
 		debugMessage(fmt.Sprintf("Adding label \"%s\"", label))
 		return nil
 	}
@@ -119,7 +119,7 @@ func (g *GitHub) AddIssueLabel(label string) error {
 }
 
 func (g *GitHub) RemoveIssueLabel(label string) error {
-	if isTestingIssue() {
+	if isTesting() {
 		debugMessage(fmt.Sprintf("Removing label \"%s\"", label))
 		return nil
 	}
@@ -136,7 +136,7 @@ func (g *GitHub) RemoveIssueLabel(label string) error {
 }
 
 func (g *GitHub) CloseIssue() error {
-	if isTestingIssue() {
+	if isTesting() {
 		debugMessage("Closing issue")
 		return nil
 	}
@@ -157,7 +157,7 @@ func (g *GitHub) CloseIssue() error {
 func (g *GitHub) CommitNewFile(filePath string, content []byte, message string) error {
 	commitBranch := "main"
 
-	if isTestingIssue() {
+	if isTesting() {
 		debugMessage(
 			fmt.Sprintf(
 				"Commiting the following contents to a file located at \"%s\" with the commit message \"%s\":",

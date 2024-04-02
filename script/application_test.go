@@ -72,11 +72,11 @@ func TestApplication(t *testing.T) {
 			expectedValid: true,
 		},
 		{
-			name:          "project-character-test",
+			name:          "character-test",
 			expectedValid: true,
 		},
 		{
-			name:          "empty-body",
+			name:          "no-body",
 			expectedValid: false,
 			expectedProblems: []error{
 				errIncomplete("Account URL"),
@@ -113,7 +113,7 @@ func TestApplication(t *testing.T) {
 			},
 		},
 		{
-			name:          "examples-1",
+			name:          "invalid-1",
 			expectedValid: false,
 			expectedProblems: []error{
 				errNoProjectName("Application title"),
@@ -130,19 +130,14 @@ func TestApplication(t *testing.T) {
 		t.Run(tt.name, func(t *testing.T) {
 			application := Application{}
 
-			if tt.expectedValid {
-				testIssueName = fmt.Sprintf("valid-%s", tt.name)
-			} else {
-				testIssueName = fmt.Sprintf("invalid-%s", tt.name)
-			}
-
-			application.Parse(getTestIssue())
+			setTestApplication(tt.name)
+			application.Parse(testIssue)
 
 			if application.IsValid() != tt.expectedValid {
 				if tt.expectedValid {
-					t.Errorf("Test issue '%s' is invalid, expected valid", testIssueName)
+					t.Errorf("Test issue '%s' is invalid, expected valid", tt.name)
 				} else {
-					t.Errorf("Test issue '%s' is valid, expected invalid", testIssueName)
+					t.Errorf("Test issue '%s' is valid, expected invalid", tt.name)
 				}
 			}
 

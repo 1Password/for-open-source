@@ -61,7 +61,7 @@ func (a *Application) Parse(issue *github.Issue) {
 
 	a.sections = a.extractSections(*issue.Body)
 
-	if isTestingIssue() {
+	if isTesting() {
 		data, err := json.MarshalIndent(a.sections, "", "\t")
 		if err != nil {
 			log.Fatalf("Could not marshal Sections input data: %s", err.Error())
@@ -99,7 +99,7 @@ func (a *Application) Parse(issue *github.Issue) {
 
 	a.CanContact = a.boolSection("Can we contact you?", false, ParseCheckbox)
 
-	if isTestingIssue() {
+	if isTesting() {
 		debugMessage("Application data:", string(a.GetData()))
 	}
 
@@ -149,7 +149,7 @@ func (a *Application) FileName() string {
 }
 
 func (a *Application) SetApprover() error {
-	if isTestingIssue() {
+	if isTesting() {
 		a.ApproverId = 123
 		a.ApproverUsername = "test-username"
 

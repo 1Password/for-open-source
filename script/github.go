@@ -13,7 +13,6 @@ import (
 type GitHub struct {
 	RepoOwner string
 	RepoName  string
-	Context   context.Context
 	Client    *github.Client
 	Issue     *github.Issue
 }
@@ -52,15 +51,14 @@ func (g *GitHub) Init() error {
 	}
 	g.RepoName = repoNameValue
 
-	g.Context = context.Background()
 	ts := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: token},
 	)
-	tc := oauth2.NewClient(g.Context, ts)
+	tc := oauth2.NewClient(context.Background(), ts)
 
 	g.Client = github.NewClient(tc)
 
-	issue, response, err := g.Client.Issues.Get(g.Context, g.RepoOwner, g.RepoName, issueNumber)
+	issue, response, err := g.Client.Issues.Get(context.Background(), g.RepoOwner, g.RepoName, issueNumber)
 	if response.StatusCode != 200 {
 		return fmt.Errorf("error retrieving issue: %s", response.Status)
 	} else if err != nil {
@@ -79,7 +77,7 @@ func (g *GitHub) CreateIssueComment(message string) error {
 	}
 
 	_, _, err := g.Client.Issues.CreateComment(
-		g.Context,
+		context.Background(),
 		g.RepoOwner,
 		g.RepoName,
 		*g.Issue.Number,
@@ -108,7 +106,7 @@ func (g *GitHub) AddIssueLabel(label string) error {
 	}
 
 	_, _, err := g.Client.Issues.AddLabelsToIssue(
-		g.Context,
+		context.Background(),
 		g.RepoOwner,
 		g.RepoName,
 		*g.Issue.Number,
@@ -125,7 +123,7 @@ func (g *GitHub) RemoveIssueLabel(label string) error {
 	}
 
 	_, err := g.Client.Issues.RemoveLabelForIssue(
-		g.Context,
+		context.Background(),
 		g.RepoOwner,
 		g.RepoName,
 		*g.Issue.Number,
@@ -142,7 +140,7 @@ func (g *GitHub) CloseIssue() error {
 	}
 
 	_, _, err := g.Client.Issues.Edit(
-		g.Context,
+		context.Background(),
 		g.RepoOwner,
 		g.RepoName,
 		*g.Issue.Number,
@@ -170,7 +168,7 @@ func (g *GitHub) CommitNewFile(filePath string, content []byte, message string) 
 	}
 
 	_, _, err := g.Client.Repositories.CreateFile(
-		g.Context,
+		context.Background(),
 		g.RepoOwner,
 		g.RepoName,
 		filePath,

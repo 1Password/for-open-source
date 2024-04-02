@@ -7,6 +7,7 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
+    if: vars.PROCESSOR_ENABLED == 'true'
     outputs:
       is_approved: ${{ steps.check_label.outputs.is_approved }}
       approver_id: ${{ steps.check_label.outputs.approver_id }}
@@ -22,7 +23,7 @@ jobs:
   approve:
     needs: check
     runs-on: ubuntu-latest
-    if: needs.check.outputs.is_approved == 'true'
+    if: vars.PROCESSOR_ENABLED == 'true' && needs.check.outputs.is_approved == 'true'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

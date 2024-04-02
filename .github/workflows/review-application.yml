@@ -7,7 +7,7 @@ on:
 jobs:
   review-application:
     runs-on: ubuntu-latest
-    if: contains(github.event.issue.labels.*.name, 'application')
+    if: vars.PROCESSOR_ENABLED == 'true' && contains(github.event.issue.labels.*.name, 'application')
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

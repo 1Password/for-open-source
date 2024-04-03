@@ -3672,3 +3672,7 @@ https://wiki.metacubex.one
 ### GitHub Activity Report
 A simple End of Day (EOD) update generator that helps you create a summary of your GitHub activity. Built using Next.js, this app provides a clean and organized way to track your daily progress on GitHub.
 [GitHub](https://github.com/Ashesh3/github-activity) | [Website](https://git-eod.vercel.app/)
+
+### masstld
+masstld is a command line utility that searches for available domain names using a list of TLDs.
+https://github.com/ItsNiceCraft/masstld

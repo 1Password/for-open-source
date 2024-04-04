@@ -12,7 +12,7 @@ test:
 	$(info Running tests...)
 	@cd ./script && go test
 
-bump_version:
+bump_processor_version:
 	$(info Bumping version...)
 	@$(eval LAST_TAG=$(shell git rev-list --tags='processor-*' --max-count=1 | xargs -r git describe --tags --match 'processor-*'))
 	@$(eval LAST_NUM=$(if $(LAST_TAG),$(shell echo $(LAST_TAG) | sed 's/processor-//'),0))

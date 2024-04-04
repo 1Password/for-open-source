@@ -55,8 +55,9 @@ func (r *Reviewer) createComment(status Status, isClosed bool, issueAuthor strin
 
 	applicationData := fmt.Sprintf("<details>\n<summary>Application data...</summary>\n\n```json\n%s\n```\n</details>", r.application.GetData())
 	applicationFilePath := fmt.Sprintf("https://github.com/1Password/1password-teams-open-source/blob/main/data/%s", r.application.FileName())
-	approvedBody := fmt.Sprintf("@%s this application has already been approved and changes will not be reviewed. If you would like to modify the details of your application, submit a pull request against the stored [application data](%s). If you have any questions, contact us at [opensource@1password.com](mailto:opensource@1password.com).", issueAuthor, applicationFilePath)
-	closedBody := fmt.Sprintf("@%s this application is closed and changes will not be reviewed. If you have any questions, contact us at [opensource@1password.com](mailto:opensource@1password.com).", issueAuthor)
+	contactSnippet := "If you have any questions or this is an error, contact us at [opensource@1password.com](mailto:opensource@1password.com)."
+	approvedBody := fmt.Sprintf("@%s this application has already been approved and changes will not be reviewed. If you would like to modify the details of your application, submit a pull request against the stored [application data](%s). %s", issueAuthor, applicationFilePath, contactSnippet)
+	closedBody := fmt.Sprintf("@%s this application is closed and changes will not be reviewed. %s", issueAuthor, contactSnippet)
 
 	// If the issue is closed, let the user know that they can't make changes.
 	// If the issue was closed because it got approved, let them know how they can
@@ -81,7 +82,7 @@ func (r *Reviewer) createComment(status Status, isClosed bool, issueAuthor strin
 		}
 	} else {
 		title = "### ❌ Your application is invalid"
-		body = fmt.Sprintf("\n\n%s\n\n@%s our automated pre-checks have detected the following problems:\n\n%s\n\nUpdate this issue to correct these problems and we’ll automatically re-evaluate your application.", applicationData, issueAuthor, r.application.RenderProblems())
+		body = fmt.Sprintf("\n\n%s\n\n@%s our automated pre-checks have detected the following problems:\n\n%s\n\nUpdate this issue to correct these problems and we’ll automatically re-evaluate your application. %s", applicationData, issueAuthor, r.application.RenderProblems(), contactSnippet)
 	}
 
 	r.gitHub.CreateIssueComment(fmt.Sprintf("%s%s", title, body))

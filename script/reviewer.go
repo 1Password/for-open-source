@@ -17,14 +17,11 @@ const (
 )
 
 type Reviewer struct {
-	gitHub      GitHub
-	application Application
+	gitHub      *GitHub
+	application *Application
 }
 
 func (r *Reviewer) Review() {
-	r.gitHub = GitHub{}
-	r.application = Application{}
-
 	if err := r.gitHub.Init(); err != nil {
 		r.logErrorAndExit("could not initialize GitHub client", err)
 	}

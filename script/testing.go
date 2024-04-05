@@ -193,6 +193,13 @@ func setTestApplication(testName string) {
 		log.Fatalf(err.Error())
 	}
 
+	if err := os.Setenv("APPROVER_ID", "123"); err != nil {
+		log.Fatalf("Failed to set environment variable: %s", err)
+	}
+	if err := os.Setenv("APPROVER_USERNAME", "wendyappleseed"); err != nil {
+		log.Fatalf("Failed to set environment variable: %s", err)
+	}
+
 	testIssue = &issue
 }
 

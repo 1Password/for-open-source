@@ -50,12 +50,21 @@ func main() {
 		printUsageAndExit()
 	}
 
+	github := GitHub{}
+	application := Application{}
+
 	switch command {
 	case "review":
-		reviewer := Reviewer{}
+		reviewer := Reviewer{
+			gitHub:      &github,
+			application: &application,
+		}
 		reviewer.Review()
 	case "approve":
-		approver := Approver{}
+		approver := Approver{
+			gitHub:      &github,
+			application: &application,
+		}
 		approver.Approve()
 	default:
 		fmt.Printf("Invalid command: %s\n", command)

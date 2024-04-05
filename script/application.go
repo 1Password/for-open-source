@@ -152,13 +152,6 @@ func (a *Application) FileName() string {
 }
 
 func (a *Application) SetApprover() error {
-	if isTesting() {
-		a.ApproverId = 123
-		a.ApproverUsername = "test-username"
-
-		return nil
-	}
-
 	approverIdValue, err := getEnv("APPROVER_ID")
 	if err != nil {
 		return err

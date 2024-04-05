@@ -13,14 +13,11 @@ import (
 )
 
 type Approver struct {
-	gitHub      GitHub
-	application Application
+	gitHub      *GitHub
+	application *Application
 }
 
 func (a *Approver) Approve() {
-	a.gitHub = GitHub{}
-	a.application = Application{}
-
 	if err := a.application.SetApprover(); err != nil {
 		a.logErrorAndExit("could not set application approver", err)
 	}

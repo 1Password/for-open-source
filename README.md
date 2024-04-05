@@ -3674,3 +3674,7 @@ https://wiki.metacubex.one
 ### GitHub Activity Report
 A simple End of Day (EOD) update generator that helps you create a summary of your GitHub activity. Built using Next.js, this app provides a clean and organized way to track your daily progress on GitHub.
 [GitHub](https://github.com/Ashesh3/github-activity) | [Website](https://git-eod.vercel.app/)
+
+### Pallets
+The Pallets organization develops and supports popular Python frameworks and libraries, including Flask, Jinja, Click, and Quart. These libraries power applications of all sizes around the world and are downloaded millions of times each month. The goal of Pallets is to grow the community around these projects to create a sustainable group of contributors and users.
+https://palletsprojects.com

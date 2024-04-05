@@ -23,6 +23,7 @@ jobs:
           chmod +x ./processor
           ./processor review
         env:
+          SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
           OP_BOT_PAT: ${{ secrets.OP_BOT_PAT }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           REPOSITORY_OWNER: ${{ github.repository_owner }}

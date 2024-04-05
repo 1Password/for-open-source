@@ -1,11 +1,14 @@
 package main
 
 import (
+	"encoding/json"
 	"errors"
 	"fmt"
 	"log"
 	"path/filepath"
 	"strings"
+
+	"github.com/getsentry/sentry-go"
 )
 
 type Approver struct {
@@ -18,28 +21,33 @@ func (a *Approver) Approve() {
 	a.application = Application{}
 
 	if err := a.application.SetApprover(); err != nil {
-		a.printErrorAndExit(err)
+		a.logErrorAndExit("could not set application approver", err)
 	}
 
 	if err := a.gitHub.Init(); err != nil {
-		a.printErrorAndExit(err)
+		a.logErrorAndExit("could not initialize GitHub client", err)
 	}
 
 	if *a.gitHub.Issue.State == "closed" {
-		a.printErrorAndExit(errors.New("script run on closed issue"))
+		a.logErrorAndExit(
+			"script run on closed issue",
+			errors.New(*a.gitHub.Issue.State),
+		)
 	}
 
 	if !a.gitHub.IssueHasLabel(LabelStatusApproved) {
-		a.printErrorAndExit(
-			fmt.Errorf("script run on issue that does not have required '%s' label", LabelStatusApproved),
+		a.logErrorAndExit(
+			fmt.Sprintf("script run on issue that does not have required '%s' label", LabelStatusApproved),
+			fmt.Errorf("issue has labels %v", a.gitHub.Issue.Labels),
 		)
 	}
 
 	a.application.Parse(a.gitHub.Issue)
 
 	if !a.application.IsValid() {
-		a.printErrorAndExit(
-			fmt.Errorf("script run on issue with invalid application data:\n\n%s", a.renderProblems()),
+		a.logErrorAndExit(
+			"script run on issue with invalid application data",
+			errors.New(a.renderProblems()),
 		)
 	}
 
@@ -47,8 +55,9 @@ func (a *Approver) Approve() {
 	// let's double check and remove it if they haven't
 	if a.gitHub.IssueHasLabel(LabelStatusReviewing) {
 		if err := a.gitHub.RemoveIssueLabel(LabelStatusReviewing); err != nil {
-			a.printErrorAndExit(
-				fmt.Errorf("could not remove issue label '%s': %s", LabelStatusReviewing, err.Error()),
+			a.logErrorAndExit(
+				fmt.Sprintf("could not remove issue label '%s'", LabelStatusReviewing),
+				err,
 			)
 		}
 	}
@@ -58,26 +67,41 @@ func (a *Approver) Approve() {
 		a.application.GetData(),
 		fmt.Sprintf("Added \"%s\" to program", a.application.Project.Name),
 	); err != nil {
-		a.printErrorAndExit(
-			fmt.Errorf("could not create commit: %s", err.Error()),
+		a.logErrorAndExit(
+			"could not create commit",
+			err,
 		)
 	}
 
 	if err := a.gitHub.CreateIssueComment(a.getApprovalMessage()); err != nil {
-		a.printErrorAndExit(
-			fmt.Errorf("could not create issue comment: %s", err.Error()),
+		a.logErrorAndExit(
+			"could not create issue comment",
+			err,
 		)
 	}
 
 	if err := a.gitHub.CloseIssue(); err != nil {
-		a.printErrorAndExit(
-			fmt.Errorf("could not close issue: %s", err.Error()),
+		a.logErrorAndExit(
+			"could not close issue",
+			err,
 		)
 	}
+
+	var appData map[string]interface{}
+	err := json.Unmarshal(a.application.GetData(), &appData)
+	if err != nil {
+		log.Fatal(err)
+	}
+	sentry.CaptureEvent(&sentry.Event{
+		Message: "Application approved",
+		Level:   sentry.LevelInfo,
+		Extra:   appData,
+	})
 }
 
-func (a *Approver) printErrorAndExit(err error) {
-	log.Fatalf("Error approving application: %s\n", err.Error())
+func (a *Approver) logErrorAndExit(message string, err error) {
+	sentry.CaptureException(err)
+	log.Fatalf("Error approving issue: %s: %s\n", message, err.Error())
 }
 
 func (a *Approver) renderProblems() string {

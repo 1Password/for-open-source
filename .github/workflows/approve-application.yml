@@ -39,6 +39,7 @@ jobs:
           chmod +x ./processor
           ./processor approve
         env:
+          SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
           APPROVER_ID: ${{ needs.check.outputs.approver_id }}
           APPROVER_USERNAME: ${{ needs.check.outputs.approver_username }}
           OP_BOT_PAT: ${{ secrets.OP_BOT_PAT }}

@@ -4,6 +4,9 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"time"
+
+	"github.com/getsentry/sentry-go"
 )
 
 func printUsageAndExit() {
@@ -21,6 +24,20 @@ func getEnv(key string) (string, error) {
 }
 
 func main() {
+	sentryDsn, err := getEnv("SENTRY_DSN")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	err = sentry.Init(sentry.ClientOptions{
+		Dsn: sentryDsn,
+	})
+	if err != nil {
+		log.Fatalf("Sentry initialization failed: %v\n", err)
+	}
+
+	defer sentry.Flush(2 * time.Second)
+
 	if len(os.Args) < 2 {
 		printUsageAndExit()
 	}

@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
+
+	"github.com/getsentry/sentry-go"
 )
 
 type Status int
@@ -24,7 +26,7 @@ func (r *Reviewer) Review() {
 	r.application = Application{}
 
 	if err := r.gitHub.Init(); err != nil {
-		r.printErrorAndExit(err)
+		r.logErrorAndExit("could not initialize GitHub client", err)
 	}
 
 	r.application.Parse(r.gitHub.Issue)
@@ -96,38 +98,43 @@ func (r *Reviewer) updateLabels(status Status, isClosed bool) {
 	if r.application.IsValid() {
 		if status == Invalid {
 			if err := r.gitHub.RemoveIssueLabel(LabelStatusInvalid); err != nil {
-				r.printErrorAndExit(
-					fmt.Errorf("could not remove issue label '%s': %s", LabelStatusInvalid, err.Error()),
+				r.logErrorAndExit(
+					fmt.Sprintf("could not remove issue label '%s'", LabelStatusInvalid),
+					err,
 				)
 			}
 		}
 
 		if status != Reviewing {
 			if err := r.gitHub.AddIssueLabel(LabelStatusReviewing); err != nil {
-				r.printErrorAndExit(
-					fmt.Errorf("could not add issue label '%s': %s", LabelStatusReviewing, err.Error()),
+				r.logErrorAndExit(
+					fmt.Sprintf("could not add issue label '%s'", LabelStatusReviewing),
+					err,
 				)
 			}
 		}
 	} else {
 		if status != Invalid {
 			if err := r.gitHub.AddIssueLabel(LabelStatusInvalid); err != nil {
-				r.printErrorAndExit(
-					fmt.Errorf("could not add issue label '%s': %s", LabelStatusInvalid, err.Error()),
+				r.logErrorAndExit(
+					fmt.Sprintf("could not add issue label '%s'", LabelStatusInvalid),
+					err,
 				)
 			}
 		}
 
 		if status == Reviewing {
 			if err := r.gitHub.RemoveIssueLabel(LabelStatusReviewing); err != nil {
-				r.printErrorAndExit(
-					fmt.Errorf("could not remove issue label '%s': %s", LabelStatusReviewing, err.Error()),
+				r.logErrorAndExit(
+					fmt.Sprintf("could not remove issue label '%s'", LabelStatusReviewing),
+					err,
 				)
 			}
 		}
 	}
 }
 
-func (r *Reviewer) printErrorAndExit(err error) {
-	log.Fatalf("Error reviewing issue: %s\n", err.Error())
+func (r *Reviewer) logErrorAndExit(message string, err error) {
+	sentry.CaptureException(err)
+	log.Fatalf("Error reviewing issue: %s: %s\n", message, err.Error())
 }

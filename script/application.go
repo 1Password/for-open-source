@@ -9,6 +9,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/getsentry/sentry-go"
 	"github.com/google/go-github/v60/github"
 )
 
@@ -64,6 +65,7 @@ func (a *Application) Parse(issue *github.Issue) {
 	if isTesting() {
 		data, err := json.MarshalIndent(a.sections, "", "\t")
 		if err != nil {
+			sentry.CaptureException(err)
 			log.Fatalf("Could not marshal Sections input data: %s", err.Error())
 		}
 
@@ -125,6 +127,7 @@ func (a *Application) RenderProblems() string {
 func (a *Application) GetData() []byte {
 	data, err := json.MarshalIndent(a, "", "\t")
 	if err != nil {
+		sentry.CaptureException(err)
 		log.Fatalf("Could not marshal Application data: %s", err.Error())
 	}
 

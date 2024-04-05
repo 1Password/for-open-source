@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"path/filepath"
+	"strconv"
 	"strings"
 
 	"github.com/getsentry/sentry-go"
@@ -87,16 +88,7 @@ func (a *Approver) Approve() {
 		)
 	}
 
-	var appData map[string]interface{}
-	err := json.Unmarshal(a.application.GetData(), &appData)
-	if err != nil {
-		log.Fatal(err)
-	}
-	sentry.CaptureEvent(&sentry.Event{
-		Message: "Application approved",
-		Level:   sentry.LevelInfo,
-		Extra:   appData,
-	})
+	a.createSentryEvent()
 }
 
 func (a *Approver) logErrorAndExit(message string, err error) {
@@ -124,4 +116,39 @@ To lower the risk of lockout, [assign at least one other person to help with acc
 Finally, we’d love to hear more about your experience using 1Password in your development workflows! Feel free to join us over on the [1Password Developers Slack](https://join.slack.com/t/1password-devs/shared_invite/zt-15k6lhima-GRb5Ga~fo7mjS9xPzDaF2A) workspace.
 
 Welcome to the program and happy coding! 🧑‍💻`, a.application.ApproverUsername))
+}
+
+func (a *Approver) createSentryEvent() {
+	var appData map[string]interface{}
+	err := json.Unmarshal(a.application.GetData(), &appData)
+	if err != nil {
+		sentry.CaptureException(err)
+		log.Fatal(err)
+	}
+
+	var applicationType string
+	if a.application.Project.IsTeam {
+		applicationType = "team"
+	} else if a.application.Project.IsEvent {
+		applicationType = "event"
+	} else {
+		applicationType = "project"
+	}
+
+	tags := map[string]string{
+		"project_name":     a.application.Project.Name,
+		"homepage_url":     a.application.Project.HomeURL,
+		"application_type": applicationType,
+		"team_size":        strconv.Itoa(a.application.Project.Contributors),
+		"issue_number":     strconv.Itoa(a.application.IssueNumber),
+		"approved_by":      fmt.Sprintf("@%s", a.application.ApproverUsername),
+		"can_contact":      strconv.FormatBool(a.application.CanContact),
+	}
+
+	sentry.CaptureEvent(&sentry.Event{
+		Message: fmt.Sprintf("Application approved for \"%s\"", a.application.Project.Name),
+		Level:   sentry.LevelInfo,
+		Extra:   appData,
+		Tags:    tags,
+	})
 }

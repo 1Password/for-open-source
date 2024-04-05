@@ -3643,6 +3643,10 @@ https://t.me/VidStickerBot
 The Commonhaus Foundation fosters a nurturing home for open-source projects, prioritizing innovation, collaboration, and sustainability. We support the growth and stability of projects through community-driven governance and shared resources, ensuring open-source ecosystems thrive.
 https://www.commonhaus.org
 
+### Pulsate
+Pulsate is the next generation of faster and developer-friendly distributed SNS (and of course user-friendly). It is being developed with the goal of becoming a powerful alternative to existing distributed SNSs in the future.
+https://github.com/pulsate-dev/pulsate
+
 ### VirtualCoffeeIO
 Virtual Coffee is a tech community where friendships are formed and support is given to people at all stages of their journey. Join our laid-back twice-weekly conversations and our online events to connect with people who share your passion for technology.
 https://virtualcoffee.io
@@ -3660,12 +3664,10 @@ An open-source mobile development framework that allows developers to use standa
 https://cordova.apache.org/
 
 ### HashiCorp Korea User Group
-
 HashiCorp Korea User Group is a South Korea based HashiCorp users and contributors community for anyone interested in HashiCorp products and its OSS projects like Terraform, Packer, Consul, Vault, Nomad and more. We organize local HashiCorp meetup and workshop events, and provide online space for Korean HashiCorp users.
 https://www.facebook.com/groups/hashicorpkrug
 
 ### Mihomo
-
 Mihomo offers a versatile networking solution with support for local servers, various protocols, DNS security features, flexible routing rules, remote group management, and comprehensive API control.
 https://wiki.metacubex.one
 

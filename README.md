@@ -3678,3 +3678,7 @@ A simple End of Day (EOD) update generator that helps you create a summary of yo
 ### Pallets
 The Pallets organization develops and supports popular Python frameworks and libraries, including Flask, Jinja, Click, and Quart. These libraries power applications of all sizes around the world and are downloaded millions of times each month. The goal of Pallets is to grow the community around these projects to create a sustainable group of contributors and users.
 https://palletsprojects.com
+
+### masstld
+masstld is a command line utility that searches for available domain names using a list of TLDs.
+https://github.com/ItsNiceCraft/masstld

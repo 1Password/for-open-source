@@ -3678,3 +3678,7 @@ A simple End of Day (EOD) update generator that helps you create a summary of yo
 ### Pallets
 The Pallets organization develops and supports popular Python frameworks and libraries, including Flask, Jinja, Click, and Quart. These libraries power applications of all sizes around the world and are downloaded millions of times each month. The goal of Pallets is to grow the community around these projects to create a sustainable group of contributors and users.
 https://palletsprojects.com
+
+### Vue.js Japan User Group
+The Vue.js Japan User Group (Japanese: Vue.js 日本ユーザーグループ) is a nonprofit organization to hold an annual Tech Conference about Vue.js, Vue related ecosystem and OSS related to Evan you in Japan.
+https://vuefes.jp/

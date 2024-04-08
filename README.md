@@ -3681,4 +3681,5 @@ https://palletsprojects.com
 
 ### Vue.js Japan User Group
 The Vue.js Japan User Group (Japanese: Vue.js 日本ユーザーグループ) is a nonprofit organization to hold an annual Tech Conference about Vue.js, Vue related ecosystem and OSS related to Evan you in Japan.
-https://vuefes.jp/
+- Conference Web Site: https://vuefes.jp/
+- Organization Web Site: https://vuejs-jp.org/en

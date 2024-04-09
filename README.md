@@ -3682,3 +3682,7 @@ https://palletsprojects.com
 ### masstld
 masstld is a command line utility that searches for available domain names using a list of TLDs.
 https://github.com/ItsNiceCraft/masstld
+
+### Boxcutter
+Community-driven templates and tools for creating cloud, virtual machines, containers and metal operating system environments.
+https://github.com/boxcutter

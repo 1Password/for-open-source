@@ -3682,3 +3682,9 @@ https://palletsprojects.com
 ### masstld
 masstld is a command line utility that searches for available domain names using a list of TLDs.
 https://github.com/ItsNiceCraft/masstld
+
+### PyCascades
+
+PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Our organizing team includes members of the Vancouver, Seattle, and Portland Python user groups. PyCascades is a fiscal sponsoree of the [Python Software Foundation](https://www.python.org/psf-landing/).
+[GitHub](https://github.com/pycascades) | [Website](https://pycascades.com)
+

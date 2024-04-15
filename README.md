@@ -3691,3 +3691,7 @@ The Vue.js Japan User Group (Japanese: Vue.js 日本ユーザーグループ) is
 ### Boxcutter
 Community-driven templates and tools for creating cloud, virtual machines, containers and metal operating system environments.
 https://github.com/boxcutter
+
+### PyCascades
+PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Our organizing team includes members of the Vancouver, Seattle, and Portland Python user groups. PyCascades is a fiscal sponsoree of the [Python Software Foundation](https://www.python.org/psf-landing/).
+[GitHub](https://github.com/pycascades) | [Website](https://pycascades.com)

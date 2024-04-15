@@ -3687,3 +3687,7 @@ https://github.com/ItsNiceCraft/masstld
 The Vue.js Japan User Group (Japanese: Vue.js 日本ユーザーグループ) is a nonprofit organization to hold an annual Tech Conference about Vue.js, Vue related ecosystem and OSS related to Evan you in Japan.
 - Conference Web Site: https://vuefes.jp/
 - Organization Web Site: https://vuejs-jp.org/en
+
+### Boxcutter
+Community-driven templates and tools for creating cloud, virtual machines, containers and metal operating system environments.
+https://github.com/boxcutter

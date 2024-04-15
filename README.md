@@ -3683,8 +3683,15 @@ https://palletsprojects.com
 masstld is a command line utility that searches for available domain names using a list of TLDs.
 https://github.com/ItsNiceCraft/masstld
 
-### PyCascades
+### Vue.js Japan User Group
+The Vue.js Japan User Group (Japanese: Vue.js 日本ユーザーグループ) is a nonprofit organization to hold an annual Tech Conference about Vue.js, Vue related ecosystem and OSS related to Evan you in Japan.
+- Conference Web Site: https://vuefes.jp/
+- Organization Web Site: https://vuejs-jp.org/en
 
+### Boxcutter
+Community-driven templates and tools for creating cloud, virtual machines, containers and metal operating system environments.
+https://github.com/boxcutter
+
+### PyCascades
 PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Our organizing team includes members of the Vancouver, Seattle, and Portland Python user groups. PyCascades is a fiscal sponsoree of the [Python Software Foundation](https://www.python.org/psf-landing/).
 [GitHub](https://github.com/pycascades) | [Website](https://pycascades.com)
-

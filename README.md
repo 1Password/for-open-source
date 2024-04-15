@@ -3682,3 +3682,8 @@ https://palletsprojects.com
 ### masstld
 masstld is a command line utility that searches for available domain names using a list of TLDs.
 https://github.com/ItsNiceCraft/masstld
+
+### Vue.js Japan User Group
+The Vue.js Japan User Group (Japanese: Vue.js 日本ユーザーグループ) is a nonprofit organization to hold an annual Tech Conference about Vue.js, Vue related ecosystem and OSS related to Evan you in Japan.
+- Conference Web Site: https://vuefes.jp/
+- Organization Web Site: https://vuejs-jp.org/en

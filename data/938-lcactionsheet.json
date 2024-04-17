@@ -1,0 +1,23 @@
+{
+	"account": "zzonez.1password.com",
+	"project": {
+		"name": "LCActionSheet",
+		"description": "This project is a third-party library for iOS.\n\nIt provides a concise style ActionSheet, helping some iOS developers to quickly implement their own ActionSheet.",
+		"contributors": 3,
+		"home_url": "https://github.com/iTofu/LCActionSheet",
+		"license_type": "MIT",
+		"license_url": "https://raw.githubusercontent.com/iTofu/LCActionSheet/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Leo",
+		"email": "i@zzonez.com",
+		"role": "Founder or Owner",
+		"id": 10044430
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 938,
+	"created_at": "2024-04-17T09:14:43Z"
+}

@@ -1,0 +1,23 @@
+{
+	"account": "1space.1password.com",
+	"project": {
+		"name": "Kitty",
+		"description": "Kitty is a developer’s git companion, it can improve your code quality easily.",
+		"contributors": 1,
+		"home_url": "https://github.com/ImSingee/kitty",
+		"license_type": "MIT",
+		"license_url": "https://github.com/ImSingee/kitty/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Bryan",
+		"email": "singeeking@gmail.com",
+		"role": "Founder or Owner",
+		"id": 11208082
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 940,
+	"created_at": "2024-04-18T03:37:49Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "d4n13l3k00.1password.com",
+	"project": {
+		"name": "Tapkofon",
+		"description": "Telegram’s minimalistic web client on Telethon, FastAPI, made primarily for button phones. This project will be useful for individuals who require basic phone access or limited internet capabilities, as well as those seeking a challenge or unique experience in using technology with restrictions.",
+		"contributors": 1,
+		"home_url": "https://github.com/D4n13l3k00/tapkofon/",
+		"repo_url": "https://github.com/D4n13l3k00/tapkofon/",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/D4n13l3k00/tapkofon/blob/poetry/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Daniel",
+		"email": "D4n13l3k00@yandex.ru",
+		"role": "Founder or Owner",
+		"id": 38838770
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 942,
+	"created_at": "2024-04-19T14:50:55Z"
+}

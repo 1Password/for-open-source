@@ -1,0 +1,21 @@
+{
+	"account": "johnil.1password.com",
+	"project": {
+		"name": "JFImagePickerController",
+		"description": "An iOS development team",
+		"contributors": 8,
+		"home_url": "https://github.com/johnil/JFImagePickerController",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Johnil",
+		"email": "johnil@me.com",
+		"role": "Founder or Owner",
+		"id": 958130
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 943,
+	"created_at": "2024-04-19T16:44:53Z"
+}

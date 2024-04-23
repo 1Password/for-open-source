@@ -14,7 +14,6 @@
 When you join the program, you'll get a free [1Password Teams](https://1password.com/teams) account. Here's what you can expect:
 
 - Your membership doesn't expire as long as your project remains eligible for the program.
-- Invite as many team members to your project as you need. Accounts in the program are not limited to 10 members.
 - The whole team can use 1Password, everywhere: [Mac](https://1password.com/downloads/mac/), [Windows](https://1password.com/downloads/windows/), [iOS](https://1password.com/downloads/ios/), [Android](https://1password.com/downloads/android/), [Linux](https://1password.com/downloads/linux/), and [in the browser](https://1password.com/downloads/browser-extension/).
 - Developers can integrate 1Password into their development workflows, including [managing SSH keys and signing Git commits](https://1password.com/developers/ssh), [authenticating CLIs with biometrics](https://1password.com/developers/cli), and [securing secrets throughout your projects](https://1password.com/developers/secrets-management).
 

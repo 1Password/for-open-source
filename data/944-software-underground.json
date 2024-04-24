@@ -1,0 +1,22 @@
+{
+	"account": "softwareunderground.1password.com",
+	"project": {
+		"name": "Software Underground",
+		"description": "Software Underground is a non-profit organization based in Canada. Its mission is:\n\n\u003e “to provide technical and professional development opportunities to the global community of Earth scientists and engineers who program computers in the course of their work, and to promote the use of open source digital technology in the exploitation of natural resources and investigation of the Earth”.\n\nIt maintains a self-hosted instance of a chat platform (Mattermost) that allows swift communication within the community. This platform is being used by several open-source projects as their main channel of communication (e.g. emsig, Fatiando a Terra, GemPy, pyGIMLi, SimPEG, Welly).\n\nSoftware Underground also hosts the Transform events, in which tutorials on how to use open-source tools and their applications to real world problems are live streamed and saved on YouTube, code sprints are organized to accelerate the development of these tools, and other sessions are held to nurture the community.\n\nBeing a non-profit, Software Underground is able to act as fiscal sponsor of some of these projects, assist them with its infrastructure, fund travel grants for meetings, and offer self-hosted services for the whole community without any charge.",
+		"contributors": 500,
+		"home_url": "https://softwareunderground.org",
+		"repo_url": "https://github.com/softwareunderground",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Santiago Soler",
+		"email": "santisoler@fastmail.com",
+		"role": "Team Member or Employee",
+		"id": 11541317
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 944,
+	"created_at": "2024-04-24T17:43:47Z"
+}

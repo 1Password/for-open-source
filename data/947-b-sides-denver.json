@@ -1,0 +1,22 @@
+{
+	"account": "bsidesdenver.1password.com",
+	"project": {
+		"name": "B Sides Denver",
+		"description": "B Sides Denver is an open source local infosec convention",
+		"contributors": 10,
+		"home_url": "https://www.bsidesden.org/",
+		"license_url": "https://www.bsidesden.org/mission-statement",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Chris Yoder",
+		"email": "chris@bsidesden.org",
+		"role": "Founder or Owner",
+		"id": 32581884
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 947,
+	"created_at": "2024-04-25T19:37:29Z"
+}

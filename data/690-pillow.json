@@ -1,0 +1,23 @@
+{
+  "account": "pillow.1password.com",
+  "project": {
+    "name": "Pillow",
+    "description": "Pillow is the imaging library for Python.",
+    "contributors": 4,
+    "home_url": "https://pillow.readthedocs.io",
+    "repo_url": "https://github.com/python-pillow/Pillow",
+    "license_type": "HPND",
+    "license_url": "https://github.com/python-pillow/Pillow/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Hugo van Kemenade",
+    "role": "Maintainer, core team member",
+    "id": 1324225
+  },
+  "can_contact": true,
+  "issue_number": 690,
+  "created_at": "2023-02-17T09:05:13Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/690"
+}

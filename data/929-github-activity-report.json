@@ -1,0 +1,24 @@
+{
+  "account": "ashsec.1password.com",
+  "project": {
+    "name": "GitHub Activity Report",
+    "description": "The GitHub Activity Report project presents an innovative tool designed to automate the generation of End of Day (EOD) updates for GitHub users. This application efficiently tracks and summarizes users' daily GitHub activities, including pull requests, issues, and commits. It simplifies the process of monitoring and reporting individual contributions to projects hosted on GitHub, facilitating better communication within teams and enhancing productivity.",
+    "contributors": 1,
+    "home_url": "https://git-eod.vercel.app/",
+    "repo_url": "https://github.com/Ashesh3/github-activity",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Ashesh3/github-activity/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ashesh Kumar",
+    "email": "demonetix@gmail.com",
+    "role": "Developer",
+    "id": 3626859
+  },
+  "can_contact": false,
+  "issue_number": 929,
+  "created_at": "2024-04-02T05:26:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/929"
+}

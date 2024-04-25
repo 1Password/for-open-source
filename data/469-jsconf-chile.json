@@ -1,0 +1,24 @@
+{
+  "account": "fforres.1password.com",
+  "project": {
+    "name": "JSConf Chile",
+    "description": "JSconf.cl is the first JS conference we are running in Chile. (Our initial idea was to run this by 2020, but covid had other plans).\nWe are running the conference without looking to profit, and we want to keep it by-the-community, for-the-community. Our plan is to do one every year, and make the opensource the organization process so more folks can create their own conference.",
+    "contributors": 6,
+    "home_url": "https://jsconf.cl/",
+    "repo_url": "https://github.com/JSConfCL?type=source",
+    "license_type": "CC BY-SA",
+    "license_url": "https://guides.lib.umich.edu/creativecommons/licenses#:~:text=Attribution%3A%20CC%20BY,and%20use%20of%20licensed%20materials.",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Felipe Torres",
+    "email": "felipe.torrressesepulveda@gmail.com",
+    "role": "Organizer - Core Team member",
+    "id": 952992
+  },
+  "can_contact": false,
+  "issue_number": 469,
+  "created_at": "2022-03-07T00:49:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/469"
+}

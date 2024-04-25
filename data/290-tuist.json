@@ -1,0 +1,24 @@
+{
+  "account": "tuist.1password.com",
+  "project": {
+    "name": "Tuist",
+    "description": "Tuist is a command line tool to make developers building apps for Apple platforms productive. It leverages Xcode project generation to provide teams with an easy interface to describe their projects and streamlined workflows.",
+    "contributors": 100,
+    "home_url": "https://tuist.io",
+    "repo_url": "https://github.com/tuist/tuist",
+    "license_type": "MIT",
+    "license_url": "https://github.com/tuist/tuist/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Pedro",
+    "email": "pedro@tuist.io",
+    "role": "Core maintainer",
+    "id": 663605
+  },
+  "can_contact": false,
+  "issue_number": 290,
+  "created_at": "2021-01-14T19:41:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/290"
+}

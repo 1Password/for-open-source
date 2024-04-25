@@ -1,0 +1,24 @@
+{
+  "account": "kymaproject.1password.eu",
+  "project": {
+    "name": "Kyma Project",
+    "description": "Kyma /kee-ma/ is a platform for extending applications with serverless functions and microservices. It provides a selection of cloud-native projects glued together to simplify the creation and management of extensions",
+    "contributors": 100,
+    "home_url": "https://kyma-project.io/",
+    "repo_url": "https://github.com/kyma-project/kyma/",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/kyma-project/kyma/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Valentin Vieriu",
+    "email": "valentin.vieriu@gmail.com",
+    "role": "Community Manager",
+    "id": 478866
+  },
+  "can_contact": false,
+  "issue_number": 197,
+  "created_at": "2020-05-01T09:18:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/197"
+}

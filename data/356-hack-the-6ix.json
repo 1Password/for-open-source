@@ -1,0 +1,24 @@
+{
+  "account": "hackthe6ix.1password.com",
+  "project": {
+    "name": "Hack the 6ix",
+    "description": "Hack the 6ix is the largest student-run, not-for-profit summer hackathon located in the heart of Toronto. Every year, we select 500+ participants from a pool of over 1700 remarkable developers, designers, and innovators. Now in its seventh iteration, Hack the 6ix has established itself as a key player in the Toronto tech ecosystem and provides a platform for students to present their ideas of the future.",
+    "contributors": 4,
+    "home_url": "https://hackthe6ix.com",
+    "repo_url": "https://github.com/hack-the-6ix",
+    "license_type": "MIT",
+    "license_url": "https://github.com/hack-the-6ix/hackthe6ix-landing-2021/blob/main/LICENSE",
+    "is_event": true,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Henry Tu",
+    "email": "henry@hackthe6ix.com",
+    "role": "Web Director",
+    "id": 17518332
+  },
+  "can_contact": false,
+  "issue_number": 356,
+  "created_at": "2021-06-19T22:18:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/356"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "dropwizard.1password.com",
+  "project": {
+    "name": "Dropwizard",
+    "description": "Dropwizard is a mature Java framework for developing ops-friendly, high-performance, RESTful web services.",
+    "contributors": 8,
+    "home_url": "https://www.dropwizard.io",
+    "repo_url": "https://github.com/dropwizard/dropwizard",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/dropwizard/dropwizard/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jochen Schalanda",
+    "email": "jochen+1password@schalanda.name",
+    "role": "Maintainer",
+    "id": 43951
+  },
+  "can_contact": false,
+  "issue_number": 109,
+  "created_at": "2019-03-10T19:52:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/109"
+}

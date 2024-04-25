@@ -1,0 +1,24 @@
+{
+  "account": "spatie.1password.com",
+  "project": {
+    "name": "Spatie",
+    "description": "We have been working on open source for nearly 10 years\n\nSome of our biggest packages are:\n- Backtrace: 58 million downloads\n- Ignition: 48 million downloads\n- Laravel Persmission: 40 million downloads\n- Image: 26 million downloads",
+    "contributors": 10,
+    "home_url": "https://spatie.be/open-source",
+    "repo_url": "https://github.com/spatie",
+    "license_type": "MIT",
+    "license_url": "https://github.com/spatie/backtrace/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Freek Van der Herten",
+    "email": "freek@spatie.be",
+    "role": "Lead developer",
+    "id": 483853
+  },
+  "can_contact": true,
+  "issue_number": 871,
+  "created_at": "2024-01-08T09:29:09Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/871"
+}

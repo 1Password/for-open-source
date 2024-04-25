@@ -1,0 +1,23 @@
+{
+  "account": "pytexas.1password.com",
+  "project": {
+    "name": "PyTexas Foundation",
+    "description": "The PyTexas Foundation is a 501(c)3 non-profit run by a Texas-based volunteer group. We are Python enthusiasts that want to share the programming language with the world, starting right here in Texas. We currently facilitate the PyTexas Conference (The oldest regional Python conference in North America) and the PyTexas Meetup.",
+    "contributors": 7,
+    "home_url": "https://pytexas.org",
+    "repo_url": "https://github.com/pytexas",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Mason Egger",
+    "email": "mason@pytexas.org",
+    "role": "President of the PyTexas Foundation",
+    "id": 11214847
+  },
+  "can_contact": true,
+  "issue_number": 824,
+  "created_at": "2023-10-02T15:17:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/824"
+}

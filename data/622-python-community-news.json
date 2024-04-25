@@ -1,0 +1,24 @@
+{
+  "account": "pythoncommunitynews.1password.com",
+  "project": {
+    "name": "Python Community News",
+    "description": "Python Community News is a podcast, livestream, and newsletter that focuses on the Non-Pipable news in the Python Community.",
+    "contributors": 2,
+    "home_url": "https://pythoncommunitynews.com",
+    "repo_url": "https://github.com/Python-Community-News",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Python-Community-News/Topics/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jon Banafato",
+    "email": "jon@jonafato.com",
+    "role": "Co-host",
+    "id": 392720
+  },
+  "can_contact": false,
+  "issue_number": 622,
+  "created_at": "2022-10-27T18:13:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/622"
+}

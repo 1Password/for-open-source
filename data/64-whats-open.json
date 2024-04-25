@@ -1,0 +1,24 @@
+{
+  "account": "masonsrct.1password.com",
+  "project": {
+    "name": "What's Open",
+    "description": "An API providing information about various campus facilities, most notably their hours, to students across the George Mason University campus. Also clients for web, iOS, and Android (with more in the future) to display this data to users.",
+    "contributors": 8,
+    "home_url": "https://whatsopen.gmu.edu/",
+    "repo_url": "https://git.gmu.edu/srct/whats-open",
+    "license_type": "Apache 2.0",
+    "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Zach Knox",
+    "email": "zknox@gmu.edu",
+    "role": "Contributor",
+    "id": 378136
+  },
+  "can_contact": false,
+  "issue_number": 64,
+  "created_at": "2018-06-08T15:32:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/64"
+}

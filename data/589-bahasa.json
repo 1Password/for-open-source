@@ -1,0 +1,24 @@
+{
+  "account": "bahasa.1password.com",
+  "project": {
+    "name": "Bahasa",
+    "description": "Natural language toolkit for Indonesian Language (Bahasa).",
+    "contributors": 1,
+    "home_url": "https://github.com/kangfend/bahasa",
+    "repo_url": "https://github.com/kangfend/bahasa",
+    "license_type": "MIT",
+    "license_url": "https://github.com/kangfend/bahasa/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sutrisno Efendi",
+    "email": "kangfend@gmail.com",
+    "role": "Maintainer",
+    "id": 4632730
+  },
+  "can_contact": false,
+  "issue_number": 589,
+  "created_at": "2022-08-18T06:13:13Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/589"
+}

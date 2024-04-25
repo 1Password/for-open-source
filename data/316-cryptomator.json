@@ -1,0 +1,24 @@
+{
+  "account": "skymatic.1password.com",
+  "project": {
+    "name": "Cryptomator",
+    "description": "Cryptomator is a multi-platform, client-side encryption software that protects your files in the cloud. It offers what is called \"transparent file encryption\", i.e. it mirrors parts of a file system and allows users to read and write to it just as if it was a normal drive. When writing, it encrypts. When reading, it decrypts.",
+    "contributors": 8,
+    "home_url": "https://cryptomator.org",
+    "repo_url": "https://github.com/cryptomator/cryptomator",
+    "license_type": "GPLv3",
+    "license_url": "https://github.com/cryptomator/cryptomator/blob/develop/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Tobias Hagemann",
+    "email": "tobias.hagemann@skymatic.de",
+    "role": "Co-founder \u0026 CEO / Developer \u0026 Designer",
+    "id": 2924160
+  },
+  "can_contact": false,
+  "issue_number": 316,
+  "created_at": "2021-03-16T11:13:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/316"
+}

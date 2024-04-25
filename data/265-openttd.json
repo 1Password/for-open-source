@@ -1,0 +1,24 @@
+{
+  "account": "openttd.1password.com",
+  "project": {
+    "name": "OpenTTD",
+    "description": "OpenTTD is an open source simulation game based upon the popular Microprose game 'Transport Tycoon Deluxe', written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.",
+    "contributors": 93,
+    "home_url": "https://www.openttd.org/",
+    "repo_url": "https://github.com/OpenTTD/OpenTTD",
+    "license_type": "GPLv2",
+    "license_url": "https://github.com/OpenTTD/OpenTTD/blob/master/COPYING.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Patric 'TrueBrain' Stout",
+    "email": "truebrain@openttd.org",
+    "role": "SysOp",
+    "id": 1663690
+  },
+  "can_contact": false,
+  "issue_number": 265,
+  "created_at": "2020-11-24T12:41:49Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/265"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "team-theodinproject.1password.com",
+  "project": {
+    "name": "The Odin Project",
+    "description": "An open source platform for learning how to code from scratch.",
+    "contributors": 10,
+    "home_url": "https://www.theodinproject.com/",
+    "repo_url": "https://github.com/orgs/TheOdinProject/repositories?type=source",
+    "license_type": "MIT / CC",
+    "license_url": "https://github.com/TheOdinProject/theodinproject/blob/main/license.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Briggs Elsperger",
+    "email": "briggse@protonmail.com",
+    "role": "Core Member",
+    "id": 4411701
+  },
+  "can_contact": false,
+  "issue_number": 410,
+  "created_at": "2021-11-08T01:49:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/410"
+}

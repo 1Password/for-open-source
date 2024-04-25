@@ -1,0 +1,24 @@
+{
+  "account": "team-nuaa.1password.com",
+  "project": {
+    "name": "Send-to-Telegram for Google Chrome",
+    "description": "A Chrome extension that allow you to send web content (tab, text, image) to your own \"Telegram Bot\" using official Telegram API.",
+    "contributors": 1,
+    "home_url": "https://chrome.google.com/webstore/detail/send-to-telegram-for-goog/dgblfklicldlbclahclbkeiacpiiancc",
+    "repo_url": "https://github.com/phguo/Send-to-Telegram-Chrome-extension",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/phguo/Send-to-Telegram-Chrome-extension/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Penghui Guo",
+    "email": "m@guo.ph",
+    "role": "Core developer",
+    "id": 10487750
+  },
+  "can_contact": false,
+  "issue_number": 423,
+  "created_at": "2021-11-28T21:31:46Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/423"
+}

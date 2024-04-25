@@ -1,0 +1,24 @@
+{
+  "account": "evoesportsev.1password.com",
+  "project": {
+    "name": "Evo eSports e.V.",
+    "description": "Evo eSports e.V. is an esports club registered in Germany and manages several open source projects, many of which revolve around the video game series Trackmania by Ubisoft Nadeo. Our latest project, EvoSC-Sharp, is a server administration tool that adds additional functionality to Trackmania servers for players as well as server administrators, such as records tracking, ingame moderation functionality and much more.",
+    "contributors": 5,
+    "home_url": "https://evosc.io",
+    "repo_url": "https://github.com/EvoEsports/EvoSC-sharp",
+    "license_type": "GNU GPL v3.0",
+    "license_url": "https://github.com/EvoEsports/EvoSC-sharp/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Christopher Flügel",
+    "email": "christopher.fluegel@evoesports.gg",
+    "role": "Developer and deputy CEO of our esports club",
+    "id": 5523125
+  },
+  "can_contact": true,
+  "issue_number": 872,
+  "created_at": "2024-01-08T11:51:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/872"
+}

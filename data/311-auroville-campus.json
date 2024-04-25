@@ -1,0 +1,24 @@
+{
+  "account": "auroville.1password.com",
+  "project": {
+    "name": "Auroville Campus",
+    "description": "Auroville is a non-profit organization in India that has been conducting educational activities offline for 53 years. The Auroville Campus project aims to bring online education to the community. The project is over 1 year old and has 20 core contributors.",
+    "contributors": 20,
+    "home_url": "https://edu.auroville.org",
+    "repo_url": "https://github.com/Auroville/campus",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Auroville/campus/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Shankar Dhanasekaran",
+    "email": "shankardevy@auroville.org.in",
+    "role": "CTO",
+    "id": 2011812
+  },
+  "can_contact": false,
+  "issue_number": 311,
+  "created_at": "2021-03-03T06:37:13Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/311"
+}

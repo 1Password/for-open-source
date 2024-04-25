@@ -1,0 +1,24 @@
+{
+  "account": "ryan.turner3.1password.com",
+  "project": {
+    "name": "SPIFFE + SPIRE",
+    "description": "The Secure Production Identity Framework For Everyone (SPIFFE) Project defines a framework and set of standards for identifying and securing communications between application services. SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms. It is a reference implementation of the SPIFFE specifications. The SPIFFE organization hosts multiple projects, with SPIFFE and SPIRE being the core projects.",
+    "contributors": 25,
+    "home_url": "https://spiffe.io",
+    "repo_url": "https://github.com/spiffe/spiffe",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/spiffe/spiffe/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Ryan Turner",
+    "email": "ryan.turner253@icloud.com",
+    "role": "SPIRE project maintainer",
+    "id": 11280829
+  },
+  "can_contact": true,
+  "issue_number": 723,
+  "created_at": "2023-04-12T19:23:49Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/723"
+}

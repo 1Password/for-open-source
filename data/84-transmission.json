@@ -1,0 +1,24 @@
+{
+  "account": "transmissionbt.1password.ca",
+  "project": {
+    "name": "Transmission",
+    "description": "A fast, easy and free BitTorrent client.",
+    "contributors": 3,
+    "home_url": "https://transmissionbt.com",
+    "repo_url": "https://github.com/transmission",
+    "license_type": "MIT, GPLv2, GPLv3",
+    "license_url": "https://github.com/transmission/transmission/blob/master/COPYING",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "John Clay",
+    "email": "john@transmissionbt.com",
+    "role": "Coordinator",
+    "id": 627077
+  },
+  "can_contact": false,
+  "issue_number": 84,
+  "created_at": "2018-11-06T22:54:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/84"
+}

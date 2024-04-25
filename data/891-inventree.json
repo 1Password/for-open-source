@@ -1,0 +1,24 @@
+{
+  "account": "inventree.1password.com",
+  "project": {
+    "name": "InvenTree",
+    "description": "Open Source Inventory Managment. We help track what parts you own, in which projects you use those parts, where you can buy them, how you combine and then sell them. Multi-user ready, following best practices by OpenSSF and ready for small and big business users to host themself - because your core business data should be owned by yourself.",
+    "contributors": 5,
+    "home_url": "https://inventree.org",
+    "repo_url": "https://github.com/inventree/InvenTree",
+    "license_type": "MIT",
+    "license_url": "https://github.com/inventree/InvenTree/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Matthias Mair",
+    "email": "code@mjmair.com",
+    "role": "Core team member",
+    "id": 66015116
+  },
+  "can_contact": true,
+  "issue_number": 891,
+  "created_at": "2024-02-04T11:26:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/891"
+}

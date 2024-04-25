@@ -1,0 +1,24 @@
+{
+  "account": "opi-team.1password.com",
+  "project": {
+    "name": "Open Programmable Infrastructure",
+    "description": "Open Programmable Infrastructure",
+    "contributors": 20,
+    "home_url": "https://opiproject.org",
+    "repo_url": "https://github.com/opiproject",
+    "license_type": "Apache V2",
+    "license_url": "https://github.com/opiproject/opi/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sridhar K. N. Rao",
+    "email": "1password@opiproject.org",
+    "role": "Project Manager",
+    "id": 8253407
+  },
+  "can_contact": true,
+  "issue_number": 684,
+  "created_at": "2023-02-09T13:02:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/684"
+}

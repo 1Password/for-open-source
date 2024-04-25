@@ -1,0 +1,24 @@
+{
+  "account": "botanism.1password.com",
+  "project": {
+    "name": "Botanism",
+    "description": "With the Botanist Discord bot (and related Botanism tools) we seek to bring peace of mind to discord users by providing various moderation tools as well as time-saving utilities.",
+    "contributors": 0,
+    "home_url": "https://botanist.luitot.fr",
+    "repo_url": "https://github.com/Botanism",
+    "license_type": "GPLv3",
+    "license_url": "https://github.com/Botanism/Botanist/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Thibault Cohergne",
+    "email": "thithib.cohergne@gmail.com",
+    "role": "Core developer and project lead",
+    "id": 46009999
+  },
+  "can_contact": false,
+  "issue_number": 365,
+  "created_at": "2021-08-01T18:36:01Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/365"
+}

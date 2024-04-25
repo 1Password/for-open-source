@@ -1,0 +1,24 @@
+{
+  "account": "dadosdefeira.1password.com",
+  "project": {
+    "name": "Dados Abertos de Feira",
+    "description": "In Brazil, every public agency has to disclosure its expenses and actions, so the citizens can be aware of what they have been doing. Unfortunately, in many cities, the data isn't easy to be found neither searchable. This project aims to solve this problem in the city of Feira de Santana, Bahia, Brazil. The idea is being a Google of the city's data, making it available for citizens, journalists, programmers, and any person who wants to use it.",
+    "contributors": 3,
+    "home_url": "https://dadosabertosdefeira.com.br",
+    "repo_url": "https://github.com/DadosAbertosDeFeira/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/DadosAbertosDeFeira/maria-quiteria/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Ana Paula Gomes",
+    "email": "apgomes88@gmail.com",
+    "role": "Tech lead",
+    "id": 1899950
+  },
+  "can_contact": false,
+  "issue_number": 186,
+  "created_at": "2020-03-14T00:20:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/186"
+}

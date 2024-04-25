@@ -1,0 +1,24 @@
+{
+  "account": "team-fdio.1password.com",
+  "project": {
+    "name": "FD.io",
+    "description": "FD.io VPP is the Swiss Army knife of networking toolchains - enabling astounding software packet processing. Recent achievements include forwardering 1TBps of IPSEC traffic with millions of routes in the routing table on a commodity server with no special accelerators.",
+    "contributors": 78,
+    "home_url": "https://fd.io/",
+    "repo_url": "https://gerrit.fd.io/r/admin/repos",
+    "license_type": "SPDX-License-Identifier: Apache-2.0",
+    "license_url": "https://gerrit.fd.io/r/gitweb?p=vpp.git;a=blob;f=LICENSE;h=7a4a3ea2424c09fbe48d455aed1eaa94d9124835;hb=HEAD",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Ed Warnicke",
+    "email": "hagbard@gmail.com",
+    "role": "TSC Chair",
+    "id": 1455208
+  },
+  "can_contact": false,
+  "issue_number": 369,
+  "created_at": "2021-08-20T16:35:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/369"
+}

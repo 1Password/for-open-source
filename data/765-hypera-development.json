@@ -1,0 +1,24 @@
+{
+  "account": "hyperadev.1password.com",
+  "project": {
+    "name": "Hypera Development",
+    "description": "We're a small team of passionate developers who spend the majority of our free time writing software in hopes of helping make other people's lives easier.",
+    "contributors": 2,
+    "home_url": "https://github.com/HyperaDev",
+    "repo_url": "https://github.com/ChameleonFramework/Chameleon",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/ChameleonFramework/Chameleon/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Joshua Sing",
+    "email": "joshua@hypera.dev",
+    "role": "Founder, Maintainer",
+    "id": 25740108
+  },
+  "can_contact": true,
+  "issue_number": 765,
+  "created_at": "2023-06-03T17:17:36Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/765"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "virtualcoffeeio.1password.com",
+  "project": {
+    "name": "VirtualCoffeeIO",
+    "description": "Virtual Coffee is a tech community where friendships are formed and support is given to people at all stages of their journey. Join our laid-back twice-weekly conversations and our online events to connect with people who share your passion for technology.\n\nAnyone can join! Whether you're thinking about getting into tech or have been in it for decades.",
+    "contributors": 5,
+    "home_url": "https://virtualcoffee.io",
+    "repo_url": "https://github.com/Virtual-Coffee/virtualcoffee.io",
+    "license_type": "Creative Commons Attribution 3.0 Unported",
+    "license_url": "https://github.com/Virtual-Coffee/virtualcoffee.io/blob/main/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Dan Ott",
+    "email": "dan@virtualcoffee.io",
+    "role": "Co-Owner/Maintainer",
+    "id": 360261
+  },
+  "can_contact": false,
+  "issue_number": 920,
+  "created_at": "2024-03-21T18:47:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/920"
+}

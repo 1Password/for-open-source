@@ -1,0 +1,24 @@
+{
+  "account": "textlint.1password.com",
+  "project": {
+    "name": "textlint",
+    "description": "textlint is a pluggable natural language linter for text and markdown. It is similar to ESLint but it is for natural languages. Many open source project use textlint.",
+    "contributors": 3,
+    "home_url": "https://textlint.github.io/",
+    "repo_url": "https://github.com/textlint/textlint",
+    "license_type": "MIT",
+    "license_url": "https://github.com/textlint/textlint/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "azu",
+    "email": "azuciao@gmail.com",
+    "role": "Organizer/Admin",
+    "id": 19714
+  },
+  "can_contact": false,
+  "issue_number": 599,
+  "created_at": "2022-09-23T07:33:58Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/599"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "gestaltjs.1password.com",
+  "project": {
+    "name": "GesaltJS",
+    "description": "Gestalt is a batteries-included and opinionated Javascript framework for building web, mobile, and desktop apps.",
+    "contributors": 0,
+    "home_url": "https://github.com/gestaltjs/gestalt",
+    "repo_url": "https://github.com/gestaltjs/gestalt",
+    "license_type": "MIT",
+    "license_url": "https://github.com/gestaltjs/gestalt/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Pedro Piñera",
+    "email": "pedro@craftweg.com",
+    "role": "Maintainer",
+    "id": 663605
+  },
+  "can_contact": false,
+  "issue_number": 444,
+  "created_at": "2022-01-19T14:31:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/444"
+}

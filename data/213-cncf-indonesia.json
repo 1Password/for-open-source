@@ -1,0 +1,24 @@
+{
+  "account": "cncfindonesia.1password.com",
+  "project": {
+    "name": "CNCF Indonesia",
+    "description": "Tech community for Indonesians on cloud native concepts and technologies.",
+    "contributors": 19,
+    "home_url": "https://www.cloudnativecommunity.id",
+    "repo_url": "https://www.github.com/cloudnative-id",
+    "license_type": "N/A",
+    "license_url": "https://N/A",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Joshua Bezaleel Abednego",
+    "email": "joshua.bezaleel@gmail.com",
+    "role": "Co-organizer",
+    "id": 7043511
+  },
+  "can_contact": false,
+  "issue_number": 213,
+  "created_at": "2020-07-07T01:19:13Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/213"
+}

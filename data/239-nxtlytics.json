@@ -1,0 +1,24 @@
+{
+  "account": "nxtlytics.1password.com",
+  "project": {
+    "name": "NXTLytics",
+    "description": "An Open Source project and ecosystem for creating base infrastructure to support software development teams in their daily activities",
+    "contributors": 4,
+    "home_url": "https://github.com/nxtlytics",
+    "repo_url": "https://github.com/nxtlytics",
+    "license_type": "Mozilla Public License 2.0",
+    "license_url": "https://github.com/nxtlytics/ivy-documentation/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ricardo David Rosales Zuniga",
+    "email": "ricardodrosales@gmail.com",
+    "role": "Core Contributor",
+    "id": 728243
+  },
+  "can_contact": false,
+  "issue_number": 239,
+  "created_at": "2020-09-22T14:36:03Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/239"
+}

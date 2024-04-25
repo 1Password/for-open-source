@@ -1,0 +1,24 @@
+{
+  "account": "ryyppy.1password.com",
+  "project": {
+    "name": "ReScript",
+    "description": "ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. It comes with a lightning fast compiler toolchain that scales to any codebase size.",
+    "contributors": 5,
+    "home_url": "https://rescript-lang.org",
+    "repo_url": "https://github.com/rescript-lang/rescript-compiler",
+    "license_type": "LGPL version 3",
+    "license_url": "https://github.com/rescript-lang/rescript-compiler/blob/HEAD/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Patrick Ecker",
+    "email": "p.ecker@rescript-association.org",
+    "role": "1st Board member of the ReScript Association",
+    "id": 1121889
+  },
+  "can_contact": true,
+  "issue_number": 840,
+  "created_at": "2023-11-03T10:40:39Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/840"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "wjaykim.1password.com",
+  "project": {
+    "name": "React Native AdMob",
+    "description": "React Native AdMob is a open source library for displaying Google AdMob ads in React Native applications.",
+    "contributors": 2,
+    "home_url": "https://github.com/react-native-admob/admob",
+    "repo_url": "https://github.com/react-native-admob/admob",
+    "license_type": "MIT",
+    "license_url": "https://github.com/react-native-admob/admob/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jay Kim",
+    "email": "wj118797@gmail.com",
+    "role": "Core maintainer",
+    "id": 10806659
+  },
+  "can_contact": false,
+  "issue_number": 442,
+  "created_at": "2022-01-10T01:53:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/442"
+}

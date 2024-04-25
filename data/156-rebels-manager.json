@@ -1,0 +1,24 @@
+{
+  "account": "team-xrbelgium.1password.com",
+  "project": {
+    "name": "Rebels Manager",
+    "description": "CRM aimed to be used by any Extinction Rebellion national branch",
+    "contributors": 2,
+    "home_url": "https://rebels.extinctionrebellion.be",
+    "repo_url": "https://github.com/extinctionrebellion/RebelsManager",
+    "license_type": "MIT",
+    "license_url": "https://github.com/extinctionrebellion/RebelsManager/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Michael Hulet",
+    "email": "michael@hulet.eu",
+    "role": "Coordinator",
+    "id": 293355
+  },
+  "can_contact": false,
+  "issue_number": 156,
+  "created_at": "2019-08-23T05:37:01Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/156"
+}

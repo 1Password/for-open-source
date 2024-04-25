@@ -1,0 +1,24 @@
+{
+  "account": "fuelrats.1password.com",
+  "project": {
+    "name": "The Fuel Rats",
+    "description": "We are a large open gaming community for the game Elite Dangerous, we have created our own custom websites integrations and apps all of whom are available open source on GitHub, this allows other communities to build upon our work or use standalone components we have created such as our  framework for displaying Wordpress blog contents in a custom react website.",
+    "contributors": 10,
+    "home_url": "https://fuelrats.com",
+    "repo_url": "https://github.com/FuelRats/fuelrats.com",
+    "license_type": "BSD 3-Clause",
+    "license_url": "https://github.com/FuelRats/fuelrats.com/blob/169898a34bbf51a9c30be5b69d8001fe5a335c8f/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Alex S. Glomsaas",
+    "email": "xlexious@fuelrats.com",
+    "role": "Software Engineer for the back-end system (https://github.com/FuelRats/api.fuelrats.com)",
+    "id": 125232
+  },
+  "can_contact": false,
+  "issue_number": 78,
+  "created_at": "2018-08-24T17:21:07Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/78"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "arduca.1password.com",
+  "project": {
+    "name": "Arduca",
+    "description": "Arduca is an open-source project written in Python language that calculates the following body composition percentages: fat, muscle, bone, water, VFI (Visceral Fat Index), and BMR (Basal Metabolic Rate). It supports both male and female users and is easy to use. Arduca is constantly being updated with new features and improvements.",
+    "contributors": 3,
+    "home_url": "https://github.com/Youssef-Radwan/Arduca.git",
+    "repo_url": "https://github.com/Youssef-Radwan/Arduca.git",
+    "license_type": "GNU Affero General Public License v3.0",
+    "license_url": "https://github.com/Youssef-Radwan/Arduca/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Youssef Ahmed Raafat Ali Radwan",
+    "email": "dioy909b@duck.com",
+    "role": "Developer",
+    "id": 110783172
+  },
+  "can_contact": true,
+  "issue_number": 762,
+  "created_at": "2023-06-01T01:48:38Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/762"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "backtodev.1password.com",
+  "project": {
+    "name": "Attendance app",
+    "description": "Attendance app for a community bicycle recycling workshop, includes\n\n- Sign in/out\n- Service booking\n- Web forms\n- Starter app\n- Parts ordering\n- Online shop\n- Component library",
+    "contributors": 5,
+    "home_url": "https://github.com/Back2bikes/attendance",
+    "repo_url": "https://github.com/Back2bikes/attendance",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Back2bikes/attendance/blob/v2/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Mike King",
+    "email": "mikkel@back2.dev",
+    "role": "Architect/lead developer",
+    "id": 2467919
+  },
+  "can_contact": false,
+  "issue_number": 528,
+  "created_at": "2022-05-22T11:00:20Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/528"
+}

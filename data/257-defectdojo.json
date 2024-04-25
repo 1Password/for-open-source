@@ -1,0 +1,24 @@
+{
+  "account": "defectdojo.1password.com",
+  "project": {
+    "name": "defectdojo",
+    "description": "OpenSource Application Security Management. Flagship OWASP project.\nThe leading application vulnerability management tool built for DevOps and continuous security integration.",
+    "contributors": 6,
+    "home_url": "https://github.com/DefectDojo/django-DefectDojo",
+    "repo_url": "https://github.com/DefectDojo/django-DefectDojo",
+    "license_type": "BSD",
+    "license_url": "https://github.com/DefectDojo/django-DefectDojo/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Fred Blaise",
+    "email": "fred.blaise@gmail.com",
+    "role": "Core maintainer",
+    "id": 5468769
+  },
+  "can_contact": false,
+  "issue_number": 257,
+  "created_at": "2020-10-27T22:43:26Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/257"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "minioinc.1password.com",
+  "project": {
+    "name": "MinIO",
+    "description": "MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads.",
+    "contributors": 15,
+    "home_url": "https://min.io/",
+    "repo_url": "https://github.com/minio/minio/",
+    "license_type": "AGPLv3",
+    "license_url": "https://github.com/minio/minio/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Lenin Huerta",
+    "email": "lenin@min.io",
+    "role": "Security Engineer",
+    "id": 1795553
+  },
+  "can_contact": false,
+  "issue_number": 530,
+  "created_at": "2022-06-01T20:29:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/530"
+}

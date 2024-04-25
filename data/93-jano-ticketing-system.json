@@ -1,0 +1,24 @@
+{
+  "account": "andrewying.1password.eu",
+  "project": {
+    "name": "Jano Ticketing System",
+    "description": "Modern, scalable and modular event ticketing system.",
+    "contributors": 2,
+    "home_url": "https://janoticketing.co.uk",
+    "repo_url": "https://github.com/jano-may-ball/ticketing",
+    "license_type": "AGPL v3",
+    "license_url": "https://github.com/jano-may-ball/ticketing/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Andrew Ying",
+    "email": "hi@janoticketing.co.uk",
+    "role": "Project Owner",
+    "id": 1071082
+  },
+  "can_contact": false,
+  "issue_number": 93,
+  "created_at": "2018-12-08T17:44:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/93"
+}

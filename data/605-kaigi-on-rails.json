@@ -1,0 +1,24 @@
+{
+  "account": "kaigionrails.1password.com",
+  "project": {
+    "name": "Kaigi on Rails",
+    "description": "Kaigi on Rails is a non-profit conference focusing on Ruby on Rails.",
+    "contributors": 12,
+    "home_url": "https://kaigionrails.org",
+    "repo_url": "https://github.com/kaigionrails",
+    "license_type": "NaN",
+    "license_url": "https://NaN",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "OKURA Masafumi",
+    "email": "okura@kaigionrails.org",
+    "role": "The chief organizer",
+    "id": 1012014
+  },
+  "can_contact": false,
+  "issue_number": 605,
+  "created_at": "2022-09-28T13:33:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/605"
+}

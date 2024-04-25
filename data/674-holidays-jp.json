@@ -1,0 +1,24 @@
+{
+  "account": "matsuoshi.1password.com",
+  "project": {
+    "name": "holidays-jp",
+    "description": "API service to get Japanese national holidays data, like this\n\u003chttps://holidays-jp.github.io/api/v1/date.json\u003e\n\ndocument page (Japanese) is here,\n\u003chttps://holidays-jp.github.io/\u003e",
+    "contributors": 2,
+    "home_url": "https://holidays-jp.github.io/",
+    "repo_url": "https://github.com/holidays-jp",
+    "license_type": "MIT",
+    "license_url": "https://github.com/holidays-jp/holidays-jp.github.io/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "matsuoshi",
+    "email": "matsuoshi@gmail.com",
+    "role": "owner, main maintainer",
+    "id": 73213
+  },
+  "can_contact": false,
+  "issue_number": 674,
+  "created_at": "2023-01-31T13:40:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/674"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "robotsandpencils-1passwordaction.1password.com",
+  "project": {
+    "name": "1Pasword Github Action",
+    "description": "Is an open source github action tool to allow Github Actions to load up usernames, passwords and files into the Github Workflow from your 1password account.\n\nThis allows simpler workflows, allowing one source of truth for teams through 1Password.",
+    "contributors": 2,
+    "home_url": "https://github.com/RobotsAndPencils/1password-action",
+    "repo_url": "https://github.com/RobotsAndPencils/1password-action",
+    "license_type": "MIT",
+    "license_url": "https://github.com/RobotsAndPencils/1password-action/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Matt Kiazyk",
+    "email": "mattkiazyk@robotsandpencils.com",
+    "role": "Core Contributor",
+    "id": 1119565
+  },
+  "can_contact": false,
+  "issue_number": 292,
+  "created_at": "2021-01-15T21:52:34Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/292"
+}

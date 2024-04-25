@@ -1,0 +1,24 @@
+{
+  "account": "materialsproject.1password.com",
+  "project": {
+    "name": "Materials Project",
+    "description": "The Materials Project is an academic project that delivers open access to computed information about crystalline materials, as well as maintaining a stack of open-source scientific software used to perform calculations for materials science.",
+    "contributors": 10,
+    "home_url": "https://materialsproject.org",
+    "repo_url": "https://github.com/materialsproject/pymatgen",
+    "license_type": "MIT",
+    "license_url": "https://github.com/materialsproject/pymatgen/blob/master/LICENSE.rst",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Matthew Horton",
+    "email": "mkhorton@lbl.gov",
+    "role": "Data Lead, Community Engagement, Scientific Research",
+    "id": 2976580
+  },
+  "can_contact": false,
+  "issue_number": 392,
+  "created_at": "2021-10-26T18:31:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/392"
+}

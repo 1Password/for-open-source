@@ -1,0 +1,24 @@
+{
+  "account": "chipsalliance.1password.com",
+  "project": {
+    "name": "CHIPS Alliance",
+    "description": "The CHIPS Alliance develops high-quality, open source hardware designs relevant to silicon devices and FPGAs. By creating an open and collaborative environment, CHIPS Alliance shares resources to lower the cost of development. Companies and individuals can work together to develop open source CPUs, various peripherals, and complex IP blocks. CHIPS Alliance is open to all organizations who are interested in collaborating on open source hardware or software tools to accelerate the creation of more efficient and innovative chip designs.",
+    "contributors": 0,
+    "home_url": "https://www.chipsalliance.org/",
+    "repo_url": "https://github.com/chipsalliance",
+    "license_type": "https://github.com/chipsalliance/tsc/blob/main/LICENSE.md",
+    "license_url": "https://github.com/chipsalliance/tsc/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Benjamin Sternthal",
+    "email": "bsternthal@linuxfoundation.org",
+    "role": "Program Director",
+    "id": 198507
+  },
+  "can_contact": true,
+  "issue_number": 790,
+  "created_at": "2023-07-18T17:18:33Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/790"
+}

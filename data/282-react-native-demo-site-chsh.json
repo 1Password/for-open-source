@@ -1,0 +1,23 @@
+{
+  "account": "team-cksh.1password.com",
+  "project": {
+    "name": "React Native Demo site: chsh",
+    "description": "Doing good things with childcare / eldercare.",
+    "contributors": 3,
+    "home_url": "https://jimmyliao.medium.com/",
+    "repo_url": "https://github.com/jimmyliao/RN_Camera_Demo",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jimmy Liao",
+    "email": "sjliao@gmail.com",
+    "role": "",
+    "id": 151156
+  },
+  "can_contact": false,
+  "issue_number": 282,
+  "created_at": "2021-01-12T14:19:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/282"
+}

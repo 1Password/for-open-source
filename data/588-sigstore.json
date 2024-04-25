@@ -1,0 +1,24 @@
+{
+  "account": "sigstore.1password.com",
+  "project": {
+    "name": "Sigstore",
+    "description": "Sigstore empowers software developers to securely sign software artifacts such as release files, container images, binaries, bill of material manifests and more. Signing materials are then stored in a tamper-resistant public log.",
+    "contributors": 40,
+    "home_url": "https://sigstore.dev",
+    "repo_url": "https://www.github.com/sigstore/sigstore",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/sigstore/sigstore/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Simon Kent",
+    "email": "simek@google.com",
+    "role": "Google Open Source Security team member working on the Sigstore General Available effort",
+    "id": 38289717
+  },
+  "can_contact": false,
+  "issue_number": 588,
+  "created_at": "2022-08-17T18:49:28Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/588"
+}

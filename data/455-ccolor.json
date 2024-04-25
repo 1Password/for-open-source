@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "CColor",
+    "description": "An easy and intuitive way to color text using C++",
+    "contributors": 1,
+    "home_url": "https://",
+    "repo_url": "https://github.com/MicheleCioccarelli/CColor",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Michele",
+    "email": "cioccarellimi@gmail.com",
+    "role": "Administrator",
+    "id": 50464556
+  },
+  "can_contact": false,
+  "issue_number": 455,
+  "created_at": "2022-02-17T19:18:28Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/455"
+}

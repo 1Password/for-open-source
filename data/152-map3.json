@@ -1,0 +1,24 @@
+{
+  "account": "team-hyperion.1password.com",
+  "project": {
+    "name": "Map3",
+    "description": "Map3 is a decentralized map network which is impartial, secure and extremely robust, so that it is impractical to shut down just like the BitTorrent and the Bitcoin network. Map3 is free from control, free to participate, free base map. It host rich community map contents, support strong privacy and trust protocol, compatible with existing map technologies. We envision Map3 to be entirely built for and governed by the global Map3 community. Passionate individuals and organizations of all levels can host Map3 nodes and provide useful map contents to be distributed on the Map3 network.",
+    "contributors": 7,
+    "home_url": "https://www.map3.network/",
+    "repo_url": "https://github.com/hyperion-hyn/map3",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/hyperion-hyn/map3/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Zou Guangxian",
+    "email": "zouguangxian@hyn.space",
+    "role": "Maintainer and Contributor",
+    "id": 863281
+  },
+  "can_contact": false,
+  "issue_number": 152,
+  "created_at": "2019-08-08T03:40:10Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/152"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "rubykaigi.1password.com",
+  "project": {
+    "name": "RubyKaigi",
+    "description": "RubyKaigi is the world's largest international conference on the Ruby programming language.",
+    "contributors": 10,
+    "home_url": "https://rubykaigi.org/",
+    "repo_url": "https://github.com/ruby-no-kai/rubykaigi-nw",
+    "license_type": "N/A",
+    "is_event": true,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sorah Fukumori",
+    "email": "sorah@rubykaigi.org",
+    "role": "Organizer \u0026 Network Operations Lead",
+    "id": 29440
+  },
+  "can_contact": true,
+  "issue_number": 847,
+  "created_at": "2023-11-20T12:23:07Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/847"
+}

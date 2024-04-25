@@ -1,0 +1,24 @@
+{
+  "account": "jumpserver.github.com",
+  "project": {
+    "name": "JumpServer",
+    "description": "JumpServer is a popular open-source PAM (Privileged Access Management System)",
+    "contributors": 10,
+    "home_url": "https://www.jumpserver.org",
+    "repo_url": "https://github.com/jumpserver/jumpserve",
+    "license_type": "GPLv2",
+    "license_url": "https://github.com/jumpserver/jumpserver/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "ibuler",
+    "email": "ibuler@qq.com",
+    "role": "Manager",
+    "id": 17382885
+  },
+  "can_contact": false,
+  "issue_number": 296,
+  "created_at": "2021-01-19T03:07:46Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/296"
+}

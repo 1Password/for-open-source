@@ -1,0 +1,24 @@
+{
+  "account": "team-conda.1password.com",
+  "project": {
+    "name": "conda",
+    "description": "Conda is a multi-platform (Windows, macOS, Linux, ...) language agnostic, open source package and environment management system. Conda installs, runs and updates packages and their dependencies; and creates, saves, loads and switches between runtime environments.",
+    "contributors": 30,
+    "home_url": "https://conda.io/",
+    "repo_url": "https://github.com/orgs/conda/repositories",
+    "license_type": "BSD-3",
+    "license_url": "https://github.com/conda/conda/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jannis Leidel",
+    "email": "jannis@leidel.info",
+    "role": "Maintainer and conda steering council member",
+    "id": 1610
+  },
+  "can_contact": true,
+  "issue_number": 726,
+  "created_at": "2023-04-17T20:03:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/726"
+}

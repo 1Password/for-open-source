@@ -1,0 +1,24 @@
+{
+  "account": "nvnltd.1password.com",
+  "project": {
+    "name": "The FastFood Project",
+    "description": "An open-source built with Java, JavaScript, HTML, and CSS",
+    "contributors": 3,
+    "home_url": "https://github.com/nvnptit/WebFastFood",
+    "repo_url": "https://github.com/nvnptit/WebFastFood",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/nvnptit/WebFastFood/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Nguyen Van Nhat",
+    "email": "nvnptit@gmail.com",
+    "role": "Leader Team",
+    "id": 87685010
+  },
+  "can_contact": false,
+  "issue_number": 458,
+  "created_at": "2022-02-20T15:33:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/458"
+}

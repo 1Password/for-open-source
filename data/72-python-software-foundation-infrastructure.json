@@ -1,0 +1,24 @@
+{
+  "account": "psf-infra.1password.com",
+  "project": {
+    "name": "Python Software Foundation Infrastructure",
+    "description": "Support, improve, and administer Python community services such as PyPI and The Python Homepage.",
+    "contributors": 4,
+    "home_url": "https://wiki.python.org/psf/InfrastructureWG",
+    "repo_url": "https://github.com/python/psf-salt",
+    "license_type": "MIT",
+    "license_url": "https://github.com/python/psf-salt/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ernest W. Durbin III",
+    "email": "ernest@python.org",
+    "role": "PSF Infrastructure Working Group - Chair",
+    "id": 1200832
+  },
+  "can_contact": false,
+  "issue_number": 72,
+  "created_at": "2018-07-26T20:45:49Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/72"
+}

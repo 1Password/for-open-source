@@ -1,0 +1,24 @@
+{
+  "account": "bostongolang.1password.com",
+  "project": {
+    "name": "Boston Golang",
+    "description": "Boston Golang is a Boston based community for people working with the Go programming language to discuss ideas, issues and share solutions. Boston Golang held their first Meetup on October 21, 2014 and as of April 2020 the group counts more than 1,700 members. Boston Golang is the only community for fellow gophers in New England. Meetups are held on the last Tuesday of each Month.",
+    "contributors": 3,
+    "home_url": "https://www.meetup.com/bostongo",
+    "repo_url": "https://github.com/bostongolang",
+    "license_type": "n/a since we are a meetup. We are open to all people interested in Go and do not collect fees for membership or attendance.",
+    "license_url": "https://n/a",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Bjoern Poetzschke",
+    "email": "bjoern.poetzschke@gmail.com",
+    "role": "Co-organizer",
+    "id": 14922158
+  },
+  "can_contact": false,
+  "issue_number": 194,
+  "created_at": "2020-04-18T01:11:46Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/194"
+}

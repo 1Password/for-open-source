@@ -1,0 +1,24 @@
+{
+  "account": "scanapi.1password.com",
+  "project": {
+    "name": "ScanAPI",
+    "description": "Automated Integration Testing and Live Documentation for your API",
+    "contributors": 4,
+    "home_url": "http://scanapi.dev/",
+    "repo_url": "https://github.com/scanapi/scanapi",
+    "license_type": "MIT",
+    "license_url": "https://github.com/scanapi/scanapi/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Camila Maia",
+    "email": "cmaiacd@gmail.com",
+    "role": "Core developer / Creator",
+    "id": 2728804
+  },
+  "can_contact": false,
+  "issue_number": 370,
+  "created_at": "2021-08-25T20:13:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/370"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "team-insights.1password.com",
+  "project": {
+    "name": "adikari/utilities",
+    "description": "a collection of packages to help with AWS development",
+    "contributors": 1,
+    "home_url": "https://github.com/adikari/utilities",
+    "repo_url": "https://github.com/adikari/utilities",
+    "license_type": "MIT",
+    "license_url": "https://github.com/adikari/utilities/blob/master/packages/config-manager/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "subash adhikari",
+    "email": "me@subash.com.au",
+    "role": "creator",
+    "id": 1757714
+  },
+  "can_contact": false,
+  "issue_number": 300,
+  "created_at": "2021-01-31T12:01:26Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/300"
+}

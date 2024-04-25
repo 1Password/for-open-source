@@ -1,0 +1,24 @@
+{
+  "account": "webdriverio.1password.com",
+  "project": {
+    "name": "WebdriverIO",
+    "description": "Next-gen browser and mobile automation test framework for Node.js.",
+    "contributors": 23,
+    "home_url": "https://webdriver.io/",
+    "repo_url": "https://github.com/webdriverio/webdriverio",
+    "license_type": "MIT",
+    "license_url": "https://github.com/webdriverio/webdriverio/blob/master/LICENSE-MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Christian Bromann",
+    "email": "christian@saucelabs.com",
+    "role": "Core Contributor (TSC Member)",
+    "id": 731337
+  },
+  "can_contact": false,
+  "issue_number": 200,
+  "created_at": "2020-05-05T15:10:20Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/200"
+}

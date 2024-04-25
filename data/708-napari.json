@@ -1,0 +1,24 @@
+{
+  "account": "napari.1password.com",
+  "project": {
+    "name": "napari",
+    "description": "napari is a multidimensional image viewer for Python.",
+    "contributors": 14,
+    "home_url": "https://napari.org",
+    "repo_url": "https://github.com/napari/napari",
+    "license_type": "BSD 3-clause",
+    "license_url": "https://github.com/napari/napari/blob/45044be5c04f79a7a59e2ce229e8ee97248ef4fc/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Juan Nunez-Iglesias",
+    "email": "jni@fastmail.com",
+    "role": "Co-founder / Core developer / Steering Council member",
+    "id": 492549
+  },
+  "can_contact": true,
+  "issue_number": 708,
+  "created_at": "2023-03-14T08:29:08Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/708"
+}

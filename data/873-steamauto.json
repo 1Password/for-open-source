@@ -1,0 +1,24 @@
+{
+  "account": "steamauto.1password.com",
+  "project": {
+    "name": "Steamauto",
+    "description": "This is a tool to help automation selling / buying steam (mainly CS and DOTA2) items to different kind of platforms (mainly BUFF and UU).",
+    "contributors": 2,
+    "home_url": "https://github.com/jiajiaxd/Steamauto",
+    "repo_url": "https://github.com/jiajiaxd/Steamauto",
+    "license_type": "AGPL",
+    "license_url": "https://github.com/jiajiaxd/Steamauto/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Anonymous",
+    "email": "cptf_lupohan@126.com",
+    "role": "Core Maintainer",
+    "id": 23133361
+  },
+  "can_contact": true,
+  "issue_number": 873,
+  "created_at": "2024-01-09T18:32:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/873"
+}

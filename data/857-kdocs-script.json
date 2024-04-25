@@ -1,0 +1,24 @@
+{
+  "account": "devconfig.1password.com",
+  "project": {
+    "name": "kdocs-script",
+    "description": "Use scripts to increase efficiency for cloud documents",
+    "contributors": 2,
+    "home_url": "https://github.com/dev-config/kdocs-script",
+    "repo_url": "https://github.com/dev-config/kdocs-script",
+    "license_type": "MIT",
+    "license_url": "https://github.com/dev-config/kdocs-script/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "DreamyTZK",
+    "email": "i@tzki.cn",
+    "role": "owner",
+    "id": 82026204
+  },
+  "can_contact": false,
+  "issue_number": 857,
+  "created_at": "2023-12-09T12:55:29Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/857"
+}

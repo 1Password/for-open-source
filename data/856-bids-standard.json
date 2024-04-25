@@ -1,0 +1,24 @@
+{
+  "account": "bidsstandard.1password.com",
+  "project": {
+    "name": "BIDS Standard",
+    "description": "Neuroimaging experiments result in complex data that can be arranged in many different ways. For a long time, there was no consensus how to organize and share data obtained in neuroimaging experiments. Even two researchers working in the same lab could opt to arrange their data in a different way. Lack of consensus (or a standard) leads to misunderstandings and time wasted on rearranging data or rewriting scripts expecting certain structure. With the Brain Imaging Data Structure (BIDS), we describe a simple and easy to adopt way of organizing neuroimaging and behavioral data.",
+    "contributors": 30,
+    "home_url": "https://bids.neuroimaging.io",
+    "repo_url": "https://github.com/bids-standard/",
+    "license_type": "CC-BY 4.0",
+    "license_url": "https://github.com/bids-standard/bids-specification/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Anthony Galassi",
+    "email": "bids.maintenance@gmail.com",
+    "role": "BIDS Maintainer",
+    "id": 28850131
+  },
+  "can_contact": true,
+  "issue_number": 856,
+  "created_at": "2023-11-30T21:08:56Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/856"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "chiso.1password.com",
+  "project": {
+    "name": "Hack the Hill",
+    "description": "Student-led hackathon based in Ottawa aimed at helping other students have a great experience at hackathons. We are currently building event management software to better manage and analyze competitor activity during the hackathon.",
+    "contributors": 25,
+    "home_url": "https://www.hackthehill.com",
+    "repo_url": "https://github.com/orgs/HacktheHill/repositories",
+    "license_type": "MIT",
+    "license_url": "https://github.com/HacktheHill/bulk-ses/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Chiso",
+    "email": "development@hackthehill.com",
+    "role": "Infrastructure Dev",
+    "id": 98179907
+  },
+  "can_contact": true,
+  "issue_number": 835,
+  "created_at": "2023-10-19T15:30:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/835"
+}

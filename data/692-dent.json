@@ -1,0 +1,24 @@
+{
+  "account": "team-dent.1password.com",
+  "project": {
+    "name": "DENT",
+    "description": "As a Linux Foundation project, DENT utilizes the Linux Kernel, Switchdev, and other Linux based projects as the basis for building a new standardized network operating system without abstractions or overhead. All underlying infrastructure — including ASIC and Silicon for networking and datapath — is treated equally; while existing abstractions, APIs, drivers, low-level overhead, and other open software are simplified. DENT unites silicon vendors, ODMs, SIs, OEMs, and end users across all verticals to enable the transition to disaggregated networks",
+    "contributors": 20,
+    "home_url": "https://dent.dev",
+    "repo_url": "https://github.com/dentproject",
+    "license_type": "Apache V2",
+    "license_url": "https://github.com/dentproject/dentOS/blob/v2.0/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Sridhar K. N. Rao",
+    "email": "1password@dent.dev",
+    "role": "Technical Project Manager",
+    "id": 8253407
+  },
+  "can_contact": true,
+  "issue_number": 692,
+  "created_at": "2023-02-23T14:03:36Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/692"
+}

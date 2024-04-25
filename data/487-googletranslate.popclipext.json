@@ -1,0 +1,24 @@
+{
+  "account": "team-wizz.1password.com",
+  "project": {
+    "name": "googletranslate.popclipext",
+    "description": "An unofficial free Google translate Extension for macOS app PopClip.",
+    "contributors": 1,
+    "home_url": "https://github.com/wizyoung/googletranslate.popclipext",
+    "repo_url": "https://github.com/wizyoung/googletranslate.popclipext",
+    "license_type": "MIT",
+    "license_url": "https://github.com/wizyoung/googletranslate.popclipext/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Wizyoung",
+    "email": "happyyanghehe@gmail.com",
+    "role": "Creator and the only maintainer",
+    "id": 13296106
+  },
+  "can_contact": false,
+  "issue_number": 487,
+  "created_at": "2022-03-26T05:07:31Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/487"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "zggsong.1password.com",
+  "project": {
+    "name": "STranslate",
+    "description": "A ready-to-use, ready-to-go translation ocr tool developed by WPF",
+    "contributors": 4,
+    "home_url": "https://github.com/ZGGSONG/STranslate",
+    "repo_url": "https://github.com/ZGGSONG/STranslate",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ZGGSONG/STranslate/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "zggsong",
+    "email": "zggsong@foxmail.com",
+    "role": "Core team member",
+    "id": 49741009
+  },
+  "can_contact": true,
+  "issue_number": 892,
+  "created_at": "2024-02-08T05:26:39Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/892"
+}

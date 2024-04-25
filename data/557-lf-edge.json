@@ -1,0 +1,23 @@
+{
+  "account": "lfedge.github.com",
+  "project": {
+    "name": "LF Edge",
+    "description": "LF Edge is an umbrella organization that aims to establish an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system. By bringing together industry leaders, LF Edge will create a common framework for hardware and software standards and best practices critical to sustaining current and future generations of IoT and edge devices.\n\nWe are fostering collaboration and innovation across the multiple industries including industrial manufacturing, cities and government, energy, transportation, retail, home and building automation, automotive, logistics and health care — all of which stand to be transformed by edge computing.",
+    "contributors": 500,
+    "home_url": "https://lfedge.org",
+    "repo_url": "https://github.com/lf-edge",
+    "license_type": "Apache 2.0",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Kendall Waters Perez",
+    "email": "kperez@linuxfoundation.org",
+    "role": "Project Coordinator/Manager",
+    "id": 68610775
+  },
+  "can_contact": false,
+  "issue_number": 557,
+  "created_at": "2022-06-30T19:03:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/557"
+}

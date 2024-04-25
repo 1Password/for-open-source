@@ -1,0 +1,24 @@
+{
+  "account": "dry-rb.1password.com",
+  "project": {
+    "name": "dry-rb",
+    "description": "dry-rb is a collection of next-generation Ruby libraries, helping you to write clear, flexible, and more maintainable Ruby code.",
+    "contributors": 4,
+    "home_url": "https://dry-rb.org/",
+    "repo_url": "https://github.com/dry-rb",
+    "license_type": "MIT",
+    "license_url": "https://github.com/dry-rb/devtools/blob/master/templates/LICENSE.erb",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Tim Riley",
+    "email": "tim@riley.id.au",
+    "role": "Core team member",
+    "id": 3134
+  },
+  "can_contact": false,
+  "issue_number": 274,
+  "created_at": "2020-12-21T22:58:40Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/274"
+}

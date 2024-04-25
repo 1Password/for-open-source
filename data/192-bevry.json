@@ -1,0 +1,23 @@
+{
+  "account": "ninjas.1password.com",
+  "project": {
+    "name": "Bevry",
+    "description": "Bevry is a cooperative dedicated to seeing everyone enabled to do what they love, share it with the world, and live well.",
+    "contributors": 3,
+    "home_url": "https://bevry.me",
+    "repo_url": "https://github.com/bevry",
+    "license_type": "Mostly MIT, some CC0",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Benjamin Lupton",
+    "email": "b@lupton.cc",
+    "role": "Founder",
+    "id": 61148
+  },
+  "can_contact": false,
+  "issue_number": 192,
+  "created_at": "2020-04-06T01:50:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/192"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "karibalabs.1password.com",
+  "project": {
+    "name": "Kariba Labs",
+    "description": "Adding opensource.observer",
+    "contributors": 3,
+    "home_url": "https://www.opensource.observer",
+    "repo_url": "https://github.com/opensource-observer/oso",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/opensource-observer/oso/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Raymond Cheng",
+    "email": "ray@karibalabs.co",
+    "role": "Tech lead",
+    "id": 566890
+  },
+  "can_contact": true,
+  "issue_number": 827,
+  "created_at": "2023-10-04T21:12:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/827"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "blackmagiclab.1password.com",
+  "project": {
+    "name": "Black Magic Lab's Surge Modules",
+    "description": "A set of iOS surge application modules, including automatic scripts, cronjobs, panels and more.",
+    "contributors": 6,
+    "home_url": "https://github.com/Black-Magic-Lab/Surge",
+    "repo_url": "https://github.com/Black-Magic-Lab/Surge",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Black-Magic-Lab/Surge/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Hiraku Wang",
+    "email": "dev@hiraku.tw",
+    "role": "Owner, Core Dev",
+    "id": 358647
+  },
+  "can_contact": false,
+  "issue_number": 387,
+  "created_at": "2021-10-06T09:12:23Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/387"
+}

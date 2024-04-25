@@ -1,0 +1,24 @@
+{
+  "account": "cc-build.1password.eu",
+  "project": {
+    "name": "cc-build",
+    "description": "Community distribution of Chef Software",
+    "contributors": 3,
+    "home_url": "https://cc-build.net",
+    "repo_url": "https://github.com/cc-build/",
+    "license_type": "Apache 2",
+    "license_url": "https://github.com/chef/chef/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Artem Sidorenko",
+    "email": "artem@posteo.de",
+    "role": "core contributor",
+    "id": 1645670
+  },
+  "can_contact": false,
+  "issue_number": 140,
+  "created_at": "2019-05-10T09:08:12Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/140"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "fluidproject.1password.com",
+  "project": {
+    "name": "Fluid Project",
+    "description": "Fluid is an open, collaborative project to improve the user experience and inclusiveness of open source software.",
+    "contributors": 20,
+    "home_url": "https://fluidproject.org",
+    "repo_url": "https://github.com/fluid-project",
+    "license_type": "BSD, EC2",
+    "license_url": "https://github.com/fluid-project/infusion/blob/master/Infusion-LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Justin Obara",
+    "email": "obara.justin@gmail.com",
+    "role": "Maintainer",
+    "id": 556024
+  },
+  "can_contact": false,
+  "issue_number": 178,
+  "created_at": "2020-01-09T17:51:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/178"
+}

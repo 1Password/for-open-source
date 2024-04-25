@@ -1,0 +1,24 @@
+{
+  "account": "projectnisei.1password.com",
+  "project": {
+    "name": "Project NISEI",
+    "description": "NISEI is a fan-run organization with the mission to keep Android: Netrunner alive and thriving after the game reached official end-of-life in 2018. Among other things, we maintain NetrunnerDB, an open source deck builder for Android: Netrunner.",
+    "contributors": 10,
+    "home_url": "https://nisei.net",
+    "repo_url": "https://github.com/Alsciende/netrunnerdb",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Alsciende/netrunnerdb/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Dan Strong",
+    "email": "dstrong@glyx.co.uk",
+    "role": "Contributor",
+    "id": 6664881
+  },
+  "can_contact": false,
+  "issue_number": 222,
+  "created_at": "2020-08-05T09:40:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/222"
+}

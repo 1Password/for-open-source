@@ -1,0 +1,24 @@
+{
+  "account": "solaredge.1password.com",
+  "project": {
+    "name": "Pyctuator",
+    "description": "Monitor Python web apps using Spring Boot Admin.",
+    "contributors": 4,
+    "home_url": "https://github.com/SolarEdgeTech/pyctuator",
+    "repo_url": "https://github.com/SolarEdgeTech/pyctuator",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/SolarEdgeTech/pyctuator/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Matan Rubin",
+    "email": "matan.rubin@solaredge.com",
+    "role": "Architect and core contributor",
+    "id": 4488227
+  },
+  "can_contact": false,
+  "issue_number": 532,
+  "created_at": "2022-06-02T11:28:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/532"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "fidencio.1password.com",
+  "project": {
+    "name": "Kata Containers",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.",
+    "contributors": 21,
+    "home_url": "https://katacontainers.io/",
+    "repo_url": "https://github.com/kata-containers",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/kata-containers/kata-containers/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Fabiano Fidêncio",
+    "email": "fabiano@fidencio.org",
+    "role": "Architecture Committee member",
+    "id": 112762
+  },
+  "can_contact": false,
+  "issue_number": 488,
+  "created_at": "2022-03-27T09:38:16Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/488"
+}

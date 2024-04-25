@@ -1,0 +1,24 @@
+{
+  "account": "perlfoundation.1password.com",
+  "project": {
+    "name": "Perl (via The Perl Foundation)",
+    "description": "The Perl Foundation is the non-profit organization dedicated to furthering the Perl family of programming languages",
+    "contributors": 46,
+    "home_url": "https://www.perlfoundation.org/",
+    "repo_url": "https://github.com/Perl/perl5",
+    "license_type": "dual: GPL and Artistic 1.0",
+    "license_url": "https://github.com/Perl/perl5/blob/blead/Artistic and https://github.com/Perl/perl5/blob/blead/Copying",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Ricardo Signes",
+    "email": "rjbs@perlfoundation.org",
+    "role": "member, board of directors, Perl Foundation; former project manager (2011-2015), perl5",
+    "id": 30682
+  },
+  "can_contact": false,
+  "issue_number": 235,
+  "created_at": "2020-09-09T18:59:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/235"
+}

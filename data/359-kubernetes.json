@@ -1,0 +1,24 @@
+{
+  "account": "mrbobbytables.1password.com",
+  "project": {
+    "name": "Kubernetes",
+    "description": "Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem.",
+    "contributors": 1300,
+    "home_url": "https://kubernetes.io",
+    "repo_url": "https://github.com/kubernetes",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/kubernetes/kubernetes/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Bob Killen",
+    "email": "bob.killen@linux.com",
+    "role": "- Co-chair of the Contributor Experience Special Interest Group\n- Steering Committee Member",
+    "id": 6500863
+  },
+  "can_contact": false,
+  "issue_number": 359,
+  "created_at": "2021-06-28T00:00:23Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/359"
+}

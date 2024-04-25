@@ -1,0 +1,24 @@
+{
+  "account": "magmacorefoundation.1password.com",
+  "project": {
+    "name": "Magma",
+    "description": "Magma began as a project to bring modern software defined networking techniques to bear on the challenges of rural Internet access. Our experience building rural networks taught us that policy-rich network edges and simple fabrics were a broadly applicable design approach for building flexible, low-cost, and scalable networks, even outside the data center. Magma’s early design decisions reflect this core insight as well as our earliest use cases: small-scale, low-cost community networks and for coverage extension through federation with existing mobile networks.",
+    "contributors": 200,
+    "home_url": "https://magmacore.org/",
+    "repo_url": "https://github.com/magma/magma",
+    "license_type": "BSD 3-Clause License",
+    "license_url": "https://github.com/magma/magma/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kendall Waters Perez",
+    "email": "kperez@linuxfoundation.org",
+    "role": "Project Coordinator",
+    "id": 68610775
+  },
+  "can_contact": false,
+  "issue_number": 542,
+  "created_at": "2022-06-07T19:34:07Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/542"
+}

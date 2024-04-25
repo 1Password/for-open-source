@@ -1,0 +1,23 @@
+{
+  "account": "open-shop-channel.1password.com",
+  "project": {
+    "name": "Open Shop Channel",
+    "description": "Open Shop Channel is a project for the Nintendo Wii™ that aims to reverse engineer, document, and reimplement the soon-defunct Wii Shop Channel, to aid distribution of OSS homebrew projects, as well as provide an insight into the Paid DLC and Update systems some games used.",
+    "contributors": 6,
+    "home_url": "https://oscwii.org/",
+    "repo_url": "https://github.com/OpenShopChannel/",
+    "license_type": "AGPL-3.0/GPL-3.0",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jordan Lyall (CornierKhan1)",
+    "email": "jordyalexlyall@gmail.com",
+    "role": "Developer, Administration",
+    "id": 19499924
+  },
+  "can_contact": false,
+  "issue_number": 77,
+  "created_at": "2018-08-24T13:29:46Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/77"
+}

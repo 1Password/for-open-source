@@ -1,0 +1,24 @@
+{
+  "account": "proxystorage.1password.com",
+  "project": {
+    "name": "For-Own-Use",
+    "description": "A project for own use.",
+    "contributors": 2,
+    "home_url": "https://github.com/ProxyStorage/For-Own-Use",
+    "repo_url": "https://github.com/ProxyStorage/For-Own-Use",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ProxyStorage/For-Own-Use/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "DreamyTZK",
+    "email": "i@tzki.cn",
+    "role": "Owner",
+    "id": 82026204
+  },
+  "can_contact": true,
+  "issue_number": 806,
+  "created_at": "2023-08-23T08:40:18Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/806"
+}

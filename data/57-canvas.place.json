@@ -1,0 +1,24 @@
+{
+  "account": "dynastic.1password.com",
+  "project": {
+    "name": "canvas.place",
+    "description": "canvas.place is a community-focused game, where people work together to make art. The aim of the game is to bring people together in a fun and new way.",
+    "contributors": 3,
+    "home_url": "https://canvas.place",
+    "repo_url": "https://github.com/dynastic/place",
+    "license_type": "APGL-3.0",
+    "license_url": "https://github.com/dynastic/place/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jamie Bishop",
+    "email": "jamie@dynastic.co",
+    "role": "Lead developer",
+    "id": 6704113
+  },
+  "can_contact": false,
+  "issue_number": 57,
+  "created_at": "2018-05-14T15:54:47Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/57"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "evanovation.1password.com",
+  "project": {
+    "name": "hexo-theme-redefine",
+    "description": "hexo-theme-redefine is a theme for the blog framework \"Hexo\". It is modern, simple, and fast.",
+    "contributors": 1,
+    "home_url": "https://redefine.ohevan.com",
+    "repo_url": "https://github.com/EvanNotFound/hexo-theme-redefine",
+    "license_type": "https://github.com/EvanNotFound/hexo-theme-redefine/blob/main/LICENSE",
+    "license_url": "https://github.com/EvanNotFound/hexo-theme-redefine/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jiashao Luo",
+    "email": "evan@ohevan.com",
+    "role": "Owner, Core Contributor and Maintainer",
+    "id": 68590232
+  },
+  "can_contact": true,
+  "issue_number": 882,
+  "created_at": "2024-01-17T19:43:49Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/882"
+}

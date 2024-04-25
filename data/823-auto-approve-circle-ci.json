@@ -1,0 +1,24 @@
+{
+  "account": "huukhanh.1password.com",
+  "project": {
+    "name": "Auto-approve-circle-ci",
+    "description": "Streamline CircleCI pipeline management by automating the approval of \"on-hold\" stages. Eliminate bottlenecks and keep your CI/CD workflows running smoothly with customizable scripts.",
+    "contributors": 2,
+    "home_url": "https://github.com/huukhanh",
+    "repo_url": "https://github.com/huukhanh/auto-approve-circle-ci",
+    "license_type": "MIT",
+    "license_url": "https://github.com/huukhanh/auto-approve-circle-ci/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nguyen Huu Khanh",
+    "email": "butchicun1236@gmail.com",
+    "role": "Maintainer",
+    "id": 16661938
+  },
+  "can_contact": true,
+  "issue_number": 823,
+  "created_at": "2023-10-02T07:29:30Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/823"
+}

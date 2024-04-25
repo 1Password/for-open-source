@@ -1,0 +1,24 @@
+{
+  "account": "mifos.1password.com",
+  "project": {
+    "name": "Mifos",
+    "description": "The Mifos Initiative is a global 501(c)3 fintech non-profit leveraging the cloud, mobile \u0026 open source community to democratize financial services worldwide and digitally transform the world’s 3 billion poor and underbanked.",
+    "contributors": 25,
+    "home_url": "https://mifos.org",
+    "repo_url": "https://github.com/openmf",
+    "license_type": "MPL 2.0",
+    "license_url": "https://github.com/openMF/mifosx/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Edward Cable",
+    "email": "edcable@mifos.org",
+    "role": "President/CEO",
+    "id": 823454
+  },
+  "can_contact": false,
+  "issue_number": 506,
+  "created_at": "2022-04-11T23:51:20Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/506"
+}

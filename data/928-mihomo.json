@@ -1,0 +1,24 @@
+{
+  "account": "metacubex.1password.com",
+  "project": {
+    "name": "Mihomo",
+    "description": "An open-source networking proxy tool based on Go. Supports local servers, multiple protocols, DNS security, flexible routing, remote group management, and an intuitive API.",
+    "contributors": 10,
+    "home_url": "https://wiki.metacubex.one",
+    "repo_url": "https://github.com/MetaCubeX/mihomo/tree/Meta",
+    "license_type": "GPL-3.0",
+    "license_url": "https://github.com/MetaCubeX/mihomo/blob/Meta/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Skyxim",
+    "email": "me@skyxim.dev",
+    "role": "One of the owners of MetacubeX and involved in maintaining mihomo",
+    "id": 70276018
+  },
+  "can_contact": true,
+  "issue_number": 928,
+  "created_at": "2024-03-31T09:23:29Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/928"
+}

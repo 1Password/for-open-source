@@ -1,0 +1,24 @@
+{
+  "account": "dj-stripe.1password.com",
+  "project": {
+    "name": "dj-stripe",
+    "description": "Django + Stripe made easy. Dj-Stripe is a library that implements Stripe models for Django and eases integration with their API and webhooks.",
+    "contributors": 3,
+    "home_url": "https://github.com/dj-stripe/dj-stripe | https://dj-stripe.dev (inactive at the moment)",
+    "repo_url": "https://github.com/dj-stripe/dj-stripe",
+    "license_type": "MIT",
+    "license_url": "https://github.com/dj-stripe/dj-stripe/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jerome Leclanche",
+    "email": "jerome@leclan.ch",
+    "role": "Project maintainer",
+    "id": 235410
+  },
+  "can_contact": false,
+  "issue_number": 358,
+  "created_at": "2021-06-25T15:26:38Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/358"
+}

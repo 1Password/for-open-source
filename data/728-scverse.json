@@ -1,0 +1,23 @@
+{
+  "account": "scverse.1password.com",
+  "project": {
+    "name": "scverse",
+    "description": "scverse is a consortium of open-source analysis tools (mostly in Python) for omics data.",
+    "contributors": 6,
+    "home_url": "https://scverse.org",
+    "repo_url": "https://github.com/scverse",
+    "license_type": "BSD-3",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Isaac Virshup",
+    "email": "ivirshup@gmail.com",
+    "role": "Steering council, scanpy + anndata developer",
+    "id": 8238804
+  },
+  "can_contact": true,
+  "issue_number": 728,
+  "created_at": "2023-04-19T15:22:09Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/728"
+}

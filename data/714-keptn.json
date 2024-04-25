@@ -1,0 +1,24 @@
+{
+  "account": "keptn.1password.com",
+  "project": {
+    "name": "Keptn",
+    "description": "Cloud-native application life-cycle orchestration",
+    "contributors": 5,
+    "home_url": "https://keptn.sh",
+    "repo_url": "https://github.com/keptn/keptn/",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/keptn/lifecycle-toolkit/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Simon Schrottner",
+    "email": "simon.schrottner+keptn@gmail.com",
+    "role": "Organization member - helping the team to set this up",
+    "id": 9987394
+  },
+  "can_contact": false,
+  "issue_number": 714,
+  "created_at": "2023-03-22T12:06:36Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/714"
+}

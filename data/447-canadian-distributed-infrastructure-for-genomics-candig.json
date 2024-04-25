@@ -1,0 +1,24 @@
+{
+  "account": "candig.1password.com",
+  "project": {
+    "name": "Canadian Distributed Infrastructure for Genomics (CanDIG)",
+    "description": "CanDIG is building a platform for providing federated data discovery and analytics of health research data, especially genomics data, while preserving local control.   We focus on a standards-based approach, participating in and following the Global Alliance for Genomics and Health (GA4GH) standards process.   We're moving from a v1 monolith to an upcoming service-oriented and \"data-mesh\"-inspired v2.",
+    "contributors": 8,
+    "home_url": "https://www.distributedgenomics.ca",
+    "repo_url": "https://github.com/candig",
+    "license_type": "v1 is Apache2 licensed.  Our nascent governance process is deciding the license for v2.",
+    "license_url": "https://github.com/CanDIG/candig-server/blob/develop/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jonathan Dursi",
+    "email": "jonathan@dursi.ca",
+    "role": "Technical lead, 2018-2022",
+    "id": 1783579
+  },
+  "can_contact": false,
+  "issue_number": 447,
+  "created_at": "2022-01-26T17:42:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/447"
+}

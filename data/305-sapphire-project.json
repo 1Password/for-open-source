@@ -1,0 +1,24 @@
+{
+  "account": "sapphireproject.1password.com",
+  "project": {
+    "name": "Sapphire Project",
+    "description": "Open source libraries to aid in the creation of Discord bots.",
+    "contributors": 8,
+    "home_url": "https://website.sapphire-project.vercel.app/",
+    "repo_url": "https://github.com/sapphire-project/framework",
+    "license_type": "MIT",
+    "license_url": "https://github.com/sapphire-project/framework/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jeroen Claassens",
+    "email": "support@favware.tech",
+    "role": "Project manager / lead developer",
+    "id": 4019718
+  },
+  "can_contact": false,
+  "issue_number": 305,
+  "created_at": "2021-02-16T19:43:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/305"
+}

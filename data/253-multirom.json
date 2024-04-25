@@ -1,0 +1,24 @@
+{
+  "account": "multirom.1password.com",
+  "project": {
+    "name": "MultiROM",
+    "description": "Dual-boot multiple android ROMs on supported unlocked android devices.",
+    "contributors": 1,
+    "home_url": "https://github.com/vasishath/multirom",
+    "repo_url": "https://github.com/vasishath/multirom",
+    "license_type": "GPL",
+    "license_url": "https://github.com/vasishath/multirom/blob/android-10/COPYING",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Vasishath",
+    "email": "vasishath@gmail.com",
+    "role": "Core maintainer",
+    "id": 6087015
+  },
+  "can_contact": false,
+  "issue_number": 253,
+  "created_at": "2020-10-25T08:42:48Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/253"
+}

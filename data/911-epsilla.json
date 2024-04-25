@@ -1,0 +1,24 @@
+{
+  "account": "epsilla.1password.com",
+  "project": {
+    "name": "Epsilla",
+    "description": "Epsilla is an open-source vector database. Our focus is on ensuring scalability, high performance, and cost-effectiveness of vector search.\nEpsilla bridges the gap between information retrieval and memory retention in Large Language Models.",
+    "contributors": 5,
+    "home_url": "https://github.com/epsilla-cloud/vectordb",
+    "repo_url": "https://github.com/epsilla-cloud/vectordb",
+    "license_type": "MIT",
+    "license_url": "https://github.com/epsilla-cloud/vectordb/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Richard",
+    "email": "richard@epsilla.com",
+    "role": "Core Maintainer",
+    "id": 131846445
+  },
+  "can_contact": true,
+  "issue_number": 911,
+  "created_at": "2024-03-12T14:53:17Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/911"
+}

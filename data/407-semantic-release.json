@@ -1,0 +1,24 @@
+{
+  "account": "semantic-release.1password.com",
+  "project": {
+    "name": "semantic-release",
+    "description": "Fully automated version management and package publishing",
+    "contributors": 2,
+    "home_url": "https://semantic-release.gitbook.io/",
+    "repo_url": "https://github.com/semantic-release",
+    "license_type": "MIT",
+    "license_url": "https://github.com/semantic-release/semantic-release/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Matt Travi",
+    "email": "1password+oss@travi.org",
+    "role": "maintainer",
+    "id": 126441
+  },
+  "can_contact": false,
+  "issue_number": 407,
+  "created_at": "2021-11-05T20:46:16Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/407"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "Tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "contributors": 6,
+    "home_url": "https://tauri.studio",
+    "repo_url": "https://github.com/tauri-apps/tauri",
+    "license_type": "MIT",
+    "license_url": "https://github.com/tauri-apps/tauri/blob/dev/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Denjell",
+    "email": "team@tauri.studio",
+    "role": "Co-founder",
+    "id": 35242872
+  },
+  "can_contact": false,
+  "issue_number": 219,
+  "created_at": "2020-07-28T11:33:33Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/219"
+}

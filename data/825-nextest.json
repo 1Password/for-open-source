@@ -1,0 +1,24 @@
+{
+  "account": "sunshowers.1password.com",
+  "project": {
+    "name": "Nextest",
+    "description": "A next-generation test runner for Rust, with faster test runs, a clean user interface, and a wealth of features.",
+    "contributors": 2,
+    "home_url": "https://nexte.st/",
+    "repo_url": "https://github.com/nextest-rs/nextest",
+    "license_type": "MIT, Apache-2.0",
+    "license_url": "https://github.com/nextest-rs/nextest/blob/main/LICENSE-MIT, https://github.com/nextest-rs/nextest/blob/main/LICENSE-APACHE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Rain",
+    "email": "rain@nexte.st",
+    "role": "Creator and project lead",
+    "id": 180618
+  },
+  "can_contact": false,
+  "issue_number": 825,
+  "created_at": "2023-10-02T17:03:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/825"
+}

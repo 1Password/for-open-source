@@ -1,0 +1,24 @@
+{
+  "account": "thegreenwebfoundation.1password.com",
+  "project": {
+    "name": "The Green Web Foundation",
+    "description": "The Green Web Foundation was set up ten years ago to track how much of the web runs on renewable power, and make this transparent to users of the web. We publish open data sets around this, and build open source tools to help developers understand where the digital products they build result in carbon emissions, to help speed a transition to a sustainable web.",
+    "contributors": 4,
+    "home_url": "https://www.thegreenwebfoundation.org/",
+    "repo_url": "https://www.thegreenwebfoundation.org/",
+    "license_type": "Apache 2",
+    "license_url": "https://github.com/thegreenwebfoundation/thegreenwebfoundation/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Chris Adams",
+    "email": "chris@productscience.net",
+    "role": "director",
+    "id": 17906
+  },
+  "can_contact": false,
+  "issue_number": 167,
+  "created_at": "2019-11-16T12:49:33Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/167"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "team-ddev.1password.com",
+  "project": {
+    "name": "DDEV",
+    "description": "Local development environment for web developers",
+    "contributors": 2,
+    "home_url": "https://github.com/drud/ddev",
+    "repo_url": "https://github.com/drud/ddev",
+    "license_type": "Apache2",
+    "license_url": "https://github.com/drud/ddev/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Randy Fay",
+    "email": "randy@localdev.foundation",
+    "role": "maintainer",
+    "id": 112444
+  },
+  "can_contact": false,
+  "issue_number": 652,
+  "created_at": "2022-12-29T15:02:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/652"
+}

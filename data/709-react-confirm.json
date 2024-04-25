@@ -1,0 +1,23 @@
+{
+  "account": "kunihikoharada.1password.com",
+  "project": {
+    "name": "react-confirm",
+    "description": "react library for dialog component.",
+    "contributors": 8,
+    "home_url": "https://github.com/haradakunihiko/react-confirm",
+    "repo_url": "https://github.com/haradakunihiko/react-confirm",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "kunihiko harada",
+    "email": "sthsoulful@gmail.com",
+    "role": "Owner",
+    "id": 4531125
+  },
+  "can_contact": true,
+  "issue_number": 709,
+  "created_at": "2023-03-14T15:55:47Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/709"
+}

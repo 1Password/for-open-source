@@ -1,0 +1,24 @@
+{
+  "account": "phoenixrd.1password.com",
+  "project": {
+    "name": "OpenMLS",
+    "description": "An open-source implementation of the Messaging Layer Security protocol. OpenMLS is a software library that can serve as a building block in applications that require end-to-end encryption of messages. It has a safe and easy-to-use interface that hides the complexity of the underlying cryptographic operations.",
+    "contributors": 4,
+    "home_url": "https://openmls.tech",
+    "repo_url": "https://github.com/openmls/openmls",
+    "license_type": "MIT",
+    "license_url": "https://github.com/openmls/openmls/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Raphael Robert",
+    "email": "hello@openmls.tech",
+    "role": "Project lead",
+    "id": 9882746
+  },
+  "can_contact": false,
+  "issue_number": 531,
+  "created_at": "2022-06-01T20:47:59Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/531"
+}

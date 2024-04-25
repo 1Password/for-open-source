@@ -1,0 +1,24 @@
+{
+  "account": "funfundev.1password.com",
+  "project": {
+    "name": "select2OptionPicker",
+    "description": "Jquery plugin convert standard html select into list ui to picker",
+    "contributors": 1,
+    "home_url": "https://",
+    "repo_url": "https://github.com/nhtera/select2OptionPicker",
+    "license_type": "MIT",
+    "license_url": "https://github.com/nhtera/select2OptionPicker/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Tien Nguyen",
+    "email": "nguyentien8x@gmail.com",
+    "role": "Core contributor, creator",
+    "id": 2976973
+  },
+  "can_contact": false,
+  "issue_number": 489,
+  "created_at": "2022-03-28T16:01:57Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/489"
+}

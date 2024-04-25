@@ -1,0 +1,23 @@
+{
+  "account": "betajob.1password.com",
+  "project": {
+    "name": "Terraform AWS modules",
+    "description": "Collection of Terraform AWS modules supported by the community",
+    "contributors": 2,
+    "home_url": "https://github.com/terraform-aws-modules",
+    "repo_url": "https://github.com/terraform-aws-modules",
+    "license_type": "Apache",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Anton Babenko",
+    "email": "anton@antonbabenko.com",
+    "role": "Maintainer and core contributor",
+    "id": 393243
+  },
+  "can_contact": false,
+  "issue_number": 75,
+  "created_at": "2018-08-18T09:26:15Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/75"
+}

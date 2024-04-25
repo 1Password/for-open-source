@@ -1,0 +1,24 @@
+{
+  "account": "typelevel.1password.com",
+  "project": {
+    "name": "Typelevel",
+    "description": "Typelevel is an association of projects and individuals united to foster an inclusive, welcoming, and safe environment around functional programming in Scala.",
+    "contributors": 9,
+    "home_url": "https://typelevel.org/",
+    "repo_url": "https://github.com/typelevel",
+    "license_type": "Most projects are Apache 2 or MIT.  None are proprietary.",
+    "license_url": "https://github.com/typelevel/cats-effect/blob/series/3.x/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Ross A. Baker",
+    "email": "ross@typelevel.org",
+    "role": "Chair of Typelevel Steering Committee",
+    "id": 142698
+  },
+  "can_contact": false,
+  "issue_number": 500,
+  "created_at": "2022-04-04T18:52:18Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/500"
+}

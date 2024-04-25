@@ -1,0 +1,24 @@
+{
+  "account": "hmsjayne.1password.com",
+  "project": {
+    "name": "HMS Jayne",
+    "description": "HMS Jayne is an open source randomizer for Final Fantasy I: Dawn of Souls for the Nintendo Gameboy Advance.",
+    "contributors": 6,
+    "home_url": "https://hmsjayne.com/",
+    "repo_url": "https://github.com/hmsjayne/ffr-hmsj",
+    "license_type": "Apache 2",
+    "license_url": "https://github.com/hmsjayne/ffr-hmsj/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nicole Borrelli",
+    "email": "nicole@hitori.org",
+    "role": "Project lead",
+    "id": 1082635
+  },
+  "can_contact": false,
+  "issue_number": 321,
+  "created_at": "2021-03-29T10:11:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/321"
+}

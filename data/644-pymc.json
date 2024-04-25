@@ -1,0 +1,24 @@
+{
+  "account": "reshamas.1password.com",
+  "project": {
+    "name": "PyMC",
+    "description": "PyMC is a probabilistic programming library for Python",
+    "contributors": 30,
+    "home_url": "https://www.pymc.io/welcome.html",
+    "repo_url": "https://github.com/pymc-devs/pymc",
+    "license_type": "Apache",
+    "license_url": "https://github.com/pymc-devs/pymc/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Reshama Shaikh",
+    "email": "rshaikh@pymc-devs.org",
+    "role": "Core contributor, on Community Team",
+    "id": 2507232
+  },
+  "can_contact": false,
+  "issue_number": 644,
+  "created_at": "2022-12-13T19:55:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/644"
+}

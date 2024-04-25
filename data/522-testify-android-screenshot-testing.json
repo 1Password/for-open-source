@@ -1,0 +1,24 @@
+{
+  "account": "team-ndtp.1password.com",
+  "project": {
+    "name": "Testify — Android Screenshot Testing",
+    "description": "Testify allows you to easily set up a variety of screenshot tests for your Android project. Testify screenshot tests are built on top of Android Instrumentation tests and so integrate seamlessly with your existing test suites. You can run tests and capture screenshots from within Android Studio or using the Gradle command-line tools. Testify also works well with most Continuous Integration services.",
+    "contributors": 7,
+    "home_url": "http://testify.dev",
+    "repo_url": "https://github.com/Shopify/android-testify",
+    "license_type": "MIT License",
+    "license_url": "https://raw.githubusercontent.com/Shopify/android-testify/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Daniel Jette",
+    "email": "dan@testify.dev",
+    "role": "Core Contributor \u0026 Admin",
+    "id": 5921367
+  },
+  "can_contact": false,
+  "issue_number": 522,
+  "created_at": "2022-05-11T17:32:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/522"
+}

@@ -1,0 +1,22 @@
+{
+  "account": "golondonusergroup.1password.com",
+  "project": {
+    "name": "Go London User Group (GLUG, aka London Gophers)",
+    "description": "The Go London User Group (GLUG) is a London UK-based community for anyone interested in the Go programming language. We are a non-profit society, run by organisers in their spare time.",
+    "contributors": 4,
+    "home_url": "https://gophers.london",
+    "repo_url": "https://github.com/go-london-user-group",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Paul Jolly",
+    "email": "paul@myitcv.io",
+    "role": "Co-organiser",
+    "id": 3374574
+  },
+  "can_contact": false,
+  "issue_number": 91,
+  "created_at": "2018-12-05T11:07:05Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/91"
+}

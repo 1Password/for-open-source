@@ -1,0 +1,24 @@
+{
+  "account": "swetugg.1password.com",
+  "project": {
+    "name": "Swetugg",
+    "description": "A Swedish non-profit conference focusing on .NET technologies. Also with an open-source web site that can be used for other conferences.",
+    "contributors": 2,
+    "home_url": "https://swetugg.se",
+    "repo_url": "https://github.com/swetugg/swetugg-web",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Swetugg/swetugg-web/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Anders Ljusberg",
+    "email": "anders@swetugg.se",
+    "role": "Co-founder",
+    "id": 328707
+  },
+  "can_contact": false,
+  "issue_number": 89,
+  "created_at": "2018-12-04T19:32:46Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/89"
+}

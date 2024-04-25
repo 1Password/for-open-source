@@ -1,0 +1,24 @@
+{
+  "account": "vtraag.1password.com",
+  "project": {
+    "name": "igraph",
+    "description": "igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. igraph is open source and free. igraph can be programmed in R, Python, Mathematica and C/C++.",
+    "contributors": 9,
+    "home_url": "https://igraph.org",
+    "repo_url": "https://github.com/igraph/igraph",
+    "license_type": "GPL-2.0-or-later",
+    "license_url": "https://github.com/igraph/igraph/blob/master/COPYING",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Vincent Traag",
+    "email": "v.a.traag@cwts.leidenuniv.nl",
+    "role": "Leading development team",
+    "id": 6057804
+  },
+  "can_contact": true,
+  "issue_number": 785,
+  "created_at": "2023-07-12T14:47:33Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/785"
+}

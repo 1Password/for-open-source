@@ -1,0 +1,24 @@
+{
+  "account": "numfocus.1password.com",
+  "project": {
+    "name": "NumFOCUS",
+    "description": "NumFOCUS provides a stable, independent, and professional home for the open source projects powering contemporary scientific inquiry and business processes. We aim to ensure that funding and resources are available to sustain projects in the scientific data stack over the long haul.",
+    "contributors": 20,
+    "home_url": "https://numfocus.org",
+    "repo_url": "https://github.com/numfocus/numfocus",
+    "license_type": "BSD",
+    "license_url": "https://github.com/numfocus/numfocus/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Samuel Brice",
+    "email": "sam@numfocus.org",
+    "role": "Director of Engineering",
+    "id": 7470577
+  },
+  "can_contact": false,
+  "issue_number": 146,
+  "created_at": "2019-07-13T17:59:34Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/146"
+}

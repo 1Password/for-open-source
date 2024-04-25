@@ -1,0 +1,24 @@
+{
+  "account": "team-oxygenupdater.1password.com",
+  "project": {
+    "name": "Oxygen Updater",
+    "description": "Oxygen Updater App - faster access to OnePlus system updates. Be the first to update! While pulling directly from OnePlus servers",
+    "contributors": 4,
+    "home_url": "https://oxygenupdater.com/",
+    "repo_url": "https://github.com/oxygen-updater/oxygen-updater",
+    "license_type": "MIT",
+    "license_url": "https://github.com/oxygen-updater/oxygen-updater/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Larson Carter",
+    "email": "larsoncarter@oxygenupdater.com",
+    "role": "Android Dev, and PR Member",
+    "id": 21244267
+  },
+  "can_contact": false,
+  "issue_number": 163,
+  "created_at": "2019-10-10T01:57:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/163"
+}

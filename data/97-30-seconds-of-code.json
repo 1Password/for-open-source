@@ -1,0 +1,24 @@
+{
+  "account": "30-seconds.1password.com",
+  "project": {
+    "name": "30 seconds of code",
+    "description": "30-seconds-of-code is curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "contributors": 4,
+    "home_url": "https://30secondsofcode.org",
+    "repo_url": "https://github.com/30-seconds/30-seconds-of-code",
+    "license_type": "Creative Commons Zero v1.0 Universal",
+    "license_url": "https://github.com/30-seconds/30-seconds-of-code/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Stefan",
+    "email": "ns.fejes.stefan@gmail.com",
+    "role": "Project Lead, Core Contributor, Developer",
+    "id": 25749162
+  },
+  "can_contact": false,
+  "issue_number": 97,
+  "created_at": "2019-01-03T17:34:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/97"
+}

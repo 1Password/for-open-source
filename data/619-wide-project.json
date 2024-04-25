@@ -1,0 +1,24 @@
+{
+  "account": "wideproject.1password.com",
+  "project": {
+    "name": "WIDE Project",
+    "description": "The WIDE Project is a research and educational network in Japan designed to provide a collaborative research environment.  Some of our work includes projects to expand IPv6 support, operate the M-root DNS server, and expand internet capacity around the Asia-Pacific region.",
+    "contributors": 27,
+    "home_url": "https://www.wide.ad.jp/",
+    "repo_url": "https://github.com/kame/kame/",
+    "license_type": "n/a",
+    "license_url": "https://n/a",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Korry Luke",
+    "email": "koluke@wide.ad.jp",
+    "role": "project member, Trustworthy Email group organizer",
+    "id": 4790328
+  },
+  "can_contact": false,
+  "issue_number": 619,
+  "created_at": "2022-10-21T09:44:36Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/619"
+}

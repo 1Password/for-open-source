@@ -1,0 +1,24 @@
+{
+  "account": "mautic.1password.com",
+  "project": {
+    "name": "Mautic",
+    "description": "Mautic",
+    "contributors": 10,
+    "home_url": "https://www.mautic.org",
+    "repo_url": "https://github.com/mautic/mautic",
+    "license_type": "GPL",
+    "license_url": "https://github.com/mautic/mautic/blob/5.x/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ruth Cheesley",
+    "email": "ruth.cheesley@mautic.org",
+    "role": "Project Lead",
+    "id": 2930593
+  },
+  "can_contact": true,
+  "issue_number": 722,
+  "created_at": "2023-04-11T16:41:25Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/722"
+}

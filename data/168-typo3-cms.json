@@ -1,0 +1,24 @@
+{
+  "account": "typo3.1password.com",
+  "project": {
+    "name": "TYPO3 CMS",
+    "description": "TYPO3 CMS is one of the leading enterprise Content Management System based on PHP, used over 500.000 times on the web.",
+    "contributors": 500000,
+    "home_url": "https://typo3.org",
+    "repo_url": "https://github.com/TYPO3/TYPO3.CMS",
+    "license_type": "GPL2+",
+    "license_url": "https://typo3.org/project/licenses/",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Benni Mack",
+    "email": "benni@typo3.org",
+    "role": "Project Lead",
+    "id": 165630
+  },
+  "can_contact": false,
+  "issue_number": 168,
+  "created_at": "2019-11-18T20:54:38Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/168"
+}

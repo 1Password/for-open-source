@@ -1,0 +1,24 @@
+{
+  "account": "cloud-barista.1password.com",
+  "project": {
+    "name": "Cloud-Barista",
+    "description": "Cloud-Barista is a multi-cloud service common platform that supports to federate multiple clouds, to make them one logical object, and to use it.",
+    "contributors": 15,
+    "home_url": "https://cloud-barista.github.io",
+    "repo_url": "https://github.com/cloud-barista",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/cloud-barista/cloud-barista/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jihoon Seo",
+    "email": "jihoon.seo@etri.re.kr",
+    "role": "Core contributor",
+    "id": 46767780
+  },
+  "can_contact": false,
+  "issue_number": 254,
+  "created_at": "2020-10-26T01:52:19Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/254"
+}

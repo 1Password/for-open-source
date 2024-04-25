@@ -1,0 +1,24 @@
+{
+  "account": "teamkz.1password.com",
+  "project": {
+    "name": "LinkSnipper",
+    "description": "This project provides a Python script that takes a list of URLs from a file and uses a URL shortener API to generate shortened URLs for each of them. It then writes the shortened URLs to a file, prints them to the console, and generates QR codes for each shortened URL.",
+    "contributors": 1,
+    "home_url": "https://github.com/anhkhoakz/LinkSnipper",
+    "repo_url": "https://github.com/anhkhoakz/LinkSnipper",
+    "license_type": "MIT",
+    "license_url": "https://github.com/anhkhoakz/LinkSnipper/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Nguyễn Huỳnh Anh Khoa",
+    "email": "anhkhoakz@pm.me",
+    "role": "Leader",
+    "id": 113995598
+  },
+  "can_contact": true,
+  "issue_number": 777,
+  "created_at": "2023-07-02T06:00:34Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/777"
+}

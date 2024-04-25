@@ -1,0 +1,23 @@
+{
+  "account": "goharbor.1password.com",
+  "project": {
+    "name": "Harbor",
+    "description": "Harbor is an open source registry that secures artifacts with policies and role-based access control, ensures images are scanned and free from vulnerabilities, and signs images as trusted. Harbor, a CNCF Graduated project, delivers compliance, performance, and interoperability to help you consistently and securely manage artifacts across cloud native compute platforms like Kubernetes and Docker.",
+    "contributors": 9,
+    "home_url": "https://goharbor.io",
+    "repo_url": "https://github.com/goharbor/harbor/",
+    "license_type": "Apache 2",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "",
+    "email": "cncf-harbor-maintainers@lists.cncf.io",
+    "role": "CNCF Graduated Project",
+    "id": 7236111
+  },
+  "can_contact": true,
+  "issue_number": 890,
+  "created_at": "2024-01-31T13:17:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/890"
+}

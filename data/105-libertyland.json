@@ -1,0 +1,24 @@
+{
+  "account": "libertyland.1password.com",
+  "project": {
+    "name": "LibertyLand",
+    "description": "Open Source stuff of the LibertyLand Minecraft Server",
+    "contributors": 2,
+    "home_url": "https://libertyland.xyz",
+    "repo_url": "https://github.com/LibertyLand/LLCore",
+    "license_type": "GPL3",
+    "license_url": "https://github.com/LibertyLand/LLCore/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Arturo Andrade",
+    "email": "artutogamer@gmail.com",
+    "role": "Lead Dev/Owner",
+    "id": 9273973
+  },
+  "can_contact": false,
+  "issue_number": 105,
+  "created_at": "2019-02-22T19:51:27Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/105"
+}

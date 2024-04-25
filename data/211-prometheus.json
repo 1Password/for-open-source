@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "Prometheus",
+    "description": "An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.",
+    "contributors": 22,
+    "home_url": "https://prometheus.io/",
+    "repo_url": "https://github.com/prometheus/prometheus",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/prometheus/prometheus/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Amye Scavarda Perrin",
+    "email": "amye@linuxfoundation.org",
+    "role": "Administrivia",
+    "id": 107161
+  },
+  "can_contact": false,
+  "issue_number": 211,
+  "created_at": "2020-07-06T20:36:08Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/211"
+}

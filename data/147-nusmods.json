@@ -1,0 +1,24 @@
+{
+  "account": "nusmods.1password.com",
+  "project": {
+    "name": "NUSMods",
+    "description": "NUSMods is a student built course catalogue, module search and timetable builder for the National University of Singapore.",
+    "contributors": 4,
+    "home_url": "https://nusmods.com",
+    "repo_url": "https://github.com/nusmodifications/nusmods",
+    "license_type": "MIT",
+    "license_url": "https://github.com/nusmodifications/nusmods/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Zhang Yijiang",
+    "email": "mediumdeviation@gmail.com",
+    "role": "Maintainer",
+    "id": 445650
+  },
+  "can_contact": false,
+  "issue_number": 147,
+  "created_at": "2019-07-23T06:16:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/147"
+}

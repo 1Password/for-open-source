@@ -1,0 +1,24 @@
+{
+  "account": "biolab.1password.com",
+  "project": {
+    "name": "Orange3",
+    "description": "Orange3 is an open source machine learning and data visualization toolbox with an easy-to-use visual programming interface.",
+    "contributors": 21,
+    "home_url": "https://orange.biolab.si",
+    "repo_url": "https://www.github.com/biolab/orange3",
+    "license_type": "GPL-3.0",
+    "license_url": "https://github.com/biolab/orange3/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Rafael Irgolič",
+    "email": "hello@irgolic.com",
+    "role": "UX/UI Developer",
+    "id": 24586651
+  },
+  "can_contact": false,
+  "issue_number": 153,
+  "created_at": "2019-08-09T08:00:36Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/153"
+}

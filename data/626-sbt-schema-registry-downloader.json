@@ -1,0 +1,24 @@
+{
+  "account": "broilogabriel.1password.com",
+  "project": {
+    "name": "sbt-schema-registry-downloader",
+    "description": "sbt plugin for downloading avro schemas",
+    "contributors": 1,
+    "home_url": "https://github.com/broilogabriel/sbt-schema-registry-downloader",
+    "repo_url": "https://github.com/broilogabriel/sbt-schema-registry-downloader",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/broilogabriel/sbt-schema-registry-downloader/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Gabriel Broilo Luz",
+    "email": "broilo.gabriel@gmail.com",
+    "role": "Owner/Maintainer",
+    "id": 5182223
+  },
+  "can_contact": false,
+  "issue_number": 626,
+  "created_at": "2022-11-01T21:40:48Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/626"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "team-eslint.1password.com",
+  "project": {
+    "name": "ESLint",
+    "description": "ESLint is a pluggable JavaScript code linter that helps you find and fix problems in your JavaScript code.",
+    "contributors": 6,
+    "home_url": "https://eslint.org",
+    "repo_url": "https://github.com/eslint/eslint",
+    "license_type": "MIT",
+    "license_url": "https://github.com/eslint/eslint/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nicholas Zakas",
+    "email": "nicholas+1password@nczconsulting.com",
+    "role": "Founder and Technical Steering Committee Member",
+    "id": 38546
+  },
+  "can_contact": false,
+  "issue_number": 214,
+  "created_at": "2020-07-08T00:22:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/214"
+}

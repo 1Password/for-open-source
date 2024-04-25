@@ -1,0 +1,23 @@
+{
+  "account": "pulsate-project.1password.com",
+  "project": {
+    "name": "Pulsate Project",
+    "description": "Pulsate is the next generation of faster and developer-friendly distributed SNS (and of course user-friendly). It is being developed with the goal of becoming a powerful alternative to existing distributed SNSs in the future.",
+    "contributors": 4,
+    "home_url": "https://github.com/pulsate-dev/pulsate",
+    "repo_url": "https://github.com/pulsate-dev/pulsate",
+    "license_type": "Apache-2.0",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "m1sk9 (Sho Sakuma)",
+    "email": "m1sk9@pulsate.dev",
+    "role": "Product Owner",
+    "id": 82575685
+  },
+  "can_contact": false,
+  "issue_number": 919,
+  "created_at": "2024-03-20T05:04:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/919"
+}

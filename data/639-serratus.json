@@ -1,0 +1,24 @@
+{
+  "account": "serratus.1password.com",
+  "project": {
+    "name": "Serratus",
+    "description": "Serratus is a collaborative Open Science project for ultra-rapid discovery of all viruses. Our primary goal is to generate the viral data to accelerate the global research efforts in fighting emerging pathogens.",
+    "contributors": 5,
+    "home_url": "https://serratus.io/",
+    "repo_url": "https://github.com/ababaian/serratus",
+    "license_type": "Mostly GPL-3.0 and AGPL-3.0",
+    "license_url": "https://github.com/ababaian/serratus/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Victor Lin",
+    "email": "victor@victorl.in",
+    "role": "Developer/Contributor",
+    "id": 13424970
+  },
+  "can_contact": false,
+  "issue_number": 639,
+  "created_at": "2022-12-08T05:01:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/639"
+}

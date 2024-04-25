@@ -1,0 +1,22 @@
+{
+  "account": "dallasnews.1password.com",
+  "project": {
+    "name": "DallasNews Interactives",
+    "description": "We are the news apps team within the Dallas Morning News. we build software, tools and workflows to help journalists do their work better. We've releaased code behind our investigative projects, Django apps we've built, and various scrapers and bots to improve accessibility, transparency and accountability of our local, state and federal government agencies.",
+    "contributors": 5,
+    "home_url": "https://github.com/orgs/DallasMorningNews/",
+    "license_type": "Project dependent but mostly AGPL-3 or MIT",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Kai Teoh",
+    "email": "kai.teoh@dallasnews.com",
+    "role": "Editor and lead developer of the team",
+    "id": 3731605
+  },
+  "can_contact": true,
+  "issue_number": 878,
+  "created_at": "2024-01-11T19:02:05Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/878"
+}

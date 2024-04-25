@@ -1,0 +1,24 @@
+{
+  "account": "riaankl.1password.com",
+  "project": {
+    "name": "CNCF TAG Contributor Strategy",
+    "description": "Contributor Strategy is a Technical Advisory Group (TAG) responsible for contributor experience, sustainability, governance, and openness guidance to help CNCF community groups and projects with their own contributor strategies for a healthy project.",
+    "contributors": 5,
+    "home_url": "https://contribute.cncf.io/",
+    "repo_url": "https://github.com/cncf/tag-contributor-strategy/",
+    "license_type": "N/A",
+    "license_url": "https://N/A",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Riaan Kleinhans",
+    "email": "riaan@ii.coop",
+    "role": "Co-Tech Lead",
+    "id": 61125752
+  },
+  "can_contact": true,
+  "issue_number": 813,
+  "created_at": "2023-09-14T20:57:27Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/813"
+}

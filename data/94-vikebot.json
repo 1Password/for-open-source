@@ -1,0 +1,24 @@
+{
+  "account": "vikebot.1password.com",
+  "project": {
+    "name": "Vikebot",
+    "description": "A competitive online coding game. Fight against your friends!",
+    "contributors": 3,
+    "home_url": "https://vikebot.com/",
+    "repo_url": "https://github.com/vikebot",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/vikebot/vikebot/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Florian Harwöck",
+    "email": "florian@harwoeck.at",
+    "role": "Co-Founder, Core Contributor, Backend lead",
+    "id": 16159211
+  },
+  "can_contact": false,
+  "issue_number": 94,
+  "created_at": "2018-12-13T18:31:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/94"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "manimcommunity.1password.com",
+  "project": {
+    "name": "Manim",
+    "description": "Manim is a community maintained Python library for creating mathematical animations.",
+    "contributors": 10,
+    "home_url": "https://www.manim.community",
+    "repo_url": "https://github.com/ManimCommunity/manim",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ManimCommunity/manim/blob/main/LICENSE.community",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Benjamin Hackl",
+    "email": "devel@benjamin-hackl.at",
+    "role": "Maintainer",
+    "id": 11851593
+  },
+  "can_contact": false,
+  "issue_number": 451,
+  "created_at": "2022-02-08T10:31:01Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/451"
+}

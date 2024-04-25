@@ -1,0 +1,24 @@
+{
+  "account": "team-cloudware.1password.com",
+  "project": {
+    "name": "Casper2020",
+    "description": "A collection of different tools",
+    "contributors": 10,
+    "home_url": "https://github.com/casper2020",
+    "repo_url": "https://github.com/casper2020",
+    "license_type": "Apache License 2.0 (among others)",
+    "license_url": "https://github.com/casper2020/nando/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "João Cunha",
+    "email": "joao.cunha@cldware.com",
+    "role": "Software Developer, Devops",
+    "id": 35873480
+  },
+  "can_contact": false,
+  "issue_number": 484,
+  "created_at": "2022-03-22T19:04:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/484"
+}

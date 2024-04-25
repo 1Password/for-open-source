@@ -1,0 +1,24 @@
+{
+  "account": "asyncapi.asyncapi.com",
+  "project": {
+    "name": "AsyncAPI",
+    "description": "Building the future of Event-Driven Architectures (EDA).\nOpen-Source tools to easily build and maintain your event-driven architecture. All powered by the AsyncAPI specification, the industry standard for defining asynchronous APIs.",
+    "contributors": 36,
+    "home_url": "https://www.asyncapi.com",
+    "repo_url": "https://github.com/asyncapi",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/asyncapi/spec/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Sergio Moya",
+    "email": "info@asyncapi.io",
+    "role": "IC, TSC Member",
+    "id": 1083296
+  },
+  "can_contact": false,
+  "issue_number": 625,
+  "created_at": "2022-10-31T08:50:22Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/625"
+}

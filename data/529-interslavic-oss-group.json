@@ -1,0 +1,24 @@
+{
+  "account": "interslavicgithub.1password.com",
+  "project": {
+    "name": "Interslavic OSS group",
+    "description": "Medžuslovjansky (Interslavic) is an umbrella organization for all the software projects related to the Interslavic auxiliary language: dictionaries, grammar utilities, applications, websites, etc.",
+    "contributors": 4,
+    "home_url": "https://interslavic.fun/en/",
+    "repo_url": "https://github.com/medzuslovjansky/isv_hunspell_dict",
+    "license_type": "MIT",
+    "license_url": "https://github.com/medzuslovjansky/isv_hunspell_dict/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Yaroslav Serhieiev",
+    "email": "noomorph@gmail.com",
+    "role": "Core Contributor",
+    "id": 1962469
+  },
+  "can_contact": false,
+  "issue_number": 529,
+  "created_at": "2022-05-29T15:46:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/529"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "r-ladiesglobal.1password.com",
+  "project": {
+    "name": "R-Ladies Global",
+    "description": "R-Ladies is a worldwide organization whose mission is to promotre gender diversity in the R community. As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently under-represented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\n\nAs additional information, I'd like to point out that in addition to adding all presentations from meetup's on GitHub, recorded videos to YouTube, and share information on how we organise our cumminty freely online, we also have developed an open-source R-package to connect to the [meetup API through R](https://github.com/rladies/meetupr).",
+    "contributors": 20,
+    "home_url": "https://rladies.org/",
+    "repo_url": "https://github.com/rladies",
+    "license_type": "Default licence for all our work is cc-by",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Athanasia Monika Mowinckel",
+    "email": "mo@rladies.org",
+    "role": "Global team member, Website \u0026 YouTube content administrator",
+    "id": 14014329
+  },
+  "can_contact": false,
+  "issue_number": 310,
+  "created_at": "2021-02-27T20:17:03Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/310"
+}

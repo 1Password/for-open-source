@@ -1,0 +1,24 @@
+{
+  "account": "ponylangcoreteam.1password.com",
+  "project": {
+    "name": "Ponylang",
+    "description": "Pony is an open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.",
+    "contributors": 5,
+    "home_url": "https://ponylang.io",
+    "repo_url": "https://github.com/ponylang/ponyc",
+    "license_type": "BSD",
+    "license_url": "https://github.com/ponylang/ponyc/blob/0.25.0/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Matthias Wahl",
+    "email": "pony@m7w3.de",
+    "role": "Core Contributor",
+    "id": 1152667
+  },
+  "can_contact": false,
+  "issue_number": 92,
+  "created_at": "2018-12-05T12:27:44Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/92"
+}

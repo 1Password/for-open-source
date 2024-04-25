@@ -1,0 +1,24 @@
+{
+  "account": "team-perl6.1password.com",
+  "project": {
+    "name": "Perl 6",
+    "description": "Perl 6 is a multi paradigm programming language.",
+    "contributors": 17,
+    "home_url": "https://perl6.org",
+    "repo_url": "https://github.com/perl6",
+    "license_type": "GNU General Public License or Artistic License 2",
+    "license_url": "https://en.wikipedia.org/wiki/GNU_General_Public_License",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Roman Baumer",
+    "email": "roman@baumer-its.ch",
+    "role": "Infrastructure Manager / SME for Perl 6 (including NQP, Rakudo and MoarVM)",
+    "id": 123666
+  },
+  "can_contact": false,
+  "issue_number": 144,
+  "created_at": "2019-07-04T08:26:58Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/144"
+}

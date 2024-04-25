@@ -1,0 +1,24 @@
+{
+  "account": "picolabs.1password.com",
+  "project": {
+    "name": "Pico engine and Manifold",
+    "description": "Picos are an actor-model programming system for building the Internet of Things",
+    "contributors": 6,
+    "home_url": "https://picolabs.atlassian.net/wiki/spaces/docs/overview",
+    "repo_url": "https://github.com/Picolab/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Picolab/pico-engine/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Phil Windley",
+    "email": "phil@windley.org",
+    "role": "Project lead and chief evangelist",
+    "id": 275079
+  },
+  "can_contact": false,
+  "issue_number": 394,
+  "created_at": "2021-11-01T15:59:27Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/394"
+}

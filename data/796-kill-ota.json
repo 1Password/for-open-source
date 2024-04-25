@@ -1,0 +1,24 @@
+{
+  "account": "haitx.1password.com",
+  "project": {
+    "name": "Kill-OTA",
+    "description": "Kill OTA for iOS devices",
+    "contributors": 2,
+    "home_url": "https://github.com/HaiTX3004/Kill-OTA",
+    "repo_url": "https://github.com/HaiTX3004/Kill-OTA",
+    "license_type": "GNU General Public License v3.0",
+    "license_url": "https://github.com/HaiTX3004/Kill-OTA",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Hải Trần",
+    "email": "haitx.work@gmail.com",
+    "role": "Admin",
+    "id": 100550537
+  },
+  "can_contact": false,
+  "issue_number": 796,
+  "created_at": "2023-08-08T08:49:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/796"
+}

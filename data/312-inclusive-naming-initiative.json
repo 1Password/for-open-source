@@ -1,0 +1,24 @@
+{
+  "account": "inclusivenaming.1password.com",
+  "project": {
+    "name": "Inclusive Naming Initiative",
+    "description": "The Inclusive Naming Initiative’s mission is to help companies and projects\nremove all harmful and unclear language of any kind and replace it with an\nagreed-upon set of neutral terms. The initiative’s goal is to define processes\nand tools to remove harmful language from projects. This includes creating a\ncomprehensive list of terms with replacements, language evaluation frameworks\nand templates, and infrastructure to aid the transition.",
+    "contributors": 15,
+    "home_url": "https://inclusivenaming.org/",
+    "repo_url": "https://github.com/inclusivenaming/website",
+    "license_type": "Apache License 2.0\nCreative Commons Attribution 4.0 International",
+    "license_url": "https://github.com/inclusivenaming/website/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Stephen Augustus",
+    "email": "foo@auggie.dev",
+    "role": "Co-founder / Infrastructure Architect",
+    "id": 567897
+  },
+  "can_contact": false,
+  "issue_number": 312,
+  "created_at": "2021-03-09T07:57:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/312"
+}

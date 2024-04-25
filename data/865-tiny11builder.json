@@ -1,0 +1,24 @@
+{
+  "account": "tiny11builder.1password.com",
+  "project": {
+    "name": "tiny11builder",
+    "description": "This tool allows to build a light installation image of Windows 11, by downloading the original ISO file from Microsoft and then removing unwanted components. Unwanted components can be configured in the config file.",
+    "contributors": 2,
+    "home_url": "https://github.com/ianis58/tiny11builder",
+    "repo_url": "https://github.com/ianis58/tiny11builder",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ianis58/tiny11builder/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "ianis",
+    "email": "ianis58@gmail.com",
+    "role": "owner",
+    "id": 15245387
+  },
+  "can_contact": true,
+  "issue_number": 865,
+  "created_at": "2024-01-03T12:53:31Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/865"
+}

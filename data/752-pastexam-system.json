@@ -1,0 +1,24 @@
+{
+  "account": "nthuts.1password.com",
+  "project": {
+    "name": "PastExam System",
+    "description": "A system that provides students to upload or manage the past exam.\nYou can easily host yourself on your own server, and select some users to be the admin.",
+    "contributors": 6,
+    "home_url": "https://pastexam.nthu.dev/",
+    "repo_url": "https://github.com/nthu-dev/NTHUPastExam",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/nthu-dev/NTHUPastExam/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Chen Xing Hsuan",
+    "email": "hsuan@nthu.dev",
+    "role": "Infrastructure Manager, Backend Developer",
+    "id": 133121375
+  },
+  "can_contact": true,
+  "issue_number": 752,
+  "created_at": "2023-05-19T13:10:05Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/752"
+}

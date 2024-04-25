@@ -1,0 +1,24 @@
+{
+  "account": "wongbejoonline.1password.com",
+  "project": {
+    "name": "Wong Bejo Online",
+    "description": "Wong Bejo Online is a community of Indonesian students who can create great products from crazy ideas.",
+    "contributors": 4,
+    "home_url": "https://wongbejo.online",
+    "repo_url": "https://github.com/wongbejo-online",
+    "license_type": "MIT",
+    "license_url": "https://github.com/wongbejo-online/website/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ahmad Ainul Rizki",
+    "email": "hey@bejoistic.com",
+    "role": "Maintainer \u0026 Full-Stack Developer",
+    "id": 10137
+  },
+  "can_contact": false,
+  "issue_number": 246,
+  "created_at": "2020-10-20T14:50:47Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/246"
+}

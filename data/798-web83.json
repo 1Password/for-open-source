@@ -1,0 +1,24 @@
+{
+  "account": "web83info.1password.com",
+  "project": {
+    "name": "Web83",
+    "description": "Web83 is a software development team focused on WordPress development.",
+    "contributors": 1,
+    "home_url": "https://github.com/web83info",
+    "repo_url": "https://github.com/web83info/show-current-width",
+    "license_type": "GPLv2 or later",
+    "license_url": "https://github.com/web83info/show-current-width/blob/main/readme.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Hirayama, Tomoharu",
+    "email": "me@web83.info",
+    "role": "Developer",
+    "id": 1398812
+  },
+  "can_contact": true,
+  "issue_number": 798,
+  "created_at": "2023-08-09T04:10:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/798"
+}

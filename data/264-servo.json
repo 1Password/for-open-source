@@ -1,0 +1,23 @@
+{
+  "account": "servo-team.1password.com",
+  "project": {
+    "name": "Servo",
+    "description": "An independent, modular, embeddable web engine, which allows developers to deliver content and applications using web standards.",
+    "contributors": 19,
+    "home_url": "https://servo.org",
+    "repo_url": "https://github.com/servo/servo",
+    "license_type": "MPL",
+    "license_url": "https://github.com/servo/servo/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Alan Jeffrey",
+    "role": "Technical chair",
+    "id": 403333
+  },
+  "can_contact": false,
+  "issue_number": 264,
+  "created_at": "2020-11-23T21:59:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/264"
+}

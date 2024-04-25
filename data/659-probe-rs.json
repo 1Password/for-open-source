@@ -1,0 +1,24 @@
+{
+  "account": "probe-rs.1password.com",
+  "project": {
+    "name": "probe-rs",
+    "description": "probe-rs is a modern toolkit for debugging and programming microcontrollers, written in Rust.",
+    "contributors": 5,
+    "home_url": "https://probe.rs",
+    "repo_url": "https://github.com/probe-rs/probe-rs",
+    "license_type": "MIT or Apache-2.0",
+    "license_url": "https://github.com/probe-rs/probe-rs/blob/master/LICENSE-MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Dominik Boehi",
+    "email": "dboehi@fastmail.com",
+    "role": "Maintainer",
+    "id": 859555
+  },
+  "can_contact": false,
+  "issue_number": 659,
+  "created_at": "2023-01-14T15:50:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/659"
+}

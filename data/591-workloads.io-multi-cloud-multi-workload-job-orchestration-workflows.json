@@ -1,0 +1,24 @@
+{
+  "account": "workloads.1password.com",
+  "project": {
+    "name": "workloads.io - multi-cloud, multi-workload job orchestration workflows",
+    "description": "workloads.io - multi-cloud, multi-workload job orchestration workflows",
+    "contributors": 2,
+    "home_url": "https://github.com/workloads/website",
+    "repo_url": "https://github.com/workloads/",
+    "license_type": "Apache 2.0, exclusively",
+    "license_url": "https://github.com/workloads/.github/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kerim Satirli",
+    "email": "kerim@hashicorp",
+    "role": "Creator",
+    "id": 220436
+  },
+  "can_contact": false,
+  "issue_number": 591,
+  "created_at": "2022-08-31T11:25:56Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/591"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "rusackas.1password.com",
+  "project": {
+    "name": "Apache Superset",
+    "description": "Apache Superset is a modern, enterprise-ready business intelligence web application. It is fast, lightweight, intuitive, and loaded with options that make it easy for users of all skill sets to explore and visualize their data.",
+    "contributors": 54,
+    "home_url": "https://superset.apache.org/",
+    "repo_url": "https://github.com/apache/superset",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/apache/superset/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Evan Rusackas",
+    "email": "rusackas@apache.org",
+    "role": "PMC Member",
+    "id": 812905
+  },
+  "can_contact": false,
+  "issue_number": 637,
+  "created_at": "2022-12-07T23:09:58Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/637"
+}

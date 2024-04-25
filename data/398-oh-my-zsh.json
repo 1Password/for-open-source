@@ -1,0 +1,23 @@
+{
+  "account": "ohmyzsh.1password.com",
+  "project": {
+    "name": "Oh My Zsh",
+    "description": "Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...\n\n\"Oh My ZSH!\"",
+    "contributors": 3,
+    "home_url": "https://ohmyz.sh/",
+    "repo_url": "https://github.com/ohmyzsh/ohmyzsh/",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Robby Russell",
+    "email": "robby@planetargon.com",
+    "role": "Creator",
+    "id": 257
+  },
+  "can_contact": false,
+  "issue_number": 398,
+  "created_at": "2021-11-01T22:16:29Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/398"
+}

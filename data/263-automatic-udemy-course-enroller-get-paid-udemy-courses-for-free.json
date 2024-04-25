@@ -1,0 +1,24 @@
+{
+  "account": "utopiancorps.1password.com",
+  "project": {
+    "name": "Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "description": "Enrolls you to udemy courses automatically for free. Uses web scraping to get the code and applies to udemy",
+    "contributors": 3,
+    "home_url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "repo_url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "license_type": "GPL v3",
+    "license_url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "fakeid30",
+    "email": "junayeed@protonmail.com",
+    "role": "core contributor",
+    "id": 26362832
+  },
+  "can_contact": false,
+  "issue_number": 263,
+  "created_at": "2020-11-17T08:41:36Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/263"
+}

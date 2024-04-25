@@ -1,0 +1,24 @@
+{
+  "account": "twoitguys.1password.com",
+  "project": {
+    "name": "sdr-trunk",
+    "description": "A container that uses trunk-recorder along with a SDR to record calls on trunked and conventional radio systems. A web interface is included from trunk-player.",
+    "contributors": 2,
+    "home_url": "https://github.com/Gibby/sdr-trunk",
+    "repo_url": "https://github.com/Gibby/sdr-trunk",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Gibby/sdr-trunk/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Chris",
+    "email": "chris@twoitguys.com",
+    "role": "Owner",
+    "id": 503761
+  },
+  "can_contact": false,
+  "issue_number": 711,
+  "created_at": "2023-03-15T19:46:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/711"
+}

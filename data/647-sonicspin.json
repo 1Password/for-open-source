@@ -1,0 +1,24 @@
+{
+  "account": "sonicspin.1password.com",
+  "project": {
+    "name": "SonicSpin",
+    "description": "A community which creates tons of Sonic community related tools and serves everyone.",
+    "contributors": 3,
+    "home_url": "https://project.sonicspin.org",
+    "repo_url": "https://github.com/sonicspinforum/qq-guild-keyword-recall-bot",
+    "license_type": "MIT",
+    "license_url": "https://github.com/sonicspinforum/qq-guild-keyword-recall-bot/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Alan Ye (a.k.a. _Wr_)",
+    "email": "wroffi@outlook.com",
+    "role": "The founder of this project as well as the leader.",
+    "id": 45558679
+  },
+  "can_contact": false,
+  "issue_number": 647,
+  "created_at": "2022-12-24T00:10:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/647"
+}

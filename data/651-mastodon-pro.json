@@ -1,0 +1,24 @@
+{
+  "account": "jodok.1password.com",
+  "project": {
+    "name": "Mastodon pro",
+    "description": "Mastodon pro is providing hosting services for the decentralized, open-source social network Mastodon, that puts users in control of their data and communication. It is officially endorsed by the founders of Mastodon.",
+    "contributors": 4,
+    "home_url": "https://joinmastodon.org",
+    "repo_url": "https://github.com/mastodonpro",
+    "license_type": "AGPLv3",
+    "license_url": "https://github.com/mastodonpro/terraform/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jodok Batlogg",
+    "email": "jodok@batlogg.com",
+    "role": "CTO",
+    "id": 158125
+  },
+  "can_contact": false,
+  "issue_number": 651,
+  "created_at": "2022-12-25T10:24:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/651"
+}

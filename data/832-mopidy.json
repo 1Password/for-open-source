@@ -1,0 +1,23 @@
+{
+  "account": "mopidy.1password.com",
+  "project": {
+    "name": "Mopidy",
+    "description": "Mopidy is an extensible music server written in Python.\n\nMopidy plays music from local disk, Spotify, SoundCloud, TuneIn, and more. You can edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.",
+    "contributors": 3,
+    "home_url": "https://mopidy.com/",
+    "repo_url": "https://github.com/mopidy/mopidy",
+    "license_type": "Apache-2.0",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Stein Magnus Jodal",
+    "email": "stein.magnus@jodal.no",
+    "role": "Project creator",
+    "id": 43726
+  },
+  "can_contact": true,
+  "issue_number": 832,
+  "created_at": "2023-10-17T21:19:46Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/832"
+}

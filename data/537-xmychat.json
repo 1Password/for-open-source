@@ -1,0 +1,24 @@
+{
+  "account": "emonq.1password.com",
+  "project": {
+    "name": "XMYChat",
+    "description": "A Qt based opensource IM software.",
+    "contributors": 4,
+    "home_url": "https://github.com/emonq/XMYChat",
+    "repo_url": "https://github.com/emonq/XMYChat",
+    "license_type": "MIT",
+    "license_url": "https://github.com/emonq/XMYChat/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Yangfan Chen",
+    "email": "emonq@outlook.com",
+    "role": "Main developer",
+    "id": 19651510
+  },
+  "can_contact": false,
+  "issue_number": 537,
+  "created_at": "2022-06-03T06:24:08Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/537"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "prestofoundation.1password.com",
+  "project": {
+    "name": "Presto Foundation",
+    "description": "Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.",
+    "contributors": 7,
+    "home_url": "https://prestodb.io",
+    "repo_url": "https://github.com/prestodb/presto",
+    "license_type": "Apache V2",
+    "license_url": "https://github.com/prestodb/presto/commit/82f3b447ebc80056c2ca053bd80ecc1a653424bc",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Tim Meehan",
+    "email": "tsc-chair@prestodb.io",
+    "role": "TSC Chair",
+    "id": 7980573
+  },
+  "can_contact": false,
+  "issue_number": 562,
+  "created_at": "2022-07-07T17:49:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/562"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "denhac.1password.com",
+  "project": {
+    "name": "denhac",
+    "description": "denhac is a hackerspace on a mission to create and sustain a local, community driven, shared space that enables education, experimentation, and collaboration, by applying the spirit of DIY to science, technology, engineering, and art. Based in Denver, CO, USA, the tools we build to manage the space are all open source and we host a wide range of events and meetups that are all free and open to the public.",
+    "contributors": 7,
+    "home_url": "https://denhac.org",
+    "repo_url": "https://github.com/denhac",
+    "license_type": "MIT, Apache 2.0, GPLv2/v3",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Eddie Zaneski",
+    "email": "eddiezane@denhac.org",
+    "role": "board",
+    "id": 959573
+  },
+  "can_contact": true,
+  "issue_number": 816,
+  "created_at": "2023-09-20T18:40:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/816"
+}

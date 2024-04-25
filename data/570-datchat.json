@@ -1,0 +1,24 @@
+{
+  "account": "metabox.1password.com",
+  "project": {
+    "name": "DatChat",
+    "description": "DaiChat is a 1-1 and group messaging application written in Java (with Java Networking / Java Swing / Hibernate / MySQL). This is the project of the subject \"Java Application Programming\" at the University. The source code of this project is valuable reference for those who learn Java programming.",
+    "contributors": 1,
+    "home_url": "https://github.com/ncdai3651408/ltudjava-summer2020-chatapp_client",
+    "repo_url": "https://github.com/ncdai3651408/ltudjava-summer2020-chatapp_client",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ncdai3651408/ltudjava-summer2020-chatapp_client/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nguyen Chanh Dai",
+    "email": "ncdai@metabox.edu.vn",
+    "role": "Founder \u0026\u0026 Developer",
+    "id": 10192821
+  },
+  "can_contact": false,
+  "issue_number": 570,
+  "created_at": "2022-07-28T14:48:05Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/570"
+}

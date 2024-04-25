@@ -1,0 +1,24 @@
+{
+  "account": "willstonweb.1password.com",
+  "project": {
+    "name": "Willston Web",
+    "description": "Willston Web is providing computer science teaching and laptops to high school students who might otherwise not have access to these opportunities. Our curriculum is open source. On Monday, we will be hosting a web development bootcamp and providing laptops to 13 students.",
+    "contributors": 1,
+    "home_url": "https://willston.org",
+    "repo_url": "https://github.com/willstonweb/curriculum",
+    "license_type": "MIT",
+    "license_url": "https://github.com/willstonweb/curriculum/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jonathan Buchholz",
+    "email": "jonathan@willston.org",
+    "role": "Cofounder",
+    "id": 63243849
+  },
+  "can_contact": false,
+  "issue_number": 546,
+  "created_at": "2022-06-12T19:36:01Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/546"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "hackforla-team.1password.com",
+  "project": {
+    "name": "hackforla.org",
+    "description": "Civic tech projects that help people of Los Angeles. Building tech for local impact.",
+    "contributors": 26,
+    "home_url": "https://hackforla.org",
+    "repo_url": "https://github.com/hackforla/website",
+    "license_type": "GPLv2.0",
+    "license_url": "https://opensource.org/licenses/gpl-2.0.php",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jared Fowler",
+    "email": "jared.fowler@hackforla.org",
+    "role": "operations volunteer",
+    "id": 6464919
+  },
+  "can_contact": false,
+  "issue_number": 221,
+  "created_at": "2020-08-05T05:09:22Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/221"
+}

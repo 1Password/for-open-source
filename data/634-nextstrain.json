@@ -1,0 +1,24 @@
+{
+  "account": "nextstrain.1password.com",
+  "project": {
+    "name": "Nextstrain",
+    "description": "Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. Our goal is to aid epidemiological understanding and improve outbreak response.",
+    "contributors": 12,
+    "home_url": "https://nextstrain.org",
+    "repo_url": "https://github.com/nextstrain",
+    "license_type": "Mostly MIT and AGPL-3.0",
+    "license_url": "https://github.com/orgs/nextstrain/repositories",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Victor Lin",
+    "email": "victor@victorlin.in",
+    "role": "Full Stack Developer",
+    "id": 13424970
+  },
+  "can_contact": false,
+  "issue_number": 634,
+  "created_at": "2022-11-28T22:41:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/634"
+}

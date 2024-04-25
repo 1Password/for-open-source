@@ -1,0 +1,24 @@
+{
+  "account": "techphantoms.1password.com",
+  "project": {
+    "name": "Tech Phantoms",
+    "description": "Tech Phantoms is an open-source community run by students. We hang out to share our knowledge and to build cool projects. Come hang out with us and let's make open source a better place.",
+    "contributors": 4,
+    "home_url": "https://opencollective.com/techphantoms",
+    "repo_url": "https://github.com/tech-phantoms",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Tech-Phantoms/Tech_Phantoms_website/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Abir Pal",
+    "email": "abir.pal899@gmail.com",
+    "role": "Org Admin",
+    "id": 53480076
+  },
+  "can_contact": false,
+  "issue_number": 404,
+  "created_at": "2021-11-04T16:05:09Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/404"
+}

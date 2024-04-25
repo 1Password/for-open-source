@@ -1,0 +1,23 @@
+{
+  "account": "zosopentools.1password.com",
+  "project": {
+    "name": "ZOS Open Tools",
+    "description": "A mainframe community effort to port open source tools to a mainframe operating system (called z/OS).\nThere are ~100 ports now, at https://github.com/zosOpenTools/.\nThe intent is to make desirable open source projects work on z/OS, and upstream platform and OS-specific patches to the respective projects.",
+    "contributors": 5,
+    "home_url": "https://zosopentools.github.io/meta/#/",
+    "repo_url": "https://github.com/ZOSOpenTools/",
+    "license_type": "Depends on the license of the project being ported",
+    "license_url": "https://github.com/ZOSOpenTools/meta/blob/main/bin/data/licenses.csv",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Vignesh",
+    "role": "Contributor",
+    "id": 234149
+  },
+  "can_contact": false,
+  "issue_number": 754,
+  "created_at": "2023-05-23T12:07:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/754"
+}

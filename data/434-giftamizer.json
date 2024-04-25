@@ -1,0 +1,24 @@
+{
+  "account": "explodedcode.1password.com",
+  "project": {
+    "name": "Giftamizer",
+    "description": "Giftamizer is created by a group of friends who are dedicated to creating Open Source applications on modern technologies. We strive to create the best end user experience and listen to end user feedback.",
+    "contributors": 3,
+    "home_url": "https://giftamizer.com/",
+    "repo_url": "https://github.com/EvanTrow/Giftamizer",
+    "license_type": "GPLv3",
+    "license_url": "https://github.com/EvanTrow/Giftamizer/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Evan Templin",
+    "email": "etemplin@explodedcode.com",
+    "role": "Project Manager and Quality Control Analyst",
+    "id": 16927633
+  },
+  "can_contact": false,
+  "issue_number": 434,
+  "created_at": "2021-12-14T02:24:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/434"
+}

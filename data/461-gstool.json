@@ -1,0 +1,24 @@
+{
+  "account": "itlvd.1password.com",
+  "project": {
+    "name": "gsTool",
+    "description": "Make using easier and automatic jobs for Google Services.",
+    "contributors": 1,
+    "home_url": "https://github.com/itlvd/gsTool",
+    "repo_url": "https://github.com/itlvd/gsTool",
+    "license_type": "GNU General Public License v3.0",
+    "license_url": "https://github.com/itlvd/gsTool/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Le Van Dong",
+    "email": "contact@levandong.com",
+    "role": "Owner",
+    "id": 56728383
+  },
+  "can_contact": false,
+  "issue_number": 461,
+  "created_at": "2022-02-24T01:30:51Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/461"
+}

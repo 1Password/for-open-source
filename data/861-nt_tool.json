@@ -1,0 +1,23 @@
+{
+  "account": "xmsley.1password.com",
+  "project": {
+    "name": "nt_tool",
+    "description": "An award searching project aims to using public data by airlines more efficiently.",
+    "contributors": 2,
+    "home_url": "https://github.com/xmsley614/nt_tool",
+    "repo_url": "https://github.com/xmsley614/nt_tool",
+    "license_type": "GPL-3.0",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "xmsley",
+    "email": "xmsley@qq.com",
+    "role": "owner",
+    "id": 73490142
+  },
+  "can_contact": false,
+  "issue_number": 861,
+  "created_at": "2023-12-22T09:34:39Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/861"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "metal3-io.1password.com",
+  "project": {
+    "name": "Metal3.io",
+    "description": "Bare Metal Host Provisioning for Kubernetes",
+    "contributors": 40,
+    "home_url": "https://metal3.io/",
+    "repo_url": "https://github.com/metal3-io",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/metal3-io/metal3-docs/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Feruzjon Muyassarov",
+    "email": "feruzjon.muyassarov@est.tech",
+    "role": "Maintainer",
+    "id": 35802557
+  },
+  "can_contact": false,
+  "issue_number": 322,
+  "created_at": "2021-03-29T11:40:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/322"
+}

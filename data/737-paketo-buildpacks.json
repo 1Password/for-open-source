@@ -1,0 +1,24 @@
+{
+  "account": "paketo-buildpacks.1password.com",
+  "project": {
+    "name": "Paketo Buildpacks",
+    "description": "Cloud Native Buildpacks from the Cloud Foundry community",
+    "contributors": 47,
+    "home_url": "https://paketo.io",
+    "repo_url": "https://github.com/paketo-buildpacks",
+    "license_type": "Apache 2",
+    "license_url": "https://github.com/paketo-buildpacks/go/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Chris Clark",
+    "email": "cclark@linuxfoundation.org",
+    "role": "Program Manager",
+    "id": 11550052
+  },
+  "can_contact": true,
+  "issue_number": 737,
+  "created_at": "2023-05-03T02:23:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/737"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "fruityrazer.1password.eu",
+  "project": {
+    "name": "FruityRazer",
+    "description": "Open-source macOS drivers for Razer devices.",
+    "contributors": 2,
+    "home_url": "https://fruityrazer.github.io",
+    "repo_url": "https://github.com/FruityRazer",
+    "license_type": "GPLv3",
+    "license_url": "https://github.com/FruityRazer/FruityUI/blob/v1.3/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Eduardo Almeida",
+    "role": "Project Owner / Core Developer",
+    "id": 387713
+  },
+  "can_contact": false,
+  "issue_number": 313,
+  "created_at": "2021-03-10T15:40:22Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/313"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "yoginth.1password.com",
+  "project": {
+    "name": "Gitote",
+    "description": "Gitote is an open source end-to-end self-hosted software development platform with built-in version control, issue tracking, code review, and more.",
+    "contributors": 10,
+    "home_url": "https://hub.docker.com/r/gitote/gitote",
+    "repo_url": "https://gitlab.com/gitote/gitote",
+    "license_type": "MIT",
+    "license_url": "https://gitlab.com/gitote/gitote/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Yoginth",
+    "email": "yoginth@protonmail.com",
+    "role": "Owner",
+    "id": 10137
+  },
+  "can_contact": false,
+  "issue_number": 176,
+  "created_at": "2019-12-28T04:03:29Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/176"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "onelitefeather.1password.com",
+  "project": {
+    "name": "OneLiteFeather",
+    "description": "OneLiteFeather is a Minecraft Network focusing on the development tools, plugins and more with intention to share with other servers.",
+    "contributors": 4,
+    "home_url": "https://github.com/OneLiteFeatherNET",
+    "repo_url": "https://github.com/OneLiteFeatherNET/Microtus",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Phillipp Glanz",
+    "email": "1password@themeinerlp.dev",
+    "role": "Core and infrastructure maintainer",
+    "id": 6745190
+  },
+  "can_contact": false,
+  "issue_number": 817,
+  "created_at": "2023-09-21T22:51:58Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/817"
+}

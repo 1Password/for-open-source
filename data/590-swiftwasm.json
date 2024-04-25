@@ -1,0 +1,24 @@
+{
+  "account": "katei.1password.com",
+  "project": {
+    "name": "SwiftWasm",
+    "description": "SwiftWasm compiles your Swift code to WebAssembly.",
+    "contributors": 5,
+    "home_url": "https://swiftwasm.org/",
+    "repo_url": "http://github.com/swiftwasm/swift",
+    "license_type": "Apache License v2.0 with Runtime Library Exception",
+    "license_url": "https://github.com/swiftwasm/swift/blob/swiftwasm/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Yuta Saito",
+    "email": "katei@swiftwasm.org",
+    "role": "Co-maintainer",
+    "id": 11702759
+  },
+  "can_contact": false,
+  "issue_number": 590,
+  "created_at": "2022-08-22T14:24:47Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/590"
+}

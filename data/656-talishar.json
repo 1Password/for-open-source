@@ -1,0 +1,23 @@
+{
+  "account": "talishar.1password.com",
+  "project": {
+    "name": "Talishar",
+    "description": "Talishar is an unofficial open source game allowing people to play the popular Flesh \u0026 Blood TCG in their browser.",
+    "contributors": 5,
+    "home_url": "https://talishar.net/",
+    "repo_url": "https://github.com/Talishar/Talishar",
+    "license_type": "GNU GENERAL PUBLIC LICENSE Version 3",
+    "license_url": "https://github.com/Talishar/Talishar-FE/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Stuart Myers",
+    "role": "Contributor / lead FE dev",
+    "id": 5060535
+  },
+  "can_contact": false,
+  "issue_number": 656,
+  "created_at": "2023-01-10T02:22:10Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/656"
+}

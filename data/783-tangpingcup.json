@@ -1,0 +1,23 @@
+{
+  "account": "bitf1a5h.1password.com",
+  "project": {
+    "name": "TangpingCup",
+    "description": "A zero-base friendly CTF Competition in China. Every year the committee will open source the Write-Ups and the source code of every challenge for studying.",
+    "contributors": 4,
+    "home_url": "https://github.com/TangpingCup/2023-TangpingCup",
+    "repo_url": "https://github.com/TangpingCup/2023-TangpingCup",
+    "license_type": "The challenges and official writeups are licensed under a Creative Commons Attribution - Non-Commercial Use 4.0 International License (CC BY-NC 4.0).\n\nThe permission for player's writeup is described in the players_writeup directory.\n\nThe source code is licensed under the BSD license.\n\nLeaderboards and competition announcements do not allow unauthorized use.",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "ZianTT",
+    "email": "2508164094@qq.com",
+    "role": "Contributer",
+    "id": 53261506
+  },
+  "can_contact": true,
+  "issue_number": 783,
+  "created_at": "2023-07-08T04:29:29Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/783"
+}

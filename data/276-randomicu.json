@@ -1,0 +1,24 @@
+{
+  "account": "randomicu.1password.com",
+  "project": {
+    "name": "Randomicu",
+    "description": "Public API for all who want to get random data.",
+    "contributors": 1,
+    "home_url": "https://random.icu",
+    "repo_url": "https://github.com/randomicu/randomicu",
+    "license_type": "Unlicense",
+    "license_url": "https://github.com/randomicu/randomicu/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Stanislav",
+    "email": "psvtest@gmail.com",
+    "role": "Project Lead",
+    "id": 13417093
+  },
+  "can_contact": false,
+  "issue_number": 276,
+  "created_at": "2020-12-26T14:52:33Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/276"
+}

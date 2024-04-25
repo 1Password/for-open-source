@@ -1,0 +1,24 @@
+{
+  "account": "flaggyflag.1password.com",
+  "project": {
+    "name": "FlaggyFlag",
+    "description": "FlaggyFlag is setup to output calendar (.ics) file to see what flag (royal normal/banner/half-mast) needs to be flown on which day. Personalised per country.",
+    "contributors": 2,
+    "home_url": "https://github.com/walgemoed/FlaggyFlag",
+    "repo_url": "https://github.com/walgemoed/FlaggyFlag",
+    "license_type": "MIT",
+    "license_url": "https://github.com/walgemoed/FlaggyFlag/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Henk Walgemoed",
+    "email": "henk@walgemoed.com",
+    "role": "Developer",
+    "id": 31213694
+  },
+  "can_contact": false,
+  "issue_number": 280,
+  "created_at": "2021-01-12T13:51:38Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/280"
+}

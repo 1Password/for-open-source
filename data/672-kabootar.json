@@ -1,0 +1,24 @@
+{
+  "account": "meghrathod.1password.com",
+  "project": {
+    "name": "Kabootar",
+    "description": "With Kabootar, now you can share all your files with your friends and family in a jiffy. Using Kabootar's peer-to-peer framework, we can now share files securely and privately without the need for any third-party servers. Kabootar is cross-platform and works on any device without any downloads. Kabootar uses WebRTC to transfer files. The project is open source and can be self-hosted on any servers to begin file sharing securely for your own self.",
+    "contributors": 3,
+    "home_url": "https://staging.kabootar.potatokitty.me",
+    "repo_url": "https://github.com/gargakshit/kabootar",
+    "license_type": "MIT",
+    "license_url": "https://github.com/gargakshit/kabootar/blob/develop/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Megh Rathod",
+    "email": "me@meghrathod.dev",
+    "role": "Frontend Developer",
+    "id": 23073422
+  },
+  "can_contact": false,
+  "issue_number": 672,
+  "created_at": "2023-01-29T08:34:36Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/672"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "grailsfoundation.1password.com",
+  "project": {
+    "name": "Grails",
+    "description": "A powerful Groovy-based web application framework for the JVM built on top of Spring Boot",
+    "contributors": -1,
+    "home_url": "https://grails.org",
+    "repo_url": "https://github.com/grails/grails-core",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/grails/grails-core/blob/5.1.x/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sergio del Amo",
+    "email": "delamos@objectcomputing.com",
+    "role": "Grails Developer Advocate",
+    "id": 864788
+  },
+  "can_contact": false,
+  "issue_number": 433,
+  "created_at": "2021-12-13T06:41:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/433"
+}

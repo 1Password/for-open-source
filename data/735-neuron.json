@@ -1,0 +1,24 @@
+{
+  "account": "magickbase.1password.com",
+  "project": {
+    "name": "Neuron",
+    "description": "Neuron is an open-source blockchain wallet aiming at exploiting the potential of cell model, a generalized UTxO model. Meanwhile, Neuron offers users the top level security for management of keys, assets, and governance.",
+    "contributors": 30,
+    "home_url": "https://github.com/nervosnetwork/neuron/",
+    "repo_url": "https://github.com/nervosnetwork/neuron/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/nervosnetwork/neuron/blob/develop/COPYING",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Chen Yu",
+    "email": "chenyu@magickbase.com",
+    "role": "Admin and maintainer",
+    "id": 7271329
+  },
+  "can_contact": true,
+  "issue_number": 735,
+  "created_at": "2023-04-29T07:20:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/735"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "magentoassociation.1password.com",
+  "project": {
+    "name": "Magento Open Source",
+    "description": "[Magento Open Source](https://magento.com/products/magento-open-source) software delivers basic eCommerce capabilities to build a unique online store from the ground up.\n\nOur [Community](https://opensource.magento.com/) is large and diverse, and our project is enormous. As a contributor, you have countless opportunities to impact product development and delivery by introducing new features or improving existing ones, enhancing test coverage, updating documentation for [developers](https://devdocs.magento.com/) and [end-users](https://docs.magento.com/user-guide/), catching and fixing code bugs, suggesting points for optimization, and sharing your great ideas.",
+    "contributors": 15,
+    "home_url": "https://github.com/magento/magento2",
+    "repo_url": "https://github.com/magento/magento2",
+    "license_type": "OSL3",
+    "license_url": "https://github.com/magento/magento2/blob/2.4-develop/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Mathias Schreiber",
+    "email": "mathias.schreiber@magentoassociation.org",
+    "role": "Executive Director of the Magento Association and in charge of getting passwords off Google Documents ;-)",
+    "id": 2158054
+  },
+  "can_contact": false,
+  "issue_number": 655,
+  "created_at": "2023-01-09T10:52:47Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/655"
+}

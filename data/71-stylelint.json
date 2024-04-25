@@ -1,0 +1,24 @@
+{
+  "account": "stylelint.1password.com",
+  "project": {
+    "name": "stylelint",
+    "description": "A mighty, modern CSS linter",
+    "contributors": 6,
+    "home_url": "https://stylelint.io/",
+    "repo_url": "https://github.com/stylelint/stylelint",
+    "license_type": "MIT",
+    "license_url": "https://github.com/stylelint/stylelint/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Stephen Edgar",
+    "email": "stephen@netweb.com.au",
+    "role": "Co-owner",
+    "id": 1016458
+  },
+  "can_contact": false,
+  "issue_number": 71,
+  "created_at": "2018-07-23T00:42:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/71"
+}

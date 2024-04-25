@@ -1,0 +1,24 @@
+{
+  "account": "vuejs-jp.1password.com",
+  "project": {
+    "name": "Vue.js Japan User Group",
+    "description": "The Vue.js Japan User Group (Japanese: Vue.js 日本ユーザーグループ) is a nonprofit organization to hold an annual Tech Conference about Vue.js, Vue related ecosystem and OSS related to Evan you in Japan.",
+    "contributors": 50,
+    "home_url": "https://vuejs-jp.org/en",
+    "repo_url": "https://github.com/vuejs-jp/vuefes-2023",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/vuejs-jp/vuefes-2023/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Kazuya Kawaguchi",
+    "email": "vuefes@gmail.com",
+    "role": "Lead of Vue.js conference, meetup and community operation team",
+    "id": 72989
+  },
+  "can_contact": true,
+  "issue_number": 933,
+  "created_at": "2024-04-08T16:46:58Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/933"
+}

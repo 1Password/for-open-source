@@ -1,0 +1,24 @@
+{
+  "account": "parsecommunity.1password.eu",
+  "project": {
+    "name": "Parse Platform",
+    "description": "The complete application stack. Build applications faster with object and file storage, user authentication, dashboard and more out of the box.",
+    "contributors": 4,
+    "home_url": "https://parseplatform.org",
+    "repo_url": "https://github.com/parse-community/parse-server",
+    "license_type": "BSD or MIT",
+    "license_url": "https://github.com/parse-community/parse-server/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Tom Fox",
+    "email": "tfox@hey.com",
+    "role": "Core Maintainer \u0026 Project Management Committee member",
+    "id": 13188249
+  },
+  "can_contact": false,
+  "issue_number": 344,
+  "created_at": "2021-05-25T23:13:48Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/344"
+}

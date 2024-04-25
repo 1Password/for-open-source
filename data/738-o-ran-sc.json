@@ -1,0 +1,24 @@
+{
+  "account": "o-ran-sc.1password.com",
+  "project": {
+    "name": "O-RAN-SC",
+    "description": "The O-RAN Software Community (SC) is a collaboration between the O-RAN Alliance and Linux Foundation with the mission to support the creation of software for the Radio Access Network (RAN). The RAN is the next challenge for the open source community. The O-RAN SC plans to leverage other LF network projects, while addressing the challenges in performance, scale, and 3GPP alignment",
+    "contributors": 100,
+    "home_url": "https://o-ran-sc.org",
+    "repo_url": "https://github.com/o-ran-sc",
+    "license_type": "Apache V2",
+    "license_url": "https://github.com/o-ran-sc/ric-plt-a1/blob/g-release/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Sridhar K. N. Rao",
+    "email": "srao@linuxfoundation.org",
+    "role": "Technical Project Manager",
+    "id": 8253407
+  },
+  "can_contact": true,
+  "issue_number": 738,
+  "created_at": "2023-05-03T18:37:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/738"
+}

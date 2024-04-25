@@ -1,0 +1,24 @@
+{
+  "account": "rvm-team.1password.com",
+  "project": {
+    "name": "RVM",
+    "description": "RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.",
+    "contributors": 3,
+    "home_url": "http://rvm.io",
+    "repo_url": "https://github.com/rvm/rvm/",
+    "license_type": "Apache License, Version 2.0",
+    "license_url": "https://github.com/rvm/rvm/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Piotr Kuczynski",
+    "email": "piotr.kuczynski@gmail.com",
+    "role": "Core Contributor",
+    "id": 374864
+  },
+  "can_contact": false,
+  "issue_number": 121,
+  "created_at": "2019-04-03T21:20:20Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/121"
+}

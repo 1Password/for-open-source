@@ -1,0 +1,24 @@
+{
+  "account": "thegooddocsproject.1password.com",
+  "project": {
+    "name": "The Good Docs Project",
+    "description": "We're making templates to help open-source developers create better documentation!",
+    "contributors": 5,
+    "home_url": "https://thegooddocsproject.dev",
+    "repo_url": "https://github.com/thegooddocsproject",
+    "license_type": "Zero-Clause BSD",
+    "license_url": "https://github.com/thegooddocsproject/templates/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Erin McKean",
+    "email": "emckean@google.com",
+    "role": "steering committee member",
+    "id": 225433
+  },
+  "can_contact": false,
+  "issue_number": 202,
+  "created_at": "2020-05-20T21:15:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/202"
+}

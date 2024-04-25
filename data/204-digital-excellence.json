@@ -1,0 +1,24 @@
+{
+  "account": "digitalexcellence.1password.com",
+  "project": {
+    "name": "Digital Excellence",
+    "description": "A lot of employees and students of Schools and Universities create a lot of nice products. As a hobby, for their work or because of a school project. These can be software solutions, small scripts, research papers, thesis but possibly also project ideas and proposals for others to pick up. Unfortunately, most of them remain private and are not known by the majority of the population. The goal of the Digital Excellence-platform (short: DeX) is to make all this work more findable and thus improving collaboration.",
+    "contributors": 12,
+    "home_url": "https://dex.software",
+    "repo_url": "https://github.com/DigitalExcellence/dex-backend",
+    "license_type": "GNU Lesser General Public License v3.0",
+    "license_url": "https://github.com/DigitalExcellence/dex-backend/blob/develop/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Brend Smits",
+    "email": "brend_smits@hotmail.com",
+    "role": "Project leader \u0026 Core developer",
+    "id": 15904543
+  },
+  "can_contact": false,
+  "issue_number": 204,
+  "created_at": "2020-06-12T08:27:49Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/204"
+}

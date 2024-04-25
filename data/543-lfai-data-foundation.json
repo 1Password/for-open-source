@@ -1,0 +1,23 @@
+{
+  "account": "ethacker.1password.com",
+  "project": {
+    "name": "LFAI \u0026 Data Foundation",
+    "description": "LF AI \u0026 Data is an umbrella foundation under the Linux Foundation that supports and sustains open source innovation in AI, ML, DL and Data.",
+    "contributors": 4,
+    "home_url": "http://lfaidata.foundation/",
+    "repo_url": "https://github.com/lfai",
+    "license_type": "Various open source licenses",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Erin Thacker",
+    "email": "ethacker@linuxfoundation.org",
+    "role": "Project Coordinator",
+    "id": 79875662
+  },
+  "can_contact": false,
+  "issue_number": 543,
+  "created_at": "2022-06-07T22:11:57Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/543"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "react-native-mapbox-gl.1password.com",
+  "project": {
+    "name": "react-native-mapbox-gl",
+    "description": "An unofficial React Native library for building maps with the Mapbox Maps SDK for iOS and Mapbox Maps SDK for Android",
+    "contributors": 5,
+    "home_url": "https://",
+    "repo_url": "https://github.com/react-native-mapbox-gl/maps",
+    "license_type": "MIT",
+    "license_url": "https://github.com/react-native-mapbox-gl/maps/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ferds",
+    "email": "﻿react.native.mapbox.gl@gmail.com",
+    "role": "Maintainer",
+    "id": 26439946
+  },
+  "can_contact": false,
+  "issue_number": 267,
+  "created_at": "2020-11-27T20:58:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/267"
+}

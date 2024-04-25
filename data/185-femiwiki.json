@@ -1,0 +1,24 @@
+{
+  "account": "femiwiki.1password.com",
+  "project": {
+    "name": "FemiWiki",
+    "description": "FemiWiki launched as a community effort to counter prevalent misogynistic, male-centered sources of Korean language information online that was also lacking in inclusivity towards most categories of minorities.",
+    "contributors": 21,
+    "home_url": "https://femiwiki.com",
+    "repo_url": "https://github.com/femiwiki",
+    "license_type": "AGPL3.0 or later",
+    "license_url": "https://github.com/femiwiki/docker-mediawiki/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Yongmin Hong",
+    "email": "revi@pobox.com",
+    "role": "developer",
+    "id": 7630875
+  },
+  "can_contact": false,
+  "issue_number": 185,
+  "created_at": "2020-02-15T17:44:10Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/185"
+}

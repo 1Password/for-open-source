@@ -1,0 +1,24 @@
+{
+  "account": "fatiandoaterra.1password.com",
+  "project": {
+    "name": "Fatiando a Terra",
+    "description": "Fatiando a Terra is a community-driven project aimed to provide open-source Python tools for Geosciences. It was born in South America as part of the PhD Thesis of its creators. In time, a community of international users and contributors grew around it. Fatiando characterizes for its well designed and tested software, along with a comprehensive documentation. Its developers and contributors rely on best-practices to provide high quality software that many researchers and practitioners use for their research and work. The project members are committed to create a more open and reproducible science, developing the foundational tools to perform geoscientific research, and improving the ways researchers from different regions of the world collaborate.",
+    "contributors": 7,
+    "home_url": "https://www.fatiando.org",
+    "repo_url": "https://github.com/fatiando",
+    "license_type": "BSD 3-Clause",
+    "license_url": "https://github.com/fatiando/pooch/blob/main/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Santiago Soler",
+    "email": "santisoler@fastmail.com",
+    "role": "Member of the Steering Council and Maintainer",
+    "id": 11541317
+  },
+  "can_contact": true,
+  "issue_number": 761,
+  "created_at": "2023-05-31T23:19:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/761"
+}

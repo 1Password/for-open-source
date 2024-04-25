@@ -1,0 +1,23 @@
+{
+  "account": "graz-sh.1password.com",
+  "project": {
+    "name": "graz.sh",
+    "description": "A collection of frontend toolings containing everything one needs to start working with the Cosmos ecosystem.",
+    "contributors": 3,
+    "home_url": "https://graz.sh",
+    "repo_url": "https://github.com/graz-sh",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Christopher Angelo",
+    "email": "xy@graz.sh",
+    "role": "Core Maintainer / Administrative Maintainer",
+    "id": 2129163
+  },
+  "can_contact": true,
+  "issue_number": 799,
+  "created_at": "2023-08-11T22:00:03Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/799"
+}

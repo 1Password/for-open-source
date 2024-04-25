@@ -1,0 +1,24 @@
+{
+  "account": "daria-team.1password.com",
+  "project": {
+    "name": "DARIA Case Management",
+    "description": "DARIA is a case management system originally created for the DC Abortion Fund (DCAF), an all-volunteer, 501(c)(3) non-profit organization that gives grants to people in DC, Maryland, and Virginia who cannot afford the full cost of abortion care. Its primary goal is to simplify routine case management processes, such as keeping track of patient data, pledges, and contact information. It is now in use by multiple funds across the country.",
+    "contributors": 2,
+    "home_url": "https://github.com/DCAFEngineering/dcaf_case_management",
+    "repo_url": "https://github.com/DCAFEngineering/dcaf_case_management",
+    "license_type": "MIT",
+    "license_url": "https://github.com/DCAFEngineering/dcaf_case_management/blob/main/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kat Tipton",
+    "email": "kathryn.tipton@gmail.com",
+    "role": "Co-Lead Engineer",
+    "id": 6129479
+  },
+  "can_contact": false,
+  "issue_number": 355,
+  "created_at": "2021-06-17T21:54:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/355"
+}

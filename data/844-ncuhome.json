@@ -1,0 +1,24 @@
+{
+  "account": "team-ncuhome.1password.com",
+  "project": {
+    "name": "Ncuhome",
+    "description": "Ncuhome",
+    "contributors": 50,
+    "home_url": "https://team.ncuos.com/",
+    "repo_url": "https://github.com/ncuhome/GeniusAuthoritarian",
+    "license_type": "AGPL",
+    "license_url": "https://github.com/ncuhome/GeniusAuthoritarian/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Mmx233",
+    "email": "admin@suki.ltd",
+    "role": "Independent full stack developer、backend developer、maintainer",
+    "id": 36563672
+  },
+  "can_contact": true,
+  "issue_number": 844,
+  "created_at": "2023-11-11T07:23:34Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/844"
+}

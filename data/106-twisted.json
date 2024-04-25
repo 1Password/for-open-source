@@ -1,0 +1,24 @@
+{
+  "account": "glyph.1password.com",
+  "project": {
+    "name": "Twisted",
+    "description": "An event-driven networking engine written in Python.",
+    "contributors": 22,
+    "home_url": "https://twistedmatrix.com/",
+    "repo_url": "https://github.com/twisted/twisted/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/twisted/twisted/blob/trunk/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Glyph",
+    "email": "glyph@twistedmatrix.com",
+    "role": "Founder",
+    "id": 716529
+  },
+  "can_contact": false,
+  "issue_number": 106,
+  "created_at": "2019-02-26T07:03:38Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/106"
+}

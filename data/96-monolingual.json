@@ -1,0 +1,24 @@
+{
+  "account": "monolingual.1password.com",
+  "project": {
+    "name": "Monolingual",
+    "description": "Monolingual is a program for removing unnecessary language resources from macOS, in order to reclaim several hundred megabytes of disk space.",
+    "contributors": 2,
+    "home_url": "https://ingmarstein.github.io/Monolingual",
+    "repo_url": "https://github.com/IngmarStein/Monolingual",
+    "license_type": "GTP",
+    "license_url": "https://github.com/IngmarStein/Monolingual/blob/v1.8.1/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ingmar Stein",
+    "email": "ingmarstein@icloud.com",
+    "role": "Project Lead",
+    "id": 490610
+  },
+  "can_contact": false,
+  "issue_number": 96,
+  "created_at": "2018-12-22T19:18:28Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/96"
+}

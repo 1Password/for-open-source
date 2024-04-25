@@ -1,0 +1,24 @@
+{
+  "account": "azisabanetwork.1password.com",
+  "project": {
+    "name": "AzisabaNetwork",
+    "description": "AzisabaNetwork is a Minecraft plugin development community in Japan.",
+    "contributors": 4,
+    "home_url": "https://azisaba.net/",
+    "repo_url": "https://github.com/AzisabaNetwork/RyuZUPluginChat",
+    "license_type": "GPL v3 / MIT",
+    "license_url": "https://github.com/AzisabaNetwork/RyuZUPluginChat/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "siloneco",
+    "email": "siloneco4646@gmail.com",
+    "role": "Founder",
+    "id": 37594486
+  },
+  "can_contact": false,
+  "issue_number": 602,
+  "created_at": "2022-09-25T13:11:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/602"
+}

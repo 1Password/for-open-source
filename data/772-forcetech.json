@@ -1,0 +1,23 @@
+{
+  "account": "team-forcetech.1password.com",
+  "project": {
+    "name": "Forcetech",
+    "description": "",
+    "contributors": 2,
+    "home_url": "https://github.com/lupu60/nestjs-toolbox",
+    "repo_url": "https://github.com/lupu60/nestjs-toolbox",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Bogdan",
+    "email": "lupu60@gmail.com",
+    "role": "",
+    "id": 5337610
+  },
+  "can_contact": true,
+  "issue_number": 772,
+  "created_at": "2023-06-19T12:56:17Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/772"
+}

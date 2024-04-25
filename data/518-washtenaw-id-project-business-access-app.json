@@ -1,0 +1,24 @@
+{
+  "account": "washtenawidproject.1password.com",
+  "project": {
+    "name": "Washtenaw ID Project Business Access App",
+    "description": "The Washtenaw ID Project is a non-profit organization based in Washtenaw County, Michigan that seeks to ensure that all residents of Washtenaw County have meaningful access to a government-issued ID that validates their identity and residency. We are building a web app to help people find businesses that actively support the ID and accept it as proof of identity.",
+    "contributors": 2,
+    "home_url": "http://www.washtenawid.com/who-we-are/",
+    "repo_url": "https://github.com/washtenawIdtreble?tab=repositories",
+    "license_type": "GPL 3.0",
+    "license_url": "https://github.com/washtenawIdtreble/washtenaw-id-webapp/blob/dev/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ryan Heisler",
+    "email": "ryan.a.heisler@gmail.com",
+    "role": "Lead developer and project manager",
+    "id": 36831635
+  },
+  "can_contact": false,
+  "issue_number": 518,
+  "created_at": "2022-05-05T23:52:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/518"
+}

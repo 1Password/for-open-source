@@ -1,0 +1,22 @@
+{
+  "account": "team-ttry.1password.com",
+  "project": {
+    "name": "Finnish Information Security Association",
+    "description": "Finnish Information Security Association is the largest network of information security professionals in Finland. The association's main objective is to promote cooperation in the field of information security and to act as a link between its members, as well as to promote good security practices in all areas of information security.",
+    "contributors": 8,
+    "home_url": "https://tietoturva.fi",
+    "repo_url": "https://N/A",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Marko Mantere",
+    "email": "marko.mantere@tietoturva.fi",
+    "role": "Member of the Board",
+    "id": 93970647
+  },
+  "can_contact": false,
+  "issue_number": 411,
+  "created_at": "2021-11-09T10:41:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/411"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "openvoicenetwork.1password.com",
+  "project": {
+    "name": "Open Voice Network",
+    "description": "The Open Voice Network is a neutral, non-profit industry association dedicated to the development of the standards and ethical use guidelines that will make voice worthy of user trust.",
+    "contributors": 25,
+    "home_url": "https://openvoicenetwork.org/",
+    "repo_url": "https://github.com/open-voice-network",
+    "license_type": "MIT license",
+    "license_url": "https://github.com/open-voice-network/website/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Neal Caidin",
+    "email": "ncaidin@linuxfoundation.org",
+    "role": "Program Manager",
+    "id": 5399652
+  },
+  "can_contact": false,
+  "issue_number": 416,
+  "created_at": "2021-11-18T22:06:26Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/416"
+}

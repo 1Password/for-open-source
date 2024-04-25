@@ -1,0 +1,23 @@
+{
+  "account": "wurzellos.1password.com",
+  "project": {
+    "name": "s3m",
+    "description": "A command-line tool for storing streams of data in s3 buckets.",
+    "contributors": 3,
+    "home_url": "https://s3m.stream/",
+    "repo_url": "https://github.com/s3m/s3m/",
+    "license_type": "BSD",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nicolas Embriz",
+    "email": "nbari@tequila.io",
+    "role": "Lead Maintainer/Core Contributor",
+    "id": 364199
+  },
+  "can_contact": true,
+  "issue_number": 899,
+  "created_at": "2024-02-24T03:12:20Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/899"
+}

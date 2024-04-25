@@ -1,0 +1,24 @@
+{
+  "account": "team-pixie.1password.com",
+  "project": {
+    "name": "Pixie",
+    "description": "Pixie is an open source observability tool for Kubernetes applications.",
+    "contributors": 10,
+    "home_url": "https://px.dev",
+    "repo_url": "https://github.com/pixie-io/pixie",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/pixie-io/pixie/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Vihang Mehta",
+    "email": "vihang@px.dev",
+    "role": "Maintainer",
+    "id": 1444638
+  },
+  "can_contact": true,
+  "issue_number": 763,
+  "created_at": "2023-06-01T17:57:34Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/763"
+}

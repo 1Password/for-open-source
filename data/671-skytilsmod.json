@@ -1,0 +1,24 @@
+{
+  "account": "skytils.1password.com",
+  "project": {
+    "name": "SkytilsMod",
+    "description": "Skytils develops Minecraft utility features designed to improve quality of life. For example, SkytilsMod provides critical open-source modifications for the MMORPG Hypixel Skyblock as an alternative to paid options.",
+    "contributors": 2,
+    "home_url": "https://skytils.gg/",
+    "repo_url": "https://github.com/Skytils/SkytilsMod",
+    "license_type": "AGPL 3.0",
+    "license_url": "https://github.com/Skytils/SkytilsMod/blob/1.x/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Lily",
+    "email": "lily@skytils.gg",
+    "role": "Maintainer",
+    "id": 37018278
+  },
+  "can_contact": false,
+  "issue_number": 671,
+  "created_at": "2023-01-29T06:50:20Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/671"
+}

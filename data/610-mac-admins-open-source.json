@@ -1,0 +1,24 @@
+{
+  "account": "macadminsopensource.1password.com",
+  "project": {
+    "name": "Mac Admins Open Source",
+    "description": "This organization exists to empower open source within the Mac Admins community. Projects that we support are used across many Universities and Corporations of all sizes.",
+    "contributors": 9,
+    "home_url": "https://www.macadmins.io",
+    "repo_url": "https://github.com/macadmins",
+    "license_type": "MIT",
+    "license_url": "https://github.com/macadmins/nudge/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nate Walck",
+    "email": "nate@macadmins.io",
+    "role": "Owner",
+    "id": 867868
+  },
+  "can_contact": false,
+  "issue_number": 610,
+  "created_at": "2022-10-09T14:41:29Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/610"
+}

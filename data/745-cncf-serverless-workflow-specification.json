@@ -1,0 +1,24 @@
+{
+  "account": "cncfserverlessworkflowspecificat.1password.com",
+  "project": {
+    "name": "CNCF Serverless Workflow Specification",
+    "description": "Standards-based DSL and open-source dev tools and runtimes are at the heart of the Serverless Workflow project. We connect developers around the world to foster innovation and provide a community-driven workflow ecosystem.",
+    "contributors": 3,
+    "home_url": "https://serverlessworkflow.io/",
+    "repo_url": "https://github.com/serverlessworkflow/specification",
+    "license_type": "Apache",
+    "license_url": "https://github.com/serverlessworkflow/specification/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ricardo Zanini",
+    "email": "ricardozanini@gmail.com",
+    "role": "Core Maintainer",
+    "id": 1538000
+  },
+  "can_contact": true,
+  "issue_number": 745,
+  "created_at": "2023-05-16T21:02:08Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/745"
+}

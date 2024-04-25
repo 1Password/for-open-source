@@ -1,0 +1,23 @@
+{
+  "account": "amureki.1password.com",
+  "project": {
+    "name": "Model Bakery",
+    "description": "Smart fixtures for better tests - Model Bakery offers you a smart way to create fixtures for testing in Django.",
+    "contributors": 3,
+    "home_url": "https://model-bakery.readthedocs.io/en/latest/",
+    "repo_url": "https://github.com/model-bakers/model_bakery",
+    "license_type": "Apache Software License (Apache 2.0)",
+    "license_url": "https://github.com/model-bakers/model_bakery/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Rustem Saiargaliev",
+    "role": "Core maintainer",
+    "id": 627183
+  },
+  "can_contact": false,
+  "issue_number": 559,
+  "created_at": "2022-07-05T07:59:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/559"
+}

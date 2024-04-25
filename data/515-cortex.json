@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "Cortex",
+    "description": "Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.",
+    "contributors": 7,
+    "home_url": "https://cortexmetrics.io/",
+    "repo_url": "https://github.com/cortexproject/cortex",
+    "license_type": "Apache",
+    "license_url": "https://github.com/cortexproject/cortex/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Alvin Lin",
+    "email": "alvinlin123@gmail.com",
+    "role": "Maintainer",
+    "id": 787449
+  },
+  "can_contact": false,
+  "issue_number": 515,
+  "created_at": "2022-04-29T21:26:44Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/515"
+}

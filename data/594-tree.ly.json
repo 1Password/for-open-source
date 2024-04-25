@@ -1,0 +1,24 @@
+{
+  "account": "treely.1password.com",
+  "project": {
+    "name": "Tree.ly",
+    "description": "Tree.ly is a cross-functional team developing Open Source components, tools and datascience notebooks to unlock the full carbon sequestration potential of forests.",
+    "contributors": 7,
+    "home_url": "https://tree.ly",
+    "repo_url": "http://github.com/treely/boemly",
+    "license_type": "MIT, other software packages will be Apache 2",
+    "license_url": "https://github.com/treely/boemly/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jodok Batlogg",
+    "email": "jodok@batlogg.com",
+    "role": "Founder \u0026 CEO",
+    "id": 158125
+  },
+  "can_contact": false,
+  "issue_number": 594,
+  "created_at": "2022-09-12T16:09:18Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/594"
+}

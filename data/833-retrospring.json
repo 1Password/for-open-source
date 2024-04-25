@@ -1,0 +1,24 @@
+{
+  "account": "retrospring.1password.eu",
+  "project": {
+    "name": "Retrospring",
+    "description": "Retrospring is a free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. Users can create accounts on Retrospring to receive questions from other users of the site and/or anonymous people on the Internet.",
+    "contributors": 3,
+    "home_url": "https://retrospring.net",
+    "repo_url": "https://github.com/Retrospring/retrospring",
+    "license_type": "aGPLv3",
+    "license_url": "https://github.com/Retrospring/retrospring/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Andreas Nedbal",
+    "email": "team@retrospring.net",
+    "role": "Co-Founder / Developer",
+    "id": 1774242
+  },
+  "can_contact": true,
+  "issue_number": 833,
+  "created_at": "2023-10-18T13:18:53Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/833"
+}

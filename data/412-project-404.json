@@ -1,0 +1,24 @@
+{
+  "account": "project404.1password.com",
+  "project": {
+    "name": "Project 404",
+    "description": "An open-source operating system for Smartphones based on the Android mobile platform.",
+    "contributors": 5,
+    "home_url": "http://project404.us/",
+    "repo_url": "https://github.com/orgs/P-404/repositories",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/P-404/stuff/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Harsh",
+    "email": "harsh@project404.us",
+    "role": "Core Member",
+    "id": 48650798
+  },
+  "can_contact": false,
+  "issue_number": 412,
+  "created_at": "2021-11-10T08:14:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/412"
+}

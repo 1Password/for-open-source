@@ -1,0 +1,24 @@
+{
+  "account": "kotlinfillclass.1password.com",
+  "project": {
+    "name": "Kotlin Fill Class",
+    "description": "Kotlin Fill Class is an Intellij plugin that provides intention action for an empty constructor or function to fill properties with default values.",
+    "contributors": 2,
+    "home_url": "https://github.com/suusan2go/kotlin-fill-class",
+    "repo_url": "https://github.com/suusan2go/kotlin-fill-class",
+    "license_type": "MIT",
+    "license_url": "https://github.com/suusan2go/kotlin-fill-class/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kenta Suzuki",
+    "email": "ksuzuki180@gmail.com",
+    "role": "Creator of this plugin",
+    "id": 8841470
+  },
+  "can_contact": false,
+  "issue_number": 629,
+  "created_at": "2022-11-09T11:49:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/629"
+}

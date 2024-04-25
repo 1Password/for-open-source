@@ -1,0 +1,24 @@
+{
+  "account": "weltschmerz.1password.com",
+  "project": {
+    "name": "CheckIP",
+    "description": "CheckIP is an open-source solution for IP address analysis to build an in-house service for privacy-sensitive tasks involving IP-based geolocation.",
+    "contributors": 1,
+    "home_url": "https://checkip.info/",
+    "repo_url": "https://github.com/checkip/checkip",
+    "license_type": "BSD-3-Clause License",
+    "license_url": "https://github.com/checkip/checkip/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Dmitriy Tarasov",
+    "email": "info@rubysamurai.com",
+    "role": "Maintainer",
+    "id": 426523
+  },
+  "can_contact": false,
+  "issue_number": 448,
+  "created_at": "2022-01-26T22:39:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/448"
+}

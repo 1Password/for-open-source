@@ -1,0 +1,24 @@
+{
+  "account": "testkitchen.1password.com",
+  "project": {
+    "name": "Test Kitchen",
+    "description": "Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms.",
+    "contributors": 3,
+    "home_url": "https://kitchen.ci",
+    "repo_url": "https://github.com/test-kitchen",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/test-kitchen/test-kitchen/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Dan Webb",
+    "email": "dan.webb@damacus.io",
+    "role": "Core team member",
+    "id": 40786
+  },
+  "can_contact": false,
+  "issue_number": 512,
+  "created_at": "2022-04-22T11:56:34Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/512"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "plone.1password.com",
+  "project": {
+    "name": "Plone Foundation",
+    "description": "The Plone Foundation exists to protect and promote Plone community and its software solutions like, but not limited to, Plone CMS, Zope, Guillotina.",
+    "contributors": 800,
+    "home_url": "https://plone.org/foundation",
+    "repo_url": "https://github.com/plone",
+    "license_type": "GPLv2",
+    "license_url": "https://github.com/plone/Products.CMFPlone/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Érico Andrei",
+    "email": "ericof@plone.org",
+    "role": "Plone Foundation Board Member, AI Team leader and Plone Core Developer",
+    "id": 306014
+  },
+  "can_contact": false,
+  "issue_number": 208,
+  "created_at": "2020-06-29T14:57:56Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/208"
+}

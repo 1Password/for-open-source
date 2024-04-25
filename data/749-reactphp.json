@@ -1,0 +1,24 @@
+{
+  "account": "reactphp.1password.com",
+  "project": {
+    "name": "ReactPHP",
+    "description": "ReactPHP is a low-level library for event-driven programming in PHP. At its core is an event loop, on top of which it provides low-level utilities, such as: Streams abstraction, async DNS resolver, network client/server, HTTP client/server and interaction with processes. Third-party libraries can use these components to create async network clients/servers and more.",
+    "contributors": 4,
+    "home_url": "https://reactphp.org/",
+    "repo_url": "https://github.com/reactphp/",
+    "license_type": "MIT",
+    "license_url": "https://reactphp.org/",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Cees-Jan Kiewiet",
+    "email": "reactphp@ceesjankiewiet.nl",
+    "role": "Core Maintainer",
+    "id": 147145
+  },
+  "can_contact": true,
+  "issue_number": 749,
+  "created_at": "2023-05-17T13:07:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/749"
+}

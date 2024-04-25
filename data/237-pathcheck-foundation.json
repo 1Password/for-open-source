@@ -1,0 +1,24 @@
+{
+  "account": "mfahda.1password.com",
+  "project": {
+    "name": "PathCheck Foundation",
+    "description": "COVID PathCheck is a mobile app for digital contract tracing (DCT) sponsored by Path Check a nonprofit and developed by a growing global community of engineers, designers, and contributors. PathCheck is based on research originally conducted at the MIT Media Lab.\n\nThe PathCheck Google Apple Exposure Notification (GAEN) solution is a full open source system for deploying the GAEN API. PathCheck GAEN includes a customizable mobile app and a production-ready exposure notification server based on the Google open source project.cy.",
+    "contributors": 200,
+    "home_url": "https://pathcheck.org/",
+    "repo_url": "https://github.com/Path-Check/gaen-mobile",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Path-Check/gaen-mobile/blob/develop/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Mahdi Fahda",
+    "email": "mahdi.fahda@pathcheck.org",
+    "role": "Community Manager",
+    "id": 67985720
+  },
+  "can_contact": false,
+  "issue_number": 237,
+  "created_at": "2020-09-16T22:30:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/237"
+}

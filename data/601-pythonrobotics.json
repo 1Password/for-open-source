@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "PythonRobotics",
+    "description": "Python sample codes for robotics algorithms.",
+    "contributors": 1,
+    "home_url": "https://atsushisakai.github.io/PythonRobotics/",
+    "repo_url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "license_type": "MIT",
+    "license_url": "https://github.com/AtsushiSakai/PythonRobotics/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Atsushi Sakai",
+    "email": "asakai.amsl@gmail.com",
+    "role": "Original creator and main maintainer",
+    "id": 3813847
+  },
+  "can_contact": false,
+  "issue_number": 601,
+  "created_at": "2022-09-24T05:45:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/601"
+}

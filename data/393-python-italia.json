@@ -1,0 +1,24 @@
+{
+  "account": "pythonitalia.1password.com",
+  "project": {
+    "name": "Python Italia",
+    "description": "Python Italia is a non-profit association that organises PyCon Italy and other events around Italy.\n\nWe also have our own open source conference software.",
+    "contributors": 10,
+    "home_url": "https://python.it",
+    "repo_url": "https://github.com/pythonitalia",
+    "license_type": "MIT",
+    "license_url": "https://github.com/pythonitalia/pycon/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Patrick Arminio",
+    "email": "patrick.arminio@gmail.com",
+    "role": "Association chairperson",
+    "id": 667029
+  },
+  "can_contact": false,
+  "issue_number": 393,
+  "created_at": "2021-10-27T14:01:57Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/393"
+}

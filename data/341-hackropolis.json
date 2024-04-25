@@ -1,0 +1,24 @@
+{
+  "account": "hackropolis.1password.com",
+  "project": {
+    "name": "Hackropolis",
+    "description": "We are Greece's first programming club ran by teenagers, for teenagers. We help students of ages 13-18 get into programming, following Hack Club's curriculum. We're also an established club under Hack Club",
+    "contributors": 17,
+    "home_url": "https://hackropolis.club",
+    "repo_url": "https://github.com/hackropolis/airtable-plusplus, https://github.com/hackropolis/stickerquest",
+    "license_type": "MIT, GNU GPL",
+    "license_url": "https://github.com/hackropolis/airtable-plusplus/blob/master/LICENSE, https://github.com/hackropolis/stickerquest/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Charalampos Fanoulis",
+    "email": "charalampos@hackropolis.club",
+    "role": "Club President",
+    "id": 38255093
+  },
+  "can_contact": false,
+  "issue_number": 341,
+  "created_at": "2021-05-22T11:38:09Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/341"
+}

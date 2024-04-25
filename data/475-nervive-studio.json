@@ -1,0 +1,24 @@
+{
+  "account": "nervive.1password.com",
+  "project": {
+    "name": "Nervive Studio",
+    "description": "Mini-studio designing and building highly-crafted tools and libraries",
+    "contributors": 2,
+    "home_url": "https://nervive.studio",
+    "repo_url": "https://github.com/nervive",
+    "license_type": "MIT, AGPL-3.0",
+    "license_url": "https://github.com/nervive/wingless/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Bejolithic",
+    "email": "human@bejolithic.tech",
+    "role": "Founder/Core Contributor",
+    "id": 10137
+  },
+  "can_contact": false,
+  "issue_number": 475,
+  "created_at": "2022-03-11T19:28:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/475"
+}

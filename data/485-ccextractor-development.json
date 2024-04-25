@@ -1,0 +1,24 @@
+{
+  "account": "ccextractordevelopment.1password.com",
+  "project": {
+    "name": "CCExtractor Development",
+    "description": "CCExtractor is the de-facto open source tool for anything related to closed captions and subtitles on broadcast media. CCExtractor Development maintains it and is also engaged in many other open source activities.",
+    "contributors": 6,
+    "home_url": "https://ccextractor.org/",
+    "repo_url": "https://github.com/CCExtractor",
+    "license_type": "GPL",
+    "license_url": "https://github.com/CCExtractor/ccextractor/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Carlos F. Sanz",
+    "email": "carlos@ccextractor.org",
+    "role": "Original author, now maintainer, team builder (well, sort of) and in charge of administrative BS.",
+    "id": 5949913
+  },
+  "can_contact": false,
+  "issue_number": 485,
+  "created_at": "2022-03-22T20:44:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/485"
+}

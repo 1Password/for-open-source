@@ -1,0 +1,24 @@
+{
+  "account": "xuanwo.1password.com",
+  "project": {
+    "name": "Apache OpenDAL (incubating)",
+    "description": "OpenDAL is a data access layer that allows users to easily and efficiently retrieve data from various storage services in a unified way.",
+    "contributors": 6,
+    "home_url": "https://opendal.apache.org/",
+    "repo_url": "https://github.com/apache/incubator-opendal",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/apache/incubator-opendal/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Xuanwo",
+    "email": "xuanwo@apache.org",
+    "role": "Apache OpenDAL PPMC Member",
+    "id": 5351546
+  },
+  "can_contact": true,
+  "issue_number": 742,
+  "created_at": "2023-05-11T10:19:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/742"
+}

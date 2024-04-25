@@ -1,0 +1,24 @@
+{
+  "account": "cloudnetservice.1password.eu",
+  "project": {
+    "name": "CloudNET",
+    "description": "CloudNET (The Cloud Network Environment Technology) is an application that dynamically and easily deploys Minecraft oriented server software. It provides the users the possibility to store templates of the servers which can be started when needed (automatically or not). All messages and features are configurable to fit anyones purpose. If something very special is needed, we are providing full API access, to create own modules for the CloudNet system or Minecraft plugins which can manage the cloud.",
+    "contributors": 6,
+    "home_url": "https://spigot.cloudnetservice.eu",
+    "repo_url": "https://github.com/CloudNetService/CloudNet",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/CloudNetService/CloudNet/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Joschua",
+    "email": "byRoadrunner@cloudnetservice.eu",
+    "role": "Project-Leader",
+    "id": 16355913
+  },
+  "can_contact": false,
+  "issue_number": 262,
+  "created_at": "2020-11-14T11:18:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/262"
+}

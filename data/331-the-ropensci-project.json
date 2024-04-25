@@ -1,0 +1,23 @@
+{
+  "account": "team-ropensci.1password.com",
+  "project": {
+    "name": "The rOpenSci Project",
+    "description": "rOpenSci is a non-profit intiative that fosters a culture that values open and reproducible research using shared data and reusable software.",
+    "contributors": 75,
+    "home_url": "https://ropensci.org/",
+    "repo_url": "https://github.com/ropensci",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Karthik Ram",
+    "email": "karthik@ropensci.org",
+    "role": "Director",
+    "id": 138494
+  },
+  "can_contact": false,
+  "issue_number": 331,
+  "created_at": "2021-04-30T17:02:08Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/331"
+}

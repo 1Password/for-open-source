@@ -1,0 +1,24 @@
+{
+  "account": "riiconnect24.1password.com",
+  "project": {
+    "name": "RiiConnect24",
+    "description": "RiiConnect24 is an alternative provider for the now-defunct WiiConnect24 service, designed to allow communication between Nintendo Wii™ consoles via the net.",
+    "contributors": 5,
+    "home_url": "https://rc24.xyz/",
+    "repo_url": "https://github.com/RiiConnect24/",
+    "license_type": "AGPL v3",
+    "license_url": "https://github.com/RiiConnect24/File-Maker/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Larsen Vallecillo",
+    "email": "larsenv123@gmail.com",
+    "role": "Main Developer",
+    "id": 4673969
+  },
+  "can_contact": false,
+  "issue_number": 102,
+  "created_at": "2019-02-10T01:52:25Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/102"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "pulumiverse.1password.com",
+  "project": {
+    "name": "Pulumiverse",
+    "description": "The universe around all things Pulumi",
+    "contributors": 13,
+    "home_url": "https://github.com/pulumiverse",
+    "repo_url": "https://github.com/pulumiverse",
+    "license_type": "Apache Public License v2",
+    "license_url": "https://github.com/pulumiverse/.github/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ringo De Smet",
+    "email": "ringo@de-smet.name",
+    "role": "Founding member of the Pulumiverse community",
+    "id": 77923
+  },
+  "can_contact": false,
+  "issue_number": 547,
+  "created_at": "2022-06-14T05:54:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/547"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "axelburks.1password.com",
+  "project": {
+    "name": "JSBox-App",
+    "description": "The goal of JSBox-Apps is to enhance the functionality and optimize the user experience of iOS and iPadOS by implementing functional extensions based on JSBox and javascript.",
+    "contributors": 2,
+    "home_url": "https://github.com/axelburks/JSBox",
+    "repo_url": "https://github.com/axelburks/JSBox",
+    "license_type": "MIT",
+    "license_url": "https://github.com/axelburks/JSBox/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Axel Burks",
+    "email": "axel.burks@gmail.com",
+    "role": "Owner",
+    "id": 11376445
+  },
+  "can_contact": false,
+  "issue_number": 579,
+  "created_at": "2022-08-09T07:14:58Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/579"
+}

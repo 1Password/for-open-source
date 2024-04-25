@@ -1,0 +1,24 @@
+{
+  "account": "awesomettrss.1password.com",
+  "project": {
+    "name": "Awesome TTRSS",
+    "description": "Awesome TTRSS aims to provide a powerful Dockerized all-in-one solution for Tiny Tiny RSS, an open source RSS feed reader and aggregator written in PHP, with enhanced user experience via simplified deployment and a list of curated plugins.",
+    "contributors": 5,
+    "home_url": "http://ttrss.henry.wang/",
+    "repo_url": "https://github.com/HenryQW/Awesome-TTRSS",
+    "license_type": "MIT",
+    "license_url": "https://github.com/HenryQW/Awesome-TTRSS/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Henry",
+    "email": "ttrss@henry.wang",
+    "role": "Owner",
+    "id": 5896343
+  },
+  "can_contact": false,
+  "issue_number": 577,
+  "created_at": "2022-08-07T14:22:11Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/577"
+}

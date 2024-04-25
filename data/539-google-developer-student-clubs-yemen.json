@@ -1,0 +1,24 @@
+{
+  "account": "gdscyemen.1password.com",
+  "project": {
+    "name": "Google Developer Student Clubs Yemen",
+    "description": "GDSC Yemen is a collection of Google Developer Student Clubs (GDSC) Chapters that have partnered together to create a greater impact that reaches the highest number of student developers.",
+    "contributors": 25,
+    "home_url": "https://gdscyemen.com/",
+    "repo_url": "https://github.com/gdscyemen",
+    "license_type": "N/A",
+    "license_url": "https://N/A",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Khaldoon Mutahar",
+    "email": "contact@mutahar.me",
+    "role": "GDSC Lead Lebanese International University - Sana'a",
+    "id": 18140052
+  },
+  "can_contact": false,
+  "issue_number": 539,
+  "created_at": "2022-06-03T15:30:30Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/539"
+}

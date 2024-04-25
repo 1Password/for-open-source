@@ -1,0 +1,23 @@
+{
+  "account": "librewiki.1password.com",
+  "project": {
+    "name": "LibreWiki",
+    "description": "LibreWiki is a Korean wiki site running on MediaWiki, also developing an independent wiki-engine.",
+    "contributors": 9,
+    "home_url": "https://librewiki.net/",
+    "repo_url": "https://github.com/librewiki",
+    "license_type": "MIT",
+    "license_url": "https://github.com/librewiki/liberty-engine/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Yongmin Hong",
+    "role": "Bugmeister, also do Ops work",
+    "id": 7630875
+  },
+  "can_contact": false,
+  "issue_number": 173,
+  "created_at": "2019-12-10T06:48:03Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/173"
+}

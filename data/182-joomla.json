@@ -1,0 +1,24 @@
+{
+  "account": "joomla.1password.com",
+  "project": {
+    "name": "Joomla!",
+    "description": "Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.",
+    "contributors": 595,
+    "home_url": "https://www.joomla.org/",
+    "repo_url": "https://github.com/joomla/joomla-cms",
+    "license_type": "Distributed under the GNU General Public License version 2 or later",
+    "license_url": "https://docs.joomla.org/Special:MyLanguage/Joomla_Licenses",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Wilco Alsemgeest",
+    "email": "wilco.alsemgeest@community.joomla.org",
+    "role": "Professionalization Lead and Board support",
+    "id": 11913918
+  },
+  "can_contact": false,
+  "issue_number": 182,
+  "created_at": "2020-02-04T21:27:31Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/182"
+}

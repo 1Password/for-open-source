@@ -1,0 +1,24 @@
+{
+  "account": "team-wsateam.1password.com",
+  "project": {
+    "name": "WSA-Script",
+    "description": "The small web-app using HTML and Github Action for helping user to integrate Magisk root and Google Apps into Windows Subsystem for Android (WSA), which will be powerful for user who working with Android simulator and for Android app tester",
+    "contributors": 4,
+    "home_url": "https://YT-Advanced.github.io/WSA-Script/",
+    "repo_url": "https://github.com/YT-Advanced/WSA-Script",
+    "license_type": "GNU",
+    "license_url": "https://github.com/YT-Advanced/WSA-Script/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Hoàng Gia Bảo",
+    "email": "giabaodzabb@duck.com",
+    "role": "Owner",
+    "id": 70064328
+  },
+  "can_contact": true,
+  "issue_number": 778,
+  "created_at": "2023-07-02T06:31:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/778"
+}

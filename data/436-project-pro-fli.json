@@ -1,0 +1,24 @@
+{
+  "account": "pro-fli.1password.com",
+  "project": {
+    "name": "Project Pro-Fli",
+    "description": "This open-source community-driven project is aimed at 4 major goals:\n\n1. Reduce the carbon emissions from flights\n2. Improve the safety standards by analyzing accidents, collaborating with big Aerospace giants etc\n3. Educate the world about the Aerospace by simplifying it and making it accessible, learners from developing world and under-developed countries can make big leaps\n4. Integrating Open-source in critical infrastructure in the flights, drones (UAV) etc",
+    "contributors": 5,
+    "home_url": "https://pro-fli.github.io/",
+    "repo_url": "https://github.com/Pro-Fli?tab=repositories",
+    "license_type": "GNU General Public License v2.0",
+    "license_url": "https://github.com/Pro-Fli/aerospike-nozzle-design-gui/blob/new/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Nizamuddin",
+    "email": "pro.fli@protonmail.com",
+    "role": "Lead",
+    "id": 96015811
+  },
+  "can_contact": false,
+  "issue_number": 436,
+  "created_at": "2021-12-17T10:16:39Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/436"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "almeloo.1password.com",
+  "project": {
+    "name": "Wiimmfi-RPC",
+    "description": "A cross-platform tool to show your friends what you're playing on Wiimmfi.",
+    "contributors": 1,
+    "home_url": "https://github.com/DismissedGuy/wiimmfi-rpc",
+    "repo_url": "https://github.com/DismissedGuy/wiimmfi-rpc",
+    "license_type": "GPLv3",
+    "license_url": "https://github.com/DismissedGuy/wiimmfi-rpc/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Mike Almeloo",
+    "email": "almeloomike@gmail.com",
+    "role": "Main developer (as a hobby)",
+    "id": 32306794
+  },
+  "can_contact": false,
+  "issue_number": 302,
+  "created_at": "2021-02-06T19:19:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/302"
+}

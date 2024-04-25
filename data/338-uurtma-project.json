@@ -1,0 +1,24 @@
+{
+  "account": "ucurtmaprojesi.1password.com",
+  "project": {
+    "name": "Uçurtma Project",
+    "description": "Uçurtma is a platform that aims to help students find the financial support they need to make their dreams come true. It provides a decentralized guarantee of getting support by bringing students and supporters together.",
+    "contributors": 5,
+    "home_url": "https://ucurtmaprojesi.com/",
+    "repo_url": "https://github.com/Ucurtma/ucurtma-app",
+    "license_type": "GNU Lesser General Public License v3.0",
+    "license_url": "https://github.com/Ucurtma/ucurtma-app/blob/master/LICENCE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Mustafa Turhan",
+    "email": "odunluzikkim@gmail.com",
+    "role": "Co-founder / Front-end Developer",
+    "id": 11398393
+  },
+  "can_contact": false,
+  "issue_number": 338,
+  "created_at": "2021-05-19T18:59:12Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/338"
+}

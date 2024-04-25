@@ -1,0 +1,24 @@
+{
+  "account": "r-ladiesgainesville.1password.com",
+  "project": {
+    "name": "R-Ladies Gainesville",
+    "description": "We are the Gainesville, Florida chapter of R-Ladies. We aim to promote gender diversity in R by assisting people who identify as a gender minority in the R community to lead sessions and participate in skill building or professional development. We are currently working to create centralized repositories, document storage, etc. that can be easily accessed by all organizers to keep our publicly-available meeting materials up to date.",
+    "contributors": 6,
+    "home_url": "https://meetup.com/rladies-gainesville",
+    "repo_url": "https://github.com/javirudolph/RLadies-Gainesville-FL",
+    "license_type": "MIT",
+    "license_url": "https://github.com/javirudolph/RLadies-Gainesville-FL/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Amy Kendig",
+    "email": "gainesville@rladies.org",
+    "role": "Co-organizer",
+    "id": 11983261
+  },
+  "can_contact": false,
+  "issue_number": 438,
+  "created_at": "2021-12-28T18:33:39Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/438"
+}

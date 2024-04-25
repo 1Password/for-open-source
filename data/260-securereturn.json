@@ -1,0 +1,24 @@
+{
+  "account": "securereturn.1password.com",
+  "project": {
+    "name": "secureReturn",
+    "description": "secureReturn is a community of like-minded reverse engineering and security enthusiasts developing open source security tools.",
+    "contributors": 2,
+    "home_url": "https://sec-r.et",
+    "repo_url": "https://github.com/iGio90/Dwarf",
+    "license_type": "GPL",
+    "license_url": "https://raw.githubusercontent.com/iGio90/Dwarf/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Giovanni Rocca",
+    "email": "secureret@gmail.com",
+    "role": "Founder / Owner",
+    "id": 74259244
+  },
+  "can_contact": false,
+  "issue_number": 260,
+  "created_at": "2020-11-10T16:42:29Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/260"
+}

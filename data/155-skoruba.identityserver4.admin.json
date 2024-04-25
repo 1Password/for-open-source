@@ -1,0 +1,24 @@
+{
+  "account": "skoruba.1password.com",
+  "project": {
+    "name": "Skoruba.IdentityServer4.Admin",
+    "description": "The administration for the IdentityServer4 and Asp.Net Core Identity",
+    "contributors": 4,
+    "home_url": "https://github.com/skoruba/IdentityServer4.Admin",
+    "repo_url": "https://github.com/skoruba/IdentityServer4.Admin",
+    "license_type": "MIT",
+    "license_url": "https://github.com/skoruba/IdentityServer4.Admin/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jan Skoruba",
+    "email": "jan@skoruba.com",
+    "role": "Developer",
+    "id": 35664089
+  },
+  "can_contact": false,
+  "issue_number": 155,
+  "created_at": "2019-08-15T07:02:23Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/155"
+}

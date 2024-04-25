@@ -1,0 +1,24 @@
+{
+  "account": "mispanda.1password.com",
+  "project": {
+    "name": "hyppo",
+    "description": "Python package for multivariate hypothesis testing",
+    "contributors": 1,
+    "home_url": "https://hyppo.neurodata.io/",
+    "repo_url": "https://github.com/neurodata/hyppo",
+    "license_type": "MIT",
+    "license_url": "https://github.com/neurodata/hyppo/blob/dev/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sambit Panda",
+    "email": "sampanda501@gmail.com",
+    "role": "Creator and Maintainer",
+    "id": 36676569
+  },
+  "can_contact": false,
+  "issue_number": 495,
+  "created_at": "2022-03-31T22:13:23Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/495"
+}

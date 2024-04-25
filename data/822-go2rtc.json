@@ -1,0 +1,22 @@
+{
+  "account": "alexxit.1password.com",
+  "project": {
+    "name": "go2rtc",
+    "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "contributors": 1,
+    "home_url": "https://github.com/AlexxIT/go2rtc",
+    "repo_url": "https://github.com/AlexxIT/go2rtc",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Alexey Khit",
+    "role": "Maintainer",
+    "id": 511909
+  },
+  "can_contact": true,
+  "issue_number": 822,
+  "created_at": "2023-09-28T09:44:22Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/822"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "opentransitsoftwarefoundation.1password.com",
+  "project": {
+    "name": "OneBusAway",
+    "description": "OneBusAway is a suite of open-source tools to make public transit easier and more fun to use, including apps and server software for providing real-time and schedule information. We started a nonprofit organization to serve as the project home and owner: Open Transit Software Foundation.",
+    "contributors": 5,
+    "home_url": "https://onebusaway.org",
+    "repo_url": "https://github.com/OneBusAway",
+    "license_type": "Apache",
+    "license_url": "https://github.com/OneBusAway/onebusaway-application-modules/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Alan Borning",
+    "email": "borning@cs.washington.edu",
+    "role": "retired faculty member",
+    "id": 918773
+  },
+  "can_contact": false,
+  "issue_number": 439,
+  "created_at": "2022-01-05T19:56:27Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/439"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "opensourcestories.1password.com",
+  "project": {
+    "name": "Open Source Stories",
+    "description": "Community-driven project to record and share narratives from people in the global open source ecosystem.",
+    "contributors": 3,
+    "home_url": "https://www.opensourcestories.org/",
+    "repo_url": "https://github.com/opensourcestories/opensourcestories.org",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/opensourcestories/opensourcestories.org/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Amanda Casari",
+    "email": "team-tools@opensourcestories.org",
+    "role": "Co-founder + project lead",
+    "id": 6013560
+  },
+  "can_contact": false,
+  "issue_number": 406,
+  "created_at": "2021-11-05T15:18:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/406"
+}

@@ -1,0 +1,22 @@
+{
+  "account": "lfenergyfoundation.1password.com",
+  "project": {
+    "name": "LF Energy Foundation",
+    "description": "By providing frameworks and reference implementations, LF Energy minimizes pain points such as cybersecurity, interoperability, control, automation, virtualization, and the orchestration of supply and demand.",
+    "contributors": 100,
+    "home_url": "https://lfenergy.org",
+    "license_type": "Apache 2",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "John Mertic",
+    "email": "jmertic@linuxfoundation.org",
+    "role": "Technical Director",
+    "id": 296737
+  },
+  "can_contact": false,
+  "issue_number": 349,
+  "created_at": "2021-06-04T11:22:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/349"
+}

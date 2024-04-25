@@ -1,0 +1,24 @@
+{
+  "account": "inreach.1password.com",
+  "project": {
+    "name": "InReach",
+    "description": "InReach is the world’s first tech platform matching LGBTQ+ people with safe, verified resources.",
+    "contributors": 4,
+    "home_url": "https://inreach.org",
+    "repo_url": "https://github.com/weareinreach/InReach",
+    "license_type": "GPLv3",
+    "license_url": "https://github.com/weareinreach/InReach/blob/develop/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Joe Karow",
+    "email": "joe@inreach.org",
+    "role": "Lead Engineer",
+    "id": 58997957
+  },
+  "can_contact": false,
+  "issue_number": 621,
+  "created_at": "2022-10-24T13:39:36Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/621"
+}

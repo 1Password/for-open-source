@@ -1,0 +1,24 @@
+{
+  "account": "kiyohara.1password.com",
+  "project": {
+    "name": "Kanazawa.rb",
+    "description": "Kanazawa.rb is a nonprofit community for anyone interested in Ruby and Kanazawa based in Kanazawa, Ishikawa, Japan.",
+    "contributors": 7,
+    "home_url": "https://meetup.kzrb.org/",
+    "repo_url": "https://github.com/kanazawarb",
+    "license_type": "NaN",
+    "license_url": "https://NaN",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Tomokazu Kiyohara",
+    "email": "tomokazu.kiyohara@gmail.com",
+    "role": "The fhief organizer",
+    "id": 340621
+  },
+  "can_contact": false,
+  "issue_number": 628,
+  "created_at": "2022-11-04T08:09:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/628"
+}

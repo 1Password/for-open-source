@@ -1,0 +1,24 @@
+{
+  "account": "rinvex.1password.com",
+  "project": {
+    "name": "Rinvex Cortex",
+    "description": "Rinvex Cortex is a solid foundation for enterprise solutions, that provides a flexible and extensible architecture for building multi-lingual, multi-tenant applications with content management, themeable views, application modules and much more.",
+    "contributors": 1,
+    "home_url": "https://rinvex.com",
+    "repo_url": "https://github.com/rinvex/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/rinvex/cortex/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Abdelrahman Omran",
+    "email": "iomranic@gmail.com",
+    "role": "Lead Developer",
+    "id": 406705
+  },
+  "can_contact": false,
+  "issue_number": 636,
+  "created_at": "2022-12-04T00:55:19Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/636"
+}

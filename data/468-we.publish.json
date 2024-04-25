@@ -1,0 +1,24 @@
+{
+  "account": "wepublish.1password.com",
+  "project": {
+    "name": "We.Publish",
+    "description": "We.Publish is the new digital infrastructure of the Swiss media landscape where journalistic media/publishers can create and present their articles with intensive networking possibilities. As a foundation, the We.Publish Foundation promotes independent journalistic offerings and media diversity in Switzerland.",
+    "contributors": 7,
+    "home_url": "https://wepublish.ch/",
+    "repo_url": "https://github.com/wepublish/wepublish",
+    "license_type": "MIT",
+    "license_url": "https://github.com/wepublish/wepublish/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Tomasz Durka",
+    "email": "tomasz@wepublish.ch",
+    "role": "Dev Team Lead",
+    "id": 113303
+  },
+  "can_contact": false,
+  "issue_number": 468,
+  "created_at": "2022-03-01T10:08:55Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/468"
+}

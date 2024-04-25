@@ -1,0 +1,24 @@
+{
+  "account": "opengeosys.1password.com",
+  "project": {
+    "name": "OpenGeoSys",
+    "description": "OpenGeoSys (OGS) is a scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media.",
+    "contributors": 10,
+    "home_url": "https://www.opengeosys.org",
+    "repo_url": "https://gitlab.opengeosys.org/ogs/ogs",
+    "license_type": "BSD-3-Clause",
+    "license_url": "https://gitlab.opengeosys.org/ogs/ogs/-/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Lars Bilke",
+    "email": "lars.bilke@ufz.de",
+    "role": "Core contributor, maintainer",
+    "id": 149656
+  },
+  "can_contact": false,
+  "issue_number": 479,
+  "created_at": "2022-03-16T07:57:31Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/479"
+}

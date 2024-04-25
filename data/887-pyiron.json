@@ -1,0 +1,24 @@
+{
+  "account": "3871258.1password.com",
+  "project": {
+    "name": "pyiron",
+    "description": "pyiron is a workflow manager for computational materials science, supporting materials scientist in rapid prototyping and up-scaling their simulation protocols for high performance computing.",
+    "contributors": 8,
+    "home_url": "https://pyiron.org",
+    "repo_url": "https://github.com/pyiron",
+    "license_type": "BSD-3-Clause license",
+    "license_url": "https://github.com/pyiron",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jan Janssen",
+    "email": "jan.janssen@outlook.com",
+    "role": "Lead-Developer of the pyiron project",
+    "id": 3854739
+  },
+  "can_contact": true,
+  "issue_number": 887,
+  "created_at": "2024-01-25T09:41:16Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/887"
+}

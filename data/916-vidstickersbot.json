@@ -1,0 +1,24 @@
+{
+  "account": "m4xx1m.1password.com",
+  "project": {
+    "name": "VidStickersBot",
+    "description": "Free to use, no ads no metrics FFMPEG based python telegram bot for converting any video to webm VP9 for creating video stickers.\r\nThis bot has been active for 2 years and is used by 15k users from all over the world",
+    "contributors": 1,
+    "home_url": "https://t.me/VidStickerBot",
+    "repo_url": "https://github.com/m4xx1m/vidStickersBot",
+    "license_type": "MIT",
+    "license_url": "https://github.com/m4xx1m/vidStickersBot/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Max",
+    "email": "m4xx1mz@gmail.com",
+    "role": "Creator",
+    "id": 59927482
+  },
+  "can_contact": true,
+  "issue_number": 916,
+  "created_at": "2024-03-15T00:06:33Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/916"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "wordpressgwinnett.1password.com",
+  "project": {
+    "name": "WordPress Gwinnett open-source tools and examples",
+    "description": "Open source tools we write for the WordPress Gwinnett website, that double as learning projects for our developer meetups",
+    "contributors": 3,
+    "home_url": "https://wpgwinnett.com",
+    "repo_url": "https://github.com/wpgwinnett",
+    "license_type": "GPL",
+    "license_url": "http://www.gnu.org/licenses/gpl-2.0.html",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Naomi C. Bush",
+    "role": "Founder, Lead Organizer",
+    "id": 918242
+  },
+  "can_contact": false,
+  "issue_number": 104,
+  "created_at": "2019-02-19T01:42:11Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/104"
+}

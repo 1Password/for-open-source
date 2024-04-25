@@ -1,0 +1,24 @@
+{
+  "account": "gensosenkyo.1password.com",
+  "project": {
+    "name": "Gensosenkyo",
+    "description": "Gensosenkyo is a popularity vote event for game characters held by volunteers. In conducting the event, we are developing OSS to collect tweets and creating a Web API to return information about game productions. These have been improved a little each time the event is held.",
+    "contributors": 2,
+    "home_url": "https://election.suikoden.info/",
+    "repo_url": "https://github.com/nikukyugamer/tweet-storage",
+    "license_type": "MIT",
+    "license_url": "https://github.com/nikukyugamer/tweet-storage/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Osamu Takiya",
+    "email": "takiya@toran.sakura.ne.jp",
+    "role": "Technical Leader, Co-operator",
+    "id": 14275619
+  },
+  "can_contact": false,
+  "issue_number": 681,
+  "created_at": "2023-02-04T14:19:09Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/681"
+}

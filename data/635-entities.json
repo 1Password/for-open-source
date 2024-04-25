@@ -1,0 +1,24 @@
+{
+  "account": "team-teamfelix.1password.com",
+  "project": {
+    "name": "entities",
+    "description": "JavaScript library to encode \u0026 decode HTML \u0026 XML entities with ease \u0026 speed.",
+    "contributors": 1,
+    "home_url": "https://feedic.com/entities/",
+    "repo_url": "https://github.com/fb55/entities",
+    "license_type": "BSD 2-Clause",
+    "license_url": "https://github.com/fb55/entities/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Felix Boehm",
+    "email": "me@feedic.com",
+    "role": "Original author \u0026 current maintainer",
+    "id": 188768
+  },
+  "can_contact": false,
+  "issue_number": 635,
+  "created_at": "2022-12-02T11:21:38Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/635"
+}

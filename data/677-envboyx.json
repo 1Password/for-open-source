@@ -1,0 +1,24 @@
+{
+  "account": "ziomatrix.1password.com",
+  "project": {
+    "name": "EnvBoyX",
+    "description": "[EnvBoyX](https://github.com/yakumo-saki/EnvBoyX) is an open source environment monitor program for Arduino. Supports multiple sensors.",
+    "contributors": 2,
+    "home_url": "https://github.com/yakumo-saki/EnvBoyX",
+    "repo_url": "https://github.com/yakumo-saki/EnvBoyX",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/yakumo-saki/EnvBoyX/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Yakumo Saki",
+    "email": "yakumo@ziomatrix.org",
+    "role": "Author, main contributer",
+    "id": 1060869
+  },
+  "can_contact": false,
+  "issue_number": 677,
+  "created_at": "2023-02-02T11:28:17Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/677"
+}

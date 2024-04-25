@@ -1,0 +1,24 @@
+{
+  "account": "cashwarden.1password.com",
+  "project": {
+    "name": "CashWarden",
+    "description": "An open source financial management system",
+    "contributors": 1,
+    "home_url": "https://cashwarden.com/",
+    "repo_url": "https://github.com/cashwarden",
+    "license_type": "AGPL-3.0 License",
+    "license_url": "https://github.com/cashwarden/api/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "forecho",
+    "email": "caizhenghai@gmail.com",
+    "role": "Owner \u0026 Contributor",
+    "id": 1725326
+  },
+  "can_contact": false,
+  "issue_number": 418,
+  "created_at": "2021-11-22T06:39:40Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/418"
+}

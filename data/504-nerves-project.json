@@ -1,0 +1,24 @@
+{
+  "account": "nerves.1password.com",
+  "project": {
+    "name": "Nerves Project",
+    "description": "Nerves defines a new way to build embedded systems using Elixir. It is specifically designed for embedded systems, not desktop or server systems.",
+    "contributors": 3,
+    "home_url": "https://nerves-project.org",
+    "repo_url": "https://github.com/orgs/nerves-project/repositories",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/nerves-project/nerves/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jon Carstens",
+    "email": "jjcarstens@me.com",
+    "role": "Core team member",
+    "id": 11321326
+  },
+  "can_contact": false,
+  "issue_number": 504,
+  "created_at": "2022-04-06T20:30:05Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/504"
+}

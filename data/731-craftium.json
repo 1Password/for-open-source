@@ -1,0 +1,23 @@
+{
+  "account": "craftium.1password.com",
+  "project": {
+    "name": "Craftium",
+    "description": "Minecraft server that develops plugins and other related software.",
+    "contributors": 2,
+    "home_url": "https://craftium.net",
+    "repo_url": "https://github.com/CraftiumMC/BuycraftX",
+    "license_type": "MIT",
+    "license_url": "https://github.com/CraftiumMC/BuycraftX/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Artuto",
+    "role": "Owner",
+    "id": 9273973
+  },
+  "can_contact": false,
+  "issue_number": 731,
+  "created_at": "2023-04-26T17:33:10Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/731"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "snowflakedev.1password.com",
+  "project": {
+    "name": "SnowflakeDev",
+    "description": "Community-led open-source projects aiming to aid in the development of projects like document generation, image manipulation, database ORM, etc. for developers.",
+    "contributors": 27,
+    "home_url": "https://snowflakedev.org",
+    "repo_url": "https://github.com/DevSnowflake",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Samrid Pandit",
+    "email": "samrid.pandit@gmail.com",
+    "role": "Core Contributor and Community Admin",
+    "id": 64601348
+  },
+  "can_contact": false,
+  "issue_number": 374,
+  "created_at": "2021-09-05T15:19:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/374"
+}

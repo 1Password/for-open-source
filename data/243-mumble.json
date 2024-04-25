@@ -1,0 +1,24 @@
+{
+  "account": "mumble.1password.eu",
+  "project": {
+    "name": "Mumble",
+    "description": "Mumble is a free, open source, low latency, high quality voice chat application.",
+    "contributors": 8,
+    "home_url": "https://www.mumble.info",
+    "repo_url": "https://github.com/mumble-voip/mumble",
+    "license_type": "BSD 3-clause",
+    "license_url": "https://github.com/mumble-voip/mumble/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Davide Beatrici",
+    "email": "contact@davidebeatrici.dev",
+    "role": "Maintainer",
+    "id": 5897523
+  },
+  "can_contact": false,
+  "issue_number": 243,
+  "created_at": "2020-10-05T22:07:26Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/243"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "vnedu.1password.com",
+  "project": {
+    "name": "API STORE",
+    "description": "API store for Web, app Android App Shop Mobile",
+    "contributors": 1,
+    "home_url": "https://github.com/nvnptit/API_STORE",
+    "repo_url": "https://github.com/nvnptit/API_STORE",
+    "license_type": "MIT LICENSE",
+    "license_url": "https://github.com/nvnptit/API_STORE/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nguyen Van Nhat",
+    "email": "codervn77@gmail.com",
+    "role": "Core Project \u0026 Developer",
+    "id": 87685010
+  },
+  "can_contact": false,
+  "issue_number": 584,
+  "created_at": "2022-08-15T13:11:28Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/584"
+}

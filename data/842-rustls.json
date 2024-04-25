@@ -1,0 +1,24 @@
+{
+  "account": "rustls.1password.com",
+  "project": {
+    "name": "Rustls",
+    "description": "Rustls is a modern TLS library written in Rust. It aims to provide a good level of cryptographic security, requires no configuration to achieve that security, and provides no unsafe features or obsolete cryptography by default.",
+    "contributors": 4,
+    "home_url": "https://github.com/rustls/rustls",
+    "repo_url": "https://github.com/rustls/rustls",
+    "license_type": "Apache, ISC, MIT",
+    "license_url": "https://github.com/rustls/rustls/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Daniel McCarney",
+    "email": "daniel@binaryparadox.net",
+    "role": "Member of project leadership",
+    "id": 292650
+  },
+  "can_contact": true,
+  "issue_number": 842,
+  "created_at": "2023-11-07T18:58:26Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/842"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "ubuntu-kr.1password.com",
+  "project": {
+    "name": "Ubuntu Korea Community",
+    "description": "A Ubuntu user and contributor community based on South Korea. Organizes local ubuntu events and provides online spaces for Korean Ubuntu users. Also contribute on localization of UI and documentation of Ubuntu.",
+    "contributors": 10,
+    "home_url": "https://ubuntu-kr.org",
+    "repo_url": "https://github.com/ubuntu-kr",
+    "license_type": "Usually Websites uses MIT, Website contents uses CC BY-SA 4.0 And many other different licensed used by Translation, documentation, Korean community hosted projects and more.",
+    "license_url": "https://N/A",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Youngbin Han",
+    "email": "sukso96100@gmail.com",
+    "role": "Leader/Community Organizer",
+    "id": 1916739
+  },
+  "can_contact": false,
+  "issue_number": 474,
+  "created_at": "2022-03-11T13:47:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/474"
+}

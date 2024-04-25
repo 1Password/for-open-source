@@ -1,0 +1,24 @@
+{
+  "account": "zyantific.1password.com",
+  "project": {
+    "name": "Zydis",
+    "description": "Zydis is a fast and lightweight cross-platform x86/x86-64 disassembler library written in C.",
+    "contributors": 2,
+    "home_url": "http://zydis.re/",
+    "repo_url": "https://github.com/zyantific/zydis",
+    "license_type": "MIT",
+    "license_url": "https://github.com/zyantific/zydis/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Florian Bernd",
+    "email": "flobernd@zyantific.com",
+    "role": "Project owner",
+    "id": 8585557
+  },
+  "can_contact": false,
+  "issue_number": 103,
+  "created_at": "2019-02-17T14:26:12Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/103"
+}

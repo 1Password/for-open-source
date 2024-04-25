@@ -1,0 +1,24 @@
+{
+  "account": "stackstorm.1password.com",
+  "project": {
+    "name": "StackStorm",
+    "description": "StackStorm is an event-driven automation platform for DevOps. Define workflows using actions, create ChatOps aliases for Slack, and add rules to automatically react to incoming events - all of this and more is possible with StackStorm.",
+    "contributors": 11,
+    "home_url": "https://stackstorm.com",
+    "repo_url": "https://github.com/StackStorm/st2",
+    "license_type": "Apache 2.0 License",
+    "license_url": "https://github.com/StackStorm/st2/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "blag",
+    "email": "blag@users.noreply.github.com",
+    "role": "Senior Maintainer",
+    "id": 597113
+  },
+  "can_contact": false,
+  "issue_number": 314,
+  "created_at": "2021-03-15T23:26:28Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/314"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "knative.1password.com",
+  "project": {
+    "name": "Knative",
+    "description": "[Knative](https://knative.dev/) is an open source, Kubernetes-based platform for building, deploying, and managing serverless and event-driven applications. It helps development teams manage, monitor, and operate Kubernetes in a way that requires less technical knowledge and time.",
+    "contributors": 94,
+    "home_url": "https://knative.dev",
+    "repo_url": "https://github.com/knative",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/knative/serving/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Dave Protasowski",
+    "email": "{github-id-see-below}@gmail.com",
+    "role": "Technical Oversight Committee and Serving Working Group Lead",
+    "id": 18562
+  },
+  "can_contact": false,
+  "issue_number": 496,
+  "created_at": "2022-04-01T19:05:46Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/496"
+}

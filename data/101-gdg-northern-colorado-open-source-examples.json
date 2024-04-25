@@ -1,0 +1,23 @@
+{
+  "account": "gdgnortherncolorado.1password.com",
+  "project": {
+    "name": "GDG Northern Colorado open source examples",
+    "description": "Open source example projects for Google Developer Group Northern Colorado; open to everyone!",
+    "contributors": 3,
+    "home_url": "http://gdgnoco.github.io/#/about",
+    "repo_url": "https://github.com/gdgnoco",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "G. Hussain Chinoy",
+    "email": "ghchinoy@gmail.com",
+    "role": "Organizer",
+    "id": 469685
+  },
+  "can_contact": false,
+  "issue_number": 101,
+  "created_at": "2019-02-08T02:54:26Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/101"
+}

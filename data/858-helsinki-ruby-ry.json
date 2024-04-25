@@ -1,0 +1,24 @@
+{
+  "account": "helsinkiruby.1password.com",
+  "project": {
+    "name": "Helsinki Ruby ry",
+    "description": "Helsinki Ruby ry is a registered non-profit organisation that aims to promote Ruby and software engineering in general in Helsinki and Finland and beyond. We aim to put together events that aren’t available through commercial channels and to increase diversity and representation in tech.\n\nWe organise Ruby meet-ups in Helsinki (https://rubybrigade.fi) and the occasional conference.",
+    "contributors": 3,
+    "home_url": "https://helsinkiruby.fi",
+    "repo_url": "https://n/a or https://github.com/helsinkiruby",
+    "license_type": "n/a",
+    "license_url": "https://n/a",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Matias Korhonen",
+    "email": "matias@helsinkiruby.fi",
+    "role": "Chairman of the non-profit board",
+    "id": 43314
+  },
+  "can_contact": true,
+  "issue_number": 858,
+  "created_at": "2023-12-13T08:30:12Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/858"
+}

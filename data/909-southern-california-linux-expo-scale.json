@@ -1,0 +1,23 @@
+{
+  "account": "socallinuxexpo.1password.com",
+  "project": {
+    "name": "Southern California Linux Expo (SCALE)",
+    "description": "Largest volunteer-run opensource conference in the US",
+    "contributors": 50,
+    "home_url": "https://socallinuxexpo.org/",
+    "repo_url": "https://github.com/socallinuxexpo/",
+    "license_type": "Depends on the repo - Creative Commonds, GPL, Apache 2.0",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Phil Dibowitz",
+    "email": "phil@socallinuxexpo.org",
+    "role": "Technical Committee (online services) chair person",
+    "id": 938467
+  },
+  "can_contact": false,
+  "issue_number": 909,
+  "created_at": "2024-03-12T01:14:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/909"
+}

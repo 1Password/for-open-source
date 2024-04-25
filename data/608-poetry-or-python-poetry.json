@@ -1,0 +1,24 @@
+{
+  "account": "neersighted.1password.com",
+  "project": {
+    "name": "Poetry (or Python Poetry)",
+    "description": "Python packaging and dependency management made easy",
+    "contributors": 9,
+    "home_url": "https://python-poetry.org",
+    "repo_url": "https://github.com/python-poetry",
+    "license_type": "MIT",
+    "license_url": "https://github.com/python-poetry/poetry/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Bjorn Neergaard",
+    "email": "bjorn@neersighted.com",
+    "role": "Core maintainer/project custodian",
+    "id": 1049222
+  },
+  "can_contact": false,
+  "issue_number": 608,
+  "created_at": "2022-10-01T22:18:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/608"
+}

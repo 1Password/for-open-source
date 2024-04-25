@@ -1,0 +1,24 @@
+{
+  "account": "kvrocks.1password.com",
+  "project": {
+    "name": "Apache Kvrocks (incubating)",
+    "description": "Apache Kvrocks(Incubating) is a distributed key-value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.",
+    "contributors": 19,
+    "home_url": "https://kvrocks.apache.org/",
+    "repo_url": "https://github.com/apache/incubator-kvrocks",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/apache/incubator-kvrocks/blob/unstable/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Hulk Lin",
+    "email": "hulk@apache.org",
+    "role": "Apache Kvrocks PPMC Member",
+    "id": 4987594
+  },
+  "can_contact": true,
+  "issue_number": 751,
+  "created_at": "2023-05-18T12:59:18Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/751"
+}

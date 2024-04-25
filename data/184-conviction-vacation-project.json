@@ -1,0 +1,24 @@
+{
+  "account": "convictionvacationproject.1password.com",
+  "project": {
+    "name": "Conviction Vacation Project",
+    "description": "Reducing barriers faced by formerly incarcerated individuals by streamlining process of vacating eligible convictions in Washington state.",
+    "contributors": 5,
+    "home_url": "https://democracylab.org/index/?section=AboutProject\u0026id=226",
+    "repo_url": "https://github.com/openseattle/convictionvacation",
+    "license_type": "MIT",
+    "license_url": "https://github.com/openseattle/convictionvacation/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Stephen Chan",
+    "email": "vis_viva@hotmail.com",
+    "role": "Project Tech Lead",
+    "id": 12063755
+  },
+  "can_contact": false,
+  "issue_number": 184,
+  "created_at": "2020-02-12T04:13:53Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/184"
+}

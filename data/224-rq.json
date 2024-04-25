@@ -1,0 +1,24 @@
+{
+  "account": "rqdev.1password.com",
+  "project": {
+    "name": "RQ",
+    "description": "A simple, Redis backed task/job queue for Python",
+    "contributors": 2,
+    "home_url": "https://python-rq.org/",
+    "repo_url": "https://github.com/rq/rq/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/rq/rq/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Selwin Ong",
+    "email": "selwin.ong@gmail.com",
+    "role": "Maintainer",
+    "id": 188658
+  },
+  "can_contact": false,
+  "issue_number": 224,
+  "created_at": "2020-08-07T10:28:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/224"
+}

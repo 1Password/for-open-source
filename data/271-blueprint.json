@@ -1,0 +1,24 @@
+{
+  "account": "blueprintteam.1password.com",
+  "project": {
+    "name": "Blueprint",
+    "description": "Blueprint is a fully open source bot framework based on the eris Discord library. The framework is meant to make prototyping applications for the Discord chat platform faster and easier with the use of TypeScript and many other tools.",
+    "contributors": 2,
+    "home_url": "https://github.com/xpyxel/blueprint",
+    "repo_url": "https://github.com/xpyxel/blueprint",
+    "license_type": "Mozilla Public License 2.0",
+    "license_url": "https://github.com/xpyxel/blueprint/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Hanna Rose",
+    "email": "me@pyxel.pro",
+    "role": "Lead Developer and Maintainer",
+    "id": 46457601
+  },
+  "can_contact": false,
+  "issue_number": 271,
+  "created_at": "2020-12-10T21:48:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/271"
+}

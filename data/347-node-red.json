@@ -1,0 +1,24 @@
+{
+  "account": "node-red.1password.com",
+  "project": {
+    "name": "Node-RED",
+    "description": "Node-RED is a low-code programming tool for event-driven applications. It is part of the OpenJS Foundation",
+    "contributors": 5,
+    "home_url": "https://nodered.org",
+    "repo_url": "https://github.com/node-red",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/node-red/node-red/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Nick O'Leary",
+    "email": "nick.oleary@gmail.com",
+    "role": "Co-creator and Project Lead",
+    "id": 51083
+  },
+  "can_contact": false,
+  "issue_number": 347,
+  "created_at": "2021-05-27T14:55:03Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/347"
+}

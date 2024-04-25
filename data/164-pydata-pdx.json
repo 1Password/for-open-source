@@ -1,0 +1,24 @@
+{
+  "account": "pydatapdx.1password.com",
+  "project": {
+    "name": "PyData PDX",
+    "description": "Portland chapter of PyData Meetup and conference series under the umbrella of the NumFOCUS non-profit organization",
+    "contributors": 3,
+    "home_url": "https://pdx.pydata.org",
+    "repo_url": "https://github.com/pydatapdx/pydatapdx.github.io",
+    "license_type": "N/A (meetup)",
+    "license_url": "https://N/A (meetup)",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Bryan Van de Ven",
+    "email": "bryan.vandeven@gmail.com",
+    "role": "Co-organizer",
+    "id": 1078448
+  },
+  "can_contact": false,
+  "issue_number": 164,
+  "created_at": "2019-10-22T20:08:22Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/164"
+}

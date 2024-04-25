@@ -1,0 +1,24 @@
+{
+  "account": "kachow.1password.com",
+  "project": {
+    "name": "FutaDNS",
+    "description": "FutaDNS is a public adblock list made in Taiwan, which also provide awesome and ultra low latency public DNS-over-HTTPS service.",
+    "contributors": 5,
+    "home_url": "https://site.futa.gg",
+    "repo_url": "https://github.com/FutaGuard",
+    "license_type": "Beerware",
+    "license_url": "https://github.com/FutaGuard/FutaFilter/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "tdc (踢低吸)",
+    "email": "tdc@sudo.host",
+    "role": "Owner",
+    "id": 11913223
+  },
+  "can_contact": false,
+  "issue_number": 281,
+  "created_at": "2021-01-12T14:08:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/281"
+}

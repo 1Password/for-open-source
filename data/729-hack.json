@@ -1,0 +1,24 @@
+{
+  "account": "hackplus.1password.com",
+  "project": {
+    "name": "Hack+",
+    "description": "Hack+ is a 501(c)(3) nonprofit organization that helps students start their own businesses, nonprofits, and events. Throughout our 7 years of operation, we've helped over 400 student organizations and over 5,000 students with obtaining nonprofit status, handling finances, and providing resources. We also run multiple flagship events, including HSHacks and Pinnacle.",
+    "contributors": 10,
+    "home_url": "https://hackplus.io",
+    "repo_url": "https://github.com/HackPlus/frontpage",
+    "license_type": "MIT",
+    "license_url": "https://github.com/HackPlus/frontpage/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jamsheed Mistri",
+    "email": "jamsheed@hackplus.io",
+    "role": "Director of Operations",
+    "id": 13024750
+  },
+  "can_contact": true,
+  "issue_number": 729,
+  "created_at": "2023-04-22T02:44:08Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/729"
+}

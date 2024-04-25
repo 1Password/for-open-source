@@ -1,0 +1,24 @@
+{
+  "account": "flarum.1password.com",
+  "project": {
+    "name": "Flarum",
+    "description": "Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.",
+    "contributors": 4,
+    "home_url": "https://flarum.org",
+    "repo_url": "https://github.com/flarum",
+    "license_type": "MIT",
+    "license_url": "https://github.com/flarum/core/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Daniël Klabbers",
+    "email": "daniel+flarum@klabbers.email",
+    "role": "Core contributor and Flarum Foundation Chairman",
+    "id": 504687
+  },
+  "can_contact": false,
+  "issue_number": 158,
+  "created_at": "2019-09-04T20:32:13Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/158"
+}

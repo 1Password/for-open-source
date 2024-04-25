@@ -1,0 +1,24 @@
+{
+  "account": "team-merprofonde.1password.com",
+  "project": {
+    "name": "Maverick",
+    "description": "A static blog generator built with Python, with feed, sitemap, extended Markdown syntax and enhanced image processing pipeline.",
+    "contributors": 4,
+    "home_url": "https://alandecode.github.io/Maverick/",
+    "repo_url": "https://github.com/AlanDecode/Maverick",
+    "license_type": "MIT",
+    "license_url": "https://github.com/AlanDecode/Maverick/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "AlanDecode",
+    "email": "zytbuaa1415@gmail.com",
+    "role": "core developer",
+    "id": 28399641
+  },
+  "can_contact": false,
+  "issue_number": 288,
+  "created_at": "2021-01-13T06:48:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/288"
+}

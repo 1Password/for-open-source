@@ -1,0 +1,24 @@
+{
+  "account": "buecker.1password.eu",
+  "project": {
+    "name": "Foundation for Shopware apps based on Go",
+    "description": "This library provides helper functions to write Shopware apps with a Go backend server. The library handles authorization as well as webhooks and actions.",
+    "contributors": 2,
+    "home_url": "https://developer.shopware.com/docs/guides/plugins/apps/app-base-guide#setup",
+    "repo_url": "https://github.com/janbuecker/shopware-appserver-go",
+    "license_type": "MIT",
+    "license_url": "https://github.com/janbuecker/shopware-appserver-go/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jan Bücker",
+    "email": "jan@buecker.io",
+    "role": "Core contributor",
+    "id": 736986
+  },
+  "can_contact": false,
+  "issue_number": 648,
+  "created_at": "2022-12-24T16:09:10Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/648"
+}

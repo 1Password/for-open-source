@@ -1,0 +1,22 @@
+{
+  "account": "kattni.1password.com",
+  "project": {
+    "name": "PyOhio",
+    "description": "A free, regional Python conference held in Ohio.",
+    "contributors": 3,
+    "home_url": "https://www.pyohio.org",
+    "repo_url": "https://github.com/pyohio",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Kattni",
+    "email": "kattni@pyohio.org",
+    "role": "Conference Chair 2024",
+    "id": 7865090
+  },
+  "can_contact": true,
+  "issue_number": 883,
+  "created_at": "2024-01-20T17:43:23Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/883"
+}

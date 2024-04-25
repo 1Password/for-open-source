@@ -1,0 +1,23 @@
+{
+  "account": "phidatalab.1password.com",
+  "project": {
+    "name": "PHI Data Lab",
+    "description": "We are an academic research group, focused on health informatics research, and produce a number of open source software projects in that theme — our primary public GitHub organisation is at https://github.com/orgs/KHP-Informatics/repositories , one of our flagship open source projects is a mobile health platform called RADAR-base (https://radar-base.org/), which also has a GitHub organisation at https://github.com/RADAR-base.",
+    "contributors": 4,
+    "home_url": "https://phidatalab.org/",
+    "repo_url": "https://github.com/orgs/KHP-Informatics/repositories",
+    "license_type": "Apache",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ian Grant",
+    "email": "ian.grant@kcl.ac.uk",
+    "role": "System Administrator/Platform Engineer",
+    "id": 5815412
+  },
+  "can_contact": false,
+  "issue_number": 429,
+  "created_at": "2021-12-06T13:40:15Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/429"
+}

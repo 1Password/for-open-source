@@ -1,0 +1,24 @@
+{
+  "account": "elten.1password.com",
+  "project": {
+    "name": "NAU Alarm",
+    "description": "NAU Alarm is an open source software that monitoring bio-reactor system in realtime. It parses log file from the fermentor then display its status on a monitor. Depend on each protocol, NAU will announce if any parameter of the system is out of the setting ranges.",
+    "contributors": 1,
+    "home_url": "https://github.com/trungnghiatn/NAU-Alarm",
+    "repo_url": "https://github.com/trungnghiatn/NAU-Alarm",
+    "license_type": "MIT",
+    "license_url": "https://github.com/trungnghiatn/NAU-Alarm/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Le Nghia",
+    "email": "ltnghia@duck.com",
+    "role": "Chief",
+    "id": 19650585
+  },
+  "can_contact": false,
+  "issue_number": 523,
+  "created_at": "2022-05-12T06:52:19Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/523"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "castdrian.1password.com",
+  "project": {
+    "name": "ishare",
+    "description": "screencapture utility for macOS which allows uploading taken captures to both custom and predefined uploader solutions",
+    "contributors": 2,
+    "home_url": "https://isharemac.app",
+    "repo_url": "https://github.com/castdrian/ishare",
+    "license_type": "GPL-3.0",
+    "license_url": "https://github.com/castdrian/ishare/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Adrian",
+    "email": "castdrian@gmail.com",
+    "role": "Lead \u0026 Maintenance",
+    "id": 22133246
+  },
+  "can_contact": true,
+  "issue_number": 879,
+  "created_at": "2024-01-11T22:01:09Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/879"
+}

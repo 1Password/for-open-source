@@ -1,0 +1,24 @@
+{
+  "account": "openmrs.1password.com",
+  "project": {
+    "name": "OpenMRS",
+    "description": "We're a global community of truly dedicated, talented, and generous contributors who build and maintain a electronic medical record system platform to support resource-constrained implementers to save lives around the world.",
+    "contributors": 12,
+    "home_url": "https://openmrs.org",
+    "repo_url": "https://github.com/openmrs",
+    "license_type": "MPL 2.0 with Healthcare Disclaimer",
+    "license_url": "https://github.com/openmrs/openmrs-core/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Burke Mamlin",
+    "email": "burke@openmrs.org",
+    "role": "Co-Founder and Lead Architect",
+    "id": 860834
+  },
+  "can_contact": true,
+  "issue_number": 768,
+  "created_at": "2023-06-12T17:53:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/768"
+}

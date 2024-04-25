@@ -1,0 +1,24 @@
+{
+  "account": "team-o3df.1password.com",
+  "project": {
+    "name": "Open 3D Engine",
+    "description": "Open 3D Engine (O3DE) is a modular, open source, cross-platform 3D engine built to power anything from AAA games to cinema-quality 3D worlds to high-fidelity simulations. No fees or commercial obligations. Apache 2.0-licensed. Managed by The Linux Foundation.",
+    "contributors": 200,
+    "home_url": "https://www.o3de.org",
+    "repo_url": "https://github.com/o3de",
+    "license_type": "Apache 2.0, MIT",
+    "license_url": "https://github.com/o3de/o3de/blob/development/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Royal O'Brien",
+    "email": "royal@linuxfoundation.org",
+    "role": "Executive Director",
+    "id": 294136
+  },
+  "can_contact": false,
+  "issue_number": 556,
+  "created_at": "2022-06-29T22:23:39Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/556"
+}

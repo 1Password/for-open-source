@@ -1,0 +1,24 @@
+{
+  "account": "clcstriders.1password.com",
+  "project": {
+    "name": "CLC Striders",
+    "description": "A open source website for for our local running club",
+    "contributors": 3,
+    "home_url": "https://clcstriders-runningclub.co.uk/",
+    "repo_url": "https://github.com/CLCStriders",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/CLCStriders/striders/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Mat B",
+    "email": "webmaster@clcstriders-runningclub.co.uk",
+    "role": "Webmaster / Owner",
+    "id": 1188107
+  },
+  "can_contact": false,
+  "issue_number": 497,
+  "created_at": "2022-04-02T19:56:26Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/497"
+}

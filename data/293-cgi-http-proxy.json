@@ -1,0 +1,24 @@
+{
+  "account": "v-office.1password.com",
+  "project": {
+    "name": "CGI HTTP PROXY",
+    "description": "CGI HTTP PROXY Flibusta for example. For proxyfying and rewriting requests to blocked domains via proxy. My current repository on Gitlab, but special for 1password cloned to Github.",
+    "contributors": 5,
+    "home_url": "https://v-office.org",
+    "repo_url": "https://gitlab.com/CyberManiac/cgi_http_proxy",
+    "license_type": "WTFPL",
+    "license_url": "http://www.wtfpl.net/",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ruslan",
+    "email": "ruslan@v-office.org",
+    "role": "Benevolent dictator for life",
+    "id": 77247173
+  },
+  "can_contact": false,
+  "issue_number": 293,
+  "created_at": "2021-01-16T09:31:01Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/293"
+}

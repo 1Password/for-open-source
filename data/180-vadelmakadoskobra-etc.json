@@ -1,0 +1,23 @@
+{
+  "account": "kolibre.1password.com",
+  "project": {
+    "name": "vadelma,kados,kobra, etc",
+    "description": "A talking book player can be built for various existing hardware platforms, including a Raspberry Pi-unit",
+    "contributors": 4,
+    "home_url": "http://kolibre.org/en/",
+    "repo_url": "https://github.com/kolibre",
+    "license_type": "MIT, LGPL-2.1",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Johan Abbors",
+    "email": "jabbors@gmail.com",
+    "role": "Lead developer for Kolibre",
+    "id": 1805094
+  },
+  "can_contact": false,
+  "issue_number": 180,
+  "created_at": "2020-01-13T11:45:25Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/180"
+}

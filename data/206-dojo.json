@@ -1,0 +1,24 @@
+{
+  "account": "dojotoolkit.1password.com",
+  "project": {
+    "name": "Dojo",
+    "description": "A Progressive TypeScript Framework for Modern Web Apps",
+    "contributors": 25,
+    "home_url": "https://dojo.io/ and https://dojotoolkit.org/",
+    "repo_url": "https://github.com/dojo/dojo",
+    "license_type": "BSD",
+    "license_url": "https://github.com/dojo/framework/blob/v7.0.0/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Dylan Schiemann",
+    "email": "dylan@dojotoolkit.org",
+    "role": "Project co-founder and lead",
+    "id": 97291
+  },
+  "can_contact": false,
+  "issue_number": 206,
+  "created_at": "2020-06-18T14:03:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/206"
+}

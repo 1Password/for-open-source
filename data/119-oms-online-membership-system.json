@@ -1,0 +1,24 @@
+{
+  "account": "myaegee.1password.com",
+  "project": {
+    "name": "OMS (Online Membership System)",
+    "description": "OMS is an open-source project born from the youth NGO AEGEE-Europe. It aims to provide an intranet which other YNGOs (and more) can use to manage their members and internal events, and it allows customisation through pluggable modules.",
+    "contributors": 3,
+    "home_url": "https://oms-project.atlassian.net",
+    "repo_url": "https://github.com/AEGEE/oms-docker",
+    "license_type": "Apache2",
+    "license_url": "https://github.com/AEGEE/oms-docker/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Fabrizio",
+    "email": "fabrizio@aegee.eu",
+    "role": "Main Architect and Devops",
+    "id": 3695704
+  },
+  "can_contact": false,
+  "issue_number": 119,
+  "created_at": "2019-04-02T21:59:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/119"
+}

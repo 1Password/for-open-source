@@ -1,0 +1,24 @@
+{
+  "account": "freelanceprogrammer.1password.com",
+  "project": {
+    "name": "Nameday api and opensource library",
+    "description": "This [opensource library](https://github.com/xnekv03/nameday-api) acts as client for [Nameday API](https://nameday.abalin.net) which is developed and maintained by me in my free time since 2017. Library is opensource and API is for free serving 60 000 requests a day. Namday is providing data for 20 countries.",
+    "contributors": 2,
+    "home_url": "https://nameday.abalin.net",
+    "repo_url": "https://github.com/xnekv03/nameday-api",
+    "license_type": "MIT",
+    "license_url": "https://github.com/xnekv03/nameday-api/blob/v1.0.6/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Vojtěch Nekvapil",
+    "email": "vn@abalin.net",
+    "role": "Developer, Main contributor",
+    "id": 17554971
+  },
+  "can_contact": false,
+  "issue_number": 354,
+  "created_at": "2021-06-16T21:12:53Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/354"
+}

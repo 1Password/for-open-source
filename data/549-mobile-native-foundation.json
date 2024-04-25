@@ -1,0 +1,23 @@
+{
+  "account": "mobilenativefoundation.1password.com",
+  "project": {
+    "name": "Mobile Native Foundation",
+    "description": "The Mobile Native Foundation provides a place to collaborate on open source projects and discuss wide ranging topics in order to improve processes and technologies for large-scale Android and iOS applications.",
+    "contributors": 20,
+    "home_url": "https://mobilenativefoundation.org/",
+    "repo_url": "https://github.com/MobileNativeFoundation/",
+    "license_type": "Mostly Apache-2",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Keith Smiley",
+    "email": "keithbsmiley@gmail.com",
+    "role": "MNF founder",
+    "id": 283886
+  },
+  "can_contact": false,
+  "issue_number": 549,
+  "created_at": "2022-06-15T17:20:28Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/549"
+}

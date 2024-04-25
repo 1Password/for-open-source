@@ -1,0 +1,24 @@
+{
+  "account": "saschaeggi.1password.com",
+  "project": {
+    "name": "Drupal Gin Admin Theme",
+    "description": "I'm the maintainer of the Gin Admin Theme, Lead Designer of the Drupal Design System and a core maintainer of Drupal Core (Claro Subsystem maintainer) and the maintainer of a lot more Drupal modules.",
+    "contributors": 1,
+    "home_url": "https://www.drupal.org/project/gin",
+    "repo_url": "https://git.drupalcode.org/project/gin",
+    "license_type": "GPL v2+",
+    "license_url": "https://www.drupal.org/about/licensing#drupal-license",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Sascha Eggenberger",
+    "email": "hello@saschaeggenberger.com",
+    "role": "Core maintainer / Lead Designer",
+    "id": 5558166
+  },
+  "can_contact": false,
+  "issue_number": 581,
+  "created_at": "2022-08-10T20:46:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/581"
+}

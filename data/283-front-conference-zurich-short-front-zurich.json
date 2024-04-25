@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "Front Conference Zurich (Short: Front Zurich)",
+    "description": "Front Conference Zurich is a non-profit conference targeting Designers \u0026 Frontend engineers taking place yearly in Zurich. As a not-for-profit community event we rely on volunteers to enable us to run a great event.",
+    "contributors": 9,
+    "home_url": "https://frontconference.com/",
+    "repo_url": "https://github.com/frontendconf",
+    "license_type": "-",
+    "license_url": "https://-",
+    "is_event": true,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sascha Eggenberger",
+    "email": "sascha@frontendconf.ch",
+    "role": "Workspace Admin",
+    "id": 5558166
+  },
+  "can_contact": false,
+  "issue_number": 283,
+  "created_at": "2021-01-12T15:58:28Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/283"
+}

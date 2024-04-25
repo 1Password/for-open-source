@@ -1,0 +1,23 @@
+{
+  "account": "tskaigi.1password.com",
+  "project": {
+    "name": "TSKaigi Association",
+    "description": "The TSKaigi Association (Japanese: 一般社団法人 TSKaigi Association) is a nonprofit organization to hold an annual Tech Conference about TypeScript in Japan.",
+    "contributors": 4,
+    "home_url": "https://association.tskaigi.org/",
+    "repo_url": "https://github.com/tskaigi/tskaigi.github.io",
+    "license_type": "MIT License",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Shinra Yamkawa",
+    "email": "yamakawa@tskaigi.org",
+    "role": "Lead of TSKaigi 2024 operation experience team",
+    "id": 13755428
+  },
+  "can_contact": true,
+  "issue_number": 874,
+  "created_at": "2024-01-10T06:52:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/874"
+}

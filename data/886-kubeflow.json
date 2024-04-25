@@ -1,0 +1,23 @@
+{
+  "account": "kubeflow.1password.com",
+  "project": {
+    "name": "Kubeflow",
+    "description": "Kubeflow is the Machine Learning Toolkit for Kubernetes. We are a CNCF project.",
+    "contributors": 50,
+    "home_url": "https://www.kubeflow.org/",
+    "repo_url": "https://github.com/kubeflow",
+    "license_type": "Mostly Apache 2.0 (but there are other open-source licenses used in some limited places)",
+    "license_url": "https://github.com/kubeflow/kubeflow/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Mathew Wicks",
+    "role": "Community Manager, Lead of Kubeflow Notebooks Working Group",
+    "id": 5735406
+  },
+  "can_contact": true,
+  "issue_number": 886,
+  "created_at": "2024-01-24T18:32:34Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/886"
+}

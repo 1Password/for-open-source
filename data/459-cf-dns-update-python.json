@@ -1,0 +1,24 @@
+{
+  "account": "nhymxu.1password.com",
+  "project": {
+    "name": "cf-dns-update-python",
+    "description": "Dynamic DNS record update utility for CloudFlare DNS service. Python implemented.",
+    "contributors": 2,
+    "home_url": "https://github.com/nhymxu/cf-dns-update-python",
+    "repo_url": "https://github.com/nhymxu/cf-dns-update-python",
+    "license_type": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "license_url": "https://github.com/nhymxu/cf-dns-update-python/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nguyễn Tiến Dũng",
+    "email": "contact@dungnt.net",
+    "role": "Owner",
+    "id": 535617
+  },
+  "can_contact": false,
+  "issue_number": 459,
+  "created_at": "2022-02-21T05:10:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/459"
+}

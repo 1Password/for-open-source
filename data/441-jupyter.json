@@ -1,0 +1,24 @@
+{
+  "account": "bussonniermatthias.1password.com",
+  "project": {
+    "name": "Jupyter",
+    "description": "The Jupyter Project is a project and community whose goal is to \"develop open-source software, open-standards, and services for interactive computing across dozens of programming languages\"",
+    "contributors": 17,
+    "home_url": "https://jupyter.org",
+    "repo_url": "https://github.com/jupyter",
+    "license_type": "BSD",
+    "license_url": "https://github.com/jupyterlab/jupyterlab/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Matthias Bussonnier",
+    "email": "bussonniermatthias@gmail.com",
+    "role": "Steering Council Member and Founder",
+    "id": 335567
+  },
+  "can_contact": false,
+  "issue_number": 441,
+  "created_at": "2022-01-09T15:23:03Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/441"
+}

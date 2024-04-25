@@ -1,0 +1,24 @@
+{
+  "account": "zuyfun.1password.com",
+  "project": {
+    "name": "Java ChatBot Project",
+    "description": "An open-source built with Java focused Facebook Chatbot",
+    "contributors": 1,
+    "home_url": "https://github.com/zuyfun/facebook-chatbot",
+    "repo_url": "https://github.com/zuyfun/facebook-chatbot",
+    "license_type": "BSD-3-Clause License",
+    "license_url": "https://github.com/zuyfun/facebook-chatbot/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Phạm Duy Phương",
+    "email": "zuyfun@gmail.com",
+    "role": "Owner",
+    "id": 65531653
+  },
+  "can_contact": false,
+  "issue_number": 456,
+  "created_at": "2022-02-20T08:21:31Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/456"
+}

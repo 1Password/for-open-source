@@ -1,0 +1,24 @@
+{
+  "account": "gabizou.1password.com",
+  "project": {
+    "name": "SpongePowered",
+    "description": "A community-driven open source Minecraft: Java Edition modding platform.",
+    "contributors": 20,
+    "home_url": "https://spongepowered.org/",
+    "repo_url": "https://github.com/SpongePowered/SpongeAPI",
+    "license_type": "MIT",
+    "license_url": "https://github.com/SpongePowered/SpongeAPI/blob/v7.2.0/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Gabriel Harris-Rouquette",
+    "email": "gabizou@spongepowered.org",
+    "role": "Leader (Co-Lead with @Zidane)",
+    "id": 1203877
+  },
+  "can_contact": false,
+  "issue_number": 205,
+  "created_at": "2020-06-13T00:55:44Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/205"
+}

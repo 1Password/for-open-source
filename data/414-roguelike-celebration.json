@@ -1,0 +1,24 @@
+{
+  "account": "lazerwalker.1password.com",
+  "project": {
+    "name": "Roguelike Celebration",
+    "description": "We are a small non-profit community conference focused on roguelike games, procedural generation, and the history of computing. We bring together game developers...",
+    "contributors": 8,
+    "home_url": "https://roguelike.club",
+    "repo_url": "https://github.com/lazerwalker/azure-mud",
+    "license_type": "MIT",
+    "license_url": "https://github.com/lazerwalker/azure-mud/blob/main/LICENSE",
+    "is_event": true,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Emilia Lazer-Walker",
+    "email": "hi@lazerwalker.com",
+    "role": "Conference co-organizer for Roguelike Celebration, lead developer and designer on azure-mud",
+    "id": 821238
+  },
+  "can_contact": false,
+  "issue_number": 414,
+  "created_at": "2021-11-15T22:31:53Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/414"
+}

@@ -1,0 +1,22 @@
+{
+  "account": "pythonre.1password.com",
+  "project": {
+    "name": "Python User Group Reggio Emilia",
+    "description": "A community dedicated to Python programming language, based in Reggio Emilia, Italy.",
+    "contributors": 3,
+    "home_url": "https://pyre.it",
+    "repo_url": "https://github.com/PyREit/pyreit.github.io",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ester Beltrami",
+    "email": "beltrami.ester@gmail.com",
+    "role": "Organiser",
+    "id": 28976199
+  },
+  "can_contact": true,
+  "issue_number": 767,
+  "created_at": "2023-06-09T13:16:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/767"
+}

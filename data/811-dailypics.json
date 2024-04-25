@@ -1,0 +1,24 @@
+{
+  "account": "chimontechnology.1password.com",
+  "project": {
+    "name": "Dailypics",
+    "description": "An open source hand-selected mobile wallpaper App",
+    "contributors": 5,
+    "home_url": "https://www.dailypics.cn",
+    "repo_url": "https://github.com/KagurazakaHanabi/dailypics",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/KagurazakaHanabi/dailypics/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Junyu Qu",
+    "email": "galentwww@email.moedot.net",
+    "role": "PM \u0026 Director of Operations",
+    "id": 24236827
+  },
+  "can_contact": true,
+  "issue_number": 811,
+  "created_at": "2023-09-13T03:21:31Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/811"
+}

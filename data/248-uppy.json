@@ -1,0 +1,24 @@
+{
+  "account": "team-uppy.1password.com",
+  "project": {
+    "name": "Uppy",
+    "description": "The #1 file uploader for webbrowsers",
+    "contributors": 20,
+    "home_url": "https://uppy.io",
+    "repo_url": "https://github.com/transloadit/uppy/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/transloadit/uppy/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kevin van Zonneveld",
+    "email": "kevin@uppy.io",
+    "role": "Creator",
+    "id": 26752
+  },
+  "can_contact": false,
+  "issue_number": 248,
+  "created_at": "2020-10-22T11:36:18Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/248"
+}

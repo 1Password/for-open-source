@@ -1,0 +1,24 @@
+{
+  "account": "scikit-learn.1password.com",
+  "project": {
+    "name": "scikit-learn",
+    "description": "Machine Learning in Python",
+    "contributors": 30,
+    "home_url": "https://scikit-learn.org",
+    "repo_url": "https://github.com/scikit-learn/scikit-learn",
+    "license_type": "BSD 3-clause",
+    "license_url": "https://github.com/scikit-learn/scikit-learn/blob/main/COPYING",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Loïc Estève",
+    "email": "loic.esteve@ymail.com",
+    "role": "core developer",
+    "id": 1680079
+  },
+  "can_contact": false,
+  "issue_number": 839,
+  "created_at": "2023-10-31T17:02:56Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/839"
+}

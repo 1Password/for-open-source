@@ -1,0 +1,24 @@
+{
+  "account": "gradienceteam.1password.com",
+  "project": {
+    "name": "Gradience, originally called Adwaita Manager, codename AdwCustomizer",
+    "description": "Customize Adwaita with ease",
+    "contributors": 3,
+    "home_url": "https://github.com/AdwCustomizerTeam/AdwCustomizer",
+    "repo_url": "https://github.com/AdwCustomizerTeam/AdwCustomizer",
+    "license_type": "GNU GPLv3",
+    "license_url": "https://github.com/AdwCustomizerTeam/AdwCustomizer/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "0xMRTT (Martin Roberts)",
+    "email": "0xMRTT@tuta.io",
+    "role": "Maintainer",
+    "id": 105598867
+  },
+  "can_contact": false,
+  "issue_number": 585,
+  "created_at": "2022-08-16T00:02:57Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/585"
+}

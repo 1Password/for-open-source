@@ -1,0 +1,24 @@
+{
+  "account": "ghost.1password.com",
+  "project": {
+    "name": "Ghost",
+    "description": "Fiercely independent publishing, memberships and subscriptions for creators and news.",
+    "contributors": 65,
+    "home_url": "https://ghost.org",
+    "repo_url": "https://github.com/tryghost/ghost",
+    "license_type": "MIT",
+    "license_url": "https://github.com/TryGhost/Ghost/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "John O'Nolan",
+    "email": "john@ghost.org",
+    "role": "Founder",
+    "id": 120485
+  },
+  "can_contact": false,
+  "issue_number": 480,
+  "created_at": "2022-03-16T14:03:12Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/480"
+}

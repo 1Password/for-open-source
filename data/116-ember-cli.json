@@ -1,0 +1,24 @@
+{
+  "account": "ember-cli.1password.com",
+  "project": {
+    "name": "Ember CLI",
+    "description": "Ember CLI is the command line interface for the Ember.js web framework.",
+    "contributors": 7,
+    "home_url": "https://ember-cli.com/ / https://emberjs.com/",
+    "repo_url": "https://github.com/ember-cli/ember-cli",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ember-cli/ember-cli/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Tobias Bieniek",
+    "email": "tobias.bieniek@gmail.com",
+    "role": "Ember CLI Core Team Member",
+    "id": 141300
+  },
+  "can_contact": false,
+  "issue_number": 116,
+  "created_at": "2019-03-22T04:26:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/116"
+}

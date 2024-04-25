@@ -1,0 +1,24 @@
+{
+  "account": "paigramteam.1password.com",
+  "project": {
+    "name": "PaiGram",
+    "description": "PaiGram is a Telegram robot project that can assist people in looking for information about Genshin Impact.",
+    "contributors": 4,
+    "home_url": "https://github.com/PaiGramTeam/PaiGram",
+    "repo_url": "https://github.com/PaiGramTeam/PaiGram",
+    "license_type": "AGPL",
+    "license_url": "https://github.com/PaiGramTeam/PaiGram/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "xtaodada",
+    "email": "xtao@xtaolink.cn",
+    "role": "Maintainer, core team member",
+    "id": 100690902
+  },
+  "can_contact": true,
+  "issue_number": 691,
+  "created_at": "2023-02-20T06:26:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/691"
+}

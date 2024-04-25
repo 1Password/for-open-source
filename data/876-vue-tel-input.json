@@ -1,0 +1,23 @@
+{
+  "account": "chocopie.1password.com",
+  "project": {
+    "name": "vue-tel-input",
+    "description": "International Telephone Input with Vue",
+    "contributors": 1,
+    "home_url": "https://vue-tel-input.iamstevendao.com/",
+    "repo_url": "https://github.com/iamstevendao/vue-tel-input",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Steven Dao",
+    "email": "steven@iamstevendao.com",
+    "role": "Founder + Maintainer",
+    "id": 15044203
+  },
+  "can_contact": false,
+  "issue_number": 876,
+  "created_at": "2024-01-11T10:58:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/876"
+}

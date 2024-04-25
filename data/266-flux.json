@@ -1,0 +1,24 @@
+{
+  "account": "fluxcd.1password.com",
+  "project": {
+    "name": "Flux",
+    "description": "The Flux project aspires to be a vendor-neutral home for GitOps in a Cloud Native world.",
+    "contributors": 31,
+    "home_url": "https://fluxcd.io/",
+    "repo_url": "https://github.com/fluxcd/flux2",
+    "license_type": "Apache 2.0 and DCO",
+    "license_url": "https://github.com/fluxcd/community/blob/main/LICENSE and https://developercertificate.org/",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Scott Rigby",
+    "email": "scott@weave.works",
+    "role": "Currently on Flux Community and Security teams.",
+    "id": 407675
+  },
+  "can_contact": false,
+  "issue_number": 266,
+  "created_at": "2020-11-24T16:49:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/266"
+}

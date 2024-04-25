@@ -1,0 +1,24 @@
+{
+  "account": "cemal.1password.com",
+  "project": {
+    "name": "iGlance",
+    "description": "A small and lightweight macOS System monitor with a lot of features to adjust the display settings to everyone's needs",
+    "contributors": 2,
+    "home_url": "https://github.com/iglance/iGlance",
+    "repo_url": "https://github.com/iglance/iGlance",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/iglance/iGlance/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Cemal",
+    "email": "cemalkaygusuz97@gmail.com",
+    "role": "Co-Creator and core contributor",
+    "id": 33369079
+  },
+  "can_contact": false,
+  "issue_number": 141,
+  "created_at": "2019-05-27T13:11:05Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/141"
+}

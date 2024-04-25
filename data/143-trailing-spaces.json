@@ -1,0 +1,24 @@
+{
+  "account": "trailingspaces.1password.com",
+  "project": {
+    "name": "Trailing Spaces",
+    "description": "An extension for the Visual Studio Code editor that allows you to highlight trailing spaces and delete them in a flash!",
+    "contributors": 2,
+    "home_url": "https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces",
+    "repo_url": "https://github.com/shardulm94/vscode-trailingspaces",
+    "license_type": "MIT",
+    "license_url": "https://github.com/shardulm94/vscode-trailingspaces/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Shardul Mahadik",
+    "email": "shardulsmahadik@gmail.com",
+    "role": "Core Contributor",
+    "id": 6961317
+  },
+  "can_contact": false,
+  "issue_number": 143,
+  "created_at": "2019-06-12T10:02:08Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/143"
+}

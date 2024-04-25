@@ -1,0 +1,24 @@
+{
+  "account": "hackmcgill.1password.ca",
+  "project": {
+    "name": "HackMcGill",
+    "description": "HackMcGill is McGill University's hacker collective. We annually run McGill University's largest collegiate hackathon to help empower students with technology.",
+    "contributors": 3,
+    "home_url": "http://mchacks.ca",
+    "repo_url": "http://github.com/hackmcgill/hackerAPI",
+    "license_type": "MIT",
+    "license_url": "https://github.com/hackmcgill/hackerAPI/blob/dev/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Anmol Brar",
+    "email": "brarsanmol@protonmail.com",
+    "role": "Software Development Lead",
+    "id": 83686967
+  },
+  "can_contact": false,
+  "issue_number": 482,
+  "created_at": "2022-03-18T19:16:12Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/482"
+}

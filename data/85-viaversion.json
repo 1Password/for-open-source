@@ -1,0 +1,24 @@
+{
+  "account": "viaversion.1password.com",
+  "project": {
+    "name": "ViaVersion",
+    "description": "Open source protocol translation addon for various Minecraft server platforms written in Java",
+    "contributors": 8,
+    "home_url": "http://viaversion.com",
+    "repo_url": "https://github.com/MylesIsCool/ViaVersion/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/MylesIsCool/ViaVersion/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Myles",
+    "email": "myles@myles.us",
+    "role": "Creator",
+    "id": 1151143
+  },
+  "can_contact": false,
+  "issue_number": 85,
+  "created_at": "2018-11-13T21:50:05Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/85"
+}

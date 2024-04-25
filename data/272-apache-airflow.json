@@ -1,0 +1,24 @@
+{
+  "account": "apacheairflow.1password.com",
+  "project": {
+    "name": "Apache Airflow",
+    "description": "Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.",
+    "contributors": 20,
+    "home_url": "https://airflow.apache.org",
+    "repo_url": "https://github.com/apache/airflow/",
+    "license_type": "Apache 2",
+    "license_url": "https://github.com/apache/airflow/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ash Berlin-Taylor",
+    "email": "ash@apache.org",
+    "role": "PMC (Project Management Comittee) member",
+    "id": 34150
+  },
+  "can_contact": false,
+  "issue_number": 272,
+  "created_at": "2020-12-14T22:52:33Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/272"
+}

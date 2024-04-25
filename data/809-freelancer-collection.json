@@ -1,0 +1,24 @@
+{
+  "account": "trainzcity.github.com",
+  "project": {
+    "name": "Freelancer Collection",
+    "description": "Freelancer Collection is a simple launcher written with C# WPF .NETFramework that makes it easy to install the game, as well as mods and language packs for it.",
+    "contributors": 5,
+    "home_url": "https://github.com/TrainzCity/FreelancerCollection",
+    "repo_url": "https://github.com/TrainzCity/FreelancerCollection",
+    "license_type": "MIT",
+    "license_url": "https://github.com/TrainzCity/FreelancerCollection/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Gleb",
+    "email": "glebka_1234@trainzcity.myftp.org",
+    "role": "Owner",
+    "id": 62476577
+  },
+  "can_contact": true,
+  "issue_number": 809,
+  "created_at": "2023-09-05T11:49:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/809"
+}

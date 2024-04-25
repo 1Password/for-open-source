@@ -1,0 +1,24 @@
+{
+  "account": "pester.1password.com",
+  "project": {
+    "name": "Pester",
+    "description": "Pester is PowerShell testing framework.",
+    "contributors": 2,
+    "home_url": "https://pester.dev",
+    "repo_url": "https://github.com/pester/pester",
+    "license_type": "Apache",
+    "license_url": "https://github.com/pester/Pester/blob/v5.0/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jakub",
+    "email": "me@jakubjares.com",
+    "role": "Owner, core contributor",
+    "id": 5735905
+  },
+  "can_contact": false,
+  "issue_number": 340,
+  "created_at": "2021-05-21T09:48:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/340"
+}

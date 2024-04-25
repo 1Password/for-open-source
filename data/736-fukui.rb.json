@@ -1,0 +1,24 @@
+{
+  "account": "fukuirb.1password.com",
+  "project": {
+    "name": "Fukui.rb",
+    "description": "Fukui.rb is a nonprofit community for anyone interested in Ruby and Fukui based in Fukui, Japan.",
+    "contributors": 3,
+    "home_url": "https://github.com/fukuirb",
+    "repo_url": "https://github.com/fukuirb",
+    "license_type": "N/A",
+    "license_url": "https://N/A",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Taketo Takashima",
+    "email": "t.taketo1113@gmail.com",
+    "role": "The member of organizers",
+    "id": 564142
+  },
+  "can_contact": true,
+  "issue_number": 736,
+  "created_at": "2023-04-30T13:32:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/736"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "drupalaustria.1password.com",
+  "project": {
+    "name": "Drupal Austria",
+    "description": "Drupal Austria is the Association behind the Austrian Drupal Community.\n\nDrupal is a free and open-source web content management system written in PHP and distributed under the GNU General Public License. Drupal provides a back-end framework for at least 13% of the top 10,000 websites worldwide – ranging from personal blogs to corporate, political, and government sites. https://en.wikipedia.org/wiki/Drupal\n\nOur Association organize Drupal Camps and help at Drupalcon, and also plan and managed lots of smaller events and workshops.\nBesides the Translation initiative, we work together and help to develop Drupal further and teach new members.",
+    "contributors": 20,
+    "home_url": "https://drupal-austria.at",
+    "repo_url": "https://git.drupalcode.org/project/drupal",
+    "license_type": "GNU GENERAL PUBLIC LICENSE Version 2",
+    "license_url": "https://git.drupalcode.org/project/drupal/-/blob/9.3.x/core/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Nico Grienauer",
+    "email": "n.grienauer@drupal-austria.at",
+    "role": "Board Member",
+    "id": 1458107
+  },
+  "can_contact": false,
+  "issue_number": 377,
+  "created_at": "2021-09-24T13:53:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/377"
+}

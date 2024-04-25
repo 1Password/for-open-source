@@ -1,0 +1,24 @@
+{
+  "account": "viglucci.1password.com",
+  "project": {
+    "name": "RSocket",
+    "description": "RSocket is an open-source project that provides a protocol for Reactive Streams semantics between client-server, and server-server communication.",
+    "contributors": 15,
+    "home_url": "https://rsocket.io",
+    "repo_url": "https://github.com/rsocket",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/rsocket/rsocket/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kevin Viglucci",
+    "email": "kviglucci@gmail.com",
+    "role": "Contributor \u0026 Maintainer",
+    "id": 6305490
+  },
+  "can_contact": false,
+  "issue_number": 540,
+  "created_at": "2022-06-07T03:22:11Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/540"
+}

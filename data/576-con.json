@@ -1,0 +1,24 @@
+{
+  "account": "exclamationfoundation.1password.com",
+  "project": {
+    "name": "!!Con",
+    "description": "We are a small non-profit community conference about the joy, excitement, and surprise of programming.",
+    "contributors": 8,
+    "home_url": "https://bangbangcon.com",
+    "repo_url": "https://github.com/bangbangcon/bangbangcon.github.io",
+    "license_type": "MIT",
+    "license_url": "https://github.com/bangbangcon/bangbangcon.github.io/blob/main/LICENSE",
+    "is_event": true,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Julia Evans",
+    "email": "julia@jvns.ca",
+    "role": "Conference co-organizer",
+    "id": 817739
+  },
+  "can_contact": false,
+  "issue_number": 576,
+  "created_at": "2022-08-03T22:00:58Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/576"
+}

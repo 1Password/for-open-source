@@ -1,0 +1,24 @@
+{
+  "account": "builderbook.1password.com",
+  "project": {
+    "name": "Builder Book",
+    "description": "Open source web app to publish documentation or books. Built with React, Material-UI, Next, Express, Mongoose, and MongoDB.",
+    "contributors": 3,
+    "home_url": "https://builderbook.org/",
+    "repo_url": "https://github.com/builderbook/builderbook",
+    "license_type": "MIT",
+    "license_url": "https://github.com/builderbook/builderbook/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kelly Burke",
+    "email": "team@builderbook.org",
+    "role": "front-end developer",
+    "id": 26158226
+  },
+  "can_contact": false,
+  "issue_number": 69,
+  "created_at": "2018-07-21T21:54:27Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/69"
+}

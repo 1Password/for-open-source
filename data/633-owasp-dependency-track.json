@@ -1,0 +1,24 @@
+{
+  "account": "dependency-track.1password.com",
+  "project": {
+    "name": "OWASP Dependency-Track",
+    "description": "Dependency-Track is an intelligent SBOM Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
+    "contributors": 2,
+    "home_url": "https://dependencytrack.org/",
+    "repo_url": "https://github.com/DependencyTrack/dependency-track",
+    "license_type": "Apache 2.0",
+    "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Steve Springett",
+    "email": "steve.springett@owasp.org",
+    "role": "Founder and co-leader",
+    "id": 3878933
+  },
+  "can_contact": false,
+  "issue_number": 633,
+  "created_at": "2022-11-26T20:56:40Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/633"
+}

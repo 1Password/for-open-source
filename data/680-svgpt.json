@@ -1,0 +1,24 @@
+{
+  "account": "hideon.1password.com",
+  "project": {
+    "name": "SVGPT",
+    "description": "SVGPT is a chat configuration server using ChatGPT",
+    "contributors": 2,
+    "home_url": "https://github.com/vuhai16/SVGPT",
+    "repo_url": "https://github.com/vuhai16/SVGPT",
+    "license_type": "MIT LICENSE",
+    "license_url": "https://github.com/vuhai16/SVGPT/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Vu Hai",
+    "email": "vuhai16@outlook.com",
+    "role": "Developer",
+    "id": 111326034
+  },
+  "can_contact": false,
+  "issue_number": 680,
+  "created_at": "2023-02-04T06:47:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/680"
+}

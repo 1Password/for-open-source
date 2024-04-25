@@ -1,0 +1,24 @@
+{
+  "account": "phpfoundation.1password.com",
+  "project": {
+    "name": "The PHP Foundation",
+    "description": "The PHP Foundation is a collective established with the non-profit mission to support, advance, and develop the PHP language. We are a community of PHP veterans, community leaders, and technology companies that rely on PHP as a critical digital infrastructure. We collaborate to ensure the long-term success and maintenance of the PHP language.",
+    "contributors": 10,
+    "home_url": "https://opencollective.com/phpfoundation",
+    "repo_url": "https://github.com/thephpf",
+    "license_type": "N/A",
+    "license_url": "https://N/A",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Roman Pronskiy",
+    "email": "roman@pronskiy.com",
+    "role": "Administration member",
+    "id": 1196825
+  },
+  "can_contact": false,
+  "issue_number": 462,
+  "created_at": "2022-02-24T11:29:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/462"
+}

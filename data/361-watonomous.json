@@ -1,0 +1,24 @@
+{
+  "account": "watonomous.1password.com",
+  "project": {
+    "name": "WATonomous",
+    "description": "WATonomous is a student-run Canadian non-profit based at the University of Waterloo. We seek to educate and train the next generation of autonomous vehicle engineers, leading to a safer roads and a brighter future.",
+    "contributors": 35,
+    "home_url": "https://www.watonomous.ca/",
+    "repo_url": "https://github.com/watonomous",
+    "license_type": "MIT",
+    "license_url": "https://raw.githubusercontent.com/WATonomous/dhcp-conf/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Ben Zhang",
+    "email": "ben.zhang@watonomous.ca",
+    "role": "Advisor",
+    "id": 5977478
+  },
+  "can_contact": false,
+  "issue_number": 361,
+  "created_at": "2021-06-30T04:28:55Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/361"
+}

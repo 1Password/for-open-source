@@ -1,0 +1,23 @@
+{
+  "account": "g0tmi1k.1password.com",
+  "project": {
+    "name": "Kali Linux",
+    "description": "Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing.",
+    "contributors": 10,
+    "home_url": "https://www.kali.org/",
+    "repo_url": "http://gitlab.com/kalilinux/",
+    "license_type": "GNU General Public License v3",
+    "license_url": "https://www.kali.org/docs/policy/kali-linux-open-source-policy/",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "g0tmi1k",
+    "role": "Developer",
+    "id": 535942
+  },
+  "can_contact": false,
+  "issue_number": 169,
+  "created_at": "2019-11-29T19:54:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/169"
+}

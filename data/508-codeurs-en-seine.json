@@ -1,0 +1,24 @@
+{
+  "account": "codeursenseine.1password.com",
+  "project": {
+    "name": "Codeurs en Seine",
+    "description": "Non Profit Organisation that powers an annual conference in Rouen, France, in November and host monthly meetups.",
+    "contributors": 15,
+    "home_url": "https://www.codeursenseine.com/",
+    "repo_url": "https://github.com/CodeursEnSeine/codeursenseine.com",
+    "license_type": "MIT",
+    "license_url": "https://github.com/CodeursEnSeine/codeursenseine.com/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Yoann Fleury",
+    "email": "yoann@codeursenseine.com",
+    "role": "Volunteer",
+    "id": 3920615
+  },
+  "can_contact": false,
+  "issue_number": 508,
+  "created_at": "2022-04-13T11:51:22Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/508"
+}

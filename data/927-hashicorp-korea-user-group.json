@@ -1,0 +1,24 @@
+{
+  "account": "hashicorp-krug.1password.com",
+  "project": {
+    "name": "HashiCorp Korea User Group",
+    "description": "HashiCorp Korea User Group is a South Korea based HashiCorp users and contributors community for anyone interested in HashiCorp products and its OSS projects like Terraform, Packer, Consul, Vault, Nomad and more. We organize local HashiCorp meetup and workshop events, and provide online space for Korean HashiCorp users.",
+    "contributors": 5,
+    "home_url": "https://www.facebook.com/groups/hashicorpkrug",
+    "repo_url": "https://github.com/hashicorp-krug",
+    "license_type": "MIT",
+    "license_url": "https://github.com/hashicorp-krug/hashicorp-krug-slackin/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Byungjin Park",
+    "email": "posquit0.bj@gmail.com",
+    "role": "Organizer / Founder",
+    "id": 1484002
+  },
+  "can_contact": true,
+  "issue_number": 927,
+  "created_at": "2024-03-27T18:37:55Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/927"
+}

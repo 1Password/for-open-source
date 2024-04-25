@@ -1,0 +1,24 @@
+{
+  "account": "openjsfoundation.1password.com",
+  "project": {
+    "name": "OpenJS Foundation",
+    "description": "Infrastructure for jQuery, QUnit and other OpenJS Foundation projects.",
+    "contributors": 282,
+    "home_url": "https://jquery.com/",
+    "repo_url": "https://github.com/jquery/jquery",
+    "license_type": "MIT",
+    "license_url": "https://jquery.org/license/",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Timo Tijhof",
+    "email": "onepass@timotijhof.net",
+    "role": "jQuery Infrastructure lead",
+    "id": 156867
+  },
+  "can_contact": false,
+  "issue_number": 682,
+  "created_at": "2023-02-07T23:48:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/682"
+}

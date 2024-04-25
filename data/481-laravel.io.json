@@ -1,0 +1,24 @@
+{
+  "account": "aravelio.1password.com",
+  "project": {
+    "name": "Laravel.io",
+    "description": "Laravel.io is the Laravel community portal. It serves as a place where Laravel community members can share articles, ask questions and get help for their projects. All of the code is open source under its GitHub organization.",
+    "contributors": 2,
+    "home_url": "https://laravel.io",
+    "repo_url": "https://github.com/laravelio/laravel.io",
+    "license_type": "MIT",
+    "license_url": "https://github.com/laravelio/laravel.io/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Dries Vints",
+    "email": "dries@vints.io",
+    "role": "Project lead",
+    "id": 594614
+  },
+  "can_contact": false,
+  "issue_number": 481,
+  "created_at": "2022-03-16T21:16:34Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/481"
+}

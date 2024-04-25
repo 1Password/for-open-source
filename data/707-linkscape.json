@@ -1,0 +1,23 @@
+{
+  "account": "linkscape.1password.com",
+  "project": {
+    "name": "LinkScape",
+    "description": "A Chinese student-led nonprofit that support students to make their own OSS.",
+    "contributors": 14,
+    "home_url": "https://linkscape.hackclub.com",
+    "repo_url": "https://github.com/LinkScapeOfficial/LinkDown",
+    "license_type": "GPL-v2",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Thomas Wu",
+    "email": "thomaswcy@hotmail.com",
+    "role": "Founder and main-maintainer",
+    "id": 62056970
+  },
+  "can_contact": true,
+  "issue_number": 707,
+  "created_at": "2023-03-14T07:02:28Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/707"
+}

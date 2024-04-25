@@ -1,0 +1,24 @@
+{
+  "account": "leftwm.1password.com",
+  "project": {
+    "name": "LeftWM",
+    "description": "LeftWM is a tiling window manager written in Rust that aims to be stable and performant.",
+    "contributors": 4,
+    "home_url": "https://leftwm.org/",
+    "repo_url": "https://github.com/leftwm/leftwm",
+    "license_type": "MIT and BSD",
+    "license_url": "https://github.com/leftwm/leftwm/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Michael",
+    "email": "leftwm@protonmail.com",
+    "role": "Core Developer",
+    "id": 3533648
+  },
+  "can_contact": false,
+  "issue_number": 593,
+  "created_at": "2022-09-11T16:26:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/593"
+}

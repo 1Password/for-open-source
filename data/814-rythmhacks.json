@@ -1,0 +1,23 @@
+{
+  "account": "rythm-hacks.1password.com",
+  "project": {
+    "name": "RythmHacks",
+    "description": "RythmHacks is a high school, in-person, 36-hour hackathon that occurs annually in Waterloo, Ontario. This year, we brought together 100 innovative hackers from around the region to innovate, collaborate, and work on amazing projects. Fully not-for-profit, we're funded by sponsors, donors, and grants that make our event possible.",
+    "contributors": 14,
+    "home_url": "https://www.rythmhacks.ca",
+    "repo_url": "https://github.com/RythmHacks/rythmhacks.ca",
+    "license_type": "BSD-3 Clause",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jeffrey Zang",
+    "email": "business@rythmhacks.ca",
+    "role": "Lead Organizer",
+    "id": 66485719
+  },
+  "can_contact": false,
+  "issue_number": 814,
+  "created_at": "2023-09-18T20:48:23Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/814"
+}

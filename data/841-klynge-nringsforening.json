@@ -1,0 +1,23 @@
+{
+  "account": "klynge.1password.com",
+  "project": {
+    "name": "Klynge Næringsforening",
+    "description": "There are multiple projects that we work on.\n\n- We make a membership system, which is released. It is used in production for our non-profit organization.\n- We are working on an event management system where you can invite people to events and give access to the venues on current signups.\n\nKlynge is a non-profit organization working to improve welfare and quality of life; we do that through networking events, having people share their experiences, mentoring others and building relationships. Everything we build is released Open Source, most notably our membership system.",
+    "contributors": 5,
+    "home_url": "https://klyngeorg.no/",
+    "repo_url": "https://github.com/klyngeorg/studio",
+    "license_type": "Apache 2.0",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Simen A. W. Olsen",
+    "email": "simen@klyngeorg.no",
+    "role": "Chairman of the board",
+    "id": 3726815
+  },
+  "can_contact": true,
+  "issue_number": 841,
+  "created_at": "2023-11-06T07:47:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/841"
+}

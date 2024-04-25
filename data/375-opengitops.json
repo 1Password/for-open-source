@@ -1,0 +1,24 @@
+{
+  "account": "opengitops.1password.com",
+  "project": {
+    "name": "OpenGitOps",
+    "description": "OpenGitOps is a CNCF Sandbox project to define a vendor-neutral, principle-led meaning of GitOps. This will establish a foundation for interoperability between tools, conformance, and certification through lasting programs, documents, and code.",
+    "contributors": 6,
+    "home_url": "https://opengitops.dev/",
+    "repo_url": "https://github.com/open-gitops/project",
+    "license_type": "Content is licensed under the Creative Commons Attribution 4.0 License, and any code is licensed under the Apache 2.0 License.",
+    "license_url": "https://github.com/open-gitops/documents/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Scott Rigby",
+    "email": "scott@r6by.com",
+    "role": "Co-chair and co-maintainer",
+    "id": 407675
+  },
+  "can_contact": false,
+  "issue_number": 375,
+  "created_at": "2021-09-15T03:33:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/375"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "onefact.1password.com",
+  "project": {
+    "name": "One Fact Foundation",
+    "description": "Our mission is to change global health care with open source principles.",
+    "contributors": 10,
+    "home_url": "https://onefact.org",
+    "repo_url": "https://onefact.org/assisted-living/",
+    "license_type": "Apache 2.0",
+    "license_url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jaan Altosaar",
+    "email": "jaan@onefact.org",
+    "role": "CEO",
+    "id": 5317244
+  },
+  "can_contact": false,
+  "issue_number": 536,
+  "created_at": "2022-06-02T18:21:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/536"
+}

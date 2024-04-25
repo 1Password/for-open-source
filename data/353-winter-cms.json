@@ -1,0 +1,24 @@
+{
+  "account": "wintercms.1password.com",
+  "project": {
+    "name": "Winter CMS",
+    "description": "Winter CMS is a free, open-source content management system based on the Laravel PHP framework. Developers and agencies all around the world rely upon Winter CMS for its quick prototyping and development, safe and secure codebase and dedication to simplicity.",
+    "contributors": 4,
+    "home_url": "https://wintercms.com",
+    "repo_url": "https://github.com/wintercms/winter",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/wintercms/winter/blob/develop/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Ben Thomson",
+    "email": "git@alfreido.com",
+    "role": "Core Maintainer",
+    "id": 15900351
+  },
+  "can_contact": false,
+  "issue_number": 353,
+  "created_at": "2021-06-14T15:33:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/353"
+}

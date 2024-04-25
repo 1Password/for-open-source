@@ -1,0 +1,24 @@
+{
+  "account": "rsshub.1password.com",
+  "project": {
+    "name": "RSSHub",
+    "description": "RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything. RSSHub delivers millions of contents aggregated from all kinds of sources",
+    "contributors": 8,
+    "home_url": "https://docs.rsshub.app/en/",
+    "repo_url": "https://github.com/DIYgod/RSSHub",
+    "license_type": "MIT",
+    "license_url": "https://github.com/DIYgod/RSSHub/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "DIYgod",
+    "email": "i@diygod.me",
+    "role": "Owner and Core Developer",
+    "id": 8266075
+  },
+  "can_contact": false,
+  "issue_number": 284,
+  "created_at": "2021-01-12T16:38:17Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/284"
+}

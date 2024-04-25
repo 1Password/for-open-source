@@ -1,0 +1,24 @@
+{
+  "account": "cstyan.1password.com",
+  "project": {
+    "name": "Vancouver Go Meetup",
+    "description": "A meetup group in Vancouver Canada for the Go programming language",
+    "contributors": 4,
+    "home_url": "https://www.meetup.com/golangvan/",
+    "repo_url": "https://n/a",
+    "license_type": "n/a",
+    "license_url": "https://n/a",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Callum Styan",
+    "email": "callumstyan@gmail.com",
+    "role": "meetup organizer",
+    "id": 3246492
+  },
+  "can_contact": false,
+  "issue_number": 217,
+  "created_at": "2020-07-24T18:06:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/217"
+}

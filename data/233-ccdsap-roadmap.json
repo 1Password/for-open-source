@@ -1,0 +1,24 @@
+{
+  "account": "cdsaproadmap.1password.com",
+  "project": {
+    "name": "CCDSAP-Roadmap",
+    "description": "A roadmap to crack Codechef Certified Data Structure and Algorithms Programme.",
+    "contributors": 2,
+    "home_url": "https://",
+    "repo_url": "https://github.com/adeepak7/CCDSAP-Roadmap",
+    "license_type": "MIT",
+    "license_url": "https://github.com/adeepak7/CCDSAP-Roadmap/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Deepak Ahire",
+    "email": "ahiredeepak20@gmail.com",
+    "role": "Project Lead",
+    "id": 20664587
+  },
+  "can_contact": false,
+  "issue_number": 233,
+  "created_at": "2020-09-02T19:03:46Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/233"
+}

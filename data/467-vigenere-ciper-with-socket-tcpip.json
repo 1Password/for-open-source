@@ -1,0 +1,24 @@
+{
+  "account": "regthink.1password.com",
+  "project": {
+    "name": "Vigenere ciper with Socket TCP/IP",
+    "description": "An open-source project that uses the Vigenere algorithm to encrypt and decrypt community contributions",
+    "contributors": 2,
+    "home_url": "https://github.com/KhoaTC/Socket_Vigenere",
+    "repo_url": "https://github.com/KhoaTC/Socket_Vigenere",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/KhoaTC/Socket_Vigenere/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Khoaha",
+    "email": "khoaha3010@gmail.com",
+    "role": "Core Member",
+    "id": 86289441
+  },
+  "can_contact": false,
+  "issue_number": 467,
+  "created_at": "2022-02-28T16:05:53Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/467"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "team-metadocencia.1password.com",
+  "project": {
+    "name": "MetaDocencia",
+    "description": "We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.",
+    "contributors": 15,
+    "home_url": "https://www.metadocencia.org",
+    "repo_url": "https://github.com/MetaDocencia",
+    "license_type": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Elio Campitelli",
+    "email": "info@metadocencia.org",
+    "role": "Co-lead",
+    "id": 8617595
+  },
+  "can_contact": false,
+  "issue_number": 417,
+  "created_at": "2021-11-21T15:30:08Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/417"
+}

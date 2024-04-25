@@ -1,0 +1,24 @@
+{
+  "account": "voteabsenteevirginia.1password.com",
+  "project": {
+    "name": "eAbsentee",
+    "description": "eAbsentee is an open-source system used to request absentee ballots. eAbsentee is sponsored by Vote Absentee Virginia, a not-for-profit, non-partisan 501(c)4 organization established to help broaden voter access across all parties in Virginia.",
+    "contributors": 2,
+    "home_url": "https://eabsentee.org",
+    "repo_url": "https://github.com/eAbsentee/eAbsentee",
+    "license_type": "MIT",
+    "license_url": "https://github.com/eAbsentee/eAbsentee/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sumanth Ratna",
+    "email": "sumanth@eabsentee.org",
+    "role": "Director of Technology of Vote Absentee Virginia",
+    "id": 31281983
+  },
+  "can_contact": false,
+  "issue_number": 333,
+  "created_at": "2021-05-01T20:02:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/333"
+}

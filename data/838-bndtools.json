@@ -1,0 +1,24 @@
+{
+  "account": "bndtools.1password.com",
+  "project": {
+    "name": "Bndtools",
+    "description": "Creates tooling for OSGi based applications",
+    "contributors": 20,
+    "home_url": "https://bndtools.org",
+    "repo_url": "https://github.com/bndtools/bnd",
+    "license_type": "ASL 2.0, EPL 2.0",
+    "license_url": "https://github.com/bndtools/bnd/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Peter Kriens",
+    "email": "1password@aqute.biz",
+    "role": "Lead",
+    "id": 200494
+  },
+  "can_contact": true,
+  "issue_number": 838,
+  "created_at": "2023-10-31T10:30:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/838"
+}

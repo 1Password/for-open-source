@@ -1,0 +1,24 @@
+{
+  "account": "opensource-surgio.1password.com",
+  "project": {
+    "name": "Surgio",
+    "description": "A tool for easily managing proxy rules and endpoints.",
+    "contributors": 1,
+    "home_url": "https://surgio.js.org",
+    "repo_url": "https://github.com/surgioproject/surgio",
+    "license_type": "MIT",
+    "license_url": "https://github.com/surgioproject/surgio/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Roy Li",
+    "email": "me@royli.dev",
+    "role": "Creator",
+    "id": 3274850
+  },
+  "can_contact": false,
+  "issue_number": 666,
+  "created_at": "2023-01-19T14:44:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/666"
+}

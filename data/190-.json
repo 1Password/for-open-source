@@ -1,0 +1,21 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "",
+    "description": "",
+    "contributors": 0,
+    "home_url": "https://",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "John Doe",
+    "email": "example@example.com",
+    "role": "Developer",
+    "id": 38728523
+  },
+  "can_contact": false,
+  "issue_number": 190,
+  "created_at": "2020-03-23T13:02:11Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/190"
+}

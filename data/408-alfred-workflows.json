@@ -1,0 +1,24 @@
+{
+  "account": "alfredworkflows.1password.com",
+  "project": {
+    "name": "Alfred Workflows",
+    "description": "Labor duplication is physical work, so need to use tools to do automated treatment, saving lives.",
+    "contributors": 1,
+    "home_url": "https://github.com/alanhg/alfred-workflows",
+    "repo_url": "https://github.com/alanhg/alfred-workflows",
+    "license_type": "MIT",
+    "license_url": "https://github.com/alanhg/alfred-workflows/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Alan He",
+    "email": "alan@1991421.cn",
+    "role": "Owner \u0026 Contributor",
+    "id": 9245110
+  },
+  "can_contact": false,
+  "issue_number": 408,
+  "created_at": "2021-11-06T10:34:13Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/408"
+}

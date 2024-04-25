@@ -1,0 +1,24 @@
+{
+  "account": "sqitch.1password.com",
+  "project": {
+    "name": "Sqitch",
+    "description": "Sqitch is an Open Source database-native change management for framework-free development and dependable deployment.",
+    "contributors": 5,
+    "home_url": "https://sqitch.org",
+    "repo_url": "https://github.com/sqitchers/sqitch",
+    "license_type": "MIT",
+    "license_url": "https://github.com/sqitchers/sqitch/blob/develop/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "David Wheeler",
+    "email": "david@justatheory.com",
+    "role": "Maintainer",
+    "id": 46604
+  },
+  "can_contact": false,
+  "issue_number": 259,
+  "created_at": "2020-11-04T21:58:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/259"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "leptos.1password.com",
+  "project": {
+    "name": "Leptos",
+    "description": "Leptos is a Rust based frontend web framework built for the modern web.",
+    "contributors": 2,
+    "home_url": "https://leptos.dev",
+    "repo_url": "https://github.com/leptos-rs/leptos",
+    "license_type": "MIT",
+    "license_url": "https://github.com/leptos-rs/leptos/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Ben Wishovich",
+    "email": "ben@benw.is",
+    "role": "Lead Maintainer/Core Contributor",
+    "id": 6953353
+  },
+  "can_contact": true,
+  "issue_number": 881,
+  "created_at": "2024-01-15T07:43:53Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/881"
+}

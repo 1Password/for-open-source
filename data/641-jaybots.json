@@ -1,0 +1,24 @@
+{
+  "account": "jaybots.1password.com",
+  "project": {
+    "name": "Jaybots",
+    "description": "The Jaybots are a robotics team from John Jay High School that compete in the First Tech Challenge",
+    "contributors": 3,
+    "home_url": "https://jaybots.org/",
+    "repo_url": "https://github.com/RoboticsJay/jaybots-dashboard",
+    "license_type": "MIT",
+    "license_url": "https://github.com/RoboticsJay/jaybots-dashboard/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Nash Pillai",
+    "email": "nash.pillai@proton.me",
+    "role": "Code Leader",
+    "id": 47931961
+  },
+  "can_contact": false,
+  "issue_number": 641,
+  "created_at": "2022-12-08T22:52:01Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/641"
+}

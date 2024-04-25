@@ -1,0 +1,24 @@
+{
+  "account": "angelbotics.1password.com",
+  "project": {
+    "name": "Angelbotics",
+    "description": "In addition to open sourcing all of our CAD and Code, we also coordinate community outreach initiatives that align with our non-profit mission statement.",
+    "contributors": 5,
+    "home_url": "https://cad.onshape.com/documents/88b99c758855cbe7121ae77c/w/35167a1e331b7ee18e42ad0d/e/51cd4da46ced87498d951064",
+    "repo_url": "https://github.com/Angelbots1339/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Angelbots1339/2022OffseasonSwerve/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Arturo",
+    "email": "arturo.earle@angelbotics.org",
+    "role": "Mentor",
+    "id": 46168700
+  },
+  "can_contact": false,
+  "issue_number": 649,
+  "created_at": "2022-12-24T19:16:48Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/649"
+}

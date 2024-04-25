@@ -1,0 +1,24 @@
+{
+  "account": "teampinnacle.1password.com",
+  "project": {
+    "name": "Pinnacle",
+    "description": "Pinnacle is a 36-hour hackathon designed to offer a higher tier of competition above the collegiate hackathon scene. We partner with the top collegiate hackathons in the world and invite their winners to an ultimate, 36-hour event, coined as \"the Olympics of Hackathons.\" Our event entirely funded by third party sponsors and powered by our volunteer team members. Pinnacle is backed by Hack+, a 501c3 nonprofit organization that helps students launch businesses, nonprofits and events.",
+    "contributors": 22,
+    "home_url": "https://pinnacle.us.org",
+    "repo_url": "https://github.com/pinnacleusorg/pinnacle.us.org",
+    "license_type": "MIT",
+    "license_url": "https://github.com/pinnacleusorg/pinnacle.us.org/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Kendall Goto",
+    "email": "k@kgo.to",
+    "role": "Tech Director",
+    "id": 31294853
+  },
+  "can_contact": false,
+  "issue_number": 306,
+  "created_at": "2021-02-18T03:18:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/306"
+}

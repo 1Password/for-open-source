@@ -1,0 +1,24 @@
+{
+  "account": "Kuberhealthy.1password.com",
+  "project": {
+    "name": "Kuberhealthy",
+    "description": "A kubernetes operator for synthetic checks and monitoring.",
+    "contributors": 3,
+    "home_url": "https://kuberhealthy.com",
+    "repo_url": "https://github.com/kuberhealthy/kuberhealthy",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/kuberhealthy/kuberhealthy/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jonathan Phan",
+    "email": "itsjonnyguy@gmail.com",
+    "role": "Project maintainer / owner",
+    "id": 12464614
+  },
+  "can_contact": false,
+  "issue_number": 346,
+  "created_at": "2021-05-27T00:19:30Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/346"
+}

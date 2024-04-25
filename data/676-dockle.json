@@ -1,0 +1,24 @@
+{
+  "account": "dockle.1password.com",
+  "project": {
+    "name": "Dockle",
+    "description": "`Dockle` helps you:\n\n1. Build [Best Practice](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) Docker images\n2. Build secure Docker images\n    - Checkpoints includes [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)",
+    "contributors": 1,
+    "home_url": "https://github.com/goodwithtech/dockle",
+    "repo_url": "https://github.com/goodwithtech/dockle",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/goodwithtech/dockle/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Tomoya Amachi",
+    "email": "tomoya.amachi@goodwith.tech",
+    "role": "Author/Admin",
+    "id": 890517
+  },
+  "can_contact": false,
+  "issue_number": 676,
+  "created_at": "2023-02-01T14:38:07Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/676"
+}

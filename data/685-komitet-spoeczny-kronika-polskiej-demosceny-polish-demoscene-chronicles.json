@@ -1,0 +1,23 @@
+{
+  "account": "kskpd.1password.com",
+  "project": {
+    "name": "Komitet Społeczny Kronika Polskiej Demosceny (Polish Demoscene Chronicles)",
+    "description": "We have successfully enlisted polish demoscene as UNESCO's Intangible Cultural Heritage. We work closely with demoscene groups, cultural organizations, and researchers focusing on digital culture and art.",
+    "contributors": 5,
+    "home_url": "https://kskpd.pl",
+    "repo_url": "https://github.com/Kronika-Polskiej-Demosceny",
+    "license_type": "CC0-1.0, CC4.0",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Andrzej Lichnerowicz",
+    "email": "angelo@kskpd.pl",
+    "role": "Digital cultural heritage preservation",
+    "id": 155669
+  },
+  "can_contact": true,
+  "issue_number": 685,
+  "created_at": "2023-02-10T13:11:48Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/685"
+}

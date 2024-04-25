@@ -1,0 +1,24 @@
+{
+  "account": "web-scrobbler.1password.com",
+  "project": {
+    "name": "Web Scrobbler",
+    "description": "Web Scrobbler is a browser extension created for people who listen to music online through their browser, and would like to keep an updated playback history using scrobbling services, such as Last.fm, Libre.fm and ListenBrainz.",
+    "contributors": 4,
+    "home_url": "https://web-scrobbler.com/",
+    "repo_url": "https://github.com/web-scrobbler/web-scrobbler",
+    "license_type": "MIT",
+    "license_url": "https://github.com/web-scrobbler/web-scrobbler/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Malachi Soord",
+    "email": "inverse.chi@gmail.com",
+    "role": "One of the core developers who has been working with the project for around ~8 years or so.",
+    "id": 713525
+  },
+  "can_contact": false,
+  "issue_number": 604,
+  "created_at": "2022-09-25T19:44:39Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/604"
+}

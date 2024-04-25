@@ -1,0 +1,24 @@
+{
+  "account": "sundevilrocketry.1password.com",
+  "project": {
+    "name": "Sun Devil Rocketry",
+    "description": "We are a rocket propulsion research and development student organization at Arizona State University.",
+    "contributors": 15,
+    "home_url": "https://asurocket.org",
+    "repo_url": "https://github.com/SunDevilRocketry",
+    "license_type": "MIT",
+    "license_url": "https://github.com/SunDevilRocketry/polaris/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Caden Kriese",
+    "email": "ckriese@asu.edu",
+    "role": "An avionics team member, desktop software.",
+    "id": 13630061
+  },
+  "can_contact": false,
+  "issue_number": 662,
+  "created_at": "2023-01-15T00:51:55Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/662"
+}

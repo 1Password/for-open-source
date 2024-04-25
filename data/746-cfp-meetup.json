@@ -1,0 +1,23 @@
+{
+  "account": "phpcomrapadura.1password.com",
+  "project": {
+    "name": "CFP Meetup",
+    "description": "CFP do PHP com Rapadura\nMeetup do PHP com Rapadura",
+    "contributors": 4,
+    "home_url": "http://cfp.phpcomrapadura.org",
+    "repo_url": "https://github.com/PHPcomRapadura/cfp",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "William Correa",
+    "email": "phpcomrapadura@wilcorrea.dev",
+    "role": "Organizer",
+    "id": 803733
+  },
+  "can_contact": true,
+  "issue_number": 746,
+  "created_at": "2023-05-16T21:32:40Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/746"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "zeek-project.1password.com",
+  "project": {
+    "name": "Zeek",
+    "description": "Zeek is a powerful open source network security monitoring tool. It, by\ndefault, creates high-fidelity transaction logs about network traffic and\nis easily extendable with scripts to allow users to add their own logic.\n\nZeek is homed at the International Computer Science Institute in Berkeley, CA which is a 501(c)(3) nonprofit organization.",
+    "contributors": 20,
+    "home_url": "https://zeek.org",
+    "repo_url": "https://github.com/zeek/zeek",
+    "license_type": "BDS 3-clause",
+    "license_url": "https://github.com/zeek/zeek/blob/master/COPYING",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Johanna Amann",
+    "email": "johanna@icir.org",
+    "role": "Leadership Team Chair / Zeek mergemaster",
+    "id": 1538460
+  },
+  "can_contact": false,
+  "issue_number": 320,
+  "created_at": "2021-03-24T13:10:56Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/320"
+}

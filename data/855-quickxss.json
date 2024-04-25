@@ -1,0 +1,24 @@
+{
+  "account": "theinfosecguy.1password.com",
+  "project": {
+    "name": "QuickXSS",
+    "description": "",
+    "contributors": 3,
+    "home_url": "https://infosecwriteups.com/automating-xss-using-dalfox-gf-and-waybackurls-bc6de16a5c75",
+    "repo_url": "https://github.com/theinfosecguy/QuickXSS",
+    "license_type": "MIT",
+    "license_url": "https://github.com/theinfosecguy/QuickXSS/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Keshav Malik",
+    "email": "hello@theinfosecguy.xyz",
+    "role": "Owner",
+    "id": 33570148
+  },
+  "can_contact": true,
+  "issue_number": 855,
+  "created_at": "2023-11-29T17:42:47Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/855"
+}

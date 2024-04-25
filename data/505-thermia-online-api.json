@@ -1,0 +1,24 @@
+{
+  "account": "klejejs.1password.com",
+  "project": {
+    "name": "Thermia Online API",
+    "description": "Python API for connecting to Thermia heat pumps, fetching info, changing temperatures, and downloading historical data.",
+    "contributors": 1,
+    "home_url": "https://github.com/klejejs/python-thermia-online-api",
+    "repo_url": "https://github.com/klejejs/python-thermia-online-api",
+    "license_type": "GPL v3",
+    "license_url": "https://github.com/klejejs/python-thermia-online-api/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Krisjanis Lejejs",
+    "email": "krisjanis.lejejs@gmail.com",
+    "role": "Maintainer",
+    "id": 24546950
+  },
+  "can_contact": false,
+  "issue_number": 505,
+  "created_at": "2022-04-07T20:45:36Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/505"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "nabarun.1password.com",
+  "project": {
+    "name": "Python India",
+    "description": "Python India Maintainers",
+    "contributors": 10,
+    "home_url": "https://in.pycon.org/",
+    "repo_url": "https://github.com/pythonindia",
+    "license_type": "MIT, Apache 2.0, CC BY-NC-SA 4.0",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Nabarun Pal",
+    "email": "contact@in.pycon.org",
+    "role": "Technical Lead",
+    "id": 10010419
+  },
+  "can_contact": true,
+  "issue_number": 884,
+  "created_at": "2024-01-22T02:52:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/884"
+}

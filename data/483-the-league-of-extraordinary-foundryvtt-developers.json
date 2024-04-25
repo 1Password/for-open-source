@@ -1,0 +1,24 @@
+{
+  "account": "loefvttd.github.io",
+  "project": {
+    "name": "The League of Extraordinary FoundryVTT Developers",
+    "description": "We are a group of open source developers creating modules for Foundry Virtual Tabletop, providing community and mentorship for developers of all skill levels.",
+    "contributors": 19,
+    "home_url": "https://discord.gg/fvttdevleague",
+    "repo_url": "https://github.com/League-of-Foundry-Developers/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/League-of-Foundry-Developers/foundry-vtt-types/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Josh Olsen",
+    "email": "zeel02@gmail.com",
+    "role": "Discord Admin/Owner",
+    "id": 1721836
+  },
+  "can_contact": false,
+  "issue_number": 483,
+  "created_at": "2022-03-21T20:45:40Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/483"
+}

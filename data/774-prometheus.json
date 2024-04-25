@@ -1,0 +1,24 @@
+{
+  "account": "prometheusteam.1password.com",
+  "project": {
+    "name": "Prometheus",
+    "description": "Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts when specified conditions are observed.",
+    "contributors": 20,
+    "home_url": "https://prometheus.io",
+    "repo_url": "https://github.com/prometheus",
+    "license_type": "Apache-2",
+    "license_url": "https://github.com/prometheus/prometheus/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Julien Pivotto",
+    "email": "roidelapluie@prometheus.io",
+    "role": "Prometheus team member",
+    "id": 291750
+  },
+  "can_contact": true,
+  "issue_number": 774,
+  "created_at": "2023-06-26T09:53:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/774"
+}

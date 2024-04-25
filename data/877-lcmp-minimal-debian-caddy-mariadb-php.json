@@ -1,0 +1,23 @@
+{
+  "account": "bibicanet-team.1password.com",
+  "project": {
+    "name": "LCMP Minimal : Debian - Caddy - MariaDB - PHP",
+    "description": "LCMP (Linux + Caddy + MariaDB + PHP) is a bash script for the installation of Caddy2 + MariaDB + PHP and so on.",
+    "contributors": 1,
+    "home_url": "https://",
+    "repo_url": "https://github.com/bibicadotnet/LCMP-Minimal/",
+    "license_type": "GPLv3",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Hoang Thanh Binh",
+    "email": "support@bibica.net",
+    "role": "",
+    "id": 119997727
+  },
+  "can_contact": true,
+  "issue_number": 877,
+  "created_at": "2024-01-11T13:50:09Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/877"
+}

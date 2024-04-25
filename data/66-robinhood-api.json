@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "Robinhood API",
+    "description": "Get the most of Robinhood: accounts, positions, portfolio, buy and sell securities, etc.",
+    "contributors": 2,
+    "home_url": "https://rubygems.org/gems/robinhood-api",
+    "repo_url": "https://github.com/ThomasMarcel/robinhood-api",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ThomasMarcel/robinhood-api/blob/master/MIT-LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Thomas Alcala Schneider",
+    "email": "thomas.alcala@gmail.com",
+    "role": "Author, maintainer",
+    "id": 1779231
+  },
+  "can_contact": false,
+  "issue_number": 66,
+  "created_at": "2018-06-20T18:03:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/66"
+}

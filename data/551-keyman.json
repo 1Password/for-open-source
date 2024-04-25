@@ -1,0 +1,24 @@
+{
+  "account": "mcdurdin.1password.com",
+  "project": {
+    "name": "Keyman",
+    "description": "Keyman makes it possible for you to type in any language on Windows, macOS, Linux, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. Users can select from hundreds of keyboard layouts contributed by the Keyman user community, supporting over 2,000 different languages, or create their own with Keyman Developer and share them with the community in the [keyboards repository](https://github.com/keymanapp/keyboards).",
+    "contributors": 12,
+    "home_url": "https://keyman.com",
+    "repo_url": "https://github.com/keymanapp/keyman",
+    "license_type": "MIT",
+    "license_url": "https://github.com/keymanapp/keyman/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Marc Durdin",
+    "email": "marc@durdin.net",
+    "role": "Team Lead",
+    "id": 4498365
+  },
+  "can_contact": false,
+  "issue_number": 551,
+  "created_at": "2022-06-18T02:57:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/551"
+}

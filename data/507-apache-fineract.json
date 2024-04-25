@@ -1,0 +1,24 @@
+{
+  "account": "apachefineract.1password.com",
+  "project": {
+    "name": "Apache Fineract",
+    "description": "Apache Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 3 billion underbanked and unbanked. Fineract is aimed at innovative mobile and cloud-based solutions, and enables digital transaction accounts for all.\n\nFineract is the back-end platform and REST APIs which power the Mifos X mobile and web apps for customers and staff.",
+    "contributors": 15,
+    "home_url": "https://fineract.apache.org/",
+    "repo_url": "https://github.com/apache/fineract",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/apache/fineract/blob/develop/APACHE_LICENSETEXT.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Edward Cable",
+    "email": "edcable@apache.org",
+    "role": "Committer and PMC Member",
+    "id": 823454
+  },
+  "can_contact": false,
+  "issue_number": 507,
+  "created_at": "2022-04-11T23:59:15Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/507"
+}

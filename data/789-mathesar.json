@@ -1,0 +1,24 @@
+{
+  "account": "centerofci.1password.com",
+  "project": {
+    "name": "Mathesar",
+    "description": "Mathesar is an open source tool that provides a spreadsheet-like interface to a PostgreSQL database. Our web-based interface helps you and your collaborators work with data more independently and comfortably – no technical skills needed.\n\nYou can use Mathesar to build data models, enter data, and even build reports. You host your own Mathesar installation, which gives you ownership, privacy, and control of your data.",
+    "contributors": 8,
+    "home_url": "https://mathesar.org/",
+    "repo_url": "https://github.com/centerofci/mathesar",
+    "license_type": "GPLv3",
+    "license_url": "https://github.com/centerofci/mathesar/blob/develop/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kriti Godey",
+    "email": "kriti@centerofci.org",
+    "role": "Project lead",
+    "id": 287034
+  },
+  "can_contact": true,
+  "issue_number": 789,
+  "created_at": "2023-07-17T17:03:44Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/789"
+}

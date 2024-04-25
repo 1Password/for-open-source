@@ -1,0 +1,23 @@
+{
+  "account": "nodejs.1password.com",
+  "project": {
+    "name": "Node.js",
+    "description": "The JavaScript runtime. Powers much of the world's JavaScript tooling, either directly or indirectly.",
+    "contributors": 0,
+    "home_url": "https://nodejs.org",
+    "repo_url": "https://github.com/nodejs/node",
+    "license_type": "~MIT (we bundle things that are also permissively licensed)",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Tierney Cyren",
+    "email": "hello@bnb.im",
+    "role": "Node.js Community Committee Chariperson, member of various initiatives and WGs",
+    "id": 502396
+  },
+  "can_contact": false,
+  "issue_number": 207,
+  "created_at": "2020-06-23T17:02:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/207"
+}

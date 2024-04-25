@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "repository-settings",
+    "description": "Repository settings using configuration files",
+    "contributors": 2,
+    "home_url": "https://github.com/repository-settings",
+    "repo_url": "https://github.com/repository-settings/app",
+    "license_type": "ISC",
+    "license_url": "https://github.com/repository-settings/app/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Matt Travi",
+    "email": "1password+oss@travi.org",
+    "role": "maintainer",
+    "id": 126441
+  },
+  "can_contact": false,
+  "issue_number": 565,
+  "created_at": "2022-07-19T05:37:18Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/565"
+}

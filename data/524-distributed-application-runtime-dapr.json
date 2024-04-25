@@ -1,0 +1,24 @@
+{
+  "account": "msfussell.1password.com",
+  "project": {
+    "name": "Distributed Application Runtime (Dapr)",
+    "description": "Dapr is a portable, event-driven runtime that makes it easy for any developer to build resilient, stateless and stateful applications that run on the cloud and edge and embraces the diversity of languages and developer frameworks. Leveraging the benefits of a sidecar architecture, Dapr helps you tackle the challenges that come with building microservices and keeps your code platform agnostic.",
+    "contributors": 100,
+    "home_url": "https://dapr.io/",
+    "repo_url": "https://github.com/dapr",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/dapr/dapr/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Mark Fussell",
+    "email": "markfussell@gmail.com",
+    "role": "Project founder and maintainer. CEO of Diagrid",
+    "id": 11199644
+  },
+  "can_contact": false,
+  "issue_number": 524,
+  "created_at": "2022-05-13T05:44:03Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/524"
+}

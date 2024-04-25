@@ -1,0 +1,24 @@
+{
+  "account": "yocto.1password.com",
+  "project": {
+    "name": "Yocto Project",
+    "description": "We help developers create custom Linux-based systems regardless of hardware architecture.",
+    "contributors": 15,
+    "home_url": "https://www.yoctoproject.org/",
+    "repo_url": "https://git.yoctoproject.org/",
+    "license_type": "SPDX",
+    "license_url": "https://git.yoctoproject.org/poky/tree/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Michael Halstead",
+    "email": "mhalstead@linuxfoundation.org",
+    "role": "Infra Lead / SysOp Engineer",
+    "id": 143384
+  },
+  "can_contact": true,
+  "issue_number": 717,
+  "created_at": "2023-03-24T20:49:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/717"
+}

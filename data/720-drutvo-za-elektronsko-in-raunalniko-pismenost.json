@@ -1,0 +1,23 @@
+{
+  "account": "d-erp.1password.com",
+  "project": {
+    "name": "Društvo za elektronsko in računalniško pismenost",
+    "description": "We are a non profit working on multiple open source projects, focusing on using open data to allow people to make their life easier.",
+    "contributors": 6,
+    "home_url": "http://derp.si/",
+    "repo_url": "https://gitlab.com/derp-si/",
+    "license_type": "GPL and AGPL",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Anže Jenšterle",
+    "email": "anze@derp.si",
+    "role": "Project manager",
+    "id": 3154203
+  },
+  "can_contact": true,
+  "issue_number": 720,
+  "created_at": "2023-03-29T10:48:25Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/720"
+}

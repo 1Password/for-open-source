@@ -1,0 +1,24 @@
+{
+  "account": "monicahq.1password.com",
+  "project": {
+    "name": "Monica",
+    "description": "Monica is a personal CRM that lets you document your life.",
+    "contributors": 2,
+    "home_url": "https://monicahq.com",
+    "repo_url": "https://github.com/monicahq/monica",
+    "license_type": "A-GPL 3",
+    "license_url": "https://github.com/monicahq/monica/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Regis Freyd",
+    "email": "regis@monicahq.com",
+    "role": "Founder",
+    "id": 61099
+  },
+  "can_contact": false,
+  "issue_number": 643,
+  "created_at": "2022-12-13T17:11:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/643"
+}

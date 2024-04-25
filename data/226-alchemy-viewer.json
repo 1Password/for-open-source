@@ -1,0 +1,24 @@
+{
+  "account": "rye.1password.com",
+  "project": {
+    "name": "Alchemy Viewer",
+    "description": "Alchemy is a Second Life™ and OpenMetaverse compatible viewer striving to be at the forefront of stability, performance, and technological advancement in the open-source metaverse viewer field.",
+    "contributors": 8,
+    "home_url": "https://www.alchemyviewer.org",
+    "repo_url": "https://git.alchemyviewer.org/alchemy/alchemy",
+    "license_type": "LGPL 2.1",
+    "license_url": "https://git.alchemyviewer.org/alchemy/alchemy/-/blob/master/doc/LGPL-licence.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Rye",
+    "email": "rye@alchemyviewer.org",
+    "role": "Project founder and lead developer",
+    "id": 343176
+  },
+  "can_contact": false,
+  "issue_number": 226,
+  "created_at": "2020-08-11T06:55:23Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/226"
+}

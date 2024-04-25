@@ -1,0 +1,24 @@
+{
+  "account": "junitpioneer.1password.com",
+  "project": {
+    "name": "JUnit Pioneer",
+    "description": "JUnit Pioneer provides extensions for JUnit 5 and its Jupiter API. It does not limit itself to proven ideas with wide application but is purposely open to experiments. It aims to spin off successful and cohesive portions into sibling projects or back into the JUnit 5 code base.",
+    "contributors": 5,
+    "home_url": "https://junit-pioneer.org",
+    "repo_url": "https://github.com/junit-pioneer/junit-pioneer",
+    "license_type": "Eclipse Public License (EPL) 2.0",
+    "license_url": "https://github.com/junit-pioneer/junit-pioneer/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Daniel Kraus",
+    "email": "daniel.kraus@mailbox.org",
+    "role": "Maintainer",
+    "id": 11643714
+  },
+  "can_contact": false,
+  "issue_number": 415,
+  "created_at": "2021-11-17T22:10:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/415"
+}

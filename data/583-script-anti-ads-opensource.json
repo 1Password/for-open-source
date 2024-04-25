@@ -1,0 +1,24 @@
+{
+  "account": "vanteam.1password.com",
+  "project": {
+    "name": "Script Anti-Ads OpenSource",
+    "description": "Script Anti ads with shadowrocket",
+    "contributors": 1,
+    "home_url": "https://github.com/vnn7298/Script-Anti-Ads-OpenSource",
+    "repo_url": "https://github.com/vnn7298/Script-Anti-Ads-OpenSource",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/vnn7298/Script-Anti-Ads-OpenSource/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Van Nguyen",
+    "email": "vnsg7298@gmail.com",
+    "role": "Owner",
+    "id": 100334491
+  },
+  "can_contact": false,
+  "issue_number": 583,
+  "created_at": "2022-08-15T08:37:51Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/583"
+}

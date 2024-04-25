@@ -1,0 +1,24 @@
+{
+  "account": "jarod.1password.com",
+  "project": {
+    "name": "Jarod Working Group",
+    "description": "Collect and test various simplified scripts to facilitate development and test use",
+    "contributors": 1,
+    "home_url": "https://github.com/jarodvip/me",
+    "repo_url": "https://github.com/jarodvip/me",
+    "license_type": "MIT",
+    "license_url": "https://github.com/jarodvip/me/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jarod",
+    "email": "jarod.vip@qq.com",
+    "role": "Owner \u0026 Contributor",
+    "id": 12871436
+  },
+  "can_contact": false,
+  "issue_number": 425,
+  "created_at": "2021-11-30T09:31:01Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/425"
+}

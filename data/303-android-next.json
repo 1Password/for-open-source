@@ -1,0 +1,24 @@
+{
+  "account": "team-catcastleinc.1password.com",
+  "project": {
+    "name": "Android-Next",
+    "description": "A common utils library for Android development, include task and http components.",
+    "contributors": 3,
+    "home_url": "https://github.com/mcxiaoke/Android-Next",
+    "repo_url": "https://github.com/mcxiaoke/Android-Next",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/mcxiaoke/Android-Next/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Zhang Xiaoke",
+    "email": "github@mcxiaoke.com",
+    "role": "Main developer and Owner",
+    "id": 464330
+  },
+  "can_contact": false,
+  "issue_number": 303,
+  "created_at": "2021-02-09T08:14:15Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/303"
+}

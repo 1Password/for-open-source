@@ -1,0 +1,22 @@
+{
+  "account": "cloudnativeaustria.1password.com",
+  "project": {
+    "name": "Cloud Native Austria",
+    "description": "We are a group of people and Meet-Ups enthusiastic about cloud-native technologies. Our mission is to help people to learn, speak and guide them through the Austrian cloud-native landscape. Furthermore, we are helping to start up new events and meetups.",
+    "contributors": 3,
+    "home_url": "https://community.cncf.io/cloud-native-austria/",
+    "repo_url": "https://github.com/cloud-native-austria",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Thomas Schuetz",
+    "email": "thomas.schuetz@cloud-native.at",
+    "role": "Organizer / Co-Founder",
+    "id": 38893055
+  },
+  "can_contact": true,
+  "issue_number": 795,
+  "created_at": "2023-08-04T14:49:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/795"
+}

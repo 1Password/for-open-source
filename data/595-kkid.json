@@ -1,0 +1,24 @@
+{
+  "account": "kkid-app.1password.com",
+  "project": {
+    "name": "KKid",
+    "description": "KKid is an app for parents and their children to keep up with chores and allowance. With this app parents can create child accounts and add chores to their profile. Kids can then login and see their chores and mark them off each day. By turning on the allowance feature parents can add/subtract money from the kid's allowance account (this is a virtual \"account\" to show the kids how much allowance they have, no money is actually exchanged within the KKid app, think of it as a notebook) and the kids can view this when they login as well.",
+    "contributors": 2,
+    "home_url": "https://github.com/kumpeapps/KKid/tree/master#kkid",
+    "repo_url": "https://github.com/kumpeapps/KKid/tree/master#kkid",
+    "license_type": "LGPL-2.1 license",
+    "license_url": "https://github.com/kumpeapps/KKid/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Justin Kumpe",
+    "email": "jakumpe@kumpes.com",
+    "role": "Main Developer",
+    "id": 37677675
+  },
+  "can_contact": false,
+  "issue_number": 595,
+  "created_at": "2022-09-18T01:22:44Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/595"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "ran-dall.1password.com",
+  "project": {
+    "name": "Security Knowledge Framework (SKF)",
+    "description": "The OWASP Security Knowledge Framework is an open source web application that explains secure coding principles in multiple programming languages.",
+    "contributors": 8,
+    "home_url": "https://www.securityknowledgeframework.org/",
+    "repo_url": "https://github.com/blabla1337/skf-flask",
+    "license_type": "GNU Affero General Public License v3.0",
+    "license_url": "https://github.com/blabla1337/skf-flask/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Randall",
+    "email": "randall@securityknowledgeframework.org",
+    "role": "Lead Architect",
+    "id": 17261190
+  },
+  "can_contact": false,
+  "issue_number": 624,
+  "created_at": "2022-10-28T19:51:45Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/624"
+}

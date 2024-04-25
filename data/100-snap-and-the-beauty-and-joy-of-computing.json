@@ -1,0 +1,24 @@
+{
+  "account": "cspbjc.1password.com",
+  "project": {
+    "name": "Snap! and The Beauty and Joy of Computing",
+    "description": "Snap! and BJC are two \"sister\" projects which use 1Password to share secrets. Snap! is an educational programming language, designed to make it easy to explore deep topics in computer science. BJC, The Beauty and Joy of Computing, is an introductory computer science curriculum for high school and college students. Our BJC course also talks about the internet and we've even shown students how to use password managers. Of course, I always show them 1Password.",
+    "contributors": 12,
+    "home_url": "https://snap.berkeley.edu",
+    "repo_url": "https://github.com/jmoenig/Snap/releases",
+    "license_type": "GRL and AGPL",
+    "license_url": "https://github.com/jmoenig/Snap/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Michael Ball",
+    "email": "ball@berkeley.edu",
+    "role": "engineer, infrastructure guy, infosec guy",
+    "id": 1505907
+  },
+  "can_contact": false,
+  "issue_number": 100,
+  "created_at": "2019-02-05T18:33:22Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/100"
+}

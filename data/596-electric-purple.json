@@ -1,0 +1,24 @@
+{
+  "account": "reeceatkinson.1password.com",
+  "project": {
+    "name": "Electric Purple",
+    "description": "Electric Purple project",
+    "contributors": 2,
+    "home_url": "https://github.com/reeceatkinson/electricpurple",
+    "repo_url": "https://github.com/reeceatkinson/electricpurple",
+    "license_type": "MIT",
+    "license_url": "https://github.com/reeceatkinson/electricpurple",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Reece Atkinson",
+    "email": "hello@reeceatkinson.com",
+    "role": "",
+    "id": 78908925
+  },
+  "can_contact": false,
+  "issue_number": 596,
+  "created_at": "2022-09-19T12:37:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/596"
+}

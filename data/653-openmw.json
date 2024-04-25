@@ -1,0 +1,24 @@
+{
+  "account": "psi29a.1password.com",
+  "project": {
+    "name": "OpenMW",
+    "description": "OpenMW is a free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game The Elder Scrolls III: Morrowind. Like the Construction Set for the original Morrowind engine, OpenMW comes with its own editor, called OpenMW-CS, which allows the user to edit or create their own mods or original games.",
+    "contributors": 20,
+    "home_url": "https://openmw.org/",
+    "repo_url": "https://gitlab.com/OpenMW/openmw",
+    "license_type": "GPLv3",
+    "license_url": "https://gitlab.com/OpenMW/openmw/-/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Bret Curtis",
+    "email": "psi29a@gmail.com",
+    "role": "Project Lead",
+    "id": 1122069
+  },
+  "can_contact": false,
+  "issue_number": 653,
+  "created_at": "2023-01-03T22:11:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/653"
+}

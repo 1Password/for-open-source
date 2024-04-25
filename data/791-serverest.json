@@ -1,0 +1,24 @@
+{
+  "account": "paulogoncalvesbh.1password.com",
+  "project": {
+    "name": "ServeRest",
+    "description": "ServeRest is a small web-app project that provides a platform to be used by the Brazilian QA community when learning about test automation. The front end is used to practice E2E automation tests, and the API is used on integration and performance tests. It is a well-known platform in the BR QA community, extensively used for free courses, meetups, and talks.",
+    "contributors": 1,
+    "home_url": "https://serverest.dev/",
+    "repo_url": "https://github.com/serveRest/ServeRest/",
+    "license_type": "GPL-3.0",
+    "license_url": "https://github.com/ServeRest/ServeRest/blob/trunk/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Paulo Gonçalves",
+    "email": "1password.opensource.application@github.paulog.dev",
+    "role": "Author",
+    "id": 29241659
+  },
+  "can_contact": true,
+  "issue_number": 791,
+  "created_at": "2023-07-20T22:29:27Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/791"
+}

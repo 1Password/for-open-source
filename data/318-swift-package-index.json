@@ -1,0 +1,24 @@
+{
+  "account": "swiftpackageindex.1password.com",
+  "project": {
+    "name": "Swift Package Index",
+    "description": "An open-source search engine and quality index for Swift source-code packages.",
+    "contributors": 2,
+    "home_url": "https://swiftpackageindex.com",
+    "repo_url": "https://github.com/SwiftPackageIndex",
+    "license_type": "MIT",
+    "license_url": "https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Dave Verwer",
+    "email": "dave@verwerservices.com",
+    "role": "Co-founder",
+    "id": 5180
+  },
+  "can_contact": false,
+  "issue_number": 318,
+  "created_at": "2021-03-16T17:36:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/318"
+}

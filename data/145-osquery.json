@@ -1,0 +1,24 @@
+{
+  "account": "osquery-foundation.1password.com",
+  "project": {
+    "name": "osquery",
+    "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
+    "contributors": 6,
+    "home_url": "https://osquery.io",
+    "repo_url": "https://github.com/osquery/osquery",
+    "license_type": "Apache 2.0 or GPL 2.0",
+    "license_url": "https://github.com/osquery/osquery/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Teddy Reed",
+    "email": "teddy.reed@gmail.com",
+    "role": "Technical committee",
+    "id": 981645
+  },
+  "can_contact": false,
+  "issue_number": 145,
+  "created_at": "2019-07-10T01:42:46Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/145"
+}

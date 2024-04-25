@@ -1,0 +1,24 @@
+{
+  "account": "homeassistant.1password.com",
+  "project": {
+    "name": "Home Assistant",
+    "description": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.",
+    "contributors": 10,
+    "home_url": "https://www.home-assistant.io",
+    "repo_url": "https://github.com/home-assistant/home-assistant",
+    "license_type": "All code is Apache 2.0, documentation is Creative Commons",
+    "license_url": "https://www.home-assistant.io/developers/license/",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Robbie Trencheny",
+    "email": "me@robbiet.us",
+    "role": "Chief Infrastructure Engineer, mobile apps developer, community co-manager",
+    "id": 18516
+  },
+  "can_contact": false,
+  "issue_number": 118,
+  "created_at": "2019-04-02T01:30:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/118"
+}

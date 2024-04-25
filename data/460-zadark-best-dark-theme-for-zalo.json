@@ -1,0 +1,24 @@
+{
+  "account": "quaric.1password.com",
+  "project": {
+    "name": "ZaDark – Best Dark Theme for Zalo",
+    "description": "ZaDark is an open source extension that helps you enable Dark Mode for Zalo on PC and Browser.",
+    "contributors": 1,
+    "home_url": "https://zadark.ncdaistudio.com",
+    "repo_url": "https://github.com/ncdai3651408/za-dark",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ncdai3651408/za-dark/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nguyen Chanh Dai",
+    "email": "ncdai3651408@gmail.com",
+    "role": "Founder and Developer",
+    "id": 10192821
+  },
+  "can_contact": false,
+  "issue_number": 460,
+  "created_at": "2022-02-21T11:37:00Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/460"
+}

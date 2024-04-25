@@ -1,0 +1,23 @@
+{
+  "account": "appium.1password.com",
+  "project": {
+    "name": "Appium",
+    "description": "An open-source tool for automating native, mobile web, and hybrid applications on iOS mobile, Android mobile, and Windows desktop platforms",
+    "contributors": 5,
+    "home_url": "https://appium.io",
+    "repo_url": "https://github.com/appium/appium",
+    "license_type": "Apache license v2.0",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Daniel Graham",
+    "email": "dan@saucelabs.com",
+    "role": "Core Contributor",
+    "id": 852574
+  },
+  "can_contact": false,
+  "issue_number": 165,
+  "created_at": "2019-10-23T04:22:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/165"
+}

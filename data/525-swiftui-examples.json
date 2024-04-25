@@ -1,0 +1,24 @@
+{
+  "account": "quinniedev.1password.com",
+  "project": {
+    "name": "SwiftUI Examples",
+    "description": "SwiftUI Examples is a repository that aims to host and update swift and swiftUI projects that iOS developers can use to learn the language.",
+    "contributors": 2,
+    "home_url": "https://N/A as of yet",
+    "repo_url": "https://github.com/quintenbuwalda/SwiftUI-Examples",
+    "license_type": "GPL v3.0",
+    "license_url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Quinten Buwalda",
+    "email": "quintenbuwalda@gmail.com",
+    "role": "Creator/ Lead",
+    "id": 43630480
+  },
+  "can_contact": false,
+  "issue_number": 525,
+  "created_at": "2022-05-16T04:19:48Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/525"
+}

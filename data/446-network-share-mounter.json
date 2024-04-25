@@ -1,0 +1,24 @@
+{
+  "account": "faumac.1password.eu",
+  "project": {
+    "name": "Network Share Mounter",
+    "description": "macOS utility to automatically mount user or MDM defined SMB shares if network resources are available. it's a little bit like Unix' automounter",
+    "contributors": 3,
+    "home_url": "https://gitlab.rrze.fau.de/faumac/networkShareMounter",
+    "repo_url": "https://gitlab.rrze.fau.de/faumac/networkShareMounter",
+    "license_type": "MIT",
+    "license_url": "https://gitlab.rrze.fau.de/faumac/networkShareMounter/-/blob/dev/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Gregor Longariva",
+    "email": "Gregor.longariva@fau.de",
+    "role": "Team Lead, Developer",
+    "id": 54946851
+  },
+  "can_contact": false,
+  "issue_number": 446,
+  "created_at": "2022-01-26T16:13:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/446"
+}

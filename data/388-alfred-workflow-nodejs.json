@@ -1,0 +1,24 @@
+{
+  "account": "alfredworkflownodejs.1password.com",
+  "project": {
+    "name": "Alfred Workflow Nodejs",
+    "description": "A nodejs library to build Alfred workflows",
+    "contributors": 2,
+    "home_url": "https://github.com/giangvo/alfred-workflow-nodejs",
+    "repo_url": "https://github.com/giangvo/alfred-workflow-nodejs",
+    "license_type": "MIT",
+    "license_url": "https://github.com/giangvo/alfred-workflow-nodejs/blob/master/license",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Giang Vo",
+    "email": "giangvo@outlook.com",
+    "role": "Owner",
+    "id": 5787934
+  },
+  "can_contact": false,
+  "issue_number": 388,
+  "created_at": "2021-10-07T05:16:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/388"
+}

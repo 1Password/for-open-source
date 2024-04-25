@@ -1,0 +1,22 @@
+{
+  "account": "apachecordova.1password.com",
+  "project": {
+    "name": "Apache Cordova",
+    "description": "An open-source mobile development framework that allows developers to use standard web technologies (HTML5, CSS3, and JavaScript) for cross-platform development.",
+    "contributors": 99,
+    "home_url": "https://cordova.apache.org/",
+    "license_type": "Apache-2.0",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Bryan Ellis",
+    "email": "erisu@apache.org",
+    "role": "VP, Project Chair, Apache Cordova",
+    "id": 1029107
+  },
+  "can_contact": true,
+  "issue_number": 926,
+  "created_at": "2024-03-27T05:33:25Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/926"
+}

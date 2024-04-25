@@ -1,0 +1,24 @@
+{
+  "account": "fervid.1password.com",
+  "project": {
+    "name": "secure_linux_cis",
+    "description": "Implement Linux controls defined in the Center for Internet Security (CIS) benchmarks",
+    "contributors": 3,
+    "home_url": "https://forge.puppet.com/modules/fervid/secure_linux_cis",
+    "repo_url": "https://github.com/fervidus/secure_linux_cis",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/fervidus/secure_linux_cis/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Paul Talbot",
+    "email": "paul@fervid.us",
+    "role": "Author/Maintainer",
+    "id": 5679338
+  },
+  "can_contact": false,
+  "issue_number": 431,
+  "created_at": "2021-12-10T13:03:22Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/431"
+}

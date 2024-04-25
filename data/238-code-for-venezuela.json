@@ -1,0 +1,24 @@
+{
+  "account": "codeforvenezuela.1password.com",
+  "project": {
+    "name": "Code For Venezuela",
+    "description": "Code for Venezuela is a non-profit organization dedicated to bringing together technologists and innovators who care about Venezuela leveraging their talent and network to solve the most pressing needs of the country.",
+    "contributors": 24,
+    "home_url": "https://www.codeforvenezuela.org/",
+    "repo_url": "https://gitlab.com/codeforvenezuela/angostura/covidvzlabot",
+    "license_type": "MIT",
+    "license_url": "https://gitlab.com/codeforvenezuela/angostura/covidvzlabot/-/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jose Montes de Oca",
+    "email": "jose@codeforvenezuela.org",
+    "role": "core member, board of directors",
+    "id": 762541
+  },
+  "can_contact": false,
+  "issue_number": 238,
+  "created_at": "2020-09-19T19:58:28Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/238"
+}

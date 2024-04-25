@@ -1,0 +1,24 @@
+{
+  "account": "chariz.1password.com",
+  "project": {
+    "name": "Chariz",
+    "description": "The team behind Hashbang Productions, an organization with many different open-source projects for the iOS jailbreaking community.",
+    "contributors": 5,
+    "home_url": "https://hbang.github.io/libcephei/",
+    "repo_url": "https://github.com/hbang/libcephei",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/hbang/libcephei/blob/main/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Aarnav Tale",
+    "email": "tale@chariz.com",
+    "role": "Maintainer",
+    "id": 46133336
+  },
+  "can_contact": true,
+  "issue_number": 764,
+  "created_at": "2023-06-01T18:00:11Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/764"
+}

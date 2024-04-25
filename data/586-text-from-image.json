@@ -1,0 +1,24 @@
+{
+  "account": "haixy.1password.com",
+  "project": {
+    "name": "Text From Image",
+    "description": "Convert text in screenshot image to text with python",
+    "contributors": 2,
+    "home_url": "https://github.com/vuhai16/textfromimage",
+    "repo_url": "https://github.com/vuhai16/textfromimage",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/vuhai16/textfromimage/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Vu Hai",
+    "email": "vuhai16@outlook.com",
+    "role": "Developer",
+    "id": 111326034
+  },
+  "can_contact": false,
+  "issue_number": 586,
+  "created_at": "2022-08-16T01:29:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/586"
+}

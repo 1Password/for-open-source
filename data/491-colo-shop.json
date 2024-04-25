@@ -1,0 +1,23 @@
+{
+  "account": "Dust07.1password.com",
+  "project": {
+    "name": "Colo Shop",
+    "description": "Colo Shop is a shopping site that was built by an retired professinal LoL gamer and a guy who study Japanese Major at university. We both self-study our way to learn how to code, and now we are trying to build a website from scratch. We are still updating the site, it is only used to showcase our ability, completely non-commercial.",
+    "contributors": 2,
+    "home_url": "https://style-ecommerce-prod.vercel.app/",
+    "repo_url": "https://github.com/StevenOng97/Ecommerce-Frontend",
+    "license_type": "Doesnt have one, we only use this project to showcase our skill, it is completely non-commercial.",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Le Tran Tien Phat",
+    "email": "tienphat0707@gmail.com",
+    "role": "Front-end Dev",
+    "id": 95992159
+  },
+  "can_contact": false,
+  "issue_number": 491,
+  "created_at": "2022-03-29T15:19:39Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/491"
+}

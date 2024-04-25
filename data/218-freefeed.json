@@ -1,0 +1,24 @@
+{
+  "account": "freefeed.1password.com",
+  "project": {
+    "name": "FreeFeed",
+    "description": "FreeFeed is a social network that enables you to discover and discuss the interesting stuff your friends find on the web.",
+    "contributors": 5,
+    "home_url": "https://freefeed.net/about",
+    "repo_url": "https://github.com/FreeFeed",
+    "license_type": "MIT",
+    "license_url": "https://github.com/FreeFeed/freefeed-server/blob/stable/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Dmitry Sumin",
+    "email": "md@freefeed.net",
+    "role": "Managing Director of FreeFeed MTU Non Profit",
+    "id": 2417937
+  },
+  "can_contact": false,
+  "issue_number": 218,
+  "created_at": "2020-07-27T15:19:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/218"
+}

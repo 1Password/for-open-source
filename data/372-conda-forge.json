@@ -1,0 +1,24 @@
+{
+  "account": "conda-forge.1password.com",
+  "project": {
+    "name": "conda-forge",
+    "description": "A community led collection of recipes, build infrastructure and distributions for the conda package manager.",
+    "contributors": 26,
+    "home_url": "https://conda-forge.org/",
+    "repo_url": "https://github.com/conda-forge",
+    "license_type": "BSD-3-Clause",
+    "license_url": "https://github.com/conda-forge/conda-smithy/blob/master/conda_smithy/feedstock_content/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Chris Burr",
+    "email": "christopher.burr@cern.ch",
+    "role": "A member of the 'core' team",
+    "id": 5220533
+  },
+  "can_contact": false,
+  "issue_number": 372,
+  "created_at": "2021-09-01T15:05:53Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/372"
+}

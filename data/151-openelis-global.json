@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "OpenELIS Global",
+    "description": "OpenELIS is an open-source laboratory information system that supports the entire laboratory workflow, including the pre-analytical, analytical, and post-analytical phases. Meaning patient demographic data; laboratory order details; technical requirements and validations for the laboratory tests and analyses; and clinical and lab performance reports. It is installed in 83 labs in Cots d'Ivoire, many labs in Haiti and widely as part of the Bahmni hospital system for low resource settings.",
+    "contributors": 15,
+    "home_url": "https://openelisglobal.org",
+    "repo_url": "https://github.com/openelisglobal/openelisglobal-core",
+    "license_type": "Mozilla Public License, version 2.0",
+    "license_url": "https://github.com/openelisglobal/openelisglobal-core/blob/develop/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Casey Iiams-Hauser",
+    "email": "caseyi@uw.edu",
+    "role": "OpenSource Product Owner",
+    "id": 5084220
+  },
+  "can_contact": false,
+  "issue_number": 151,
+  "created_at": "2019-07-30T00:23:44Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/151"
+}

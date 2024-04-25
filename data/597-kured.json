@@ -1,0 +1,24 @@
+{
+  "account": "kured.1password.com",
+  "project": {
+    "name": "Kured",
+    "description": "Kured (KUbernetes REboot Daemon) is a Kubernetes daemonset that performs safe automatic node reboots when the need to do so is indicated by the package management system of the underlying OS.",
+    "contributors": 5,
+    "home_url": "https://github.com/kubereboot",
+    "repo_url": "https://github.com/kubereboot/kured",
+    "license_type": "Apache 2",
+    "license_url": "https://github.com/kubereboot/kured/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Daniel Holbach",
+    "email": "daniel@weave.works",
+    "role": "Maintainer and Community Manager",
+    "id": 1346979
+  },
+  "can_contact": false,
+  "issue_number": 597,
+  "created_at": "2022-09-20T09:48:25Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/597"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "pyladies.1password.com",
+  "project": {
+    "name": "PyLadies",
+    "description": "We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.\n\nPyLadies also aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!",
+    "contributors": 58,
+    "home_url": "https://pyladies.com/",
+    "repo_url": "https://github.com/pyladies",
+    "license_type": "MIT",
+    "license_url": "https://github.com/pyladies/pyladies/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Bethany Garcia",
+    "email": "bethany@pyladies.com",
+    "role": "Member of the global council and member of the tech/infra workgroup.",
+    "id": 5923094
+  },
+  "can_contact": true,
+  "issue_number": 803,
+  "created_at": "2023-08-17T19:18:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/803"
+}

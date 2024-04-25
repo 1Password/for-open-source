@@ -1,0 +1,24 @@
+{
+  "account": "ososystem.1password.com",
+  "project": {
+    "name": "OSOSystem",
+    "description": "OSOSystem is a free and open source locating system platform open for different kind of devices. The backend is written in Kotlin with the Spring Framework. Apps are written in React Native. Website with Jekyll.",
+    "contributors": 3,
+    "home_url": "https://ososystem.de/",
+    "repo_url": "https://github.com/OSOSystem",
+    "license_type": "Apache-2.0",
+    "license_url": "https://github.com/OSOSystem/oso-backend/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Pierre Jack Wilken",
+    "email": "kontakt@pierrewilken.de",
+    "role": "Currently student and freelancer, next role will be DevOps Architect after my studies in a few months.",
+    "id": 34198662
+  },
+  "can_contact": false,
+  "issue_number": 99,
+  "created_at": "2019-02-04T10:39:29Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/99"
+}

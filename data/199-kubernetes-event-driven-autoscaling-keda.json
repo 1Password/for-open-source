@@ -1,0 +1,24 @@
+{
+  "account": "cncf-keda.1password.com",
+  "project": {
+    "name": "Kubernetes Event-driven Autoscaling (KEDA)",
+    "description": "KEDA is a Kubernetes-based event-driven autoscaler. KEDA determines how any container in Kubernetes should be scaled based on the number of events that need to be processed.\n\nKEDA is a single-purpose and lightweight component that can be added to any Kubernetes cluster. It works alongside standard Kubernetes components like the Horizontal Pod Autoscaler and can extend functionality without overwriting or duplication. With KEDA you can specify the that apps you want to scale in an event-driven way while other apps continue to function. This makes KEDA a flexible and safe option to run alongside other Kubernetes applications and frameworks.",
+    "contributors": 59,
+    "home_url": "https://keda.sh/",
+    "repo_url": "https://github.com/kedacore",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/kedacore/keda/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Tom Kerkhove",
+    "email": "kerkhove.tom@gmail.com",
+    "role": "Maintainer",
+    "id": 4345663
+  },
+  "can_contact": false,
+  "issue_number": 199,
+  "created_at": "2020-05-05T11:36:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/199"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "finos.1password.com",
+  "project": {
+    "name": "FINOS",
+    "description": "The Fintech Open Source Foundation (FINOS) is an independent 501(c)(6) nonprofit organization - part of the Linux Foundation - whose purpose is to accelerate collaboration and innovation in financial services through the adoption of open source software, standards and best practices.",
+    "contributors": 400,
+    "home_url": "https://finos.org",
+    "repo_url": "https://github.com/finos",
+    "license_type": "Apache 2.0 License",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Maurizio (maoo) Pillitu",
+    "email": "maoo@finos.org",
+    "role": "CTO",
+    "id": 327285
+  },
+  "can_contact": true,
+  "issue_number": 693,
+  "created_at": "2023-02-23T17:22:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/693"
+}

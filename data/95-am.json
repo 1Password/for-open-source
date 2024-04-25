@@ -1,0 +1,24 @@
+{
+  "account": "bottleneckco.1password.com",
+  "project": {
+    "name": "AM",
+    "description": "AM is an open-source web client for Apple Music, built with React and MusicKit JS.",
+    "contributors": 2,
+    "home_url": "https://am.netlify.com/",
+    "repo_url": "https://github.com/bottleneckco/am",
+    "license_type": "MIT",
+    "license_url": "https://github.com/bottleneckco/am/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Duncan Leo",
+    "email": "hello@duncanleo.me",
+    "role": "Lead developer",
+    "id": 7417870
+  },
+  "can_contact": false,
+  "issue_number": 95,
+  "created_at": "2018-12-14T03:05:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/95"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "code4romania.1password.com",
+  "project": {
+    "name": "Code for Romania",
+    "description": "Code for Romania, a non-governmental organization in Romania, is the largest civic technology organization in the world, with a community of over 3000 volunteers. The organization's mission: to help solve as many social problems as possible through digital technology.",
+    "contributors": 35,
+    "home_url": "https://www.code4.ro",
+    "repo_url": "https://github.com/code4romania",
+    "license_type": "MPL-2.0",
+    "license_url": "https://github.com/code4romania/website-factory/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Andrei Ioniță",
+    "email": "andrei.ionita@code4.ro",
+    "role": "Chief Technology Officer",
+    "id": 1569300
+  },
+  "can_contact": true,
+  "issue_number": 893,
+  "created_at": "2024-02-16T09:23:19Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/893"
+}

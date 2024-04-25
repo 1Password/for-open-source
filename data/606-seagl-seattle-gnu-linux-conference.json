@@ -1,0 +1,24 @@
+{
+  "account": "seagl.1password.com",
+  "project": {
+    "name": "SeaGL - Seattle GNU Linux Conference",
+    "description": "SeaGL is an annual GNU Linux conference held either in person, virtual or hybrid.",
+    "contributors": 10,
+    "home_url": "https://seagl.org",
+    "repo_url": "https://github.com/SeaGL",
+    "license_type": "GPL v3",
+    "license_url": "https://github.com/SeaGL/seagl.github.io/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Don O'Neill",
+    "email": "sntxrr@seagl.org",
+    "role": "Tech/SRE committee co-chair. I take care of a lot of the technical behind-the-scenes things. Infrastructure for streaming, video uploads etc.",
+    "id": 1489440
+  },
+  "can_contact": false,
+  "issue_number": 606,
+  "created_at": "2022-09-29T01:37:05Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/606"
+}

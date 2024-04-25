@@ -1,0 +1,24 @@
+{
+  "account": "MERL-Center-public.1password.com",
+  "project": {
+    "name": "MERL Center",
+    "description": "The monitoring, evaluation, research and learning (MERL) Center is a community creating resources about the intersection of MERL and open source, data science and human-centered design, for people of any technology capacity.",
+    "contributors": 15,
+    "home_url": "https://merlcenter.org",
+    "repo_url": "https://github.com/MERLTech/MERL-Center-public",
+    "license_type": "MIT license",
+    "license_url": "https://github.com/MERLTech/MERL-Center-public/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Bonnie Wolfe",
+    "email": "bonniewolfe@github.com",
+    "role": "Open Source Community Manager",
+    "id": 107153148
+  },
+  "can_contact": false,
+  "issue_number": 627,
+  "created_at": "2022-11-01T22:32:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/627"
+}

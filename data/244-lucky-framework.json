@@ -1,0 +1,23 @@
+{
+  "account": "luckyframework.1password.com",
+  "project": {
+    "name": "Lucky Framework",
+    "description": "Lucky is a web framework written in Crystal. It helps you work quickly, catch bugs at compile time, and deliver blazing fast responses",
+    "contributors": 3,
+    "home_url": "https://luckyframework.org",
+    "repo_url": "https://github.com/luckyframework/lucky",
+    "license_type": "MIT",
+    "license_url": "https://github.com/luckyframework/lucky/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Paul Smith",
+    "role": "Creator/maintainer",
+    "id": 22394
+  },
+  "can_contact": false,
+  "issue_number": 244,
+  "created_at": "2020-10-13T15:23:27Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/244"
+}

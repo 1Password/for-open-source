@@ -1,0 +1,24 @@
+{
+  "account": "iam-oss.1password.com",
+  "project": {
+    "name": "IAM (Identity and Access Management System)",
+    "description": "Identity and Access Management based on Api-Platform and Symfony Framework.",
+    "contributors": 2,
+    "home_url": "https://gitlab.com/dadangnh/iam",
+    "repo_url": "https://gitlab.com/dadangnh/iam",
+    "license_type": "GPLv3",
+    "license_url": "https://gitlab.com/dadangnh/iam/-/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Dadang NH",
+    "email": "email@dadangnh.com",
+    "role": "Core Maintainer",
+    "id": 9269195
+  },
+  "can_contact": false,
+  "issue_number": 638,
+  "created_at": "2022-12-07T23:54:41Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/638"
+}

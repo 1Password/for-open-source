@@ -1,0 +1,24 @@
+{
+  "account": "eldwarf.1password.com",
+  "project": {
+    "name": "TuringMaSim",
+    "description": "Is a simple turing machine simulator in python.",
+    "contributors": 1,
+    "home_url": "https://github.com/ElDwarf/TuringMaSim",
+    "repo_url": "https://github.com/ElDwarf/TuringMaSim",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/ElDwarf/TuringMaSim/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Pablo Dalmasso",
+    "email": "pablodalmasso@gmail.com",
+    "role": "Project Leader",
+    "id": 1637910
+  },
+  "can_contact": false,
+  "issue_number": 231,
+  "created_at": "2020-08-25T14:36:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/231"
+}

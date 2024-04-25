@@ -1,0 +1,24 @@
+{
+  "account": "climatemind.1password.com",
+  "project": {
+    "name": "Climate Mind",
+    "description": "Powering climate conversations. It can be a real challenge to communicate the realities of climate change to people around you, especially those who have different values and personal interests. Often, people don’t realize actionable solutions already exist that don’t require an overhaul of their personality or beliefs. The [Climate Mind web app](https://climatemind.org) is a tool that makes meaningful conversations about climate change easier.",
+    "contributors": 25,
+    "home_url": "https://climatemind.org/",
+    "repo_url": "https://github.com/orgs/ClimateMind/",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ClimateMind/climatemind-backend/blob/develop/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kameron Rodrigues",
+    "email": "kameronr@email.arizona.edu",
+    "role": "Founder",
+    "id": 19840874
+  },
+  "can_contact": false,
+  "issue_number": 548,
+  "created_at": "2022-06-14T19:29:32Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/548"
+}

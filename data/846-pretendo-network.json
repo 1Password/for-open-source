@@ -1,0 +1,23 @@
+{
+  "account": "pretendonetwork.1password.com",
+  "project": {
+    "name": "Pretendo Network",
+    "description": "Pretendo is a free and open source replacement for the game, and related, servers used by the Wii U and 3DS family of consoles",
+    "contributors": 20,
+    "home_url": "https://pretendo.network/",
+    "repo_url": "https://github.com/PretendoNetwork/",
+    "license_type": "AGPL and GPL",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jonathan Barrow",
+    "email": "jonbarrow1998@gmail.com",
+    "role": "Founder and lead developer",
+    "id": 27011796
+  },
+  "can_contact": true,
+  "issue_number": 846,
+  "created_at": "2023-11-16T16:27:58Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/846"
+}

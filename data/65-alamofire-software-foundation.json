@@ -1,0 +1,24 @@
+{
+  "account": "alamofiresf.1password.com",
+  "project": {
+    "name": "Alamofire Software Foundation",
+    "description": "Alamofire",
+    "contributors": 2,
+    "home_url": "https://alamofire.org",
+    "repo_url": "https://github.com/Alamofire/Alamofire",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Alamofire/Alamofire/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Jon Shier",
+    "email": "jon@jonshier.com",
+    "role": "Treasurer, Developer",
+    "id": 51020
+  },
+  "can_contact": false,
+  "issue_number": 65,
+  "created_at": "2018-06-15T02:54:07Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/65"
+}

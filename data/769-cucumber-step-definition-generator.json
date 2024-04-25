@@ -1,0 +1,23 @@
+{
+  "account": "1nguyenngoclong.1password.com",
+  "project": {
+    "name": "Cucumber Step Definition Generator",
+    "description": "This extension is designed to help developers using the testing framework with Gherkin style feature files to generate step definition more easily and efficiently. With just a few clicks, you can automatically generate step definition for your feature files, saving you time and reducing the risk of errors.",
+    "contributors": 2,
+    "home_url": "https://github.com/nguyenngoclongdev/step-definition-generator",
+    "repo_url": "https://github.com/nguyenngoclongdev/step-definition-generator",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nguyen Ngoc Long",
+    "email": "nguyenngoclong@live.com",
+    "role": "Leader",
+    "id": 43560378
+  },
+  "can_contact": true,
+  "issue_number": 769,
+  "created_at": "2023-06-13T01:41:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/769"
+}

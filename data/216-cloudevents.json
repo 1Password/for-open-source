@@ -1,0 +1,24 @@
+{
+  "account": "cloudevents.1password.com",
+  "project": {
+    "name": "CloudEvents",
+    "description": "A CNCF standard for defining how to add well-defined metadata to events for interop and automated tooling.",
+    "contributors": 10,
+    "home_url": "https://cloudevents.io",
+    "repo_url": "https://github.com/cloudevents/spec",
+    "license_type": "Apache II",
+    "license_url": "https://github.com/cloudevents/spec/blob/v1.0/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Doug Davis",
+    "email": "duglin@yahoo.com",
+    "role": "co-chair",
+    "id": 1944671
+  },
+  "can_contact": false,
+  "issue_number": 216,
+  "created_at": "2020-07-10T01:39:02Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/216"
+}

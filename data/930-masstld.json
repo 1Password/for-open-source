@@ -1,0 +1,24 @@
+{
+  "account": "itsnicecraft.1password.eu",
+  "project": {
+    "name": "masstld",
+    "description": "https://github.com/ItsNiceCraft/masstld",
+    "contributors": 2,
+    "home_url": "https://github.com/ItsNiceCraft/masstld",
+    "repo_url": "https://github.com/ItsNiceCraft/masstld",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ItsNiceCraft/masstld/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "ItsNiceCraft",
+    "email": "itsnicecraft@protonmail.com",
+    "role": "Project lead",
+    "id": 74358857
+  },
+  "can_contact": true,
+  "issue_number": 930,
+  "created_at": "2024-04-03T13:05:17Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/930"
+}

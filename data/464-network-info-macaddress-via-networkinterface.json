@@ -1,0 +1,24 @@
+{
+  "account": "vnn7298.1password.com",
+  "project": {
+    "name": "Network info - MacAddress via NetworkInterface",
+    "description": "Open-source check info network, mac Address details. Java implemented",
+    "contributors": 1,
+    "home_url": "https://github.com/vnn7298/Info_Network",
+    "repo_url": "https://github.com/vnn7298/Info_Network",
+    "license_type": "MIT License",
+    "license_url": "https://github.com/vnn7298/Info_Network/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Van Nguyen Nam",
+    "email": "vnn7298@gmail.com",
+    "role": "Owner",
+    "id": 100334491
+  },
+  "can_contact": false,
+  "issue_number": 464,
+  "created_at": "2022-02-25T14:33:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/464"
+}

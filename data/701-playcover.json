@@ -1,0 +1,23 @@
+{
+  "account": "playcover.1password.com",
+  "project": {
+    "name": "PlayCover",
+    "description": "PlayCover allows you to run iOS apps and games on Apple Silicon Macs with mouse, keyboard, and controller support.",
+    "contributors": 15,
+    "home_url": "https://playcover.io",
+    "repo_url": "https://github.com/PlayCover/PlayCover",
+    "license_type": "GPL-3.0",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Robin",
+    "email": "roeegh@playcover.io",
+    "role": "Owner",
+    "id": 10137
+  },
+  "can_contact": true,
+  "issue_number": 701,
+  "created_at": "2023-03-06T23:49:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/701"
+}

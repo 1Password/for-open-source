@@ -1,0 +1,24 @@
+{
+  "account": "lineageos.1password.com",
+  "project": {
+    "name": "LineageOS",
+    "description": "LineageOS is an open source android distribution that supports a few hundred android devices, ranging from smartphones to set top boxes.",
+    "contributors": 200,
+    "home_url": "https://lineageos.org",
+    "repo_url": "https://github.com/lineageos",
+    "license_type": "Mix of GPL, Apache 2.0, and MIT",
+    "license_url": "https://github.com/LineageOS/www/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Tom Powell",
+    "email": "zifnab@lineageos.org",
+    "role": "Project Lead/Infra Team Lead",
+    "id": 283805
+  },
+  "can_contact": true,
+  "issue_number": 864,
+  "created_at": "2024-01-01T23:03:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/864"
+}

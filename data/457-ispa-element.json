@@ -1,0 +1,24 @@
+{
+  "account": "ispateam.1password.com",
+  "project": {
+    "name": "iSPA Element",
+    "description": "A Component Library for VueJs (Vue 3) base on Tailwind Css support Dark Mode.",
+    "contributors": 1,
+    "home_url": "https://element.ispa.io",
+    "repo_url": "https://github.com/iSPA-io/ispa-element",
+    "license_type": "MIT",
+    "license_url": "https://github.com/iSPA-io/ispa-element/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nguyen Minh Vuong",
+    "email": "Malayvuong@gmail.com",
+    "role": "Owner",
+    "id": 13240975
+  },
+  "can_contact": false,
+  "issue_number": 457,
+  "created_at": "2022-02-20T09:31:03Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/457"
+}

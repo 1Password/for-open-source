@@ -1,0 +1,24 @@
+{
+  "account": "codebar.1password.com",
+  "project": {
+    "name": "codebar",
+    "description": "codebar is an non-profit organization that runs regular programming workshops for underrepresented groups in tech (people of color, ethnic minorities, women, LGBTQIA+, persons with disabilities). We started in London 4.5 years ago and have expanded to have workshops happening in 17 cities around the world. We develop and maintain an open source application used to manage workshops and events. We also write and maintain our own tutorials that are open-source as well: anyone from the community or outside of it can contribute to them.",
+    "contributors": 40,
+    "home_url": "https://codebar.io/",
+    "repo_url": "https://github.com/codebar/planner",
+    "license_type": "App: MIT, Tutorials: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)",
+    "license_url": "https://github.com/codebar/planner/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kriszta Matyi",
+    "email": "matyi.kriszta@gmail.com",
+    "role": "Director and core maintainer of web application",
+    "id": 5873816
+  },
+  "can_contact": false,
+  "issue_number": 73,
+  "created_at": "2018-07-27T22:55:33Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/73"
+}

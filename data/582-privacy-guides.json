@@ -1,0 +1,24 @@
+{
+  "account": "privacyguides.1password.com",
+  "project": {
+    "name": "Privacy Guides",
+    "description": "We are a community-created online resource which provides information on data security and privacy.",
+    "contributors": 4,
+    "home_url": "https://www.privacyguides.org",
+    "repo_url": "https://github.com/privacyguides/privacyguides.org",
+    "license_type": "CC0",
+    "license_url": "https://github.com/privacyguides/privacyguides.org/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Jonah",
+    "email": "jonah@privacyguides.org",
+    "role": "Lead Maintainer",
+    "id": 3637842
+  },
+  "can_contact": false,
+  "issue_number": 582,
+  "created_at": "2022-08-11T20:20:05Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/582"
+}

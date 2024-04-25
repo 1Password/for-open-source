@@ -1,0 +1,24 @@
+{
+  "account": "dragonwocky.1password.com",
+  "project": {
+    "name": "notion-enhancer",
+    "description": "an enhancer/customiser for the all-in-one productivity workspace notion.so",
+    "contributors": 6,
+    "home_url": "https://notion-enhancer.github.io/",
+    "repo_url": "https://github.com/notion-enhancer/desktop",
+    "license_type": "MIT",
+    "license_url": "https://notion-enhancer.github.io/about/terms-and-conditions/",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Tom",
+    "email": "thedragonring.bod@gmail.com",
+    "role": "Primary developer/maintainer",
+    "id": 16874139
+  },
+  "can_contact": false,
+  "issue_number": 445,
+  "created_at": "2022-01-26T08:30:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/445"
+}

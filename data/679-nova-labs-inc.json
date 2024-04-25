@@ -1,0 +1,22 @@
+{
+  "account": "jamesdressel.1password.com",
+  "project": {
+    "name": "Nova Labs, Inc.",
+    "description": "Nova Labs, Inc. is a 501(c)(3) nonprofit organization, EIN 45-3796580.",
+    "contributors": -1,
+    "home_url": "https://www.nova-labs.org/whatwedo",
+    "repo_url": "https://github.com/orgs/nova-labs/repositories?q=\u0026type=all\u0026language=\u0026sort=stargazers",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "James Dressel",
+    "email": "james@dressel.net",
+    "role": "Key Member",
+    "id": 127485
+  },
+  "can_contact": false,
+  "issue_number": 679,
+  "created_at": "2023-02-03T21:03:19Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/679"
+}

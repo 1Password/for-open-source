@@ -1,0 +1,24 @@
+{
+  "account": "pylight.1password.com",
+  "project": {
+    "name": "PyLight",
+    "description": "PyLight is a beginner-friendly Python meetup. On our meetings we focus on thorough explanation of programming foundations, showing different approaches in problem solving, and exploring different branches of the IT world. Our meetings take place once a month and always include practical tasks apart from lectures.",
+    "contributors": 8,
+    "home_url": "https://www.pylight.org",
+    "repo_url": "https://github.com/PyLightMeetup",
+    "license_type": "MIT",
+    "license_url": "https://github.com/PyLightMeetup/11-siedlarek-sedlakjakubowski-git-wprowadzenie/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Marcin Sedlak-Jakubowski",
+    "email": "fdmarcin@gmail.com",
+    "role": "Co-organizer, master of ceremony",
+    "id": 25668969
+  },
+  "can_contact": false,
+  "issue_number": 115,
+  "created_at": "2019-03-16T13:35:07Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/115"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "stefan.sofa-rockers.1password.com",
+  "project": {
+    "name": "Typed Settings",
+    "description": "Safe and flexible settings in Python: Structure and validate your settings with attrs classes and load them from any source (e.g., env vars, config files, CLI options, 1Password, …).",
+    "contributors": 2,
+    "home_url": "https://typed-settings.readthedocs.io",
+    "repo_url": "https://gitlab.com/sscherfke/typed-settings",
+    "license_type": "MIT",
+    "license_url": "https://gitlab.com/sscherfke/typed-settings/-/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Stefan Scherfke",
+    "email": "stefan+typed-settings@sofa-rockers.org",
+    "role": "Author and Maintainer",
+    "id": 511179
+  },
+  "can_contact": false,
+  "issue_number": 503,
+  "created_at": "2022-04-06T18:59:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/503"
+}

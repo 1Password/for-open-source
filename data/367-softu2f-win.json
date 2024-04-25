@@ -1,0 +1,24 @@
+{
+  "account": "watfaq.1password.com",
+  "project": {
+    "name": "SoftU2F-Win",
+    "description": "Software U2F authenticator for Windows",
+    "contributors": 2,
+    "home_url": "https://github.com/SoftU2F/SoftU2F-Win",
+    "repo_url": "https://github.com/SoftU2F/SoftU2F-Win",
+    "license_type": "The Unlicense",
+    "license_url": "https://github.com/SoftU2F/SoftU2F-Win/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Yuwei Ba",
+    "email": "i@xiaoba.me",
+    "role": "Core Creator/Maintainer",
+    "id": 543405
+  },
+  "can_contact": false,
+  "issue_number": 367,
+  "created_at": "2021-08-14T15:02:11Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/367"
+}

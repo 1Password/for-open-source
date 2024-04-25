@@ -1,0 +1,24 @@
+{
+  "account": "open-ssf.1password.com",
+  "project": {
+    "name": "OpenSSF",
+    "description": "The OpenSSF is a cross-industry collaboration that brings together leaders to improve the security of open source software (OSS) by building an expert community, targeted initiatives, and best practices.\nOpenSSF serves as the cross-industry focal point for securing investment and resources to improve open source software supply chain security for all.",
+    "contributors": 70,
+    "home_url": "https://openssf.org",
+    "repo_url": "https://github.com/orgs/ossf/repositories",
+    "license_type": "varies by subproject, Apache",
+    "license_url": "https://github.com/ossf/foundation/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Khahil White",
+    "email": "kwhite@linuxfoundation.org",
+    "role": "Program Manager",
+    "id": 13685690
+  },
+  "can_contact": false,
+  "issue_number": 575,
+  "created_at": "2022-08-02T21:28:13Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/575"
+}

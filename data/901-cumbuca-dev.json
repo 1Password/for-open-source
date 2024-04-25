@@ -1,0 +1,23 @@
+{
+  "account": "cumbucadev.1password.com",
+  "project": {
+    "name": "Cumbuca Dev",
+    "description": "We empower underrepresented minorities in tech through comprehensive open-source courses, fostering diversity and equal opportunities.",
+    "contributors": 2,
+    "home_url": "https://www.cumbuca.dev/",
+    "repo_url": "https://github.com/cumbucadev",
+    "license_url": "https://github.com/cumbucadev/contributions/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Maria Antônia Maia",
+    "email": "cumbucadev@gmail.com",
+    "role": "Core Developer / Co-founder",
+    "id": 109252406
+  },
+  "can_contact": false,
+  "issue_number": 901,
+  "created_at": "2024-03-05T15:37:14Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/901"
+}

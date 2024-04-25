@@ -1,0 +1,24 @@
+{
+  "account": "huedung.1password.com",
+  "project": {
+    "name": "eBay Script",
+    "description": "eBay tool help your team update price and push to google sheet easy!",
+    "contributors": 1,
+    "home_url": "https://github.com/DungSherlock/eBay",
+    "repo_url": "https://github.com/DungSherlock/eBay",
+    "license_type": "MIT",
+    "license_url": "https://github.com/DungSherlock/eBay/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Đặng Quang Dũng",
+    "email": "dungsherlock@gmail.com",
+    "role": "Founder and Developer",
+    "id": 8205595
+  },
+  "can_contact": false,
+  "issue_number": 463,
+  "created_at": "2022-02-24T11:36:17Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/463"
+}

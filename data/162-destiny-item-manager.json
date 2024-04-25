@@ -1,0 +1,24 @@
+{
+  "account": "destinyitemmanager.1password.com",
+  "project": {
+    "name": "Destiny Item Manager",
+    "description": "Tool to manage items and gear that is acquired in the video game Destiny, created by Bungie",
+    "contributors": 8,
+    "home_url": "https://destinyitemmanager.com",
+    "repo_url": "https://github.com/DestinyItemManager/DIM",
+    "license_type": "MIT",
+    "license_url": "https://github.com/DestinyItemManager/DIM/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Kyle Shay",
+    "email": "kyle.shay@ymail.com",
+    "role": "Admin",
+    "id": 424158
+  },
+  "can_contact": false,
+  "issue_number": 162,
+  "created_at": "2019-10-04T21:09:07Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/162"
+}

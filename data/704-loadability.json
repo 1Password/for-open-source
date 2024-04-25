@@ -1,0 +1,24 @@
+{
+  "account": "julianschiavo.1password.com",
+  "project": {
+    "name": "Loadability",
+    "description": "Loadability offers an advanced networking and caching library for Swift hat allows you to effortlessly implement a custom networking and/or caching stack in your app, with native support for Combine and SwiftUI.",
+    "contributors": 2,
+    "home_url": "https://github.com/julianschiavo/Loadability",
+    "repo_url": "https://github.com/julianschiavo/Loadability",
+    "license_type": "MIT",
+    "license_url": "https://github.com/julianschiavo/Loadability/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Julian Schiavo",
+    "email": "julian_schiavo@icloud.com",
+    "role": "Owner",
+    "id": 19729335
+  },
+  "can_contact": true,
+  "issue_number": 704,
+  "created_at": "2023-03-09T22:32:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/704"
+}

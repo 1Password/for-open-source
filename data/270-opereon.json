@@ -1,0 +1,24 @@
+{
+  "account": "opereon.1password.com",
+  "project": {
+    "name": "Opereon",
+    "description": "Opereon is an easy to use and powerful tool for IT automation, designed with power users in mind. It performs most of the difficult heavy lifting, while giving the user absolute control of what exactly happens in the managed infrastructure.",
+    "contributors": 4,
+    "home_url": "https://opereon.io/",
+    "repo_url": "https://github.com/opereon/opereon",
+    "license_type": "Apache License, Version 2.0 and MIT",
+    "license_url": "https://github.com/opereon/opereon#license",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Przemysław Sztoch",
+    "email": "przemyslaw@sztoch.pl",
+    "role": "New developer in project",
+    "id": 4523167
+  },
+  "can_contact": false,
+  "issue_number": 270,
+  "created_at": "2020-12-05T22:52:31Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/270"
+}

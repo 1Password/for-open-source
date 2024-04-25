@@ -1,0 +1,24 @@
+{
+  "account": "s3253645.1password.com",
+  "project": {
+    "name": "Groovy Asana API",
+    "description": "A project to effortlessly access and interact with Asana's project management platform using the Asana API. It provides a convenient and flexible solution for task creation, updates, deletions, project management, task assignments, and task comments. With authentication support and error-handling mechanisms, this project streamlines workflow automation and enhances collaboration within Asana.",
+    "contributors": 1,
+    "home_url": "https://github.com/Vijay-Duke/Groovy-Asana-Api",
+    "repo_url": "https://github.com/Vijay-Duke/Groovy-Asana-Api",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Vijay-Duke/Groovy-Asana-Api/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Vijay Iyengar",
+    "email": "Mail@VijayIyengar.com",
+    "role": "Core Contributor",
+    "id": 2405107
+  },
+  "can_contact": true,
+  "issue_number": 750,
+  "created_at": "2023-05-18T04:12:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/750"
+}

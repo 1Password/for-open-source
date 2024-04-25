@@ -1,0 +1,24 @@
+{
+  "account": "opens.1password.com",
+  "project": {
+    "name": "SNEP",
+    "description": "SNEP is a Brazilian Free Software-based PBX that meets the needs of any size of business, with features that make communication more free, flexible and intelligent. Snep has a GPLv2 license and all its code is in https://bitbucket.org/snepdev/snep-3 and your download can be done in https://sourceforge.net/projects/snep/.  Web Interface to manage asterisk and more.",
+    "contributors": 4,
+    "home_url": "https://snep.com.br",
+    "repo_url": "https://sourceforge.net/projects/snep/",
+    "license_type": "GPL",
+    "license_url": "https://bitbucket.org/snepdev/snep-3/src/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Daian Conrad",
+    "email": "daian.conrad@gmail.com",
+    "role": "Open Source",
+    "id": 1767387
+  },
+  "can_contact": false,
+  "issue_number": 83,
+  "created_at": "2018-10-08T20:47:26Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/83"
+}

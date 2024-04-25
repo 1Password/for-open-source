@@ -1,0 +1,24 @@
+{
+  "account": "opentelemetry.1password.com",
+  "project": {
+    "name": "OpenTelemetry",
+    "description": "An observability framework for cloud-native software.",
+    "contributors": 50,
+    "home_url": "https://opentelemetry.io/",
+    "repo_url": "https://github.com/open-telemetry/opentelemetry-python/",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/open-telemetry/opentelemetry-python/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Alex Boten",
+    "email": "aboten@lightstep.com",
+    "role": "maintainer",
+    "id": 223565
+  },
+  "can_contact": false,
+  "issue_number": 364,
+  "created_at": "2021-07-29T16:27:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/364"
+}

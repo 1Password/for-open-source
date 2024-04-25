@@ -1,0 +1,24 @@
+{
+  "account": "penphy.1password.com",
+  "project": {
+    "name": "SMS - Student Management Software by 18120113@FIT.HCMUS",
+    "description": "SMS is written in Java and uses Swing/Hibernate/MySQL. The software helps teachers manage timetables, class lists, subject lists,... and helps students look up their grades.",
+    "contributors": 1,
+    "home_url": "https://github.com/ncdai3651408/ltudjava-summer2020-hibernate",
+    "repo_url": "https://github.com/ncdai3651408/ltudjava-summer2020-hibernate",
+    "license_type": "MIT",
+    "license_url": "https://github.com/ncdai3651408/ltudjava-summer2020-hibernate/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Nguyen Chanh Dai",
+    "email": "ncdai@ncdaistudio.com",
+    "role": "Founder \u0026\u0026 Developer",
+    "id": 10192821
+  },
+  "can_contact": false,
+  "issue_number": 568,
+  "created_at": "2022-07-21T04:00:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/568"
+}

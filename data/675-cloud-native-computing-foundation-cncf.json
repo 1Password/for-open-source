@@ -1,0 +1,24 @@
+{
+  "account": "twaggoner.1password.com",
+  "project": {
+    "name": "Cloud Native Computing Foundation (CNCF)",
+    "description": "CNCF is the open source, vendor-neutral hub of cloud native computing",
+    "contributors": 20,
+    "home_url": "https://www.cncf.io/",
+    "repo_url": "https://github.com/cncf",
+    "license_type": "Apache 2.0",
+    "license_url": "https://github.com/cncf/landscape/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Taylor Waggoner",
+    "email": "twaggoner@linuxfoundation.org",
+    "role": "Program Manager",
+    "id": 34756611
+  },
+  "can_contact": false,
+  "issue_number": 675,
+  "created_at": "2023-01-31T19:36:44Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/675"
+}

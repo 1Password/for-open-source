@@ -1,0 +1,24 @@
+{
+  "account": "chewitt.1password.com",
+  "project": {
+    "name": "LibreELEC",
+    "description": "LibreELEC is 'Just Enough OS for Kodi' - a minimalist Linux distro focussed on running Kodi media player.",
+    "contributors": 8,
+    "home_url": "https://libreelec.tv",
+    "repo_url": "https://github.com/LibreELEC/LibreELEC.tv",
+    "license_type": "GPLv2",
+    "license_url": "https://github.com/LibreELEC/LibreELEC.tv/blob/master/README.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Christian Hewitt",
+    "email": "chewitt@libreelec.tv",
+    "role": "Team Coordinator and Sysadmin",
+    "id": 251794
+  },
+  "can_contact": false,
+  "issue_number": 854,
+  "created_at": "2023-11-28T06:57:01Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/854"
+}

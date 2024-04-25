@@ -1,0 +1,24 @@
+{
+  "account": "falcosecurity.1password.com",
+  "project": {
+    "name": "Falco",
+    "description": "An Open Source Cloud-Native runtime security project that makes it easy to trigger alerts based on kernel events enriched with information from Kubernetes and the rest of the cloud native stack.",
+    "contributors": 6,
+    "home_url": "https://falco.org",
+    "repo_url": "https://github.com/falcosecurity/falco",
+    "license_type": "Apache 2",
+    "license_url": "https://github.com/falcosecurity/falco/blob/master/COPYING",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Lorenzo Fontana",
+    "email": "lo@linux.com",
+    "role": "Maintainer",
+    "id": 3083633
+  },
+  "can_contact": false,
+  "issue_number": 241,
+  "created_at": "2020-10-01T16:35:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/241"
+}

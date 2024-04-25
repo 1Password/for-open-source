@@ -1,0 +1,23 @@
+{
+  "account": "eksffa.1password.com",
+  "project": {
+    "name": "FUG-BR (FreeBSD Brasilian Users Group)",
+    "description": "Since 1999 A FreeBSD Users, developers and contributors groups focused on increasing the adoption of FreeBSD in Brazil, supporting the users, conferences and code: FreeBSD Ports Collections applications and the FreeBSD Brazilian Portuguese documentation project, with periodic conferences and user meetings online and in-person.",
+    "contributors": 30,
+    "home_url": "http://www.fug.com.br",
+    "repo_url": "https://github.com/freebsd/freebsd-doc",
+    "license_type": "BSD",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Patrick Tracanelli",
+    "email": "eksffa@bsd.com.br",
+    "role": "Founder / Contributor / Infra-structure sysadmin and sysops (old school)",
+    "id": 11878913
+  },
+  "can_contact": true,
+  "issue_number": 734,
+  "created_at": "2023-04-28T21:34:40Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/734"
+}

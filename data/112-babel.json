@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "Babel",
+    "description": "Babel is a compiler which makes it possible to transform \"modern\" (ES2019+ and proposals) code down to ES5, allowing developers to easily support old browsers.\r\nAlso, it allows people to use plugins to make all the custom transformations they want to their code.\r\n",
+    "contributors": 6,
+    "home_url": "https://babeljs.io/",
+    "repo_url": "https://github.com/babel/babel",
+    "license_type": "MIT",
+    "license_url": "https://github.com/babel/babel/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Nicolò Ribaudo",
+    "email": "nicolo.ribaudo@gmail.com",
+    "role": "Core Maintainer",
+    "id": 7000710
+  },
+  "can_contact": false,
+  "issue_number": 112,
+  "created_at": "2019-03-12T20:48:34Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/112"
+}

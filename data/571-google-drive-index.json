@@ -1,0 +1,24 @@
+{
+  "account": "hashhackers.1password.com",
+  "project": {
+    "name": "Google Drive Index",
+    "description": "GDI is a Beautiful Index Software, which lists your Google Drive Folders and Files on HTTP with UI and allows proxy downloading of content with or without authentication. It is secure and easy.",
+    "contributors": 10,
+    "home_url": "https://gdi.js.org",
+    "repo_url": "https://gitlab.com/GoogleDriveIndex/Google-Drive-Index",
+    "license_type": "MIT",
+    "license_url": "https://gitlab.com/GoogleDriveIndex/Google-Drive-Index/-/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Parveen Kumar",
+    "email": "admin@hashhackers.com",
+    "role": "Founder and Core Member of Project",
+    "id": 87309724
+  },
+  "can_contact": false,
+  "issue_number": 571,
+  "created_at": "2022-07-28T16:24:13Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/571"
+}

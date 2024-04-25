@@ -1,0 +1,24 @@
+{
+  "account": "shirshakopensource.1password.com",
+  "project": {
+    "name": "Rust Book in PDF",
+    "description": "Generates pdf automatically",
+    "contributors": 2,
+    "home_url": "https://shirshakopensource.1password.com",
+    "repo_url": "https://github.com/shirshak55/rust-Book-In-PDF",
+    "license_type": "MIT",
+    "license_url": "https://github.com/shirshak55/Rust-Book-In-PDF/blob/release-2022-08-16/LICENCE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Shirshak Bajgain",
+    "email": "shirshak55@gmail.com",
+    "role": "developer",
+    "id": 8097377
+  },
+  "can_contact": false,
+  "issue_number": 587,
+  "created_at": "2022-08-16T22:56:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/587"
+}

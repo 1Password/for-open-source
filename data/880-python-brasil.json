@@ -1,0 +1,23 @@
+{
+  "account": "pythonbrasil.1password.com",
+  "project": {
+    "name": "Python Brasil",
+    "description": "Python Brasil is the largest Python programming language conference in South America. Each year, the event is hosted in a different city in Brazil and is entirely organized by volunteers from the local community.\n\nWe are a non-profit event organized by the community for the community. Our dedicated team comprises volunteers who generously donate their free time to develop the Python ecosystem further.",
+    "contributors": 5,
+    "home_url": "https://pythonbrasil.org.br/",
+    "repo_url": "https://github.com/pythonbrasil",
+    "license_type": "MIT",
+    "is_event": true,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Maria Fernanda Souza",
+    "email": "tecnologia@python.org.br",
+    "role": "Organizer and Technology Director",
+    "id": 21251472
+  },
+  "can_contact": false,
+  "issue_number": 880,
+  "created_at": "2024-01-13T21:34:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/880"
+}

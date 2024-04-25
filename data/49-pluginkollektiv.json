@@ -1,0 +1,24 @@
+{
+  "account": "pluginkollektiv.1password.com",
+  "project": {
+    "name": "Pluginkollektiv",
+    "description": "Community project dedicated to the maintenance and continuous development several popular WordPress plugins.",
+    "contributors": 13,
+    "home_url": "https://pluginkollektiv.org",
+    "repo_url": "http://github.com/pluginkollektiv/antispam-bee/",
+    "license_type": "GPLv2",
+    "license_url": "https://github.com/pluginkollektiv/antispam-bee/blob/master/LICENSE.txt",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Simon Kraft",
+    "email": "simon@pluginkollektiv.org",
+    "role": "Core contributor/maintainer",
+    "id": 1038789
+  },
+  "can_contact": false,
+  "issue_number": 49,
+  "created_at": "2018-04-26T12:49:15Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/49"
+}

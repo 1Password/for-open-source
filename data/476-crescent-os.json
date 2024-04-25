@@ -1,0 +1,24 @@
+{
+  "account": "crescentos.1password.com",
+  "project": {
+    "name": "Crescent OS",
+    "description": "The next generation Muslim friendly open source operating system based on the Linux kernel. It is built by Muslim developers, but built for everyone.",
+    "contributors": 3,
+    "home_url": "https://crescent-os.xyz",
+    "repo_url": "https://github.com/crescent-os",
+    "license_type": "MIT",
+    "license_url": "https://github.com/crescent-os/.github/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Rafid Al Haque",
+    "email": "rafidalhaque@crescent-os.xyz",
+    "role": "Core Developer \u0026 CEO",
+    "id": 68812773
+  },
+  "can_contact": false,
+  "issue_number": 476,
+  "created_at": "2022-03-12T15:52:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/476"
+}

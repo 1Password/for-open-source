@@ -1,0 +1,24 @@
+{
+  "account": "europythonsociety.1password.com",
+  "project": {
+    "name": "EuroPython Society",
+    "description": "The EuroPython Society (EPS) is a Swedish non-profit organization which organizes EuroPython conferences and supports the Python community in Europe.",
+    "contributors": 9,
+    "home_url": "https://www.europython-society.org/",
+    "repo_url": "https://github.com/EuroPython/epcon",
+    "license_type": "BSD 2-Clause License",
+    "license_url": "https://github.com/EuroPython/epcon/blob/ep2021/LICENSE.bsd",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Silvia Uberti",
+    "email": "silvia@europython.eu",
+    "role": "Board member",
+    "id": 16258850
+  },
+  "can_contact": false,
+  "issue_number": 395,
+  "created_at": "2021-11-01T16:17:10Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/395"
+}

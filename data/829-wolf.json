@@ -1,0 +1,24 @@
+{
+  "account": "igeeky.1password.com",
+  "project": {
+    "name": "Wolf",
+    "description": "Wolf is a universal Role-Based Access Control (RBAC) system, designed to provide unified authorization and access control for all HTTP applications.",
+    "contributors": 2,
+    "home_url": "https://github.com/iGeeky/wolf",
+    "repo_url": "https://github.com/iGeeky/wolf",
+    "license_type": "MIT",
+    "license_url": "https://github.com/iGeeky/wolf/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "fork lu",
+    "email": "igeeky.io@gmail.com",
+    "role": "",
+    "id": 57409417
+  },
+  "can_contact": true,
+  "issue_number": 829,
+  "created_at": "2023-10-07T14:36:21Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/829"
+}

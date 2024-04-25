@@ -1,0 +1,24 @@
+{
+  "account": "okiemgrafika.1password.eu",
+  "project": {
+    "name": "GDRP WP",
+    "description": "Simple plugin to load tracking scripts based on user consent. No dark patterns.",
+    "contributors": 2,
+    "home_url": "https://wordpress.org/plugins/og-gdpr/",
+    "repo_url": "https://plugins.trac.wordpress.org/browser/og-gdpr/",
+    "license_type": "MIT",
+    "license_url": "https://plugins.trac.wordpress.org/browser/og-gdpr/tags/1.0.4/LICENSE.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Marcin",
+    "email": "895g6guhu@relay.firefox.com",
+    "role": "Core-dev",
+    "id": 85555308
+  },
+  "can_contact": false,
+  "issue_number": 351,
+  "created_at": "2021-06-09T10:38:37Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/351"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "oatscenter-purdueuniversity.1password.com",
+  "project": {
+    "name": "Open Agricultural Technologies and Systems Center",
+    "description": "The Open Agricultural Technologies and Systems Center at Purdue University works to enhance agricultural innovation in the areas of sensing, control, logistics, analytics, and data management via the catalyzing effects of open source technologies and educational outreach.",
+    "contributors": 25,
+    "home_url": "https://oatscenter.org",
+    "repo_url": "https://github.com/oats-center",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Andrew Balmos",
+    "email": "abalmos@purdue.edu",
+    "role": "Data/Software Engineer, College of AG/OATS",
+    "id": 1865093
+  },
+  "can_contact": true,
+  "issue_number": 686,
+  "created_at": "2023-02-10T18:15:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/686"
+}

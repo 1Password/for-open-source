@@ -1,0 +1,24 @@
+{
+  "account": "andreacioccarelli.1password.com",
+  "project": {
+    "name": "Crypto Prefs",
+    "description": "Android kotlin-powered lightweight professional library for SharedPreferences encryption and security",
+    "contributors": 5,
+    "home_url": "https://AndreaCioccarelli.github.io/CryptoPrefs",
+    "repo_url": "https://github.com/AndreaCioccarelli/CryptoPrefs",
+    "license_type": "Apache License, 2.0",
+    "license_url": "https://github.com/AndreaCioccarelli/CryptoPrefs/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Andrea Cioccarelli",
+    "email": "cioccarelliandrea01@gmail.com",
+    "role": "Administrator",
+    "id": 23010471
+  },
+  "can_contact": false,
+  "issue_number": 67,
+  "created_at": "2018-06-29T22:34:15Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/67"
+}

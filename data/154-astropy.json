@@ -1,0 +1,24 @@
+{
+  "account": "astropyproject.1password.com",
+  "project": {
+    "name": "Astropy",
+    "description": "The Astropy Project is a community effort to develop a common core package for Astronomy in Python and foster an ecosystem of interoperable astronomy packages.",
+    "contributors": 20,
+    "home_url": "http://astropy.org",
+    "repo_url": "https://github.com/astropy/astropy",
+    "license_type": "BSD 3",
+    "license_url": "https://github.com/astropy/astropy/blob/v3.2.1/LICENSE.rst",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Kelle Cruz",
+    "email": "kellecruz@gmail.com",
+    "role": "Coordination Committee Member",
+    "id": 1444249
+  },
+  "can_contact": false,
+  "issue_number": 154,
+  "created_at": "2019-08-14T17:47:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/154"
+}

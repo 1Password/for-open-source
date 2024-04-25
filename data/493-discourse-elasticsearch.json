@@ -1,0 +1,24 @@
+{
+  "account": "open-source.1password.com",
+  "project": {
+    "name": "discourse-elasticsearch",
+    "description": "discourse-elasticsearch is a plugin for elasticsearch forked from discourse-algolia",
+    "contributors": 2,
+    "home_url": "https://github.com/m2nx/discourse-elasticsearch",
+    "repo_url": "https://github.com/m2nx/discourse-elasticsearch",
+    "license_type": "The MIT License (MIT)",
+    "license_url": "https://github.com/m2nx/discourse-elasticsearch/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Max",
+    "email": "me@iiii.dev",
+    "role": "Owner",
+    "id": 16236902
+  },
+  "can_contact": false,
+  "issue_number": 493,
+  "created_at": "2022-03-30T12:32:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/493"
+}

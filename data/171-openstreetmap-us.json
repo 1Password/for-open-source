@@ -1,0 +1,24 @@
+{
+  "account": "osmus.1password.com",
+  "project": {
+    "name": "OpenStreetMap US",
+    "description": "OpenStreetMap US advocates for the free wiki-style map of the world in the United States.",
+    "contributors": 5,
+    "home_url": "https://openstreetmap.us/",
+    "repo_url": "https://github.com/osmus/",
+    "license_type": "ODbL",
+    "license_url": "https://opendatacommons.org/licenses/odbl/",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Ian Dees",
+    "email": "ian@openstreetmap.us",
+    "role": "Treasurer / Code Contributor",
+    "id": 261584
+  },
+  "can_contact": false,
+  "issue_number": 171,
+  "created_at": "2019-12-04T20:34:43Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/171"
+}

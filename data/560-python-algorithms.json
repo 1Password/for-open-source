@@ -1,0 +1,24 @@
+{
+  "account": "vanderveen.1password.com",
+  "project": {
+    "name": "Python Algorithms",
+    "description": "A collection of algorithms for python to help delevopers all over the world.",
+    "contributors": 1,
+    "home_url": "https://github.com/Infiniteflame03/1password-teams-open-source",
+    "repo_url": "https://github.com/Infiniteflame03/1password-teams-open-source",
+    "license_type": "MIT",
+    "license_url": "https://github.com/Infiniteflame03/Python/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Gjalt van der Veen",
+    "email": "rudolf042003@gmail.com",
+    "role": "lead developer",
+    "id": 91530749
+  },
+  "can_contact": false,
+  "issue_number": 560,
+  "created_at": "2022-07-05T14:43:17Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/560"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "chezmoi.1password.com",
+  "project": {
+    "name": "chezmoi",
+    "description": "Manage your dotfiles across multiple machines, securely.",
+    "contributors": 2,
+    "home_url": "https://chezmoi.io",
+    "repo_url": "https://github.com/twpayne/chezmoi",
+    "license_type": "MIT",
+    "license_url": "https://github.com/twpayne/chezmoi/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Tom Payne",
+    "email": "twpayne@gmail.com",
+    "role": "Creator and primary maintainer",
+    "id": 6942
+  },
+  "can_contact": false,
+  "issue_number": 220,
+  "created_at": "2020-08-04T22:56:04Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/220"
+}

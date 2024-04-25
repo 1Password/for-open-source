@@ -1,0 +1,24 @@
+{
+  "account": "bcneng.1password.com",
+  "project": {
+    "name": "BCN Engineering",
+    "description": "A non-profit organization with a community of more than 7k members. Our mission is to let Barcelona’s tech hub become one of the best tech communities around the globe.\n\nHow?\n\n- Promoting and spreading technical knowledge\n- Enhancing personal and professional relationships in a frame of diversity\n- Foment training among the community\n\nWe will do that keeping our values:\n\n- Transparency\n- Community-driven\n- Diversity\n- Open-source\n\nOur main community tool is a Slack workspace with more than 7k members and ~1.3K active members.",
+    "contributors": 6,
+    "home_url": "https://bcneng.org",
+    "repo_url": "https://github.com/bcneng",
+    "license_type": "MIT",
+    "license_url": "https://github.com/bcneng/candebot/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sergio Moya",
+    "email": "smoya@bcneng.org",
+    "role": "Staff member, VP of the non-profit.",
+    "id": 1083296
+  },
+  "can_contact": false,
+  "issue_number": 623,
+  "created_at": "2022-10-28T11:11:03Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/623"
+}

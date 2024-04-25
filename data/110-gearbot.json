@@ -1,0 +1,24 @@
+{
+  "account": "gearbot.1password.com",
+  "project": {
+    "name": "GearBot",
+    "description": "GearBot is an open source moderation bot for discord, helping to keep the gears turning smoothly on big and small servers alike. Featuring extensive configuration to allow server to fine tune the bot based on their specific server needs.",
+    "contributors": 2,
+    "home_url": "https://gearbot.rocks/",
+    "repo_url": "https://github.com/AEnterprise/GearBot",
+    "license_type": "MIT",
+    "license_url": "https://github.com/AEnterprise/GearBot/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "AEnterprise",
+    "email": "aenterprise@aenterprise.info",
+    "role": "Project lead",
+    "id": 5206666
+  },
+  "can_contact": false,
+  "issue_number": 110,
+  "created_at": "2019-03-10T21:26:30Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/110"
+}

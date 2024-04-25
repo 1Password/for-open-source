@@ -1,0 +1,24 @@
+{
+  "account": "thecrownfoundation.1password.com",
+  "project": {
+    "name": "Crown Engine",
+    "description": "Crown is a general purpose and data-driven game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.",
+    "contributors": 2,
+    "home_url": "https://www.crownengine.org",
+    "repo_url": "https://github.com/crownengine/crown",
+    "license_type": "MIT and GPL3+",
+    "license_url": "https://docs.crownengine.org/html/master/copyright.html#crown-runtime",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Daniele Bartolini",
+    "email": "dbartolini@crownengine.org",
+    "role": "System Architect",
+    "id": 2070946
+  },
+  "can_contact": false,
+  "issue_number": 669,
+  "created_at": "2023-01-21T19:37:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/669"
+}

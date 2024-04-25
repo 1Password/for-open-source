@@ -1,0 +1,23 @@
+{
+  "account": "rockybadlandsolutions.1password.com",
+  "project": {
+    "name": "VKM (VK Music)",
+    "description": "Free and open source desktop music player for VK.com",
+    "contributors": 2,
+    "home_url": "https://",
+    "repo_url": "https://github.com/RockyBadlandSolutions/VKM",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Daniil",
+    "email": "bkom01@icloud.com",
+    "role": "Fullstack developer",
+    "id": 28590160
+  },
+  "can_contact": true,
+  "issue_number": 732,
+  "created_at": "2023-04-27T18:34:38Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/732"
+}

@@ -1,0 +1,23 @@
+{
+  "account": "pallets.1password.com",
+  "project": {
+    "name": "Pallets",
+    "description": "The Pallets organization develops and supports popular Python frameworks and libraries, including Flask, Jinja, Click, Quart, Werkzeug, ItsDangerous, MarkupSafe, and Pallets-Eco. These libraries power applications of all sizes around the world and are downloaded millions of times each month. The goal of Pallets is to grow the community around these projects to create a sustainable group of contributors and users.",
+    "contributors": 5,
+    "home_url": "https://palletsprojects.com",
+    "repo_url": "https://github.com/pallets",
+    "license_type": "BSD-3-Clause, MIT",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "David Lord",
+    "email": "david@palletsprojects.com",
+    "role": "Lead Maintainer",
+    "id": 1242887
+  },
+  "can_contact": true,
+  "issue_number": 931,
+  "created_at": "2024-04-03T15:25:15Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/931"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "myteam.1password.com",
+  "project": {
+    "name": "bbPress",
+    "description": "Discussion forums, for your WordPress.org powered site. bbPress is forum software from the creators of WordPress. Quickly setup a place for asyncronous discussion, subscriptions, and more!",
+    "contributors": 5,
+    "home_url": "https://bbpress.org",
+    "repo_url": "https://bbpress.trac.wordpress.org",
+    "license_type": "GPL-2.0-or-later",
+    "license_url": "https://bbpress.svn.wordpress.org/trunk/src/license.txt",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Stephen Edgar",
+    "email": "stephen@netweb.com.au",
+    "role": "Developer",
+    "id": 1016458
+  },
+  "can_contact": false,
+  "issue_number": 179,
+  "created_at": "2020-01-11T04:11:23Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/179"
+}

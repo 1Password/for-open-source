@@ -1,0 +1,24 @@
+{
+  "account": "team-railsbridgeboston.1password.com",
+  "project": {
+    "name": "RailsBridge Boston",
+    "description": "workshops to teach people Ruby on Rails for free. Our workshops are 100% volunteer taught and led.",
+    "contributors": 3,
+    "home_url": "https://www.railsbridgeboston.org",
+    "repo_url": "https://github.com/railsbridge-boston/docs",
+    "license_type": "MIT",
+    "license_url": "https://github.com/railsbridge-boston/docs/blob/master/LICENSE.md",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Edward Loveall",
+    "email": "edward@edwardloveall.com",
+    "role": "Lead Organizer",
+    "id": 49549
+  },
+  "can_contact": false,
+  "issue_number": 90,
+  "created_at": "2018-12-05T02:37:35Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/90"
+}

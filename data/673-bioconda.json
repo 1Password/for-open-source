@@ -1,0 +1,24 @@
+{
+  "account": "bioconda.1password.com",
+  "project": {
+    "name": "Bioconda",
+    "description": "The Bioconda project packages life science related software for the package manager conda. It let's you install thousands of software packages related to biomedical research with ease, and has an active community with hundreds of contributors and millions of downloads.",
+    "contributors": 10,
+    "home_url": "https://bioconda.github.io",
+    "repo_url": "https://github.com/bioconda/bioconda-recipes",
+    "license_type": "MIT",
+    "license_url": "https://raw.githubusercontent.com/bioconda/bioconda-recipes/master/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Johannes Köster",
+    "email": "johannes.koester@uk-essen.de",
+    "role": "Project founder, core team member",
+    "id": 1858646
+  },
+  "can_contact": false,
+  "issue_number": 673,
+  "created_at": "2023-01-30T15:36:42Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/673"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "pycascades.1password.com",
+  "project": {
+    "name": "PyCascades",
+    "description": "PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community.",
+    "contributors": 10,
+    "home_url": "https://2024.pycascades.com",
+    "repo_url": "https://github.com/pycascades/pycascades-cms",
+    "license_type": "MIT",
+    "license_url": "https://github.com/pycascades/pycascades-cms/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Madison Swain-Bowden",
+    "email": "madison@pycascades.com",
+    "role": "Current IT Chair, previous Co-Chair \u0026 Diversity Chair",
+    "id": 10214785
+  },
+  "can_contact": true,
+  "issue_number": 935,
+  "created_at": "2024-04-13T20:19:38Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/935"
+}

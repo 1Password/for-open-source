@@ -1,0 +1,24 @@
+{
+  "account": "cubxity.1password.com",
+  "project": {
+    "name": "UnifiedMetrics",
+    "description": "Fully-featured metrics collection agent for Minecraft servers.",
+    "contributors": 2,
+    "home_url": "https://docs.cubxity.dev/docs/unifiedmetrics/intro",
+    "repo_url": "https://github.com/Cubxity/UnifiedMetrics",
+    "license_type": "LGPLv3",
+    "license_url": "https://github.com/Cubxity/UnifiedMetrics/blob/dev/0.3.x/COPYING.LESSER",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Cubxity",
+    "email": "contact@cubxity.dev",
+    "role": "Owner / Maintainer",
+    "id": 27609129
+  },
+  "can_contact": false,
+  "issue_number": 733,
+  "created_at": "2023-04-28T16:15:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/733"
+}

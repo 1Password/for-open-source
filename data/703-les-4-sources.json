@@ -1,0 +1,24 @@
+{
+  "account": "les4sources.1password.com",
+  "project": {
+    "name": "Les 4 Sources",
+    "description": "We are a collective creating environmental and societal projects on a third-place located in Belgium. We build Claudy, an open source software to manage bookings, reservations and finances for collectives and places like ours.",
+    "contributors": 2,
+    "home_url": "https://www.les4sources.be",
+    "repo_url": "https://github.com/les4sources/claudy",
+    "license_type": "MIT",
+    "license_url": "https://github.com/les4sources/claudy/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Michael Hulet",
+    "email": "it@les4sources.be",
+    "role": "Programmer, designer, maintainer",
+    "id": 293355
+  },
+  "can_contact": true,
+  "issue_number": 703,
+  "created_at": "2023-03-08T21:20:06Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/703"
+}

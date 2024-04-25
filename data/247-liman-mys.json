@@ -1,0 +1,23 @@
+{
+  "account": "limanmys.1password.com",
+  "project": {
+    "name": "Liman MYS",
+    "description": "Linux Managent System Framework",
+    "contributors": 4,
+    "home_url": "https://liman.dev",
+    "repo_url": "https://github.com/limanmys",
+    "license_type": "MIT",
+    "license_url": "https://github.com/limanmys/core/blob/master/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Mert ÇELEN",
+    "role": "Lead Developer",
+    "id": 9132682
+  },
+  "can_contact": false,
+  "issue_number": 247,
+  "created_at": "2020-10-22T07:31:52Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/247"
+}

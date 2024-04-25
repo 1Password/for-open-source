@@ -1,0 +1,24 @@
+{
+  "account": "rust-lang",
+  "project": {
+    "name": "The Rust Programming Language",
+    "description": "A language empowering everyone to build reliable and efficient software.",
+    "contributors": -1,
+    "home_url": "https://www.rust-lang.org",
+    "repo_url": "https://github.com/rust-lang/rust",
+    "license_type": "Dual MIT/Apache-2.0 license",
+    "license_url": "https://www.rust-lang.org/policies/licenses",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Alex Crichton",
+    "email": "alex@alexcrichton.com",
+    "role": "Member of the Core and Infrastructure teams, and current manager of the 1Password account",
+    "id": 64996
+  },
+  "can_contact": false,
+  "issue_number": 172,
+  "created_at": "2019-12-06T15:51:54Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/172"
+}

@@ -1,0 +1,24 @@
+{
+  "account": "openprivacytech.1password.com",
+  "project": {
+    "name": "Open Privacy Tech",
+    "description": "Open Privacy Tech is a non profit open source democratizing Privacy Technology.",
+    "contributors": 1,
+    "home_url": "https://www.openprivacytech.org",
+    "repo_url": "https://github.com/openprivacytech",
+    "license_type": "Apache License 2.0",
+    "license_url": "https://github.com/openprivacytech/openprivacytech.org/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sourav Das",
+    "email": "sourav@openprivacytech.org",
+    "role": "Founder",
+    "id": 72210541
+  },
+  "can_contact": false,
+  "issue_number": 607,
+  "created_at": "2022-09-30T06:08:58Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/607"
+}

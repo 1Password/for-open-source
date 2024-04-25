@@ -1,0 +1,23 @@
+{
+  "account": "shortnotes.1password.com",
+  "project": {
+    "name": "ShortNotes",
+    "description": "this is for a team of 2 as of now that works on multiple curriculum subjects of our college to provide short revision notes (markdown based) at one place",
+    "contributors": 2,
+    "home_url": "https://shortnotes.github.io/shortnotes/",
+    "repo_url": "https://github.com/shortnotes/shortnotes/",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "TheSwapnilSaste",
+    "email": "TheSwapnilSaste@gmail.com",
+    "role": "LEADER/ CORE MEMBER",
+    "id": 53067575
+  },
+  "can_contact": true,
+  "issue_number": 706,
+  "created_at": "2023-03-13T04:45:59Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/706"
+}

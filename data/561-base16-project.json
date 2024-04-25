@@ -1,0 +1,24 @@
+{
+  "account": "base16project.1password.com",
+  "project": {
+    "name": "Base16 Project",
+    "description": "Base16 is an architecture for building themes based on carefully chosen syntax highlighting using a base of sixteen colors. It allows users to choose a color scheme they know will be available for all their applications (both GUIs and terminal applications).",
+    "contributors": 14,
+    "home_url": "https://github.com/base16-project",
+    "repo_url": "https://github.com/base16-project",
+    "license_type": "MIT",
+    "license_url": "https://github.com/base16-project/base16/blob/main/LICENSE",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Kaleb Elwert",
+    "email": "kaleb@coded.io",
+    "role": "Co-Admin",
+    "id": 107097
+  },
+  "can_contact": false,
+  "issue_number": 561,
+  "created_at": "2022-07-05T18:15:24Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/561"
+}

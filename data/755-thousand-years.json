@@ -1,0 +1,24 @@
+{
+  "account": "thousandyears.1password.com",
+  "project": {
+    "name": "Thousand Years",
+    "description": "",
+    "contributors": 4,
+    "home_url": "https://github.com/thousandyears",
+    "repo_url": "https://github.com/thousandyears",
+    "license_type": "MIT",
+    "license_url": "https://github.com/thousandyears/Lexicon/blob/trunk/LICENSE",
+    "is_event": false,
+    "is_team": true
+  },
+  "applicant": {
+    "name": "Oliver Atkinson",
+    "email": "oliver@thousandyears.co.uk",
+    "role": "Core Contributor",
+    "id": 1382565
+  },
+  "can_contact": true,
+  "issue_number": 755,
+  "created_at": "2023-05-26T15:27:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/755"
+}

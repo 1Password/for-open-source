@@ -1,0 +1,23 @@
+{
+  "account": "imsam.1password.com",
+  "project": {
+    "name": "Twitch Timestamper",
+    "description": "This project allows for a quick and easy way to create a youtube description with timestamps for each category you streamed.",
+    "contributors": 1,
+    "home_url": "https://vodtimer.imsam.ca",
+    "repo_url": "https://github.com/samerbam/twitch-timestamper/tree/v1.2",
+    "license_type": "MIT",
+    "is_event": false,
+    "is_team": false
+  },
+  "applicant": {
+    "name": "Sam Ryan",
+    "email": "tech@imsam.ca",
+    "role": "Creator",
+    "id": 23728295
+  },
+  "can_contact": false,
+  "issue_number": 520,
+  "created_at": "2022-05-06T18:15:50Z",
+  "pull_request_url": "https://github.com/1Password/for-open-source/pull/520"
+}

@@ -1,0 +1,23 @@
+{
+	"account": "burakbey.1password.com",
+	"project": {
+		"name": "Docker Auto Backup",
+		"description": "Docker Auto Backup is a lightweight, Rust-based automatic backup generator designed for seamless integration with cloud providers such as Google Drive and BackBlaze B2.",
+		"contributors": 1,
+		"home_url": "https://github.com/BUR4KBEY/docker-auto-backup",
+		"license_type": "MIT",
+		"license_url": "https://github.com/BUR4KBEY/docker-auto-backup/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Burak Seçkin",
+		"email": "admin@burakbey.dev",
+		"role": "Founder or Owner",
+		"id": 44743051
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 948,
+	"created_at": "2024-04-28T19:21:06Z"
+}

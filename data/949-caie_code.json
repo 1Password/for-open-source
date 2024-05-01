@@ -1,0 +1,23 @@
+{
+	"account": "createchstudioshanghaiinc.1password.com",
+	"project": {
+		"name": "CAIE_Code",
+		"description": "This project is an educational project, enables thousands of students who study Cambridge A Level Computer Science run their Pseudocode exactly the same with the textbook (since the Pseudocode is not designed for run on computer).\nThis is also work with CAIE_Code Cloud/Extension, which setup cloud environment instantly on GitHub and VSCode",
+		"contributors": 3,
+		"home_url": "https://github.com/iewnfod/CAIE_Code",
+		"license_type": "MPL 2.0",
+		"license_url": "https://github.com/iewnfod/CAIE_Code/blob/stable/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jessie Zhu",
+		"email": "it@createchstudio.com",
+		"role": "Team Member or Employee",
+		"id": 60721270
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 949,
+	"created_at": "2024-05-01T03:04:18Z"
+}

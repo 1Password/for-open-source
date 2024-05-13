@@ -1,0 +1,23 @@
+{
+	"account": "ascompany.1password.com",
+	"project": {
+		"name": "Hex Game",
+		"description": "This project allows you to play the game Hex either locally on your machine or against other players over a network connection. You can play against other players as a client by connecting to a remote server. Alternatively, you can play locally with two players on the same machine.",
+		"contributors": 1,
+		"home_url": "https://github.com/AnnaSmit1/HexGame",
+		"license_type": "GPL",
+		"license_url": "https://github.com/AnnaSmit1/HexGame/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Anna Smit",
+		"email": "annasmit12345@gmail.com",
+		"role": "Founder or Owner",
+		"id": 95341166
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 954,
+	"created_at": "2024-05-07T15:27:30Z"
+}

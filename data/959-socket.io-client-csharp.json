@@ -1,0 +1,24 @@
+{
+	"account": "mozhijiu.1password.com",
+	"project": {
+		"name": "socket.io-client-csharp",
+		"description": "socket.io-client implemention for .NET",
+		"contributors": 3,
+		"home_url": "https://github.com/doghappy/socket.io-client-csharp",
+		"repo_url": "https://github.com/doghappy/socket.io-client-csharp",
+		"license_type": "MIT",
+		"license_url": "https://github.com/doghappy/socket.io-client-csharp/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Xiong Wang",
+		"email": "xiong.wong@outlook.com",
+		"role": "Founder or Owner",
+		"id": 20038914
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 959,
+	"created_at": "2024-05-20T03:25:32Z"
+}

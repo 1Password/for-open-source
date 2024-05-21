@@ -1,0 +1,24 @@
+{
+	"account": "apachecauseway.1password.com",
+	"project": {
+		"name": "Apache Causeway",
+		"description": "Apache Causeway™ enables domain-driven application development by dynamically generating a UI and API for your Spring Boot™ apps. It graduated in 2012.",
+		"contributors": 4,
+		"home_url": "https://causeway.apache.org",
+		"repo_url": "https://github.com/apache/causeway",
+		"license_type": "ASF v2",
+		"license_url": "https://github.com/apache/causeway/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Dan Haywood",
+		"email": "danhaywood@apache.org",
+		"role": "Project Lead",
+		"id": 1031625
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 958,
+	"created_at": "2024-05-18T11:35:29Z"
+}

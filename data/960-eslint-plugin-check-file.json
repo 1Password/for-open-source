@@ -1,0 +1,24 @@
+{
+	"account": "shaiwang.1password.com",
+	"project": {
+		"name": "eslint-plugin-check-file",
+		"description": "ESLint rules for consistent filename and folder. Allows you to enforce a consistent naming pattern for the filename and folder.",
+		"contributors": 3,
+		"home_url": "https://github.com/dukeluo/eslint-plugin-check-file",
+		"repo_url": "https://github.com/dukeluo/eslint-plugin-check-file",
+		"license_type": "Apache-2.0 license",
+		"license_url": "https://github.com/dukeluo/eslint-plugin-check-file/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Huan Luo",
+		"email": "dukeluo@outlook.com",
+		"role": "Founder or Owner",
+		"id": 26000789
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 960,
+	"created_at": "2024-05-20T05:17:30Z"
+}

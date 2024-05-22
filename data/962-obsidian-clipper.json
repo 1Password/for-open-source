@@ -1,0 +1,23 @@
+{
+	"account": "klauswang.1password.com",
+	"project": {
+		"name": "obsidian-clipper",
+		"description": "A browser extension: Easy to clip web content and paste into your obsidian vault",
+		"contributors": 2,
+		"home_url": "https://github.com/Ruoyu-Klaus/obsidian-clipper",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Ruoyu-Klaus/obsidian-clipper/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Ruoyu",
+		"email": "klaus1201810802@gmail.com",
+		"role": "Founder or Owner",
+		"id": 57642283
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 962,
+	"created_at": "2024-05-22T04:27:46Z"
+}

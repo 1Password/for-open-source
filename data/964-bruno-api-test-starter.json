@@ -1,0 +1,24 @@
+{
+	"account": "naodengtech.1password.com",
+	"project": {
+		"name": "Bruno-API-Test-Starter",
+		"description": "An introductory document on using Bruno for API testing and QA learning.",
+		"contributors": 3,
+		"home_url": "https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter",
+		"repo_url": "https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Nao Deng",
+		"email": "dengnao@gmail.com",
+		"role": "Founder or Owner",
+		"id": 7599466
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 964,
+	"created_at": "2024-05-22T04:44:47Z"
+}

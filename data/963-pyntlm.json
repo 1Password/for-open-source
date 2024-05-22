@@ -1,0 +1,24 @@
+{
+	"account": "pyntlm.1password.com",
+	"project": {
+		"name": "pyntlm",
+		"description": "Refer to Px , use coroutine(asycio) to build a single thread proxy server.\n\nPyntlm is a HTTP proxy server that allows applications to authenticate through an NTLM proxy server, typically used in corporate deployments, without having to deal with the actual NTLM handshake. It is primarily designed to run on Windows systems and authenticates on behalf of the application using the currently logged in Windows user account.",
+		"contributors": 3,
+		"home_url": "https://github.com/lastorder/Pyntlm",
+		"repo_url": "https://github.com/lastorder/Pyntlm",
+		"license_type": "MIT",
+		"license_url": "https://github.com/lastorder/Pyntlm/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Dong Yu",
+		"email": "dong.yu.8712@gmail.com",
+		"role": "Founder or Owner",
+		"id": 3157562
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 963,
+	"created_at": "2024-05-22T04:38:25Z"
+}

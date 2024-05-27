@@ -1,0 +1,24 @@
+{
+	"account": "aetherproject.1password.com",
+	"project": {
+		"name": "Aether Project",
+		"description": "Aether is a leading open source 5G platform designed for the edge. It includes a cloud native Mobile Core (SD-Core) and an O-RAN compliant RAN (SD-RAN), both running on a Kubernetes-based edge cloud.",
+		"contributors": 20,
+		"home_url": "https://aetherproject.org/",
+		"repo_url": "https://github.com/opennetworkinglab",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/opennetworkinglab/aether-onramp/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Michelle Roth",
+		"email": "operations@aetherproject.org",
+		"role": "Program Manager",
+		"id": 157139387
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 967,
+	"created_at": "2024-05-22T18:49:44Z"
+}

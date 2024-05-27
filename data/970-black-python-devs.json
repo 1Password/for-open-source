@@ -1,0 +1,24 @@
+{
+	"account": "blackpythondevs.1password.com",
+	"project": {
+		"name": "Black Python Devs",
+		"description": "Black Python Devs is a non-profit focused on building more Black and Colo(u)red Pythonistas around the world.\n\nWe have many projects to help Black led orgs and other affinity groups to grow.",
+		"contributors": 5,
+		"home_url": "https://blackpythondevs.com",
+		"repo_url": "https://github.com/blackpythondevs/.maintainers",
+		"license_type": "MIT",
+		"license_url": "https://github.com/BlackPythonDevs/.github/blob/main/LICENSE.md",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Kevin J Miller",
+		"email": "leadership@blackpythondevs.com",
+		"role": "Founder or Owner",
+		"id": 8632637
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 970,
+	"created_at": "2024-05-24T20:01:38Z"
+}

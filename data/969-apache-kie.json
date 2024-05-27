@@ -1,0 +1,24 @@
+{
+	"account": "team-apachekie.1password.com",
+	"project": {
+		"name": "Apache KIE",
+		"description": "KIE (Knowledge is Everything) is a community of solutions and supporting tooling for knowledge engineering and process automation, focusing on events, rules, and workflows. Most popular open source business automation solution.",
+		"contributors": 10,
+		"home_url": "https://kie.apache.org",
+		"repo_url": "https://github.com/apache/incubator-kie-kogito-runtimes",
+		"license_type": "ASL2",
+		"license_url": "https://github.com/apache/incubator-kie-kogito-runtimes/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jason Porter",
+		"email": "lightguardjp@apache.org",
+		"role": "Core Maintainer",
+		"id": 29971
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 969,
+	"created_at": "2024-05-24T15:12:34Z"
+}

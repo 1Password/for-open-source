@@ -1,0 +1,24 @@
+{
+	"account": "vidavidorra.1password.com",
+	"project": {
+		"name": "commitlint-plugin-function-rules",
+		"description": "commitlint plugin to use functions as rule value.\n\n- Create custom function, sync or async, as rule value.\n- Create rules that are based on the commit message.\n- Write rules with regular expressions.\n- Use the same rules that are available in commitlint.",
+		"contributors": 1,
+		"home_url": "https://github.com/vidavidorra/commitlint-plugin-function-rules",
+		"repo_url": "https://github.com/vidavidorra/commitlint-plugin-function-rules",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/vidavidorra/commitlint-plugin-function-rules/blob/main/LICENSE.md",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jeroen de Bruijn",
+		"email": "vv9239@gmail.com",
+		"role": "Founder or Owner",
+		"id": 62570005
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 971,
+	"created_at": "2024-05-29T13:52:09Z"
+}

@@ -1,0 +1,21 @@
+{
+	"account": "cncf-istanbul.1password.com",
+	"project": {
+		"name": "Cloud Native Community Group Istanbul",
+		"description": "We are an official CNCF community group for Cloud Native enthusiasts in Istanbul, Turkey.\n\nOfficial here means that we’re approved by the CNCF, but we don’t receive financial support. We find sponsors to host our events.",
+		"contributors": 6,
+		"home_url": "https://community.cncf.io/istanbul/",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Ali Ok",
+		"email": "aliok@aliok.com.tr",
+		"role": "Founder or Owner",
+		"id": 376732
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 972,
+	"created_at": "2024-05-30T08:04:31Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "pot-app.1password.com",
+	"project": {
+		"name": "Pot App",
+		"description": "Pot App is a cross-platform software for text translation and recognition.",
+		"contributors": 5,
+		"home_url": "https://pot-app.com/en/",
+		"repo_url": "https://github.com/pot-app/pot-desktop",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/pot-app/pot-desktop/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Pylogmon",
+		"email": "pylogmon@outlook.com",
+		"role": "Founder or Owner",
+		"id": 59004461
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 973,
+	"created_at": "2024-05-31T11:37:45Z"
+}

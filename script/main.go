@@ -66,6 +66,11 @@ func main() {
 			application: &application,
 		}
 		approver.Approve()
+	case "aggregate":
+		aggregator := Aggregator{
+			gitHub: &github,
+		}
+		aggregator.Aggregate()
 	default:
 		fmt.Printf("Invalid command: %s\n", command)
 		printUsageAndExit()

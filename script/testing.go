@@ -107,7 +107,7 @@ var testApplications = []TestApplicationSet{
 }
 
 func isTesting() bool {
-	return testIssue != nil
+	return testIssue != nil || os.Getenv("TEST") == "true"
 }
 
 func debugMessage(message string, data ...interface{}) {

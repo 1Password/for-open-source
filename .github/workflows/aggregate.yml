@@ -1,0 +1,33 @@
+name: Aggregate applicant data
+
+on:
+  push:
+    paths:
+      - "data/**"
+
+  # allow for manual deploys
+  workflow_dispatch:
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    if: vars.PROCESSOR_ENABLED == 'true'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch processor
+        uses: dsaltares/fetch-gh-release-asset@1.1.1
+        with:
+          file: "processor"
+          target: "./processor"
+
+      - name: Aggregate applicant data
+        run: |
+          chmod +x ./processor
+          ./processor aggregate
+        env:
+          SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
+          OP_BOT_PAT: ${{ secrets.OP_BOT_PAT }}
+          REPOSITORY_OWNER: ${{ github.repository_owner }}
+          REPOSITORY_NAME: ${{ github.event.repository.name }}

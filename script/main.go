@@ -10,7 +10,7 @@ import (
 )
 
 func printUsageAndExit() {
-	log.Fatal("Usage: ./processor <review|approve> [--test <name>]")
+	log.Fatal("Usage: ./processor <review|approve|aggregate> [--test <name>]")
 }
 
 func getEnv(key string) (string, error) {
@@ -66,6 +66,11 @@ func main() {
 			application: &application,
 		}
 		approver.Approve()
+	case "aggregate":
+		aggregator := Aggregator{
+			gitHub: &github,
+		}
+		aggregator.Aggregate()
 	default:
 		fmt.Printf("Invalid command: %s\n", command)
 		printUsageAndExit()

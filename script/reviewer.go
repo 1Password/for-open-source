@@ -26,6 +26,10 @@ func (r *Reviewer) Review() {
 		r.logErrorAndExit("could not initialize GitHub client", err)
 	}
 
+	if err := r.gitHub.InitIssue(); err != nil {
+		r.logErrorAndExit("could not initialize GitHub issue", err)
+	}
+
 	r.application.Parse(r.gitHub.Issue)
 
 	status := r.getStatus()

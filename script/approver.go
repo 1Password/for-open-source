@@ -26,6 +26,10 @@ func (a *Approver) Approve() {
 		a.logErrorAndExit("could not initialize GitHub client", err)
 	}
 
+	if err := a.gitHub.InitIssue(); err != nil {
+		a.logErrorAndExit("could not initialize GitHub issue", err)
+	}
+
 	if *a.gitHub.Issue.State == "closed" {
 		a.logErrorAndExit(
 			"script run on closed issue",

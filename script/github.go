@@ -20,23 +20,12 @@ type GitHub struct {
 func (g *GitHub) Init() error {
 	if isTesting() {
 		debugMessage("Skipping GitHub Init")
-		g.Issue = testIssue
 		return nil
 	}
 
 	token, err := getEnv("OP_BOT_PAT")
 	if err != nil {
 		return err
-	}
-
-	issueNumberValue, err := getEnv("ISSUE_NUMBER")
-	if err != nil {
-		return err
-	}
-
-	issueNumber, err := strconv.Atoi(issueNumberValue)
-	if err != nil {
-		return errors.New("could not parse variable ISSUE_NUMBER")
 	}
 
 	repoOwnerValue, err := getEnv("REPOSITORY_OWNER")
@@ -57,6 +46,26 @@ func (g *GitHub) Init() error {
 	tc := oauth2.NewClient(context.Background(), ts)
 
 	g.Client = github.NewClient(tc)
+
+	return nil
+}
+
+func (g *GitHub) InitIssue() error {
+	if isTesting() {
+		debugMessage("Assigning test issue")
+		g.Issue = testIssue
+		return nil
+	}
+
+	issueNumberValue, err := getEnv("ISSUE_NUMBER")
+	if err != nil {
+		return err
+	}
+
+	issueNumber, err := strconv.Atoi(issueNumberValue)
+	if err != nil {
+		return errors.New("could not parse variable ISSUE_NUMBER")
+	}
 
 	issue, response, err := g.Client.Issues.Get(context.Background(), g.RepoOwner, g.RepoName, issueNumber)
 	if response.StatusCode != 200 {
@@ -152,7 +161,7 @@ func (g *GitHub) CloseIssue() error {
 	return err
 }
 
-func (g *GitHub) CommitNewFile(filePath string, content []byte, message string) error {
+func (g *GitHub) commitFile(filePath string, content []byte, message string, update bool) error {
 	commitBranch := "main"
 
 	if isTesting() {
@@ -167,17 +176,53 @@ func (g *GitHub) CommitNewFile(filePath string, content []byte, message string) 
 		return nil
 	}
 
-	_, _, err := g.Client.Repositories.CreateFile(
-		context.Background(),
-		g.RepoOwner,
-		g.RepoName,
-		filePath,
-		&github.RepositoryContentFileOptions{
-			Content: content,
-			Message: &message,
-			Branch:  &commitBranch,
-		},
-	)
+	opts := &github.RepositoryContentFileOptions{
+		Content: content,
+		Message: &message,
+		Branch:  &commitBranch,
+	}
+
+	var err error
+	if update {
+		fileContent, _, _, err := g.Client.Repositories.GetContents(
+			context.Background(),
+			g.RepoOwner,
+			g.RepoName,
+			filePath,
+			&github.RepositoryContentGetOptions{Ref: commitBranch},
+		)
+
+		if err != nil {
+			return err
+		}
+
+		sha := fileContent.GetSHA()
+		opts.SHA = &sha
+
+		_, _, err = g.Client.Repositories.UpdateFile(
+			context.Background(),
+			g.RepoOwner,
+			g.RepoName,
+			filePath,
+			opts,
+		)
+	} else {
+		_, _, err = g.Client.Repositories.CreateFile(
+			context.Background(),
+			g.RepoOwner,
+			g.RepoName,
+			filePath,
+			opts,
+		)
+	}
 
 	return err
+}
+
+func (g *GitHub) CommitNewFile(filePath string, content []byte, message string) error {
+	return g.commitFile(filePath, content, message, false)
+}
+
+func (g *GitHub) UpdateFile(filePath string, content []byte, message string) error {
+	return g.commitFile(filePath, content, message, true)
 }

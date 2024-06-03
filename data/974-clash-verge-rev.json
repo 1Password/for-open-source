@@ -1,0 +1,24 @@
+{
+	"account": "clashvergerev.1password.com",
+	"project": {
+		"name": "clash-verge-rev",
+		"description": "A Tauri based clash meta core proxy GUI",
+		"contributors": 15,
+		"home_url": "https://clash-verge-rev.github.io/",
+		"repo_url": "https://github.com/clash-verge-rev/clash-verge-rev",
+		"license_type": "GPL-3.0 license",
+		"license_url": "https://github.com/clash-verge-rev/clash-verge-rev?tab=GPL-3.0-1-ov-file",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "wonfen",
+		"email": "eiwonfen@gmail.com",
+		"role": "Founder or Owner",
+		"id": 96291150
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 974,
+	"created_at": "2024-06-02T02:35:47Z"
+}

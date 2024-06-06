@@ -1,0 +1,24 @@
+{
+	"account": "codebrine.1password.com",
+	"project": {
+		"name": "Icons Plus",
+		"description": "Icons Plus is a package for Flutter developers that provides a collection of attractive icons from different packs. Developers can use this package to quickly and easily find and add icons to their apps. Icons Plus gives developers access to a variety of design elements that can make their apps look more appealing and modern. Developers can also choose from many popular icon packs to suit their preferences and needs.",
+		"contributors": 2,
+		"home_url": "https://pub.dev/packages/icons_plus",
+		"repo_url": "https://github.com/chouhan-rahul/icons_plus",
+		"license_type": "MIT",
+		"license_url": "https://github.com/chouhan-rahul/icons_plus/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Rahul Chouhan",
+		"email": "rahul-chouhan@outlook.com",
+		"role": "Founder or Owner",
+		"id": 82075108
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 977,
+	"created_at": "2024-06-05T14:43:26Z"
+}

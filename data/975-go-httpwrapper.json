@@ -1,0 +1,24 @@
+{
+	"account": "bugger.1password.com",
+	"project": {
+		"name": "go-httpwrapper",
+		"description": "Go http wrapper for boomer, this project is born for codeless load test experience in http protocol based on boomer - the real load generator",
+		"contributors": 2,
+		"home_url": "https://github.com/bugVanisher/go-httpwrapper",
+		"repo_url": "https://github.com/bugVanisher/go-httpwrapper",
+		"license_type": "MIT",
+		"license_url": "https://github.com/bugVanisher/go-httpwrapper/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "bugvanisher",
+		"email": "gannicus_yu@163.com",
+		"role": "Founder or Owner",
+		"id": 16443519
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 975,
+	"created_at": "2024-06-05T02:05:13Z"
+}

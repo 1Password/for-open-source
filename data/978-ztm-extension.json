@@ -1,0 +1,23 @@
+{
+	"account": "sithukhant.1password.com",
+	"project": {
+		"name": "ZTM Extension",
+		"description": "I am a star mentor and student of Zero To Mastery. They use Teachable as their learning platform provider. I found out Teachable has some limitations. But I have a solution to solve that. I created an open-source browser extension to enhance the student learning life. I built it for Zero To Mastery Academy for free. It is used by 4K+ students and got pretty decent reviews. You can see it on my GitHub profile.\n\nIt has additional features like Toggle Sidebar, Toggle Dark Mode, Daily Motivations, Course Length/Section Times/Watch Times data of a course, Course Details, and much more. My extension is announced as the official extension of their community and published on the Chrome Web Store.\n\nJetBrains, AdGuard, and Tuta also support their tools for me as they assume my project meets their standard requirements. \n\nI am the lead and I am primary contributor of that project. I built all the features alone. You only have to provide one email address for me.",
+		"contributors": 1,
+		"home_url": "https://github.com/sithu-khant/ztm-extension",
+		"license_type": "MIT",
+		"license_url": "https://github.com/sithu-khant/ztm-extension/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Sithu Khant",
+		"email": "sithu@tuta.com",
+		"role": "Project Lead",
+		"id": 122719409
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 978,
+	"created_at": "2024-06-07T01:34:39Z"
+}

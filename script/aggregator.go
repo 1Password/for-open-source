@@ -11,8 +11,9 @@ import (
 )
 
 type ProjectEntry struct {
-	Project   Project   `json:"project"`
-	CreatedAt time.Time `json:"created_at"`
+	Project     Project   `json:"project"`
+	IssueNumber int       `json:"issue_number"`
+	CreatedAt   time.Time `json:"created_at"`
 }
 
 type Aggregator struct {
@@ -47,8 +48,9 @@ func (a *Aggregator) Aggregate() {
 			}
 
 			projectEntry := ProjectEntry{
-				Project:   app.Project,
-				CreatedAt: app.CreatedAt,
+				Project:     app.Project,
+				IssueNumber: app.IssueNumber,
+				CreatedAt:   app.CreatedAt,
 			}
 
 			projectsList = append(projectsList, projectEntry)

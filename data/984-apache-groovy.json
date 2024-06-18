@@ -1,0 +1,24 @@
+{
+	"account": "apachesoftwarefoundationgroovypr.1password.com",
+	"project": {
+		"name": "Apache Groovy",
+		"description": "Apache Groovy is a multi-faceted programming language for the JVM.",
+		"contributors": 20,
+		"home_url": "https://groovy-lang.org/",
+		"repo_url": "https://github.com/apache/groovy",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/apache/groovy/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Paul King",
+		"email": "paulk@apache.org",
+		"role": "Project Lead",
+		"id": 280016
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 984,
+	"created_at": "2024-06-18T01:07:17Z"
+}

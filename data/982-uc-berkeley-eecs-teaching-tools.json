@@ -1,0 +1,22 @@
+{
+	"account": "ucberkeleyeecs.1password.com",
+	"project": {
+		"name": "UC Berkeley EECS Teaching Tools",
+		"description": "We are a team of faculty and students developing open-source applications used for assisting in teaching computer science and other (primarily) STEM courses. Tools are everything from website templates, to grading dashboards, exam administration etc.",
+		"contributors": 10,
+		"home_url": "http://github.com/berkeley-eecs/",
+		"repo_url": "http://github.com/berkeley-eecs/seating/wiki",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Michael Ball",
+		"email": "ball@berkeley.edu",
+		"role": "Founder or Owner",
+		"id": 1505907
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 982,
+	"created_at": "2024-06-12T19:26:50Z"
+}

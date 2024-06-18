@@ -1,0 +1,24 @@
+{
+	"account": "carvel.1password.com",
+	"project": {
+		"name": "Carvel",
+		"description": "Carvel is a CNCF Sandbox project that provides reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.",
+		"contributors": 6,
+		"home_url": "https://carvel.dev/",
+		"repo_url": "https://github.com/carvel-dev/carvel",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/carvel-dev/carvel/blob/develop/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Joao Pereira",
+		"email": "joao.pereira@broadcom.com",
+		"role": "Founder or Owner",
+		"id": 1826130
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 983,
+	"created_at": "2024-06-17T16:18:29Z"
+}

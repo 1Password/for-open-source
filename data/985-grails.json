@@ -1,0 +1,21 @@
+{
+	"account": "team-grailsfoundation.1password.com",
+	"project": {
+		"name": "Grails",
+		"description": "Grails is a web application framework based on Groovy for Java Virtual Machine with a Spring Boot foundation.",
+		"contributors": 19,
+		"home_url": "https://grails.org/",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Bradley Davis",
+		"email": "itadmin@objectcomputing.com",
+		"role": "Founder or Owner",
+		"id": 113456172
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 985,
+	"created_at": "2024-06-18T13:41:51Z"
+}

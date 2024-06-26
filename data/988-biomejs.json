@@ -1,0 +1,24 @@
+{
+	"account": "team-biomejs.1password.com",
+	"project": {
+		"name": "BiomeJS",
+		"description": "Biome is a toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+		"contributors": 8,
+		"home_url": "https://biomejs.dev/",
+		"repo_url": "https://github.com/biomejs/biome",
+		"license_type": "MIT and Apache-2.0",
+		"license_url": "https://github.com/biomejs/biome/blob/main/LICENSE-MIT",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Victorien Elvinger",
+		"email": "victorien@elvinger.fr",
+		"role": "Founder or Owner",
+		"id": 2358560
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 988,
+	"created_at": "2024-06-26T12:48:18Z"
+}

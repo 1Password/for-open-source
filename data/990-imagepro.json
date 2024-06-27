@@ -1,0 +1,24 @@
+{
+	"account": "imagepro.1password.com",
+	"project": {
+		"name": "ImagePro",
+		"description": "ImagePro is an open-source Figma plugin for versatile image export, AI-powered image processing, and cloud management.",
+		"contributors": 5,
+		"home_url": "https://github.com/jacksonkasi1/ImagePro-Export",
+		"repo_url": "https://github.com/jacksonkasi1/ImagePro-Export",
+		"license_type": "MIT",
+		"license_url": "https://github.com/jacksonkasi1/ImagePro-Export/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jackson Kasi",
+		"email": "jacksonkasipeacock@gmail.com",
+		"role": "Founder or Owner",
+		"id": 109948871
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 990,
+	"created_at": "2024-06-27T14:58:22Z"
+}

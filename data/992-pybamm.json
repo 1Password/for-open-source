@@ -1,0 +1,24 @@
+{
+	"account": "pybamm.1password.com",
+	"project": {
+		"name": "PyBaMM",
+		"description": "PyBaMM (Python Battery Mathematical Modelling) is an open-source battery simulation package written in Python. Our mission is to accelerate battery modelling research by providing open-source tools for multi-institutional, interdisciplinary collaboration. Broadly, PyBaMM consists of (i) a framework for writing and solving systems of differential equations, (ii) a library of battery models and parameters, and (iii) specialized tools for simulating battery-specific experiments and visualizing the results. Together, these enable flexible model definitions and fast battery simulations, allowing users to explore the effect of different battery designs and modeling assumptions under a variety of operating scenarios.",
+		"contributors": 15,
+		"home_url": "https://www.pybamm.org",
+		"repo_url": "https://github.com/pybamm-team/PyBaMM",
+		"license_type": "BSD-3-Clause license",
+		"license_url": "https://github.com/pybamm-team/PyBaMM/blob/develop/LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Ferran Brosa Planella",
+		"email": "Ferran.Brosa-Planella@warwick.ac.uk",
+		"role": "Core Maintainer",
+		"id": 28443643
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 992,
+	"created_at": "2024-07-03T08:27:59Z"
+}

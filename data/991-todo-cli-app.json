@@ -1,0 +1,24 @@
+{
+	"account": "jackwill.1password.com",
+	"project": {
+		"name": "todo-cli-app",
+		"description": "yet another todo CLI app written in Rust",
+		"contributors": 2,
+		"home_url": "https://github.com/wujackwill/todo-cli-app",
+		"repo_url": "https://github.com/wujackwill/todo-cli-app",
+		"license_type": "MIT",
+		"license_url": "https://github.com/wujackwill/todo-cli-app/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "jackwill",
+		"email": "wujackwill@outlook.com",
+		"role": "Founder or Owner",
+		"id": 146716175
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 991,
+	"created_at": "2024-06-29T10:31:22Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "valkey.1password.com",
+	"project": {
+		"name": "Valkey",
+		"description": "Valkey is an open-source key value database that is an open-source successor to the no longer open-source Redis database.",
+		"contributors": 6,
+		"home_url": "https://valkey.io/",
+		"repo_url": "https://github.com/valkey-io/valkey",
+		"license_type": "BSD",
+		"license_url": "https://github.com/valkey-io/valkey/blob/unstable/COPYING",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Madelyn olson",
+		"email": "madelyneolson@gmail.com",
+		"role": "Founder or Owner",
+		"id": 34459052
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 993,
+	"created_at": "2024-07-09T00:05:20Z"
+}

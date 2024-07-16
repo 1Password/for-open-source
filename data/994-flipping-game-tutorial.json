@@ -1,0 +1,22 @@
+{
+	"account": "keplar-team.1password.com",
+	"project": {
+		"name": "Flipping Game Tutorial",
+		"description": "An java game for begin java developer",
+		"contributors": 2,
+		"home_url": "https://github.com/khanhdew/FlippingGame",
+		"repo_url": "https://github.com/khanhdew/FlippingGame",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Khanh Nguyen",
+		"email": "khanhdeptrai292004@gmail.com",
+		"role": "Founder or Owner",
+		"id": 97591523
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 994,
+	"created_at": "2024-07-11T14:55:51Z"
+}

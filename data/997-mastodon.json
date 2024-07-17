@@ -1,0 +1,24 @@
+{
+	"account": "mastodon.1password.com",
+	"project": {
+		"name": "Mastodon",
+		"description": "Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. All Mastodon servers are interoperable as a federated network.",
+		"contributors": 10,
+		"home_url": "https://joinmastodon.org/",
+		"repo_url": "https://github.com/mastodon/mastodon",
+		"license_type": "AGPL v3",
+		"license_url": "https://github.com/mastodon/mastodon/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Timothy Campbell",
+		"email": "tim@joinmastodon.org",
+		"role": "Team Member or Employee",
+		"id": 8480990
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 997,
+	"created_at": "2024-07-17T11:27:11Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "littlechest.1password.com",
+	"project": {
+		"name": "OctopusROM",
+		"description": "Hobby-driven BuildBot, maintains PixelReloaded for POCO F3 and POCO F4, and maintains unofficial PixelOS(Android 13) for POCO F4.",
+		"contributors": 2,
+		"home_url": "https://github.com/OctopusROM",
+		"repo_url": "https://github.com/OctopusROM/device_xiaomi_munch",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/OctopusROM/device_xiaomi_munch/blob/PixelOS-thirteen/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "LittleChest",
+		"email": "gtuffy123456@gmail.com",
+		"role": "Core Maintainer",
+		"id": 81231195
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 999,
+	"created_at": "2024-07-17T20:21:18Z"
+}

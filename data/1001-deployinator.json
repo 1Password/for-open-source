@@ -1,0 +1,23 @@
+{
+	"account": "issaminu.1password.com",
+	"project": {
+		"name": "Deployinator",
+		"description": "Deployinator is a lightweight automatic deployment server for Github projects using Webhooks. Written in Go and using the Gin framework. It listens for incoming deployment requests from GitHub Webhooks, validates them using HMAC signatures, and triggers corresponding deployment scripts for different projects.",
+		"contributors": 1,
+		"home_url": "https://github.com/Issaminu/deployinator",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Issaminu/deployinator/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Issam Boubcher",
+		"email": "boubcher.issam@gmail.com",
+		"role": "Founder or Owner",
+		"id": 99417396
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1001,
+	"created_at": "2024-07-19T21:21:45Z"
+}

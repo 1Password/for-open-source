@@ -1,0 +1,24 @@
+{
+	"account": "lfbroadband.1password.com",
+	"project": {
+		"name": "LF Broadband",
+		"description": "VOLTHA is an open source project for PON broadband access equipment, supporting the principle of multi-vendor, disaggregated, “any broadband access as a service” for the Central Office. VOLTHA provides isolation between an abstract (vendor agnostic) PON management system, and a set of vendor-specific and white-box PON hardware devices.\n\nOn its north-bound interface, VOLTHA provides a set of abstract APIs that enable the PON network to appear as a programmable Ethernet switch to an SDN controller.  On its south-bound side, VOLTHA communicates with PON hardware devices using vendor-specific protocols through OLT and ONU adapters.\n\nVOLTHA is in production with major operators, including Deutsche Telekom, Turk Telekom, and Reliance Jio.",
+		"contributors": 20,
+		"home_url": "https://wiki.lfbroadband.org/pages/viewpage.action?spaceKey=HOME\u0026title=VOLTHA , https://docs.voltha.org , https://www.youtube.com/channel/UCu543KEGcZWICwBjJeymCUw",
+		"repo_url": "https://gerrit.opencord.org/plugins/gitiles/voltha-protos , https://gerrit.opencord.org/plugins/gitiles/voltha-go , https://gerrit.opencord.org/plugins/gitiles/voltha-openolt-adapter",
+		"license_type": "Apache-2.0, MIT-2.0",
+		"license_url": "https://gerrit.opencord.org/plugins/gitiles/voltha-protos/+/refs/heads/master/LICENSE , https://gerrit.opencord.org/plugins/gitiles/voltha-lib-go/+/refs/heads/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "LF Broadband",
+		"email": "releng+broadband@linuxfoundation.org",
+		"role": "Team Member or Employee",
+		"id": 111087723
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 996,
+	"created_at": "2024-07-15T16:13:50Z"
+}

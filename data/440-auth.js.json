@@ -1,10 +1,10 @@
 {
-  "account": "nextauthjs.1password.com",
+  "account": "authjs.1password.com",
   "project": {
-    "name": "NextAuth.js",
-    "description": "An authentication library for modern web apps",
+    "name": "Auth.js",
+    "description": "Authentication for the Web.",
     "contributors": 4,
-    "home_url": "https://next-auth.js.org",
+    "home_url": "https://authjs.dev",
     "repo_url": "https://github.com/nextauthjs/next-auth",
     "license_type": "MIT",
     "license_url": "https://github.com/nextauthjs/next-auth/blob/main/LICENSE",

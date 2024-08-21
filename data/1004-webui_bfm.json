@@ -1,0 +1,24 @@
+{
+	"account": "zapnet.1password.com",
+	"project": {
+		"name": "webui_bfm",
+		"description": "BOX UI is a web-based interface for managing Box for Android tools. It supports both Magisk and KernelSU modules and provides a comprehensive suite of features to control and monitor your Android device access your device without touch it.",
+		"contributors": 3,
+		"home_url": "https://github.com/geeks121/webui_bfm",
+		"repo_url": "https://github.com/geeks121/webui_bfm",
+		"license_type": "MIT",
+		"license_url": "https://github.com/geeks121/webui_bfm/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "geeks121",
+		"email": "yozhy999@gmail.com",
+		"role": "Founder or Owner",
+		"id": 16743443
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1004,
+	"created_at": "2024-08-15T01:23:58Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "lfnetworking.1password.com",
+	"project": {
+		"name": "LFNetworking",
+		"description": "A global community driving open source innovation in networking. We collaborate on projects that form the foundation of network infrastructure, fostering interoperability and adoption of new technologies",
+		"contributors": 50,
+		"home_url": "https://lfnetworking.org",
+		"repo_url": "https://github.com/lfnetworking",
+		"license_type": "Apache-2.0 license",
+		"license_url": "https://lfnetworking.org",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "LFNetworking",
+		"email": "releng+lfnetworking@linuxfoundation.org",
+		"role": "Team Member or Employee",
+		"id": 20545815
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1002,
+	"created_at": "2024-08-12T20:52:44Z"
+}

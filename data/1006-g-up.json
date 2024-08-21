@@ -1,0 +1,23 @@
+{
+	"account": "teamgup.1password.com",
+	"project": {
+		"name": "g-up",
+		"description": "G-up is an open-source Rust tool for uploading files to Google Drive from the terminal. It offers a streamlined way to manage cloud storage from the command line, with future updates planned to include additional cloud providers.",
+		"contributors": 1,
+		"home_url": "https://github.com/Nichokas/g-up",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Nichokas/g-up/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Nicolas Rodriguez Alvarez",
+		"email": "nicholas.sapu5+g-up@gmail.com",
+		"role": "Founder or Owner",
+		"id": 67232385
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1006,
+	"created_at": "2024-08-21T17:32:18Z"
+}

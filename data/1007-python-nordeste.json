@@ -1,0 +1,24 @@
+{
+	"account": "pythonnordeste.1password.com",
+	"project": {
+		"name": "Python Nordeste",
+		"description": "Python Nordeste is a non-profit itinerant technology event organized by the community for the community. Held annually since 2013 by the Python programming language enthusiasts in Northeast Brazil, it’s a hallmark of regional tech engagement.",
+		"contributors": 5,
+		"home_url": "https://pythonnordeste.org",
+		"repo_url": "https://github.com/pythonNordeste/",
+		"license_type": "GNU General Public License v3.0",
+		"license_url": "https://github.com/pythonNordeste/pyne2018/blob/32946c0d960de49cbf052acd77523346d3df42c3/LICENSE#L4",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Ítalo Epifânio",
+		"email": "italoepifaniols@gmail.com",
+		"role": "Founder or Owner",
+		"id": 6730205
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1007,
+	"created_at": "2024-08-23T01:41:42Z"
+}

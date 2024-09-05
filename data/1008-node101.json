@@ -1,0 +1,24 @@
+{
+	"account": "node101.1password.com",
+	"project": {
+		"name": "node101",
+		"description": "We provide infrastructure services, host non-profit developer-focused events, and offer user-friendly products to help you make the most of distributed value. We are committed to open-sourcing the projects we build, which you can find on our GitHub page. Explore more about us on our website and join us at our events, Cryptist and Cosmosphere.",
+		"contributors": 10,
+		"home_url": "https://node101.io",
+		"repo_url": "https://github.com/node101-io/klein-v1",
+		"license_type": "Apache License",
+		"license_url": "https://github.com/node101-io/klein-v1?tab=Apache-2.0-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Yakup Altay",
+		"email": "yakup@node101.io",
+		"role": "Developer",
+		"id": 111201244
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1008,
+	"created_at": "2024-09-02T12:21:50Z"
+}

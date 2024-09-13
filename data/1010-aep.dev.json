@@ -1,0 +1,24 @@
+{
+	"account": "aepdev.1password.com",
+	"project": {
+		"name": "aep.dev",
+		"description": "API Enhancement Proposals (AEPs) help developers and organizations build clear, consistent network APIs and clients by providing an extensible set of design guidelines.",
+		"contributors": 6,
+		"home_url": "https://aep.dev",
+		"repo_url": "https://github.com/aep-dev/aep.dev",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/aep-dev/aep.dev/blob/main/LICENSE.md",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Marsh Gardiner",
+		"email": "marsh@aep.dev",
+		"role": "Organizer or Admin",
+		"id": 54582
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1010,
+	"created_at": "2024-09-11T23:47:00Z"
+}

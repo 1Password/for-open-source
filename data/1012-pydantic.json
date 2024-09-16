@@ -1,0 +1,24 @@
+{
+	"account": "pydantic.1password.com",
+	"project": {
+		"name": "Pydantic",
+		"description": "Data validation using Python type hints",
+		"contributors": 13,
+		"home_url": "https://docs.pydantic.dev/latest/",
+		"repo_url": "https://github.com/pydantic",
+		"license_type": "MIT",
+		"license_url": "https://github.com/pydantic/pydantic/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Chris Samiullah",
+		"email": "chris@pydantic.dev",
+		"role": "Team Member or Employee",
+		"id": 5574524
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1012,
+	"created_at": "2024-09-16T13:51:59Z"
+}

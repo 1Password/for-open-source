@@ -1,0 +1,24 @@
+{
+	"account": "labscriptsuite.1password.com",
+	"project": {
+		"name": "The labscript suite",
+		"description": "We’re the core maintainers of the labscript-suite, a collection of open source software for research laboratories.",
+		"contributors": 4,
+		"home_url": "https://labscriptsuite.org/",
+		"repo_url": "https://github.com/labscript-suite",
+		"license_type": "BSD",
+		"license_url": "https://github.com/labscript-suite/labscript-suite/blob/master/LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Philip Starkey",
+		"email": "philip.starkey@gmail.com",
+		"role": "Founder or Owner",
+		"id": 2508881
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1013,
+	"created_at": "2024-09-22T04:18:39Z"
+}

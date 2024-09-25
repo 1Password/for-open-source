@@ -1,0 +1,24 @@
+{
+	"account": "opencollective.1password.com",
+	"project": {
+		"name": "OFiCo",
+		"description": "A group of organizations who share the common business interests of advancing technologies supporting transparent financial ledgers, simplifying compliant money transfers and enabling participatory fiscal governance\n\nWe maintain the open source project opencollective.com. Which is the home to Open Source Collective a Fiscal Host which support thousands of Open Source Projects",
+		"contributors": 12,
+		"home_url": "https://opencollective.com/",
+		"repo_url": "https://github.com/opencollective/opencollective",
+		"license_type": "MIT",
+		"license_url": "https://github.com/opencollective/opencollective#MIT-1-ov-file",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Shannon Wray",
+		"email": "shannon@opencollective.org",
+		"role": "Team Member or Employee",
+		"id": 79115149
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1014,
+	"created_at": "2024-09-23T13:55:36Z"
+}

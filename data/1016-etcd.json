@@ -1,0 +1,24 @@
+{
+	"account": "team-etcd.1password.com",
+	"project": {
+		"name": "etcd",
+		"description": "etcd is a distributed reliable key-value store for the most critical data of a distributed system.",
+		"contributors": 4,
+		"home_url": "https://etcd.io/",
+		"repo_url": "https://github.com/etcd-io/etcd",
+		"license_type": "Apache License Version 2.0",
+		"license_url": "https://github.com/etcd-io/etcd/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Benjamin Wang",
+		"email": "benjamin.ahrtr@gmail.com",
+		"role": "Core Maintainer",
+		"id": 30739825
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1016,
+	"created_at": "2024-10-02T14:09:38Z"
+}

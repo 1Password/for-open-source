@@ -1,0 +1,23 @@
+{
+	"account": "psake.1password.com",
+	"project": {
+		"name": "Psake",
+		"description": "psake is a build automation tool written in PowerShell. It avoids the angle-bracket tax associated with executable XML by leveraging the PowerShell syntax in your build scripts.",
+		"contributors": 5,
+		"home_url": "https://github.com/psake/psake",
+		"license_type": "MIT",
+		"license_url": "https://github.com/psake/psake/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Gilbert Sanchez",
+		"email": "gilbert@psake.dev",
+		"role": "Core Maintainer",
+		"id": 615265
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1017,
+	"created_at": "2024-10-04T14:28:21Z"
+}

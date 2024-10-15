@@ -1,0 +1,21 @@
+{
+	"account": "owaspisrael.1password.com",
+	"project": {
+		"name": "OWASP Israel",
+		"description": "The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software.\n\nThis application is for the team who run the Israel chapter of OWASP to use for shared credentials such as social media accounts.",
+		"contributors": 10,
+		"home_url": "https://owasp.org/israel",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Josh Grossman",
+		"email": "josh.grossman@owasp.org",
+		"role": "Organizer or Admin",
+		"id": 13623828
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1020,
+	"created_at": "2024-10-15T14:30:31Z"
+}

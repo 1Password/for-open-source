@@ -1,0 +1,24 @@
+{
+	"account": "seemorefoundation.1password.com",
+	"project": {
+		"name": "Usul AI",
+		"description": "Usul is a free and open source tool to read and research classical Islamic and Arabic texts online. It’s backed by Seemore Foundation a 501©3 pending non-profit.",
+		"contributors": 5,
+		"home_url": "https://usul.ai",
+		"repo_url": "https://github.com/seemorg/usul",
+		"license_type": "MIT",
+		"license_url": "https://github.com/seemorg/usul",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Abdellatif Abdelfattah",
+		"email": "abdellatif@digitalseem.org",
+		"role": "Founder or Owner",
+		"id": 11590314
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1019,
+	"created_at": "2024-10-13T09:07:57Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "pynorte.1password.com",
+	"project": {
+		"name": "PyNorte",
+		"description": "We are a group of developers in the North of Brazil that get together to organize local communities in Amazon and promote the Python programming language. The main organization is located in a telegram group called Pynorte.",
+		"contributors": 6,
+		"home_url": "https://pynorte.python.org.br/",
+		"repo_url": "https://github.com/PyNorte",
+		"license_type": "MIT, LGPL",
+		"license_url": "https://opensource.org/license/mit",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nilo Menezes",
+		"email": "nilo.menezes@gmail.com",
+		"role": "Founder or Owner",
+		"id": 619739
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1024,
+	"created_at": "2024-10-26T16:51:42Z"
+}

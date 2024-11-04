@@ -1,0 +1,24 @@
+{
+	"account": "tedinitiative.1password.com",
+	"project": {
+		"name": "The Environmental Defense Initiative",
+		"description": "TEDI is an international youth-led group dedicated to raising environmental awareness and providing a platform for those looking to create an impact.\nOur website is filled with broadly applicable technologies such as a custom blog publishing system, petition tracker, user management for access to toolkits, and emailing solutions. Because of this, we open-sourced our code and built it to be easily adaptable for any other nonprofit organization to use.",
+		"contributors": 3,
+		"home_url": "https://tedinitiative.org",
+		"repo_url": "https://github.com/nash-pillai/tedi/",
+		"license_type": "MIT",
+		"license_url": "https://github.com/nash-pillai/tedi/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Hiroyuki Sakuma",
+		"email": "hiroyuki.sakuma1@gmail.com",
+		"role": "Core Maintainer",
+		"id": 103229782
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1029,
+	"created_at": "2024-11-04T16:42:19Z"
+}

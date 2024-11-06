@@ -1,0 +1,24 @@
+{
+	"account": "nvphuy.1password.com",
+	"project": {
+		"name": "Custom ESXi ISO images",
+		"description": "custom ESXi ISO images with additional network drivers",
+		"contributors": 1,
+		"home_url": "https://github.com/nvphuy/custom-esxi-iso-with-network-drivers",
+		"repo_url": "https://github.com/nvphuy/custom-esxi-iso-with-network-drivers",
+		"license_type": "MIT",
+		"license_url": "https://github.com/nvphuy/custom-esxi-iso-with-network-drivers/blob/main/LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Huy Nguyen",
+		"email": "nvp.huy@gmail.com",
+		"role": "Founder or Owner",
+		"id": 23104829
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1025,
+	"created_at": "2024-10-27T03:02:14Z"
+}

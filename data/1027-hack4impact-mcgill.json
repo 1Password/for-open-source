@@ -1,0 +1,24 @@
+{
+	"account": "hack4impactmcgill.1password.com",
+	"project": {
+		"name": "Hack4Impact McGill",
+		"description": "Hack4Impact McGill is a student-led collective that specializes in providing software solutions for non-profit organization. At Hack4Impact McGill, we have 3 teams, all working on different year-long projects that will help the community. Our website, along with many other projects is open-source and our collective is non-profit.",
+		"contributors": 30,
+		"home_url": "https://mcgill.hack4impact.org/",
+		"repo_url": "https://github.com/hack4impact-mcgill/mcgill.hack4impact.org",
+		"license_type": "MIT",
+		"license_url": "https://github.com/hack4impact-mcgill/mcgill.hack4impact.org?tab=MIT-1-ov-file",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mika Vohl",
+		"email": "mika@hack4impact.org",
+		"role": "Organizer or Admin",
+		"id": 103958325
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1027,
+	"created_at": "2024-10-29T20:46:05Z"
+}

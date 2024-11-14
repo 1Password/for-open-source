@@ -1,0 +1,22 @@
+{
+	"account": "japanscalaassociation.1password.com",
+	"project": {
+		"name": "ScalaMatsuri",
+		"description": "The largest international Scala conference in Asia. We plan to hold it in the summer of 2025.",
+		"contributors": 30,
+		"home_url": "https://scalamatsuri.org/",
+		"repo_url": "https://github.com/scalamatsuri/2024.scalamatsuri.org",
+		"is_event": true,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Shoma Nishitateno",
+		"email": "shomatan@scalamatsuri.org",
+		"role": "Organizer or Admin",
+		"id": 19513765
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1030,
+	"created_at": "2024-11-05T05:11:21Z"
+}

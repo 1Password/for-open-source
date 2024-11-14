@@ -1,0 +1,24 @@
+{
+	"account": "appinventorfoundation.1password.com",
+	"project": {
+		"name": "App Inventor",
+		"description": "App Inventor was founded in 2007 with the vision of enabling anyone—including those who may not think of themselves as coders—to create mobile apps for real, effective change in their communities.  The App Inventor Foundation was established to support the ongoing development of App Inventor and its users.",
+		"contributors": 10,
+		"home_url": "https://appinventorfoundation.org",
+		"repo_url": "https://github.com/mit-cml/appinventor-sources",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/mit-cml/appinventor-sources?tab=Apache-2.0-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mark Friedman",
+		"email": "mark@appinventorfoundation.org",
+		"role": "Founder or Owner",
+		"id": 1743690
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1031,
+	"created_at": "2024-11-06T18:39:35Z"
+}

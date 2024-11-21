@@ -1,0 +1,24 @@
+{
+	"account": "team-runaway.1password.com",
+	"project": {
+		"name": "exif-watermark-generator",
+		"description": "This application allows you to add a small white bar at the bottom of the photo, which can display detailed information about the shot, including the camera model, lens used, shutter speed, aperture, ISO settings, and other relevant technical specifications. It’s a convenient way to share photography metadata directly alongside your images.",
+		"contributors": 2,
+		"home_url": "https://exif-watermark-generator.vercel.app",
+		"repo_url": "https://github.com/657KB/exif-watermark-generator",
+		"license_type": "MIT",
+		"license_url": "https://github.com/657KB/exif-watermark-generator/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Kuyermqi",
+		"email": "kuyermqi@outlook.com",
+		"role": "Founder or Owner",
+		"id": 38306830
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1033,
+	"created_at": "2024-11-18T16:11:50Z"
+}

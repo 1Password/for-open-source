@@ -1,0 +1,24 @@
+{
+	"account": "cncfcontainerd.1password.com",
+	"project": {
+		"name": "containerd",
+		"description": "containerd is an industry-standard container runtime with an emphasis on simplicity, robustness, and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc.\n\ncontainerd is a member of CNCF with ‘graduated’ status.",
+		"contributors": 11,
+		"home_url": "https://containerd.io",
+		"repo_url": "https://github.com/containerd/containerd",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/containerd/containerd/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Samuel Karp",
+		"email": "sam@samuelkarp.com",
+		"role": "Core Maintainer",
+		"id": 737750
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1034,
+	"created_at": "2024-11-18T22:19:49Z"
+}

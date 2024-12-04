@@ -1,0 +1,24 @@
+{
+	"account": "66666-team.1password.com",
+	"project": {
+		"name": "xoj",
+		"description": "一个编程题目评测系统。能够根据管理员预设的题目用例对用户提交的代码进行执行和评测。",
+		"contributors": 20,
+		"home_url": "https://github.com/xiaoxiongmao5/xoj",
+		"repo_url": "https://github.com/xiaoxiongmao5/xoj-backend",
+		"license_type": "MIT",
+		"license_url": "https://github.com/xiaoxiongmao5/xoj/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "小熊",
+		"email": "627516430@qq.com",
+		"role": "Organizer or Admin",
+		"id": 25204083
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1038,
+	"created_at": "2024-11-22T05:26:39Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "overturemaps.1password.com",
+	"project": {
+		"name": "Overture Maps Foundation",
+		"description": "The Overture Maps Foundation intends to power current and next-generation map products by creating reliable, easy-to-use, and interoperable open map data. We incorporate map data from multiple sources including Overture members, government organizations, and open data sources including OpenStreetMap, map it to a common schema for ease of consumption, and assign/manage stable identifiers to allow data consumers to more easy connect datasets together. \n\nOverture Maps Foundation is a Joint Development Foundation Project, an affiliate of the Linux Foundation.",
+		"contributors": 241,
+		"home_url": "https://overturemaps.org/",
+		"repo_url": "https://github.com/OvertureMaps/docs",
+		"license_type": "Code is MIT, Schema is CC-By 4.0, Data is mostly CDLA and other CC licenses based on data source.",
+		"license_url": "https://docs.overturemaps.org/attribution/",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Robert Detjens",
+		"email": "rdetjens@contractor.linuxfoundation.org",
+		"role": "Developer",
+		"id": 12376078
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1039,
+	"created_at": "2024-11-26T22:22:03Z"
+}

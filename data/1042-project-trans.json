@@ -1,0 +1,24 @@
+{
+	"account": "projecttrans.1password.com",
+	"project": {
+		"name": "Project Trans",
+		"description": "Project Trans aims to better maintain multiple projects including MtF.wiki, FtM.wiki and more.\n\nProject Trans strives to create a free, open and continuously updated platform to provide transgender related knowledge and information. We believe that everyone has an equal right to choose their sexual orientation, gender identity and gender expression, free from stigma, discrimination, and violence.",
+		"contributors": 10,
+		"home_url": "https://about.project-trans.org",
+		"repo_url": "https://github.com/project-trans/mtf-wiki",
+		"license_type": "CC-BY-SA-4.0 license",
+		"license_url": "https://github.com/project-trans/MtF-wiki/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Cryolitia PukNgae",
+		"email": "cryolitia@project-trans.org",
+		"role": "Founder or Owner",
+		"id": 23723294
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1042,
+	"created_at": "2024-12-09T15:05:06Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "jaegertracing.1password.com",
+	"project": {
+		"name": "Jaeger",
+		"description": "Jaeger, an open-source distributed tracing tool, excels at monitoring and troubleshooting complex microservices architectures. It allows developers to pinpoint performance bottlenecks and latency issues by visualizing request flows across various services. Originally created by Uber, Jaeger is now a Cloud Native Computing Foundation (CNCF) graduated project.",
+		"contributors": 5,
+		"home_url": "https://www.jaegertracing.io/",
+		"repo_url": "https://github.com/jaegertracing/jaeger",
+		"license_type": "Apache-2",
+		"license_url": "https://github.com/jaegertracing/jaeger?tab=Apache-2.0-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jonah Kowall",
+		"email": "jkowall@kowall.net",
+		"role": "Core Maintainer",
+		"id": 1859948
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1044,
+	"created_at": "2024-12-17T14:49:26Z"
+}

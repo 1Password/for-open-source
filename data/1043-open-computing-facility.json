@@ -1,0 +1,23 @@
+{
+	"account": "waddles.1password.com",
+	"project": {
+		"name": "Open Computing Facility",
+		"description": "The OCF is a student-run organization at UC Berkeley that provides free computing services to the UC Berkeley community. \n\nOur entire infrastructure is powered by Linux and we also contribute to the open source community: a lot of the software we run are developed in-house and available on our GitHub.\n\nOutside of Berkeley, OCF is probably best known for running a Tier 1 mirror server for many open source projects including Debian, Ubuntu, Kali, and Arch Linux, with petabytes of data served annually.",
+		"contributors": 21,
+		"home_url": "https://ocf.berkeley.edu/",
+		"repo_url": "https://github.com/ocf/",
+		"license_type": "Apache 2.0, MIT, BSD, GPL",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jonathan Zhang",
+		"email": "rjz@ocf.berkeley.edu",
+		"role": "Founder or Owner",
+		"id": 5357230
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1043,
+	"created_at": "2024-12-13T12:12:17Z"
+}

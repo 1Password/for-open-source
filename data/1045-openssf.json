@@ -1,0 +1,24 @@
+{
+	"account": "openssf-team.1password.com",
+	"project": {
+		"name": "OpenSSF",
+		"description": "OpenSSF is a community of software developers and security engineers who are working together to secure open source software for the greater public good.",
+		"contributors": 20,
+		"home_url": "https://openssf.org/",
+		"repo_url": "https://github.com/ossf",
+		"license_type": "Apache License Version 2.0",
+		"license_url": "https://github.com/ossf/foundation/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Riaan Kleinhans",
+		"email": "1password@openssf.org",
+		"role": "Program Manager",
+		"id": 61125752
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1045,
+	"created_at": "2024-12-17T15:55:59Z"
+}

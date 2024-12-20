@@ -1,0 +1,24 @@
+{
+	"account": "scripthub.1password.com",
+	"project": {
+		"name": "Script Hub",
+		"description": "Script Hub is an open-source project that provides an advanced script converter for various proxy applications, including Quantumult X, Loon, Surge, Stash, Egern, LanceX, and Shadowrocket. It facilitates the conversion of external resources such as scripts, modules, and rule sets, enhancing compatibility across different platforms.",
+		"contributors": 4,
+		"home_url": "https://github.com/Script-Hub-Org/Script-Hub",
+		"repo_url": "https://github.com/Script-Hub-Org/Script-Hub",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/Script-Hub-Org/Script-Hub/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Hsiaoyi Hsu",
+		"email": "xream@icloud.com",
+		"role": "Founder or Owner",
+		"id": 1210282
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1047,
+	"created_at": "2024-12-20T13:11:55Z"
+}

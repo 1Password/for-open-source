@@ -1,0 +1,24 @@
+{
+	"account": "moonlark.1password.com",
+	"project": {
+		"name": "Moonlark",
+		"description": "Moonlark is an open source, stable, non-profit, multi-functional chatbot designed to provide a range of interesting and useful or entertaining features to meet the needs of different users.",
+		"contributors": 8,
+		"home_url": "https://github.com/Moonlark-Dev",
+		"repo_url": "https://github.com/Moonlark-Dev/Moonlark",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/Moonlark-Dev/Moonlark/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "xxtg666",
+		"email": "xxtg666@7i.ink",
+		"role": "Organizer or Admin",
+		"id": 68174188
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1049,
+	"created_at": "2024-12-27T14:28:17Z"
+}

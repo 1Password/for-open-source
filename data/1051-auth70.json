@@ -1,0 +1,22 @@
+{
+	"account": "auth70.1password.com",
+	"project": {
+		"name": "Auth70",
+		"description": "Specifically related to 1Password:\n\n- salakala\n\nWe would need approval to get a service account to run real tests against the op cli, and to store auth70 related secrets with.\n\nOther security-related packages:\n\n- paseto-ts\n- bodyguard",
+		"contributors": 2,
+		"home_url": "https://auth70.com",
+		"license_type": "MIT",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "miunau",
+		"email": "auth70@miunau.com",
+		"role": "Founder or Owner",
+		"id": 55932282
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1051,
+	"created_at": "2025-01-05T20:58:14Z"
+}

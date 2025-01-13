@@ -1,0 +1,21 @@
+{
+	"account": "kcdbudapest.1password.com",
+	"project": {
+		"name": "KCD Budapest",
+		"description": "Kubernetes Community Days (or KCD) is a Cloud Native Computing Foundation (CNCF) supported event that takes place in 30 cities every year. KCD Budapest is organized by a team of Cloud Native enthusiasts from Hungary.",
+		"contributors": 10,
+		"home_url": "https://kcdbudapest.hu",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Márk Sági-Kazár",
+		"email": "mark.sagikazar+kcdbudapest@gmail.com",
+		"role": "Founder or Owner",
+		"id": 1226384
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1053,
+	"created_at": "2025-01-10T20:11:07Z"
+}

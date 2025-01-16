@@ -1,0 +1,24 @@
+{
+	"account": "jalview.1password.com",
+	"project": {
+		"name": "Jalview",
+		"description": "Jalview is a free cross-platform program for multiple sequence alignment editing, visualisation and analysis. Use it to align, view and edit sequence alignments, analyse them with phylogenetic trees and principal components analysis (PCA) plots and explore molecular structures and annotation.",
+		"contributors": 6,
+		"home_url": "https://jalview.org/",
+		"repo_url": "https://gitlab.jalview.org/jalview/jalview",
+		"license_type": "GPL-v3",
+		"license_url": "https://gitlab.jalview.org/jalview/jalview/-/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Benedict Soares",
+		"email": "bsoares@dundee.ac.uk",
+		"role": "Team Member or Employee",
+		"id": 48835009
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1055,
+	"created_at": "2025-01-15T15:30:08Z"
+}

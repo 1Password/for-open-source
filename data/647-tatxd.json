@@ -1,10 +1,10 @@
 {
-  "account": "sonicspin.1password.com",
+  "account": "tatxd.1password.com",
   "project": {
-    "name": "SonicSpin",
-    "description": "A community which creates tons of Sonic community related tools and serves everyone.",
+    "name": "TAT XD",
+    "description": "A community which creates game community related tools and serves everyone.",
     "contributors": 3,
-    "home_url": "https://project.sonicspin.org",
+    "home_url": "https://github.com/sonicspinforum/",
     "repo_url": "https://github.com/sonicspinforum/qq-guild-keyword-recall-bot",
     "license_type": "MIT",
     "license_url": "https://github.com/sonicspinforum/qq-guild-keyword-recall-bot/blob/main/LICENSE",
@@ -12,9 +12,9 @@
     "is_team": false
   },
   "applicant": {
-    "name": "Alan Ye (a.k.a. _Wr_)",
+    "name": "Alan Ye",
     "email": "wroffi@outlook.com",
-    "role": "The founder of this project as well as the leader.",
+    "role": "Founder/Leader",
     "id": 45558679
   },
   "can_contact": false,

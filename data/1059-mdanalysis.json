@@ -1,0 +1,24 @@
+{
+	"account": "mdanalysis.1password.com",
+	"project": {
+		"name": "MDAnalysis",
+		"description": "MDAnalysis is a Python library for the analysis of computer simulations of many-body systems at the molecular scale, spanning use cases from interactions of drugs with proteins to novel materials. It is widely used in the scientific community and is written by scientists for scientists.",
+		"contributors": 13,
+		"home_url": "https://www.mdanalysis.org/",
+		"repo_url": "https://github.com/MDAnalysis/mdanalysis",
+		"license_type": "GNU Lesser General Public License version 3 or any later version (LGPLv3+)",
+		"license_url": "https://github.com/MDAnalysis/mdanalysis/blob/develop/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Jenna Swarthout Goddard",
+		"email": "community@mdanalysis.org",
+		"role": "Program Manager",
+		"id": 38287809
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1059,
+	"created_at": "2025-01-22T08:16:23Z"
+}

@@ -1,0 +1,22 @@
+{
+	"account": "skyfallsoftworks.1password.com",
+	"project": {
+		"name": "Vortex",
+		"description": "Vortex is a privacy preserving, temporary email service written in Rust.",
+		"contributors": 1,
+		"home_url": "https://github.com/SkyfallWasTaken/vortex.email",
+		"license_type": "AGPL v3",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mahad Kalam",
+		"email": "hi@skyfall.dev",
+		"role": "Founder or Owner",
+		"id": 55807755
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1060,
+	"created_at": "2025-01-22T11:24:24Z"
+}

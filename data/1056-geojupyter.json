@@ -1,0 +1,24 @@
+{
+	"account": "geojupyter.1password.com",
+	"project": {
+		"name": "GeoJupyter",
+		"description": "GeoJupyter is an open and collaborative community-driven effort to reimagine geospatial interactive computing experiences for education, research, and industry.\n\nWe aim to combine the approachability and playfulness of desktop GIS tools, the flexibility and reproducibility of coding-driven GIS methods, and the collaborative and storytelling power of Jupyter to enable more researchers, educators, and learners to confidently engage with geospatial data.",
+		"contributors": 5,
+		"home_url": "https://geojupyter.org",
+		"repo_url": "https://github.com/geojupyter",
+		"license_type": "BSD 3-clause",
+		"license_url": "https://github.com/geojupyter/jupytergis/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Matt Fisher",
+		"email": "matt.fisher@berkeley.edu",
+		"role": "Organizer or Admin",
+		"id": 3608264
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1056,
+	"created_at": "2025-01-17T22:45:36Z"
+}

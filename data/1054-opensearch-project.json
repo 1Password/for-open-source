@@ -1,0 +1,24 @@
+{
+	"account": "opensearchproject.1password.com",
+	"project": {
+		"name": "OpenSearch Project",
+		"description": "OpenSearch is a community-driven, open-source search and analytics suite used by developers to ingest, search, visualize, and analyze data. OpenSearch consists of a data store and search engine (OpenSearch), a visualization and user interface (OpenSearch Dashboards), and a server-side data collector (Data Prepper). Users can extend the functionality of OpenSearch with a selection of plugins that enhance search, analytics, observability, security, machine learning, and more.",
+		"contributors": 320,
+		"home_url": "https://opensearch.org/",
+		"repo_url": "https://github.com/opensearch-project/",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/opensearch-project/OpenSearch/blob/main/LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Andrew Grimberg",
+		"email": "agrimberg@linuxfoundation.org",
+		"role": "Organizer or Admin",
+		"id": 1143598
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1054,
+	"created_at": "2025-01-14T20:21:56Z"
+}

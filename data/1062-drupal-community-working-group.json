@@ -1,0 +1,21 @@
+{
+	"account": "drupalcommunityworkinggroup.1password.com",
+	"project": {
+		"name": "Drupal Community Working Group",
+		"description": "The mission of the Community Working Group (CWG) is to foster a friendly and welcoming community for the Drupal project and to uphold the Drupal Code of Conduct. The Conflict Resolution Team are the leaders of this group.",
+		"contributors": 5,
+		"home_url": "https://www.drupal.org/community/cwg",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mark Casias",
+		"email": "mark.casias.cwg@association.drupal.org",
+		"role": "Project Lead",
+		"id": 7987464
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1062,
+	"created_at": "2025-01-27T20:31:11Z"
+}

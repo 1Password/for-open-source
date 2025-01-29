@@ -1,0 +1,23 @@
+{
+	"account": "transcental.1password.com",
+	"project": {
+		"name": "Slick Stats",
+		"description": "Slick Stats is a Slack app that updates your status and profile picture on Slack and profile picture to show what you’re up to on other platforms - for example, what music you’re listening to, film you’re watching, etc.",
+		"contributors": 1,
+		"home_url": "https://github.com/transcental/slickstats",
+		"license_type": "MPL 2",
+		"license_url": "https://github.com/transcental/SlickStats/blob/main/LICENSE.md",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Amber",
+		"email": "amber@transcental.dev",
+		"role": "Founder or Owner",
+		"id": 83948303
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1061,
+	"created_at": "2025-01-27T00:47:07Z"
+}

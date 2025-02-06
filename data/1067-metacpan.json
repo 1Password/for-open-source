@@ -1,0 +1,24 @@
+{
+	"account": "metacpan.1password.com",
+	"project": {
+		"name": "MetaCPAN",
+		"description": "MetaCPAN is a modern, open-source web interface and API for searching and exploring CPAN (Comprehensive Perl Archive Network). It provides a fast, searchable index of Perl modules, documentation, and distributions with features like author profiles, dependency graphs, and module ratings.",
+		"contributors": 510,
+		"home_url": "https://metacpan.org",
+		"repo_url": "https://github.com/metacpan",
+		"license_type": "— The GNU General Public License, Version 1, February 1989 —",
+		"license_url": "https://github.com/metacpan/metacpan-web?tab=License-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Olaf Alders",
+		"email": "noc@metacpan.org",
+		"role": "Founder or Owner",
+		"id": 96205
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1067,
+	"created_at": "2025-01-31T18:07:42Z"
+}

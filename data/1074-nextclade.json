@@ -1,0 +1,24 @@
+{
+	"account": "neherlab.1password.com",
+	"project": {
+		"name": "Nextclade",
+		"description": "We are a small academic team maintaining several open source projects in public health and viral evolution. These include Nextclade, pangraph, TreeTime and other tools used by researchers and health care professionals to track and understand the evolution of pathogens.",
+		"contributors": 5,
+		"home_url": "https://clades.nextstrain.org/",
+		"repo_url": "https://github.com/nextstrain/nextclade",
+		"license_type": "MIT",
+		"license_url": "https://github.com/nextstrain/nextclade?tab=MIT-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Richard Neher",
+		"email": "richard.neher@unibas.ch",
+		"role": "Founder or Owner",
+		"id": 8379168
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1074,
+	"created_at": "2025-02-05T21:54:32Z"
+}

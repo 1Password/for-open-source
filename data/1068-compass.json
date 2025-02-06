@@ -1,0 +1,24 @@
+{
+	"account": "wilkin.1password.com",
+	"project": {
+		"name": "Compass",
+		"description": "Compass is an open-source, one stop shop for school or educational institution default homepages allowing administrators to link useful sites, and important information in a modular, easy to use framework.",
+		"contributors": 2,
+		"home_url": "https://compass.wilkin.xyz",
+		"repo_url": "https://github.com/leowilkin/compass",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/leowilkin/compass/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Leo Wilkin",
+		"email": "leo@wilkin.xyz",
+		"role": "Core Maintainer",
+		"id": 64415791
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1068,
+	"created_at": "2025-01-31T20:57:07Z"
+}

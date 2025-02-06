@@ -1,0 +1,24 @@
+{
+	"account": "zeon-team.1password.com",
+	"project": {
+		"name": "Zeon",
+		"description": "zeon is a multi purpose slack bot with lots of features which help out in the hackclub slack",
+		"contributors": 1,
+		"home_url": "https://saahild.com/zeon",
+		"repo_url": "https://github.com/NeonGamerBot-QK/slack-zeon",
+		"license_type": "MIT",
+		"license_url": "https://raw.githubusercontent.com/NeonGamerBot-QK/slack-zeon/refs/heads/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Neon",
+		"email": "neon@saahild.com",
+		"role": "Founder or Owner",
+		"id": 58448036
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1065,
+	"created_at": "2025-01-31T14:13:09Z"
+}

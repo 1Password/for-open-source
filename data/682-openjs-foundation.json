@@ -2,19 +2,19 @@
   "account": "openjsfoundation.1password.com",
   "project": {
     "name": "OpenJS Foundation",
-    "description": "Infrastructure for jQuery, QUnit and other OpenJS Foundation projects.",
-    "contributors": 282,
-    "home_url": "https://jquery.com/",
-    "repo_url": "https://github.com/jquery/jquery",
+    "description": "Accounts For OpenJS Foundation projects",
+    "contributors": 0,
+    "home_url": "https://openjsf.org/",
+    "repo_url": "https://github.com/openjs-foundation",
     "license_type": "MIT",
-    "license_url": "https://jquery.org/license/",
+    "license_url": "https://github.com/openjs-foundation/cross-project-council/blob/main/LICENSE.md",
     "is_event": false,
-    "is_team": false
+    "is_team": true
   },
   "applicant": {
-    "name": "Timo Tijhof",
-    "email": "onepass@timotijhof.net",
-    "role": "jQuery Infrastructure lead",
+    "name": "Benjamin Sternthal",
+    "email": "operations@openjsf.org",
+    "role": "Director Program Management",
     "id": 156867
   },
   "can_contact": false,

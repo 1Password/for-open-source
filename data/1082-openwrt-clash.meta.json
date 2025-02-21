@@ -1,0 +1,24 @@
+{
+	"account": "kooder.1password.com",
+	"project": {
+		"name": "Openwrt-Clash.meta",
+		"description": "This is an openwrt plug-in developed based on the network proxy kernel clash.meta. It also provides a configuration file deeply optimized based on the meta kernel features.",
+		"contributors": 2,
+		"home_url": "https://github.com/Toyro7356/Openwrt-Clash.meta",
+		"repo_url": "https://github.com/Toyro7356",
+		"license_type": "MPL-2.0",
+		"license_url": "https://github.com/Toyro7356/Openwrt-Clash.meta/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Tim",
+		"email": "aurora.proton@outlook.com",
+		"role": "Founder or Owner",
+		"id": 110922908
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1082,
+	"created_at": "2025-02-21T14:17:30Z"
+}

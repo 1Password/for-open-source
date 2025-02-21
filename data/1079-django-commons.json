@@ -1,0 +1,24 @@
+{
+	"account": "djangocommons.1password.com",
+	"project": {
+		"name": "Django Commons",
+		"description": "Django Commons is an organization that seeks to make maintaining Python packages easier.",
+		"contributors": 5,
+		"home_url": "https://github.com/django-commons",
+		"repo_url": "https://github.com/django-commons/membership",
+		"license_type": "MIT",
+		"license_url": "https://github.com/django-commons/membership/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Tim Schilling",
+		"email": "schillingt@better-simple.com",
+		"role": "Organizer or Admin",
+		"id": 1281215
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1079,
+	"created_at": "2025-02-14T22:55:41Z"
+}

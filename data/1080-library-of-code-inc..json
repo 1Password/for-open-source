@@ -1,0 +1,23 @@
+{
+	"account": "libraryofcode.1password.com",
+	"project": {
+		"name": "Library of Code, Inc.",
+		"description": "We are a non-profit organization with the mission to empower individuals at every stage of their software development and IT journey by providing accessible education, fostering skill development, and offering valuable resources to inspire innovation and lifelong learning. We support open-source projects within our scope and also publish our internal infrastructure under open-source licenses.",
+		"contributors": 8,
+		"home_url": "https://www.libraryofcode.org/",
+		"repo_url": "https://git.libraryofcode.org/engineering",
+		"license_type": "MIT/AGPLV3",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Matthew R",
+		"email": "matthew@libraryofcode.org",
+		"role": "Program Manager",
+		"id": 40540813
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1080,
+	"created_at": "2025-02-15T19:03:57Z"
+}

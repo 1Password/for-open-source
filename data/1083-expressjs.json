@@ -1,0 +1,24 @@
+{
+	"account": "expressjs.1password.com",
+	"project": {
+		"name": "expressjs",
+		"description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+		"contributors": 20,
+		"home_url": "https://expressjs.com/",
+		"repo_url": "https://github.com/expressjs",
+		"license_type": "MIT",
+		"license_url": "https://github.com/expressjs/express?tab=MIT-1-ov-file#readme",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Benjamin Sternthal",
+		"email": "bsternthal@linuxfoundation.org",
+		"role": "Team Member or Employee",
+		"id": 198507
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1083,
+	"created_at": "2025-02-21T17:21:09Z"
+}

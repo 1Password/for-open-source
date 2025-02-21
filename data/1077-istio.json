@@ -1,0 +1,24 @@
+{
+	"account": "istio.1password.com",
+	"project": {
+		"name": "Istio",
+		"description": "Istio is a CNCF graduated project that provides service mesh connectivity.",
+		"contributors": 50,
+		"home_url": "https://istio.io/",
+		"repo_url": "https://github.com/istio/istio/",
+		"license_type": "APACHE",
+		"license_url": "https://github.com/istio/istio/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Keith Mattix",
+		"email": "keithmattix2@gmail.com",
+		"role": "Core Maintainer",
+		"id": 1531662
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1077,
+	"created_at": "2025-02-11T16:35:15Z"
+}

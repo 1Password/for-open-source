@@ -56,7 +56,7 @@ body:
 
   - type: input
     attributes:
-      label: Homepage URL
+      label: kutaa isaa
       description: The name of your open source project.
     validations:
       required: true

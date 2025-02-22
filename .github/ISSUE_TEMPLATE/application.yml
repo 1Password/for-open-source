@@ -60,7 +60,7 @@ body:
       description: The name of your open source project.
     validations:
       required: true
-
+       description: ibsa isaa
   - type: textarea
     attributes:
       label: Short description

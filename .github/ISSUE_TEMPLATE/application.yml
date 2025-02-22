@@ -107,7 +107,7 @@ body:
 
   - type: markdown
     attributes:
-      required:
+
         ## 👨‍💻 About you
 
         Tell us a little about yourself!

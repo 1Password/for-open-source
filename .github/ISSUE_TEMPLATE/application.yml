@@ -52,7 +52,7 @@ body:
       value: |
         ## 📦 Your project
 
-        Let's see what you're working on.
+        Let's see what you're on.
 
   - type: input
     attributes:

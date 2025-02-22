@@ -26,7 +26,7 @@ body:
     validations:
       required: true
      value: |
-     [keyup tade.](https://github.com/tadese-nagewo)
+    
   - type: checkboxes
     attributes:
       label: Non-commercial confirmation

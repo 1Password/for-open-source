@@ -25,7 +25,6 @@ body:
       placeholder: example.1password.com
     validations:
       required: true
-     value: |
     
   - type: checkboxes
     attributes:

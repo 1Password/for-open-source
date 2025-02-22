@@ -26,7 +26,7 @@ body:
     validations:
       required: true
      value: |
-     [keyuptade](https://github.com/tadese-nagewo/)
+     [keyup tade.](https://github.com/tadese-nagewo)
   - type: checkboxes
     attributes:
       label: Non-commercial confirmation
@@ -57,7 +57,7 @@ body:
 
   - type: input
     attributes:
-      label: kutaa isaa
+      label: Project name
       description: The name of your open source project.
     validations:
       required: true

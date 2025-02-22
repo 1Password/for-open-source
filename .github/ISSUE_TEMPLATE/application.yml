@@ -49,7 +49,7 @@ body:
 
   - type: markdown
     attributes:
-    value: |
+    required: 
         ## 📦 your project
 
         Let's see what you're on.
@@ -66,7 +66,7 @@ body:
       label: Short description
       description: A short description of your project, team, or event. Try to keep it under 50 words. Formatting will be stripped, and emojis are not allowed.
     validations:
-      value: |
+      required: 
 
   - type: input
     attributes:
@@ -107,7 +107,7 @@ body:
 
   - type: markdown
     attributes:
-      value: |
+      required: 
         ## 👨‍💻 About you
 
         Tell us a little about yourself!

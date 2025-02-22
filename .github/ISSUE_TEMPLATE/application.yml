@@ -77,7 +77,7 @@ body:
 
   - type: input
     attributes:
-      label: Homepage URL
+      label: Project name
       description: |
         Where can we learn more about your project, team, or event? This could be the official website, a repository, a profile, or an event page.
     validations:

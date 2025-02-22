@@ -50,13 +50,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 📦 
+        ## 📦 your project
 
         Let's see what you're on.
 
   - type: input
     attributes:
-      label: Project name
+      label: Homepage URL
       description: The name of your open source project.
     validations:
       required: true

@@ -115,7 +115,7 @@ body:
   - type: input
     attributes:
       label: Name
-      placeholder: Wendy Appleseed
+      placeholder: Tadese Nagewo
     validations:
       required: true
 
@@ -123,7 +123,7 @@ body:
     attributes:
       label: Email
       description: This email should be associated with a 1Password account owner. If your project doesn't have an email that you're able to provide publicly, please email [opensource@1password.com](mailto:opensource@1password.com) with your application information.
-      placeholder: wendyappleseed@myproject.com
+      placeholder: taddasaayane98@gmail.com
     validations:
       required: true
 

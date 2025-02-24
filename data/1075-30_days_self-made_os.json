@@ -1,0 +1,24 @@
+{
+	"account": "nubulateam.1password.com",
+	"project": {
+		"name": "30_days_self-made_OS",
+		"description": "The original code is HaribOS (Doll OS), written by Hideki Kawai. For teaching convenience, the author used a set of non-standard development tools, making the operating system nearly impossible to run on any non-Windows platform.\nAlthough the author provided a Docker runtime method and a Linux porting package, these are still not standard development tools, making the development process difficult to integrate into existing OS development workflows.\nAdditionally, HaribOS was written a long time ago, using floppy disks + MBR + BIOS. In today’s world, floppy disks are almost obsolete as a boot medium, while more modern boot methods involve USB drives/CDs + GPT + UEFI.\n\nThis project will rewrite parts of the original code using NASM + GCC + QEMU and replace some algorithms with more modern implementations. I hope this rewrite can provide some help to future developers. Therefore, I named this project NubulaOS, meaning “nebula,” symbolizing clearing away the fog and offering guidance for those who follow.\n\nThe project will first complete Hideki Kawai’s original code and then proceed with refactoring, rewriting, and optimization. Currently, the content from Day 0 to Day 13 has been completed.",
+		"contributors": 46,
+		"home_url": "https://github.com/everett-fu/30_days_self-made_OS?tab=readme-ov-file",
+		"repo_url": "https://github.com/everett-fu/30_days_self-made_OS?tab=readme-ov-file",
+		"license_type": "MIT",
+		"license_url": "https://github.com/everett-fu/30_days_self-made_OS/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "fulifan",
+		"email": "fulifan@126.com",
+		"role": "Founder or Owner",
+		"id": 62106047
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1075,
+	"created_at": "2025-02-07T08:07:58Z"
+}

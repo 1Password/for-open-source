@@ -1,0 +1,23 @@
+{
+	"account": "mikeee.1password.com",
+	"project": {
+		"name": "altalabs-go",
+		"description": "Providing programmatic access to the AltaLabs Cloud API - allowing access to and management of Alta Labs devices/networks.",
+		"contributors": 1,
+		"home_url": "https://github.com/mikeee/altalabs-go",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/mikeee/altalabs-go/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Mike",
+		"email": "hey@mike.ee",
+		"role": "Core Maintainer",
+		"id": 19765254
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1087,
+	"created_at": "2025-02-24T17:56:16Z"
+}

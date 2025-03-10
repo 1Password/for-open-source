@@ -1,0 +1,24 @@
+{
+	"account": "team-kciseastcampus.1password.com",
+	"project": {
+		"name": "KCISEastCampus/Academic",
+		"description": "A Jekyll-powered academic resource website for KCISEC students, providing study materials for IGCSE and A-Level subjects including Mathematics, Physics, Chemistry, and Economics with dedicated sections by curriculum level.",
+		"contributors": 3,
+		"home_url": "https://github.com/KCISEastCampus",
+		"repo_url": "https://github.com/KCISEastCampus/Academic",
+		"license_type": "MIT",
+		"license_url": "https://github.com/KCISEastCampus/Academic/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Fadouse",
+		"email": "fadouse@turings.org",
+		"role": "Project Lead",
+		"id": 83526586
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1096,
+	"created_at": "2025-03-06T11:54:13Z"
+}

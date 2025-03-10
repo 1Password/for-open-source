@@ -1,0 +1,24 @@
+{
+	"account": "team-chunzhideveloper.1password.com",
+	"project": {
+		"name": "chilloutai-bot",
+		"description": "ChilluoTai Bot is your creative AI art companion on Telegram. Powered by advanced models like Stable Diffusion and Flux, it transforms your text descriptions into stunning artwork. Create unique illustrations, digital art, and imaginative visuals with simple commands. Experience the magic of AI-generated art right in your chat!",
+		"contributors": 2,
+		"home_url": "https://github.com/chunzhimoe/chilloutai-bot",
+		"repo_url": "https://github.com/chunzhimoe/chilloutai-bot",
+		"license_type": "MIT",
+		"license_url": "https://raw.githubusercontent.com/chunzhimoe/chilloutai-bot/refs/heads/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "zhi chun",
+		"email": "chunzhi233233@gmail.com",
+		"role": "Founder or Owner",
+		"id": 60135925
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1095,
+	"created_at": "2025-03-06T05:30:35Z"
+}

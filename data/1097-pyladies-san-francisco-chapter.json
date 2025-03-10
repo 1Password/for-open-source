@@ -1,0 +1,21 @@
+{
+	"account": "pyladiessf.1password.com",
+	"project": {
+		"name": "PyLadies San Francisco Chapter",
+		"description": "PyLadies San Francisco is a large chapter of the international PyLadies mentorship group (fiscally sponsored by the Python Software Foundation) with a focus on helping people who identify as women in a way significant to them become active participants and leaders in the Python community in the San Francisco Bay Area and beyond. We promote, educate and advance a diverse Python community through online community, outreach, education, conferences, events, and social gatherings.",
+		"contributors": 10,
+		"home_url": "https://www.meetup.com/pyladiessf/",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Michelle Glauser",
+		"email": "sf@pyladies.com",
+		"role": "Organizer or Admin",
+		"id": 1952773
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1097,
+	"created_at": "2025-03-07T20:19:30Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "ntosnc.1password.com",
+	"project": {
+		"name": "nongzhibang",
+		"description": "Nongzhibang is a WeChat mini - program project aiming to make campus food ordering more convenient. It is developed by a team of students from the Internet Technology College of Yunnan Agricultural Vocational and Technical College, dedicated to solving various problems in traditional food - ordering models and enhancing the campus food - ordering experience.\n1. Project Background and Objectives\nTraditional food ordering has issues such as complex processes, insecure transactions, and low - efficiency deliveries. Nongzhibang aims to revolutionize the food - ordering model through a mobile mini - program, improving the ordering and delivery speed, ensuring transaction security and delivery quality, and serving both users and merchants.\n2. Solutions\n    - Convenient User Ordering: The interface is newly designed and easy to operate. It supports voice - recognition search. Users can browse products, settle accounts, select delivery addresses, and check order statuses.\n    - Easy Merchant Operation: Merchants can add products efficiently. After uploading licenses and passing the review, they can put products on the shelves. New orders are notified by voice, and they can update order statuses.\n    - Secure Transactions: It supports both online and offline transactions. Detailed transaction information is generated for easy verification, ensuring transaction security.\n    - Efficient Delivery Service: Merchants can assign deliverymen. Deliverymen can calculate delivery locations and handle multiple orders, improving efficiency and reducing error rates.\n3. Technical Realization\n    - Color UI Design: It adopts a unified standard for design and interaction controls, follows the Color UI specification, adheres to the minimalist design principle, realizes modular construction, improves user experience, and facilitates function iteration.\n    - Cloud Development: It uses a cloud - developed database with high - performance read - write services. The response speed is 30% faster than that of traditional databases. It is lightweight, highly secure, and highly accurate.\n    - Instant Messaging: After a successful transaction, it notifies merchants immediately through voice prompts and pop - up windows to avoid missed orders.\n    - Simultaneous Interpretation: It supports users to search for products by voice, combined with text input, improving search convenience.\n    - Tencent Map: It is used to obtain location information, facilitating users and merchants to fill in delivery and store locations.\n4. Function Demonstration\n    - User - end: The main interface displays products. The ordering interface shows product and store details. The order confirmation interface allows users to modify delivery addresses and select payment methods. The order information interface provides transaction vouchers.\n    - Merchant - end: Merchants need to be real - name authenticated when joining. The store management interface can be used to complete store information. They can manage product categories and add products for convenient operation.\n5. Future Plans\nIt will add an instant messaging function to facilitate communication among users, deliverymen, and merchants. It also plans to adopt the NFC touch - to - pick - up function. Users can complete the delivery and pick - up service by touching with NFC without showing order information.",
+		"contributors": 4,
+		"home_url": "https://github.com/vmuu/nongzhibang",
+		"repo_url": "https://github.com/vmuu/nongzhibang",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/vmuu/nongzhibang/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "vmuu(Mingjin)",
+		"email": "sscc@88.com",
+		"role": "Founder or Owner",
+		"id": 15614296
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1100,
+	"created_at": "2025-03-11T08:20:17Z"
+}

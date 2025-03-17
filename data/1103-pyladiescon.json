@@ -1,0 +1,24 @@
+{
+	"account": "pyladiescon.1password.com",
+	"project": {
+		"name": "PyLadiesCon",
+		"description": "PyLadiesCon is a an online conference for the Global PyLadies community.\nThis conference is designed to promote diversity, learning, and empowerment within the Python community. We enthusiastically welcome presenters from members and supporters of the PyLadies Community.",
+		"contributors": 7,
+		"home_url": "https://conference.pyladies.com",
+		"repo_url": "https://github.com/pyladies/global-conference",
+		"license_type": "MIT",
+		"license_url": "https://github.com/pyladies/global-conference/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mariatta Wijaya",
+		"email": "pyladiescon@pyladies.com",
+		"role": "Organizer or Admin",
+		"id": 5844587
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1103,
+	"created_at": "2025-03-13T19:46:23Z"
+}

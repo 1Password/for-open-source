@@ -1,0 +1,24 @@
+{
+	"account": "embulk.1password.com",
+	"project": {
+		"name": "Embulk",
+		"description": "Embulk is an open-source pluggable bulk data loader. It helps data transfer between types of databases, storages, file formats, cloud services, and else.\n\nThe project runs through the core framework and plugins. Each has maintainers and contributors. Some plugins are maintained by the Embulk project, and other plugins are maintained by individuals and companies outside the project.\n\nThe core maintainers and some of plugin maintainers are recognized as the “Core team”.",
+		"contributors": 8,
+		"home_url": "https://www.embulk.org/",
+		"repo_url": "https://github.com/embulk",
+		"license_type": "Apache License, 2.0",
+		"license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Dai Mikurube",
+		"email": "dmikurube@acm.org",
+		"role": "Core Maintainer",
+		"id": 723722
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1106,
+	"created_at": "2025-03-17T09:21:03Z"
+}

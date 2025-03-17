@@ -1,0 +1,24 @@
+{
+	"account": "okd-project.1password.eu",
+	"project": {
+		"name": "OKD",
+		"description": "OKD is a very opinionated distribution of Kubernetes.\n\nWe add some features directly as modifications into Kubernetes, but mostly we augment the platform by “preinstalling” a large amount of pieces of software called “Operators” into the deployed cluster.\n\nThese operators then provide all of our cluster components (over 100 of them!) which make up the platform, such as OS upgrades, web consoles, monitoring and image building\n\nThe project also produces OKDerators. It provides integrations with ecosystem projects such as Rook-Ceph, Istio, ArgoCD.\n\nOKD is the upstream/community project for RedHat OpenShift",
+		"contributors": 10,
+		"home_url": "https://okd.io",
+		"repo_url": "https://github.com/okd-project/okd",
+		"license_type": "Apache + others (many components)",
+		"license_url": "https://github.com/okd-project/okd/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Zed Spencer-Milnes",
+		"email": "zed@ziax.com",
+		"role": "Organizer or Admin",
+		"id": 4943487
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1101,
+	"created_at": "2025-03-12T23:16:47Z"
+}

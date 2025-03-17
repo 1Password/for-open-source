@@ -1,0 +1,22 @@
+{
+	"account": "homeoperations.1password.com",
+	"project": {
+		"name": "Home Operations",
+		"description": "We (@danmanners, @bjw-s, @buroa and I) are looking to centralize a bunch of projects the Home Operations group has been working on for years, some of these included are listed below.\n\nWe have had the home-operations github org for awhile now and we finally now have time to work on migrating repos to it. Having a teams account would really help consolidate the passwords, pats, tokens and more that are needed to support such projects",
+		"contributors": 3,
+		"home_url": "https://github.com/home-operations",
+		"license_type": "MIT",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Devin Buhl",
+		"email": "devin.kray@gmail.com",
+		"role": "Founder or Owner",
+		"id": 213795
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1107,
+	"created_at": "2025-03-17T13:53:23Z"
+}

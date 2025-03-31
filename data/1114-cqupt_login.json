@@ -1,0 +1,23 @@
+{
+	"account": "songzx.1password.com",
+	"project": {
+		"name": "CQUPT_Login",
+		"description": "Automated campus network login toolkit with multi-version support and speed optimization for Dori-compatible universities.",
+		"contributors": 2,
+		"home_url": "https://github.com/bangbang-0/CQUPT_login",
+		"license_type": "MIT",
+		"license_url": "https://github.com/bangbang-0/CQUPT_login/blob/master/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "bangbang",
+		"email": "2978908628@qq.com",
+		"role": "Founder or Owner",
+		"id": 88264662
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1114,
+	"created_at": "2025-03-25T18:41:27Z"
+}

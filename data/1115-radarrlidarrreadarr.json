@@ -1,0 +1,23 @@
+{
+	"account": "servarr.1password.com",
+	"project": {
+		"name": "Radarr/Lidarr/Readarr",
+		"description": "Media managers for movie, music, and ebook libraries.",
+		"contributors": 5,
+		"home_url": "https://github.com/Radarr",
+		"license_type": "GPL",
+		"license_url": "https://github.com/Radarr/Radarr/blob/develop/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Servarr Development",
+		"email": "development@servarr.com",
+		"role": "Founder or Owner",
+		"id": 32001786
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1115,
+	"created_at": "2025-03-25T20:15:25Z"
+}

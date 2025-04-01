@@ -1,0 +1,24 @@
+{
+	"account": "hacksst.1password.com",
+	"project": {
+		"name": "Hack@SST",
+		"description": "We are working in a group to build this simple software where Teachers or Instructors can have account and add students into their class. Teachers can add Announcements, Mark Attendance and Create Events. We are planning for automated emails in the future and much more features to come. It is mainly built for Hack Club right now but people can take the code and adapt it to what they want as well as customize the user interface. There is also API for people to link it to their forms for a better integration",
+		"contributors": 5,
+		"home_url": "https://hackatsst.hackclub.com",
+		"repo_url": "https://github.com/jay-lchicken/Hack-SST",
+		"license_type": "MIT",
+		"license_url": "https://github.com/jay-lchicken/Hack-SST/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Lai Hong Yu",
+		"email": "joyjay606@gmail.com",
+		"role": "Founder or Owner",
+		"id": 167660133
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1117,
+	"created_at": "2025-03-26T23:05:38Z"
+}

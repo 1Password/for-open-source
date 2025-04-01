@@ -1,0 +1,24 @@
+{
+	"account": "team-plazmamc.1password.com",
+	"project": {
+		"name": "PlazmaMC",
+		"description": "A Server Platform for Minecraft: Java Edition based on Paper, which provides the fastest performance",
+		"contributors": 2,
+		"home_url": "https://github.com/PlazmaMC/PlazmaBukkit",
+		"repo_url": "https://github.com/PlazmaMC/PlazmaBukkit",
+		"license_type": "MIT",
+		"license_url": "https://github.com/PlazmaMC/PlazmaBukkit?tab=MIT-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "AlphaKR93",
+		"email": "jh@alpha93.kr",
+		"role": "Founder or Owner",
+		"id": 44059783
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1110,
+	"created_at": "2025-03-22T15:38:41Z"
+}

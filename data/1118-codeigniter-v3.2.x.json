@@ -1,0 +1,24 @@
+{
+	"account": "bearlabs.1password.com",
+	"project": {
+		"name": "CodeIgniter v3.2.x",
+		"description": "Repackaged version of CodeIgniter’s system framework, compatible with Composer and PHP 7, PHP 8\n\nMain features\n\nAdded some extension libraries, related helpers\n\n\n[x] Base Controllers with many available protected methods\n[x] Support HMVC model\n[x] Support RESTful Web Service\n[x] Support Queue Worker\n[x] Support MongoDB database\n[x] Support Elasticsearch: Use third party packages \"elasticsearch/elasticsearch\": \"^8.0 || ^7.0 || ^6.0 || ^5.0\"\n[x] Support Base Model class with some basic functions enough for SQL\n[x] Support ORM Model class, providing a simpler and easier method to query\n[x] Support Output Response on CLI interface via function ResponseOutput::writeLn($message)\n[x] Added StatusCodes class to declare standard HTTP codes (from Symfony framework),\nFor example: StatusCodes::HTTP_OK. For more details, please refer to class StatusCodes\n[x] Add many useful helpers with the built-in package nguyenanhung/codeigniter-basic-helper via\nComposer\n\n\nCodeIgniter Basic Helper\n\n\nOver the years of programming with CodeIgniter, I have collected, built and written quite a few helpers, I have\npackaged\nthem into the package nguyenanhung/codeigniter-basic-helper and integrated them into this package.\nThis helper package is still being operated and developed by me every day, the number of projects integrating the\nfunctions in this package has reached\nthousands",
+		"contributors": 3,
+		"home_url": "https://github.com/nguyenanhung/codeigniter-framework",
+		"repo_url": "https://github.com/nguyenanhung/codeigniter-framework",
+		"license_type": "MIT",
+		"license_url": "https://github.com/nguyenanhung/codeigniter-framework/blob/master/license.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nguyen An Hung",
+		"email": "hungna.dev@gmail.com",
+		"role": "Core Maintainer",
+		"id": 9348255
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1118,
+	"created_at": "2025-03-28T14:22:04Z"
+}

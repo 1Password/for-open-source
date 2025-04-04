@@ -1,0 +1,24 @@
+{
+	"account": "taskfile.1password.com",
+	"project": {
+		"name": "Task",
+		"description": "An automation tool / task running / alternative to Makefiles.",
+		"contributors": 3,
+		"home_url": "https://taskfile.dev/",
+		"repo_url": "https://github.com/go-task/task",
+		"license_type": "MIT",
+		"license_url": "https://github.com/go-task/task/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Andrey Nering",
+		"email": "andrey@nering.com.br",
+		"role": "Founder or Owner",
+		"id": 7011819
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1151,
+	"created_at": "2025-03-31T19:05:12Z"
+}

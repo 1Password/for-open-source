@@ -1,0 +1,24 @@
+{
+	"account": "kroxylicious.1password.com",
+	"project": {
+		"name": "Kroxylicious",
+		"description": "Kroxylicious is an Apache Kafka® protocol-aware proxy. It can be used to layer uniform behaviours onto a Kafka based system in areas such as data-governance, security, policy enforcement and audit without needing to change either the applications or the Kafka Cluster.",
+		"contributors": 6,
+		"home_url": "https://kroxylicious.io/",
+		"repo_url": "https://github.com/kroxylicious/kroxylicious",
+		"license_type": "Apache-2.0",
+		"license_url": "https://raw.githubusercontent.com/kroxylicious/kroxylicious/refs/heads/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Keith Wall",
+		"email": "k-wall@commonhaus.dev",
+		"role": "Core Maintainer",
+		"id": 18440250
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1160,
+	"created_at": "2025-04-03T10:28:37Z"
+}

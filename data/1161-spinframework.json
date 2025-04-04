@@ -1,0 +1,24 @@
+{
+	"account": "spinframework.1password.com",
+	"project": {
+		"name": "Spinframework",
+		"description": "Spinframework is an OSS organization that includes two CNCF projects, Spin (see also its GitHub repo) and SpinKube.  Both are currently in CNCF Sandbox status.\n\nSpin is a framework for building and running event-driven microservice applications with WebAssembly (Wasm) components.\n\nSpinKube is an open source, Kubernetes native project that streamlines developing, deploying, and operating WebAssembly (Wasm) workloads in Kubernetes.",
+		"contributors": 19,
+		"home_url": "https://spinframework.dev",
+		"repo_url": "https://github.com/spinframework/spin",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/spinframework/spin/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Vaughn Dice",
+		"email": "vaughn.dice@fermyon.com",
+		"role": "Core Maintainer",
+		"id": 9322017
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1161,
+	"created_at": "2025-04-03T17:57:58Z"
+}

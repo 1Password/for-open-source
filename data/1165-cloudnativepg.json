@@ -1,0 +1,24 @@
+{
+	"account": "cloudnativepg.1password.com",
+	"project": {
+		"name": "CloudNativePG",
+		"description": "CloudNativePG is the Kubernetes operator that covers the full lifecycle of a highly available PostgreSQL database cluster with a primary/standby architecture, using native streaming replication.",
+		"contributors": 8,
+		"home_url": "https://cloudnative-pg.io/",
+		"repo_url": "https://github.com/cloudnative-pg/cloudnative-pg",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/cloudnative-pg/cloudnative-pg/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jonathan Gonzalez V.",
+		"email": "info@cloudnative-pg.io",
+		"role": "Core Maintainer",
+		"id": 908247
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1165,
+	"created_at": "2025-04-05T09:59:16Z"
+}

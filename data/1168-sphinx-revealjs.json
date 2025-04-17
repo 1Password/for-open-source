@@ -1,0 +1,24 @@
+{
+	"account": "attakei.1password.com",
+	"project": {
+		"name": "sphinx-revealjs",
+		"description": "This is HTML presentation generator working as Sphinx extension.\nUsers can create slides from reStructuredText, Markdown and other formats supported by docutils.",
+		"contributors": 1,
+		"home_url": "https://attakei.github.io/sphinx-revealjs",
+		"repo_url": "https://github.com/attakei/sphinx-revealjs/",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/attakei/sphinx-revealjs/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Kazuya Takei",
+		"email": "myself@attakei.net",
+		"role": "Founder or Owner",
+		"id": 668834
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1168,
+	"created_at": "2025-04-12T19:05:31Z"
+}

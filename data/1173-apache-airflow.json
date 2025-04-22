@@ -1,0 +1,23 @@
+{
+	"account": "airflowkoreacommunity.1password.com",
+	"project": {
+		"name": "Apache Airflow",
+		"description": "Airflow Korea Community is a non-profit community in South Korea dedicated to Apache Airflow, an open-source platform for orchestrating complex data workflows. We host regular meetups and workshops, and support the project through active open-source contributions. and also operate a dedicated community forum to support local users and foster collaboration.",
+		"contributors": 10,
+		"home_url": "https://www.meetup.com/apache-airflow-users-korea/",
+		"repo_url": "https://github.com/AirflowKorea",
+		"license_type": "Apache-2.0 license",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Yeonguk Choo",
+		"email": "airflowuserskorea@gmail.com",
+		"role": "Founder or Owner",
+		"id": 54111883
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1173,
+	"created_at": "2025-04-19T04:24:32Z"
+}

@@ -1,0 +1,22 @@
+{
+	"account": "edge-oss.1password.com",
+	"project": {
+		"name": "Edge Platform",
+		"description": "We want to bring the ease of iOS development to Edge devices. This means a custom linux distribution and development stack - including IDE extension, frameworks, debugging setup. The SDKs/frameworks are going to be written and available in Swift. Everything is going to be open source.",
+		"contributors": 4,
+		"home_url": "https://edgeos.io/",
+		"repo_url": "https://github.com/apache-edge/edge-agent",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mihai Chiorean",
+		"email": "mihai@wendy.sh",
+		"role": "Founder or Owner",
+		"id": 2073397
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1174,
+	"created_at": "2025-04-19T11:48:55Z"
+}

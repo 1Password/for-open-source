@@ -1,0 +1,24 @@
+{
+	"account": "pythonnz.1password.com",
+	"project": {
+		"name": "Python New Zealand",
+		"description": "Python New Zealand is a registered charity promoting Python in New Zealand.\nWe\n* Organise regular meetups in multiple cities and online\n* Organise a yearly conference - Kiwi PyCon\n* Publish all talks on YouTube\n* Have free software in our repos\n* This includes MIT-licensed software published on PyPI like pdfbaker\n* are all unpaid volunteers",
+		"contributors": 8,
+		"home_url": "https://python.nz",
+		"repo_url": "https://github.com/pythonnz",
+		"license_type": "Registered charity",
+		"license_url": "https://python.nz/about/rules/",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Danny Adair",
+		"email": "treasurer@python.nz",
+		"role": "Founder or Owner",
+		"id": 699074
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1181,
+	"created_at": "2025-05-01T20:50:43Z"
+}

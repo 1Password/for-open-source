@@ -1,0 +1,24 @@
+{
+	"account": "sustainoss.1password.com",
+	"project": {
+		"name": "SustainOSS",
+		"description": "I am the main organizer behind SustainOSS, in that I hold the keys for our Zoom, Mailchimp, etc. We run conferences on open source sustainability, and I have been the main host of a podcast on sustaining open source for the last seven~ years. You can see that, here t podcast.sustainoss.org/.\n\nI also maintain hundreds of other open source repositories (only a few really active, though, tbh), and I am one of the organizers for CURIOSS at curioss.org, and the executive director of GNOME foundation.gnome.org.",
+		"contributors": 4,
+		"home_url": "https://sustainoss.org",
+		"repo_url": "https://github.com/sustainers/",
+		"license_type": "MIT",
+		"license_url": "https://github.com/sustainers/sustainers.github.io/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Richard Littauer",
+		"email": "richard.littauer@gmail.com",
+		"role": "Founder or Owner",
+		"id": 910753
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1178,
+	"created_at": "2025-04-26T01:10:36Z"
+}

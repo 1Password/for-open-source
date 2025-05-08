@@ -1,0 +1,21 @@
+{
+	"account": "mungienteam.1password.com",
+	"project": {
+		"name": "Mungien Team",
+		"description": "We develop diverse Android applications through structured annual programs. Each resulting app is published as open source, fostering learning and collaboration while contributing practical mobile tools back to the community.",
+		"contributors": 7,
+		"home_url": "https://mungien.tech/",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mohamed Magdy",
+		"email": "mohamed.ahmed@onmail.com",
+		"role": "Founder or Owner",
+		"id": 166432163
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1183,
+	"created_at": "2025-05-05T16:57:47Z"
+}

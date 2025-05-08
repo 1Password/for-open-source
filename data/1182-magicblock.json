@@ -1,0 +1,24 @@
+{
+	"account": "sducktech.1password.com",
+	"project": {
+		"name": "MagicBlock",
+		"description": "MagicBlock is a non-profit, open-source Minecraft plugin that adds magic blocks and food items with limited uses and player binding. It enhances server gameplay with unique interactive items and management features.",
+		"contributors": 120,
+		"home_url": "https://www.magicblock-plugin.click/",
+		"repo_url": "https://github.com/Syferie/MagicBlock",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Syferie/MagicBlock/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Tela Frank",
+		"email": "syferie@gmail.com",
+		"role": "Founder or Owner",
+		"id": 173250680
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1182,
+	"created_at": "2025-05-03T03:21:53Z"
+}

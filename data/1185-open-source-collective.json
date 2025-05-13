@@ -1,0 +1,24 @@
+{
+	"account": "opensourcecollective.1password.com",
+	"project": {
+		"name": "Open Source Collective",
+		"description": "Open Source Collective is a 501©(6) nonprofit fiscal host providing the financial and legal infrastructure for over 2,500 open source projects. Our mission is to promote sustainability and health in the open source ecosystem, while working to benefit all those who create and use open source software.",
+		"contributors": 5,
+		"home_url": "https://oscollective.org/",
+		"repo_url": "https://github.com/Open-Source-Collective",
+		"license_type": "MIT",
+		"license_url": "https://github.com/opencollective/opencollective?tab=MIT-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Lauren Gardner",
+		"email": "lauren@oscollective.org",
+		"role": "Team Member or Employee",
+		"id": 2982181
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1185,
+	"created_at": "2025-05-12T21:33:13Z"
+}

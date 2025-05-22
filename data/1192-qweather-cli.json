@@ -1,0 +1,23 @@
+{
+	"account": "team-sul.1password.com",
+	"project": {
+		"name": "Qweather-cli",
+		"description": "QWeather CLI is a command-line weather query tool based on QWeather API that supports real-time weather information retrieval by city name. It offers fuzzy city search functionality (supporting Chinese, Pinyin, and English), real-time weather data queries, multi-city weather comparison, and features weather map visualization and temperature heatmap generation. Technically, it implements automatic JWT token generation and refresh, multi-level administrative division display, and other features.\n\nThe built-in Telegram bot not only supports basic weather queries (commands like /start, /setcity, /weather, /compare), but also provides scheduled reminder functionality that can automatically push weather forecasts at specified times, allowing users to stay informed about weather changes and prepare in advance. Whether through the command line or chat bot, users can conveniently access accurate weather information.",
+		"contributors": 2,
+		"home_url": "https://github.com/Nyauw/Qweather-cli/",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Nyauw/Qweather-cli/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Su",
+		"email": "a@nyau.me",
+		"role": "Founder or Owner",
+		"id": 61965820
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1192,
+	"created_at": "2025-05-19T02:19:19Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "team-narwhals.1password.com",
+	"project": {
+		"name": "Narwhals",
+		"description": "Narwhals is a lightweight compatibility layer between dataframe libraries. It is used by major data science libraries such as Plotly, Altair, Bokeh, Marimo, and more.",
+		"contributors": 4,
+		"home_url": "https://narwhals-dev.github.io/narwhals/",
+		"repo_url": "https://github.com/narwhals-dev/narwhals",
+		"license_type": "MIT",
+		"license_url": "https://github.com/narwhals-dev/narwhals?tab=MIT-1-ov-file",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Marco Gorelli",
+		"email": "hello_narwhals@proton.me",
+		"role": "Founder or Owner",
+		"id": 33491632
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1191,
+	"created_at": "2025-05-18T15:04:13Z"
+}

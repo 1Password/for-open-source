@@ -1,0 +1,24 @@
+{
+	"account": "rightsinfocus.1password.com",
+	"project": {
+		"name": "Digital Era Project",
+		"description": "Our project aims to build a piece of OSS that will allow photojournalists to contribute photos \u0026 stories to an archive so that we can better educate people on, document, and promote human rights. This software will be an OSI for anyone to use and modify for their needs, whether it be human rights, or a general news website.",
+		"contributors": 9,
+		"home_url": "https://github.com/TFFHRTP",
+		"repo_url": "https://github.com/TFFHRTP/tffhrtp.github.io",
+		"license_type": "MIT",
+		"license_url": "https://github.com/TFFHRTP/tffhrtp.github.io/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Matthew Davis",
+		"email": "mdavis@tffhrtp.org",
+		"role": "Founder or Owner",
+		"id": 159745113
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1195,
+	"created_at": "2025-05-22T03:52:18Z"
+}

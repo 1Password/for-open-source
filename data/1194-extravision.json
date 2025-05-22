@@ -1,0 +1,23 @@
+{
+	"account": "flole.1password.com",
+	"project": {
+		"name": "ExtraVision",
+		"description": "ExtraVision aims at enhancing lawnmowers by injecting additional functionality. The original code of the manufacturer will not be touched in any way, instead we hook into functions of open source libraries by LD_PRELOADing them.\n\nThere have been requests for access to resources/mowers from interested developers and we intent to use 1password for managing those.",
+		"contributors": 4,
+		"home_url": "https://bitbucket.org/Flole998/extravision",
+		"license_type": "GPLv3",
+		"license_url": "https://bitbucket.org/Flole998/extravision/src/main/LICENSE.md",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Flole",
+		"email": "flole@flole.de",
+		"role": "Founder or Owner",
+		"id": 9951871
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1194,
+	"created_at": "2025-05-20T21:09:28Z"
+}

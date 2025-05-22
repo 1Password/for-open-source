@@ -1,0 +1,23 @@
+{
+	"account": "xcodebuildmcp.1password.com",
+	"project": {
+		"name": "XcodeBuildMCP",
+		"description": "I’m building an Open Source MCP server to aid development of iOS/macOS/visionOS and watchOS apps using AI tools like Cursor and Claude Code etc.",
+		"contributors": 2,
+		"home_url": "https://github.com/cameroncooke/XcodeBuildMCP",
+		"license_type": "MIT",
+		"license_url": "https://github.com/cameroncooke/XcodeBuildMCP/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Cameron Cooke",
+		"email": "web@cameroncooke.com",
+		"role": "Founder or Owner",
+		"id": 630601
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1188,
+	"created_at": "2025-05-13T15:20:30Z"
+}

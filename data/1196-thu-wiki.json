@@ -1,0 +1,24 @@
+{
+	"account": "tsinghuauniversityteam.1password.com",
+	"project": {
+		"name": "THU Wiki",
+		"description": "thu-wiki is an open source initiative by the Tsinghua University Student Network Service Team, dedicated to building a collaborative, community-driven, AI integrated knowledge base for Tsinghua University.\n\nOur goal is to make information more accessible and useful for students, faculty, and the broader community.",
+		"contributors": 5,
+		"home_url": "https://thu-wiki",
+		"repo_url": "https://github.com/thusns/thu-wiki",
+		"license_type": "MIT",
+		"license_url": "https://github.com/thusns/thu-wiki/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Erban Ku",
+		"email": "i_already_provided_it_by_emailing_opensource@1password.com",
+		"role": "Founder or Owner",
+		"id": 79493862
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1196,
+	"created_at": "2025-05-23T01:15:31Z"
+}

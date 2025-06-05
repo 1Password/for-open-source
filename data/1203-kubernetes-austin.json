@@ -1,0 +1,22 @@
+{
+	"account": "kubernetesaustin.1password.com",
+	"project": {
+		"name": "Kubernetes Austin",
+		"description": "Kubernetes Austin is the official Kubernetes meetup for Austin, Texas. We host talks from anyone doing cool things with Kubernetes, including companies using K8S in production or vendors pushing the boundaries of what K8S can do. Presentations are demo-focused and not sales pitches. Our meetups will always be FREE to attend!",
+		"contributors": 10,
+		"home_url": "https://community.cncf.io/kubernetes-austin/",
+		"repo_url": "https://github.com/k8sAustin",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Cristobal Nevares",
+		"email": "cris@crisnevares.io",
+		"role": "Organizer or Admin",
+		"id": 56050607
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1203,
+	"created_at": "2025-06-03T15:36:21Z"
+}

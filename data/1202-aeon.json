@@ -1,0 +1,24 @@
+{
+	"account": "team-aeon.1password.com",
+	"project": {
+		"name": "aeon",
+		"description": "aeon is a scikit-learn compatible toolkit for time series machine learning tasks such as classification, regression, clustering, anomaly detection, segmentation and similarity search. The package is implemented in Python and maintained/developed by a team of 11 core developers and many more regular contributors.",
+		"contributors": 11,
+		"home_url": "https://www.aeon-toolkit.org",
+		"repo_url": "https://github.com/aeon-toolkit/aeon",
+		"license_type": "BSD-3",
+		"license_url": "https://github.com/aeon-toolkit/aeon/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Matthew Middlehurst",
+		"email": "aeon.toolkit@gmail.com",
+		"role": "Organizer or Admin",
+		"id": 25731235
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1202,
+	"created_at": "2025-06-02T19:46:15Z"
+}

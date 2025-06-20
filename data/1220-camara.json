@@ -1,0 +1,24 @@
+{
+	"account": "camaraproject-team.1password.com",
+	"project": {
+		"name": "CAMARA",
+		"description": "CAMARA is an open source project within Linux Foundation to define, develop and test the APIs. CAMARA works in close collaboration with the GSMA Operator Platform Group to align API requirements and publish API definitions. Harmonization of APIs is achieved through fast and agile created working code with developer-friendly documentation. API definitions and reference implementations are free to use (Apache2.0 license).",
+		"contributors": 3,
+		"home_url": "https://camaraproject.org/",
+		"repo_url": "https://github.com/camaraproject",
+		"license_type": "Appache 2.0",
+		"license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Casey Cain",
+		"email": "ccain@linuxfoundation.org",
+		"role": "Organizer or Admin",
+		"id": 4486747
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1220,
+	"created_at": "2025-06-10T20:36:43Z"
+}

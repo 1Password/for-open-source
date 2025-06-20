@@ -1,0 +1,23 @@
+{
+	"account": "cognitoai.1password.com",
+	"project": {
+		"name": "gemini-balance",
+		"description": "Gemini Balance is an application built with Python FastAPI, designed to provide proxy and load balancing functions for the Google Gemini API. t allows you to manage multiple Gemini API Keys and implement key rotation, authentication, model filtering, and status monitoring through simple configuration.",
+		"contributors": 10,
+		"home_url": "https://github.com/snailyp/gemini-balance",
+		"repo_url": "https://github.com/snailyp/gemini-balance",
+		"license_type": "CC BY-NC 4.0",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "snaily",
+		"email": "wscjwyfegbvi@outlook.com",
+		"role": "Founder or Owner",
+		"id": 28538217
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1215,
+	"created_at": "2025-06-10T03:50:52Z"
+}

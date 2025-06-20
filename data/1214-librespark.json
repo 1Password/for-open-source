@@ -1,0 +1,24 @@
+{
+	"account": "librespark.1password.com",
+	"project": {
+		"name": "LibreSpark",
+		"description": "We are a freelance team that may reach about 10 people in the future.\nMainly maintaining the LibreTV program at the moment, with other projects in the future. Will never be profitable\nThks",
+		"contributors": 11,
+		"home_url": "https://github.com/orgs/LibreSpark/repositories",
+		"repo_url": "https://github.com/LibreSpark/LibreTV/",
+		"license_type": "Apache-2.0 license",
+		"license_url": "https://github.com/LibreSpark/LibreTV?tab=Apache-2.0-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Zwei Anx",
+		"email": "vibred@pm.me",
+		"role": "Founder or Owner",
+		"id": 110226580
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1214,
+	"created_at": "2025-06-10T02:59:33Z"
+}

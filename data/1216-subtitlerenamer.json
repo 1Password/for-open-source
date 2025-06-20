@@ -1,0 +1,24 @@
+{
+	"account": "nuthx.1password.com",
+	"project": {
+		"name": "SubtitleRenamer",
+		"description": "SubtitleRenamer is a cross-platform, Python-based tool for batch-renaming subtitles for anime and movies. It is specifically designed for anime, supporting advanced features such as Simplified and Traditional Chinese recognition, custom suffixes, text encoding conversion and more.",
+		"contributors": 4,
+		"home_url": "https://github.com/nuthx/subtitle-renamer",
+		"repo_url": "https://github.com/nuthx/subtitle-renamer",
+		"license_type": "GNU General Public License v3.0",
+		"license_url": "https://github.com/nuthx/subtitle-renamer/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nuthx",
+		"email": "hi@nuthx.com",
+		"role": "Founder or Owner",
+		"id": 29234438
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1216,
+	"created_at": "2025-06-10T08:29:42Z"
+}

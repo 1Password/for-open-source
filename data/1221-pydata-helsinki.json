@@ -1,0 +1,22 @@
+{
+	"account": "pydatahelsinki.1password.com",
+	"project": {
+		"name": "PyData Helsinki",
+		"description": "There is a PyData Helsinki meetup group that has existed for years, but the original organizers seem to have disappeared and there has been a long hiatus. I represent a new team that took over the group with help from NumFOCUS and is now rebooting the meetups. We primarily need a team password manager for a few social media accounts such as our Fosstodon account pydata_helsinki.\n\nThis meetup is for those who work or aspire to work in fields like machine learning, data engineering, MLOps, visualization, and statistical modeling. We share real-world experiences about solving problems in these fields using open-source tools, including but not limited to Python and its libraries – users of R, Julia or other languages are welcome.",
+		"contributors": 6,
+		"home_url": "https://pydata-helsinki.github.io/",
+		"repo_url": "https://github.com/pydata-helsinki/pydata-helsinki.github.io/",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jouni Seppänen",
+		"email": "jks@iki.fi",
+		"role": "Organizer or Admin",
+		"id": 92814
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1221,
+	"created_at": "2025-06-11T08:49:30Z"
+}

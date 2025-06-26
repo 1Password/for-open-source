@@ -1,0 +1,24 @@
+{
+	"account": "steamtradingsitetracker.1password.com",
+	"project": {
+		"name": "Steam Trading Site Tracker",
+		"description": "Our open-source project empowers developers building solutions for Steam item trading. We offer three key resources: our main repository (2k+ stars) featuring a real-time information aggregation website for end-users; a dedicated repository of datasets for academic research and data analysis; and an ID mapping table to ensure item consistency across different platforms.",
+		"contributors": 5,
+		"home_url": "https://iflow.work/",
+		"repo_url": "https://github.com/EricZhu-42/SteamTradingSiteTracker",
+		"license_type": "MIT",
+		"license_url": "https://github.com/EricZhu-42/SteamTradingSiteTracker/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Xinhao Zhu",
+		"email": "zhuxinhao00@gmail.com",
+		"role": "Founder or Owner",
+		"id": 14954473
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1231,
+	"created_at": "2025-06-19T02:48:33Z"
+}

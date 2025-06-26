@@ -1,0 +1,24 @@
+{
+	"account": "team-sern.1password.com",
+	"project": {
+		"name": "sern",
+		"description": "sern is a discord.js framework with awesome dx.",
+		"contributors": 6,
+		"home_url": "https://sern.dev",
+		"repo_url": "https://github.com/sern-handler/handler",
+		"license_type": "MIT",
+		"license_url": "https://github.com/sern-handler/handler/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Izan Gil",
+		"email": "izan@srizan.dev",
+		"role": "Core Maintainer",
+		"id": 66965250
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1241,
+	"created_at": "2025-06-26T14:25:12Z"
+}

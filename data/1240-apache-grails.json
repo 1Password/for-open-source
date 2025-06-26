@@ -1,0 +1,24 @@
+{
+	"account": "apachegrails.1password.com",
+	"project": {
+		"name": "Apache Grails",
+		"description": "Grails is a powerful Groovy-based web application framework for the JVM built on top of Spring Boot that has many plugins to further extend its functionality.  We are transitioning from the Grails Foundation to being under the Apache Software Foundation.  As part of this transition, we need to transition from an existing 1password account managed by OCI to one that will be used by the community that is separate.",
+		"contributors": 9,
+		"home_url": "https://www.grails.org",
+		"repo_url": "https://github.com/apache/grails-core",
+		"license_type": "Apache 2.0",
+		"license_url": "https://raw.githubusercontent.com/apache/grails-core/refs/heads/7.0.x/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "James Daugherty",
+		"email": "jdaugherty@apache.org",
+		"role": "Core Maintainer",
+		"id": 2348239
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1240,
+	"created_at": "2025-06-25T22:13:41Z"
+}

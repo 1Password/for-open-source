@@ -1,0 +1,21 @@
+{
+	"account": "upanzinetwork.1password.com",
+	"project": {
+		"name": "Digital Public Infrastrcuture/Goods",
+		"description": "The Upanzi Network is a research lab at CMU-Africa, out work involves supporting the development, deployment, interoperability and sustainability of digital public goods across Africa.\nOur team collaborates on open-source infrastructure, security, data, health and their applications to advance inclusive and resilient digital ecosystems.",
+		"contributors": 60,
+		"home_url": "https://www.africa.engineering.cmu.edu/research/upanzi/index.html",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Samuel Emmanuel",
+		"email": "semmanue@andrew.cmu.edu",
+		"role": "Developer",
+		"id": 40133202
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1239,
+	"created_at": "2025-06-23T11:01:05Z"
+}

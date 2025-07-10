@@ -9,7 +9,8 @@
 
 ---
 
-## 🎁 Membership details
+#
+Membership details
 
 When you join the program, you'll get a free [1Password Teams](https://1password.com/teams) account. Here's what you can expect:
 

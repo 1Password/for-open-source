@@ -1,0 +1,24 @@
+{
+	"account": "debezium.1password.com",
+	"project": {
+		"name": "Debezium",
+		"description": "Debezium is the leading open-source change data capture platform, initially developed by Red Hat, and is now part of the Commonhaus Foundation.",
+		"contributors": 15,
+		"home_url": "https://debezium.io",
+		"repo_url": "https://github.com/debezium/debezium",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/debezium/debezium?tab=Apache-2.0-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Chris Cranford",
+		"email": "ccranfor@ibm.com",
+		"role": "Core Maintainer",
+		"id": 3255568
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1255,
+	"created_at": "2025-07-10T11:59:28Z"
+}

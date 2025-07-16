@@ -1,0 +1,23 @@
+{
+	"account": "vrc-worlds-manager.1password.com",
+	"project": {
+		"name": "VRC Worlds Manager v2",
+		"description": "VRC Worlds Manager is a third party application for VRChat, which helps users manage their favorite worlds (as the official client only supports favoriting 400, which is not enough in most cases). This does not attempt at modifying the client, and is an completely external tool, following VRChat API guidelines.",
+		"contributors": 2,
+		"home_url": "https://github.com/Raifa21/VRC-Worlds-Manager-v2",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Raifa21/VRC-Worlds-Manager-v2/blob/develop/LICENCE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Raifa",
+		"email": "raifa.works@gmail.com",
+		"role": "Founder or Owner",
+		"id": 79643312
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1251,
+	"created_at": "2025-07-06T09:31:21Z"
+}

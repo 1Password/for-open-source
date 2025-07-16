@@ -1,0 +1,24 @@
+{
+	"account": "superworld.1password.com",
+	"project": {
+		"name": "dnspod-monitor",
+		"description": "This service actively monitors your domain’s DNS records on DNSPod. Upon detection of any changes or updates, it promptly dispatches notifications. The system is designed for extensibility, allowing for bespoke integrations and tailored alert mechanisms.",
+		"contributors": 2,
+		"home_url": "https://github.com/harren-collections",
+		"repo_url": "https://github.com/harren-collections/dnspod-monitor",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/harren-collections/dnspod-monitor/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Harren",
+		"email": "huharren@gmail.com",
+		"role": "Founder or Owner",
+		"id": 191492043
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1260,
+	"created_at": "2025-07-12T04:45:21Z"
+}

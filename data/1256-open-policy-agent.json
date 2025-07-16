@@ -1,0 +1,24 @@
+{
+	"account": "openpolicyagent.1password.com",
+	"project": {
+		"name": "Open Policy Agent",
+		"description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine. It streamlines policy management across your stack for improved development, security and audit capability. OPA is a CNCF Graduated project.",
+		"contributors": 10,
+		"home_url": "https://www.openpolicyagent.org/",
+		"repo_url": "https://github.com/open-policy-agent/opa",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/open-policy-agent/opa/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Ash Narkar",
+		"email": "anarkar4387@gmail.com",
+		"role": "Core Maintainer",
+		"id": 3537328
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1256,
+	"created_at": "2025-07-10T17:37:14Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "nslondon.1password.eu",
+	"project": {
+		"name": "NSLondon",
+		"description": "NSLondon is a free, volunteer-run community for developers building on Apple platforms. We host monthly meetups in London, sharing talks, demos, and opportunities to connect across the iOS/macOS development ecosystem. We have over 3000 members, but are entirely non-profit and volunteer run. Our website is open source and hosted via GitHub Pages to help make our events and resources accessible to the wider community.",
+		"contributors": 5,
+		"home_url": "https://nslondon.com",
+		"repo_url": "https://github.com/NSLondon/NSLondon.github.io",
+		"license_type": "MIT",
+		"license_url": "https://nslondon.com",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Richard Das",
+		"email": "hello@nslondon.com",
+		"role": "Founder or Owner",
+		"id": 159581
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1253,
+	"created_at": "2025-07-08T10:03:31Z"
+}

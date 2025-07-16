@@ -1,0 +1,23 @@
+{
+	"account": "azuredream.1password.com",
+	"project": {
+		"name": "GeminiCraftChat/GCC",
+		"description": "This is a Minecraft server plugin project designed to integrate any form of AI into the Minecraft game, allowing players to interact with the AI or receive assistance from it in various tasks. The plugin is compatible with Bukkit-based servers. Unlike most similar plugins on the market, which are limited to chatbox interactions and offer no flexibility in customizing the API integration path, our plugin offers far greater playability. Our team spent five months developing this plugin, undergoing numerous rounds of testing. Despite the challenges and our small team size, we’ve made an excellent start with this project.",
+		"contributors": 3,
+		"home_url": "https://github.com/geminicraftchat/gcc",
+		"license_type": "MIT",
+		"license_url": "https://github.com/geminicraftchat/gcc/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mcxiaocai666 Ploow",
+		"email": "yu15863021368@outlook.com",
+		"role": "Core Maintainer",
+		"id": 128226436
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1250,
+	"created_at": "2025-07-04T01:05:52Z"
+}

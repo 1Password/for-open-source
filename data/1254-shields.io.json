@@ -1,0 +1,24 @@
+{
+	"account": "shieldsio.1password.com",
+	"project": {
+		"name": "Shields.io",
+		"description": "Developer tool providing free concise, consistent, and legible badges",
+		"contributors": 5,
+		"home_url": "https://shields.io/",
+		"repo_url": "https://github.com/badges/shields/",
+		"license_type": "CC 1.0 Universal",
+		"license_url": "https://github.com/badges/shields/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Paul Melnikow",
+		"email": "paul@shields.io",
+		"role": "Core Maintainer",
+		"id": 1487036
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1254,
+	"created_at": "2025-07-09T20:09:33Z"
+}

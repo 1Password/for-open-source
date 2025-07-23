@@ -1,0 +1,23 @@
+{
+	"account": "veeamcommunityhackathon.1password.com",
+	"project": {
+		"name": "Veeam Community Hackathon",
+		"description": "Dear 1Password,\n\nJonah and I are the organizers of the Veeam Community Hackathon. We are hosting this event for the third consecutive year.\n\nSince we started this event, password sharing has been a challenge, particularly as the team has grown. We are currently four people in the organizers’ team\n\nThe code developed during the event is private until judging is complete. From that moment forward, the code will be public.",
+		"contributors": 4,
+		"home_url": "https://veeamhackathon.com/",
+		"repo_url": "https://github.com/veeamcommunity",
+		"license_type": "MIT",
+		"is_event": true,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Maurice Kevenaar",
+		"email": "maurice@veeamhackathon.com",
+		"role": "Founder or Owner",
+		"id": 834643
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1263,
+	"created_at": "2025-07-16T20:13:28Z"
+}

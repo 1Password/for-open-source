@@ -1,0 +1,24 @@
+{
+	"account": "thehightable.1password.com",
+	"project": {
+		"name": "Stratosphere",
+		"description": "Effortlessly organize files, collaborate with ease, and access your data securely from any device, ensuring peace of mind.",
+		"contributors": 10,
+		"home_url": "https://stratosphere-snowy.vercel.app/",
+		"repo_url": "https://github.com/undead-reaper/stratosphere",
+		"license_type": "The GNU General Public License v3",
+		"license_url": "https://github.com/undead-reaper/stratosphere/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Dharam Soni",
+		"email": "dharamsoni1010@gmail.com",
+		"role": "Founder or Owner",
+		"id": 97768898
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1265,
+	"created_at": "2025-07-23T23:22:22Z"
+}

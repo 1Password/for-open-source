@@ -1,0 +1,24 @@
+{
+	"account": "zhenxun-org.1password.com",
+	"project": {
+		"name": "zhenxun_bot",
+		"description": "Based on Nonebot2，that supports multi-platform adaptation and multi-instance management, aka zhenxun bot",
+		"contributors": 10,
+		"home_url": "https://github.com/zhenxun-org/zhenxun_bot",
+		"repo_url": "https://github.com/zhenxun-org/zhenxun_bot",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/zhenxun-org/zhenxun_bot/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Evan Blake",
+		"email": "balconyjh@gmail.com",
+		"role": "Founder or Owner",
+		"id": 73932916
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1273,
+	"created_at": "2025-08-01T08:06:01Z"
+}

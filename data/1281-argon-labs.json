@@ -1,0 +1,24 @@
+{
+	"account": "argonlabs.1password.com",
+	"project": {
+		"name": "Argon Labs",
+		"description": "It’s like Pterodactyl. But for the modern era of server hosting. Built from the ground up in TypeScript with a fancy new UI and loads of features. An open-source docker management panel unlike others.",
+		"contributors": 3,
+		"home_url": "https://argon.software",
+		"repo_url": "https://github.com/argon-foss/argon",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/argon-foss/argon/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Julian van Doorn",
+		"email": "julian@argon.software",
+		"role": "Founder or Owner",
+		"id": 105443687
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1281,
+	"created_at": "2025-08-04T15:21:07Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "fraserhackclub.1password.com",
+	"project": {
+		"name": "Fraser Hack Club",
+		"description": "We are an open-source club teaching middle- and high-schoolers in Coquitlam, Canada programming, and we are fiscally sponsored by the Hack Foundation (d.b.a. Hack Club), making us a 501©3 registered non-profit.",
+		"contributors": 5,
+		"home_url": "http://fraser.hackclub.com/",
+		"repo_url": "https://github.com/FraserHackClub/fraserhackclub.github.io",
+		"license_type": "MIT",
+		"license_url": "https://github.com/FraserHackClub/fraserhackclub.github.io/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Paya Maroufi",
+		"email": "h2o.Drop2010+hackclub@gmail.com",
+		"role": "Founder or Owner",
+		"id": 73869323
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1271,
+	"created_at": "2025-07-30T19:21:44Z"
+}

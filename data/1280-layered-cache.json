@@ -1,0 +1,23 @@
+{
+	"account": "panjiajia.1password.com",
+	"project": {
+		"name": "layered cache",
+		"description": "LayeredCache is an open-source Go caching library that flexibly supports both in-memory and remote caches like Redis.\n\nFeatures:\n\nCombine or choose between memory and remote caches\n\nType-safe generic API with TypedCache[ID, T]\n\nCache penetration protection by caching nulls\n\nConcurrency control with singleflight\n\nMultiple serializers: JSON, MessagePack, etc.\n\nIndependent TTLs for each cache layer",
+		"contributors": 2,
+		"home_url": "https://github.com/biu7/layered-cache",
+		"license_type": "MIT",
+		"license_url": "https://github.com/biu7/layered-cache/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Pan Jiajia",
+		"email": "panjiajia@biu.to",
+		"role": "Founder or Owner",
+		"id": 15522872
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1280,
+	"created_at": "2025-08-04T05:43:31Z"
+}

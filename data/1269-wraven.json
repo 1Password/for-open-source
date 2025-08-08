@@ -1,0 +1,22 @@
+{
+	"account": "wraven.1password.com",
+	"project": {
+		"name": "WRAVEN",
+		"description": "WRAVEN is a student-led cybersecurity nonprofit focused on public threat research and open source tools. We study real-world threats, run hands-on workshops, and build projects to share with the community.",
+		"contributors": 6,
+		"home_url": "https://wraven.org",
+		"repo_url": "https://github.com/WRAVENproject",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Lochlan McElroy",
+		"email": "lochlan@wraven.org",
+		"role": "Founder or Owner",
+		"id": 85311595
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1269,
+	"created_at": "2025-07-29T04:28:23Z"
+}

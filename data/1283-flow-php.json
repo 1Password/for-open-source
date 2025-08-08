@@ -1,0 +1,24 @@
+{
+	"account": "flowphp.1password.com",
+	"project": {
+		"name": "Flow PHP",
+		"description": "Flow PHP is a free data processing framework for PHP available on MIT license.",
+		"contributors": 3,
+		"home_url": "https://flow-php/com",
+		"repo_url": "https://github.com/flow-php/flow",
+		"license_type": "MIT",
+		"license_url": "https://github.com/flow-php/flow/blob/1.x/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Norbert Orzechowicz",
+		"email": "norbert+flow@orzechowicz.pl",
+		"role": "Founder or Owner",
+		"id": 1921950
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1283,
+	"created_at": "2025-08-06T09:33:59Z"
+}

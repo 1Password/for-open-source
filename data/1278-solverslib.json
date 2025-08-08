@@ -1,0 +1,24 @@
+{
+	"account": "seattle-solvers.1password.com",
+	"project": {
+		"name": "SolversLib",
+		"description": "SolversLib is a FOSS control library for FTC Robotics, and is an easy way to use a command base modeled from FRC’s WPILib to control you robot. It provides complete command structures. It is non-breaking, which also allows you to build upon preexisting FTCLib codebases. We have many changes planned for the future, such as becoming one of the first FTC libraries with Coaxial Swerve and p2p/s2p controllers.",
+		"contributors": 10,
+		"home_url": "https://docs.seattlesolvers.com/",
+		"repo_url": "https://github.com/FTC-23511/SolversLib",
+		"license_type": "BSD 3-Clause",
+		"license_url": "https://github.com/FTC-23511/SolversLib/blob/master/LICENSE.md",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Arush Yadlapati",
+		"email": "arush.yadlapati@gmail.com",
+		"role": "Founder or Owner",
+		"id": 112827565
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1278,
+	"created_at": "2025-08-03T22:28:11Z"
+}

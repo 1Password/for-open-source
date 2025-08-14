@@ -1,0 +1,24 @@
+{
+	"account": "lingmo.1password.com",
+	"project": {
+		"name": "Lingmo OS",
+		"description": "Lingmo OS is a Debian-based Linux distribution featuring a custom-built LingmoUI desktop environment. The project’s main goal is to provide users with a unified and practical desktop, software that is compatible with the desktop environment, and a smooth experience, even on low-performance hardware.",
+		"contributors": 20,
+		"home_url": "https://lingmo.org/",
+		"repo_url": "https://github.com/LingmoOS/LingmoOS",
+		"license_type": "GPLv3",
+		"license_url": "https://github.com/LingmoOS/LingmoOS/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "chun-awa",
+		"email": "chun-awa@outlook.com",
+		"role": "Core Maintainer",
+		"id": 110163919
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1287,
+	"created_at": "2025-08-09T07:46:53Z"
+}

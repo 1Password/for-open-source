@@ -1,0 +1,23 @@
+{
+	"account": "modern-szu-thesis.1password.com",
+	"project": {
+		"name": "modern-szu-thesis",
+		"description": "The “modern-szu-thesis” is thesis template for SZU(Shenzhen University) undergraduates and graduates writing in Typst. This project makes us writing theses that complie faster and are easier to maintian and will be maintianed annually to obey schools` rules and entrys.",
+		"contributors": 2,
+		"home_url": "https://typst.app/universe/package/modern-szu-thesis/",
+		"repo_url": "https://github.com/yjdyamv/modern-szu-thesis",
+		"license_type": "MIT",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "yjdyamv",
+		"email": "yjdyamv@tutamail.com",
+		"role": "Founder or Owner",
+		"id": 176933297
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1282,
+	"created_at": "2025-08-05T14:31:35Z"
+}

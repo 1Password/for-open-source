@@ -1,0 +1,22 @@
+{
+	"account": "sohot.1password.com",
+	"project": {
+		"name": "SoHot",
+		"description": "SoHot is A Go-based file monitoring and hot-reload tool that automatically watches for file changes, compiles your Go applications, and restarts them during development. Similar to nodemon for Node.js, SoHot streamlines your Go development workflow by eliminating manual build and restart cycles.",
+		"contributors": 2,
+		"home_url": "https://github.com/qwenode/sohot",
+		"license_type": "MIT",
+		"license_url": "https://github.com/qwenode/sohot?tab=MIT-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Node",
+		"email": "newforever2030@gmail.com",
+		"role": "Founder or Owner",
+		"id": 8974108
+	},
+	"can_contact": true,
+	"issue_number": 1291,
+	"created_at": "2025-08-14T08:49:28Z"
+}

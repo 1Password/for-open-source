@@ -1,0 +1,24 @@
+{
+	"account": "fairpackagemanager.1password.com",
+	"project": {
+		"name": "FAIR Package Manager",
+		"description": "The FAIR Package Manager is an open-source initiative of The FAIR Web Foundation, a Linux Foundation project. Our goal is to rethink how software is distributed and managed in the world of open web publishing. We focus on decentralization, transparency, and giving users more control. Our community brings together developers, infrastructure providers, and open web contributors and advocates who all share the same mission: to move away from centralized systems and empower site owners and hosting providers with greater independence.",
+		"contributors": 20,
+		"home_url": "https://github.com/fairpm",
+		"repo_url": "https://github.com/fairpm",
+		"license_type": "GNU GENERAL PUBLIC LICENSE",
+		"license_url": "https://github.com/fairpm/mini-fair-repo/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Benjamin Sternthal",
+		"email": "operations@fair.pm",
+		"role": "Program Manager",
+		"id": 198507
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1297,
+	"created_at": "2025-08-21T21:04:52Z"
+}

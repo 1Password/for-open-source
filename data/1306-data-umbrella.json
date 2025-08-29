@@ -1,0 +1,24 @@
+{
+	"account": "dataumbrella.1password.com",
+	"project": {
+		"name": "Data Umbrella",
+		"description": "Data Umbrella’s mission is to provide a welcoming and educational space for underrepresented persons in the fields of machine learning, data science, artificial intelligence (ML/DS/AI) with the goal of advancing their participation in the data science and open source communities.",
+		"contributors": 3,
+		"home_url": "https://www.dataumbrella.org",
+		"repo_url": "https://github.com/data-umbrella",
+		"license_type": "MIT",
+		"license_url": "https://github.com/data-umbrella/data-umbrella-website/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Reshama Shaikh",
+		"email": "reshama.stat@gmail.com",
+		"role": "Founder or Owner",
+		"id": 2507232
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1306,
+	"created_at": "2025-08-29T16:16:27Z"
+}

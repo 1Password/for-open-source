@@ -1,0 +1,23 @@
+{
+	"account": "nosesisaid.1password.com",
+	"project": {
+		"name": "Fumo-API",
+		"description": "Rest API and infrastructure for a service of images of fumos (japanese Tohou plushies), made using Rust.",
+		"contributors": 1,
+		"home_url": "https://github.com/Nosesisaid/fumo-API/tree/v3",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Nosesisaid/fumo-API/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Victorio Medina",
+		"email": "1pass@nosesisaid.com",
+		"role": "Founder or Owner",
+		"id": 74506415
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1304,
+	"created_at": "2025-08-28T01:06:33Z"
+}

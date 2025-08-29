@@ -1,0 +1,24 @@
+{
+	"account": "hibernate.1password.com",
+	"project": {
+		"name": "Hibernate",
+		"description": "The Hibernate projects offer a suite of powerful Java libraries to work with data. It is best known for Hibernate ORM, which provides relational persistence for Java models and is an implementation of the Jakarta Persistence specification.\n\nHibernate projects are part of the Commonhaus Foundation.",
+		"contributors": 15,
+		"home_url": "https://hibernate.org",
+		"repo_url": "https://github.com/hibernate/hibernate-orm/",
+		"license_type": "Apache Software License v2",
+		"license_url": "https://github.com/hibernate/hibernate-orm/blob/main/LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Yoann Rodiere",
+		"email": "yoann@hibernate.org",
+		"role": "Organizer or Admin",
+		"id": 412878
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1296,
+	"created_at": "2025-08-21T13:40:05Z"
+}

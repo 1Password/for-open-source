@@ -1,0 +1,24 @@
+{
+	"account": "voicevox.1password.com",
+	"project": {
+		"name": "VOICEVOX",
+		"description": "Free, community-driven Japanese speech and singing synthesis. Modular architecture: Editor (GUI), Engine (HTTP API), and Core (inference) for easy integration and automation.",
+		"contributors": 5,
+		"home_url": "https://voicevox.hiroshiba.jp/",
+		"repo_url": "https://github.com/VOICEVOX/voicevox",
+		"license_type": "MIT（Core）, LGPL-3.0（Engine, Editor）",
+		"license_url": "https://github.com/VOICEVOX/voicevox/blob/main/LGPL_LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Hiroshiba Kazuyuki",
+		"email": "hihokaruta@gmail.com",
+		"role": "Founder or Owner",
+		"id": 4987327
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1290,
+	"created_at": "2025-08-13T01:22:29Z"
+}

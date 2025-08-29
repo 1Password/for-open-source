@@ -1,0 +1,21 @@
+{
+	"account": "team-tvtba.1password.com",
+	"project": {
+		"name": "clearurl-extension",
+		"description": "A lightweight browser extension that automatically removes tracking parameters from URLs to enhance your privacy while browsing.",
+		"contributors": 3,
+		"home_url": "https://github.com/jymadrid/clearurl-extension",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "fisher",
+		"email": "jyrealmadrid88@gmail.com",
+		"role": "Founder or Owner",
+		"id": 90808872
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1288,
+	"created_at": "2025-08-11T06:19:57Z"
+}

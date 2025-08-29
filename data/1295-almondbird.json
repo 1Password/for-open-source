@@ -1,0 +1,23 @@
+{
+	"account": "almondbird.1password.eu",
+	"project": {
+		"name": "Almondbird",
+		"description": "Build native iOS \u0026 Android apps with just HTML. No Swift, no Java—just your code, our framework, and a 3-minute setup. 100% open source. Used by devs and hackers alike. As featured on Product Hunt: producthunt.com/products/almondbird/launches",
+		"contributors": 3,
+		"home_url": "https://www.almondbird.com/",
+		"license_type": "Apache License, Version 2.0",
+		"license_url": "https://github.com/almondbird/almondbird/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Cyrille Gattiker",
+		"email": "cyrille.gattiker@almondbird.com",
+		"role": "Founder or Owner",
+		"id": 7223362
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1295,
+	"created_at": "2025-08-19T05:44:25Z"
+}

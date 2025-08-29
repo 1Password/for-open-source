@@ -1,0 +1,23 @@
+{
+	"account": "tnborg.1password.com",
+	"project": {
+		"name": "AcePanel",
+		"description": "AcePanel is a fully open source and new generation of all-in-one server operation and maintenance management panel. Developed in Go language, simple and lightweight, efficient operation and maintenance.",
+		"contributors": 10,
+		"home_url": "https://github.com/tnborg/panel",
+		"license_type": "BSD",
+		"license_url": "https://github.com/tnborg/panel/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "haozi",
+		"email": "haozi@loli.email",
+		"role": "Founder or Owner",
+		"id": 115467771
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1300,
+	"created_at": "2025-08-25T13:52:08Z"
+}

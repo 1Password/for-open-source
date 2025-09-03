@@ -1,0 +1,23 @@
+{
+	"account": "nexusai-team.1password.com",
+	"project": {
+		"name": "Nexus AI",
+		"description": "FREE!!\nNexus AI is a modern, streamlined hub for creative AI tools. It provides an elegant interface for interacting with various AI services, including multi-model chat, image generation, and text-to-speech.",
+		"contributors": 2,
+		"home_url": "https://pollinationsai.vercel.app/",
+		"repo_url": "https://github.com/zhangyao421/nexus-ai",
+		"license_type": "MIT",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Zhang Yao",
+		"email": "zhangyao@ainn.tech",
+		"role": "Founder or Owner",
+		"id": 180969052
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1294,
+	"created_at": "2025-08-18T16:08:04Z"
+}

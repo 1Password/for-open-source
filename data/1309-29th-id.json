@@ -1,0 +1,24 @@
+{
+	"account": "29thid.1password.com",
+	"project": {
+		"name": "29th ID",
+		"description": "The 29th Infantry Division is a gaming community established in 2005, with roughly 300 active members. We call ourselves a ‘realism unit’ because we aim to be as realistic and professional as possible in the games we play and the way we function in-and-out-of the games. We have units deployed in three games and our drills are held at various times to accommodate members from around the world.\n\nWe are all volunteers, and managing the various functions of the organisation depends on several pieces of software, namely a personnel management system, which does everything from accepting and processing new joiners through to managing attendance and permissions across our forum and other systems.\n\nAll of our source code is open source, from the personnel management system to various game plugins.",
+		"contributors": 3004,
+		"home_url": "https://www.29th.org",
+		"repo_url": "https://github.com/29th/personnel-v3",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/29th/personnel-v3/blob/master/LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Tim Wilson",
+		"email": "wilson@29th.org",
+		"role": "Founder or Owner",
+		"id": 2887000
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1309,
+	"created_at": "2025-09-05T09:45:07Z"
+}

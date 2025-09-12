@@ -1,0 +1,24 @@
+{
+	"account": "team-homebrewery.1password.com",
+	"project": {
+		"name": "Homebrewery",
+		"description": "Hi, prolific open source contributor here, and as such probably have many, and/or part of teams maintaning, projects that meet the stated requirements, but the given organisation seems like the most appropriate application…\n\nObviously managment of the various API keys, credentials, CI tokens, 2FA etc. involved, across all of these is it’s own challenge!\n\n\n[!NOTE]\nI just transferred a bunch of related repositories over to a new organisation, but they are all more than 30 days old, have 120+ stars so far, and much more work to come…",
+		"contributors": 2,
+		"home_url": "https://github.com/Homebrewery",
+		"repo_url": "https://github.com/Homebrewery/homebrew-alfred",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Homebrewery/homebrew-alfred?tab=MIT-1-ov-file#readme",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Daniel Bayley",
+		"email": "daniel.bayley@me.com",
+		"role": "Founder or Owner",
+		"id": 7797479
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1307,
+	"created_at": "2025-08-31T01:34:47Z"
+}

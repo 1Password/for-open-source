@@ -1,0 +1,23 @@
+{
+	"account": "phanlong.1password.com",
+	"project": {
+		"name": "Computer Management System",
+		"description": "I’m an active open-source developer and have created numerous projects.\n\nThe Computer Management System (CMS) is a comprehensive web-based solution designed for monitoring, managing, and controlling computers within an organization. It utilizes a centralized hub-and-spoke architecture, where the backend serves as the core orchestrator, facilitating real-time communication between the frontend user interface and the client-side agents. Key features include real-time status monitoring, remote command execution, and secure, automated agent updates.",
+		"contributors": 2,
+		"home_url": "https://github.com/LoGGGG2402/computer-management-system",
+		"license_type": "GPL",
+		"license_url": "https://raw.githubusercontent.com/LoGGGG2402/computer-management-system/refs/heads/origin/LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Phan Phan Hải Long",
+		"email": "phanlong2402@phanlong.me",
+		"role": "Founder or Owner",
+		"id": 105433986
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1314,
+	"created_at": "2025-09-14T16:22:05Z"
+}

@@ -1,0 +1,21 @@
+{
+	"account": "cumillawordpressmeetup.1password.com",
+	"project": {
+		"name": "Cumilla WordPress Meetup",
+		"description": "We’re a group of local WordPress developers, designers, and publishers who get together to share our knowledge and experience and to meet other WordPress users in the area. This WordPress Meetup is open to all who love WordPress — join us!WordPress Global Community Sponsors help fund WordPress Meetup groups and WordCamps around the world. Thank you to WordPress.com, WooCommerce, Jetpack, Bluehost, and A2 Hosting for their support!",
+		"contributors": 4,
+		"home_url": "https://www.meetup.com/cumilla-wordpress-meetup/",
+		"is_event": true,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Kamal Hosen",
+		"email": "kamalhosen8920@gmail.com",
+		"role": "Organizer or Admin",
+		"id": 26425593
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1308,
+	"created_at": "2025-09-02T06:42:18Z"
+}

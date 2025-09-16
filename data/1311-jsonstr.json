@@ -1,0 +1,24 @@
+{
+	"account": "jsonstr.1password.com",
+	"project": {
+		"name": "Jsonstr",
+		"description": "My project is a extension for IDE like VSCode, cursor, etc. It can transform stringfied json snipet from and to jsonfied snipet. It has been published to VS marketplace and OpenVSX, and all code are under CC0 1.0 license",
+		"contributors": 2,
+		"home_url": "https://marketplace.visualstudio.com/items?itemName=t0my0ung.jsonstr",
+		"repo_url": "https://github.com/t0my0ung/jsonstr",
+		"license_type": "CC0 1.0",
+		"license_url": "https://github.com/t0my0ung/jsonstr/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Kevin",
+		"email": "kevin57418@gmail.com",
+		"role": "Founder or Owner",
+		"id": 100594479
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1311,
+	"created_at": "2025-09-11T09:37:18Z"
+}

@@ -1,0 +1,22 @@
+{
+	"account": "grammatonic.1password.com",
+	"project": {
+		"name": "GrammaTonic/github-runner And GrammaTonic/pihole-network-analyzer",
+		"description": "This is a new project to build fully in Go A DNS cache server to analyze traffic and not block upon basic blocklist, but to use LLM’s and deep packet inspection to generate blocklist. Also a Android and Apple app will be build to monitor and manage it.",
+		"contributors": 3,
+		"home_url": "https://github.com/GrammaTonic/",
+		"license_url": "https://github.com/GrammaTonic/github-runner/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Syam Sampatsing",
+		"email": "gt@grammatonic.nl",
+		"role": "Founder or Owner",
+		"id": 8269379
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1313,
+	"created_at": "2025-09-14T15:43:31Z"
+}

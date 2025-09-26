@@ -1,0 +1,24 @@
+{
+	"account": "nekopixeltechltd.1password.com",
+	"project": {
+		"name": "NekoPixel Development",
+		"description": "NekoPixel is a Minecraft Server and we created a team for developing plugins for it.\nBecause of the interest-driven, so all the plugins are open-source.\nWhether you’re here to play or to code, NekoPixel is about building something cool — together.",
+		"contributors": 5,
+		"home_url": "https://www.nekopixel.cn",
+		"repo_url": "https://github.com/NyaStudio",
+		"license_type": "AGPL v3",
+		"license_url": "https://www.gnu.org/licenses/agpl-3.0.html",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Chen yuzhi",
+		"email": "me@xcnya.cn",
+		"role": "Founder or Owner",
+		"id": 66854530
+	},
+	"can_contact": true,
+	"approver_id": 6392049,
+	"issue_number": 1320,
+	"created_at": "2025-09-23T07:20:22Z"
+}

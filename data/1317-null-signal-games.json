@@ -1,0 +1,24 @@
+{
+	"account": "team-nullsignalgames.1password.com",
+	"project": {
+		"name": "Null Signal Games",
+		"description": "NSG is a not for profit collective that develops Netrunner compatible cards and runs the NetrunnerDB, Cobra (tournament software) and other related open source efforts to support the community for the game.",
+		"contributors": 15,
+		"home_url": "https://nullsignal.games",
+		"repo_url": "https://github.com/orgs/Null-Signal-Games/repositories",
+		"license_type": "mostly MIT",
+		"license_url": "https://github.com/Null-Signal-Games/netrunnerdb/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Null Signal Games",
+		"email": "plural@nullsignal.games",
+		"role": "Founder or Owner",
+		"id": 396562
+	},
+	"can_contact": false,
+	"approver_id": 6392049,
+	"issue_number": 1317,
+	"created_at": "2025-09-21T15:44:43Z"
+}

@@ -1,0 +1,23 @@
+{
+	"account": "vdsap.1password.com",
+	"project": {
+		"name": "Transcoder",
+		"description": "Free to use, simple CLI FFMPEG based python program for transcoding videos with less bit reate mostly after recording in OBS with a high bit rate and converting from mkv to mp4. Support converting individual files and folders\nRecently added context menu launch option",
+		"contributors": 1,
+		"home_url": "https://github.com/vdsap/transcoder",
+		"license_type": "MIT",
+		"license_url": "https://github.com/vdsap/transcoder/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "vdsap",
+		"email": "1Password@vdsap.com",
+		"role": "Founder or Owner",
+		"id": 72701037
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1325,
+	"created_at": "2025-10-04T15:19:57Z"
+}

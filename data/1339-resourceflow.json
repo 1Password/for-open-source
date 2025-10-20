@@ -1,0 +1,23 @@
+{
+	"account": "ozankocer.1password.com",
+	"project": {
+		"name": "ResourceFlow",
+		"description": "ResourceFlow is a Python-based desktop application (PyQt5 + CLI) that visualizes CPU, RAM, and disk usage in real time.\nThe project is open source, non-commercial, and actively maintained.",
+		"contributors": 1,
+		"home_url": "https://github.com/Ozanelon/ResourceFlow",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/Ozanelon/ResourceFlow/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Ozan Koçer",
+		"email": "ozankocer84@gmail.com",
+		"role": "Founder or Owner",
+		"id": 67023010
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1339,
+	"created_at": "2025-10-17T12:25:04Z"
+}

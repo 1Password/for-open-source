@@ -1,0 +1,24 @@
+{
+	"account": "Polarlearn.1password.com",
+	"project": {
+		"name": "Polarlearn",
+		"description": "Dutch FOSS learning software",
+		"contributors": 6,
+		"home_url": "https://Polarlearn.nl",
+		"repo_url": "https://github.com/polarnl/polarlearn",
+		"license_type": "AGPL 3.0",
+		"license_url": "https://github.com/polarnl/PolarLearn/blob/stable/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Siem van keulen",
+		"email": "Siem.vk@polarnl.org",
+		"role": "Core Maintainer",
+		"id": 100954549
+	},
+	"can_contact": false,
+	"approver_id": 175932,
+	"issue_number": 1341,
+	"created_at": "2025-10-20T15:36:29Z"
+}

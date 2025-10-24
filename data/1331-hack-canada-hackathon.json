@@ -1,0 +1,21 @@
+{
+	"account": "hackcanada.1password.com",
+	"project": {
+		"name": "Hack Canada Hackathon",
+		"description": "Hack Canada is a student-focused hackathon where participants build real, innovative solutions to meaningful problems. It encourages originality, collaboration, and feedback from peers and industry judges. Independent of universities or clubs, it offers a flexible, inclusive environment for hackers to create, learn, and turn ideas into working products.",
+		"contributors": 3035,
+		"home_url": "https://www.hackcanada.org",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Sohel Shekh",
+		"email": "sohel.shekh@hackcanada.org",
+		"role": "Organizer or Admin",
+		"id": 59653872
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1331,
+	"created_at": "2025-10-11T08:33:57Z"
+}

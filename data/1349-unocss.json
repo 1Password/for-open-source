@@ -1,0 +1,24 @@
+{
+	"account": "unocss.1password.com",
+	"project": {
+		"name": "UnoCSS",
+		"description": "UnoCSS is the instant on-demand atomic CSS engine.",
+		"contributors": 7,
+		"home_url": "https://unocss.dev",
+		"repo_url": "https://github.com/unocss/unocss",
+		"license_type": "MIT",
+		"license_url": "https://github.com/unocss/unocss/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Chris",
+		"email": "hizyyv@gmail.com",
+		"role": "Organizer or Admin",
+		"id": 42139754
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1349,
+	"created_at": "2025-10-24T09:55:40Z"
+}

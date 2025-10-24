@@ -1,0 +1,22 @@
+{
+	"account": "senioxtreme.1password.com",
+	"project": {
+		"name": "SenioXtreme",
+		"description": "SenioXtreme is a registered nonprofit association in Italy promoting sport, outdoor activities, and digital innovation.\nWe develop open and community-driven web tools for local events, weather data, and civic engagement under open-source licenses.",
+		"contributors": 20,
+		"home_url": "https://senioxtreme.it/",
+		"repo_url": "https://github.com/Senioxtreme/",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Michele Gentilini",
+		"email": "michele.gentilini@senioxtreme.it",
+		"role": "Founder or Owner",
+		"id": 51083221
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1344,
+	"created_at": "2025-10-21T16:33:10Z"
+}

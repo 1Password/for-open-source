@@ -1,0 +1,22 @@
+{
+	"account": "djangolondon.1password.com",
+	"project": {
+		"name": "Django London",
+		"description": "Django London is a monthly community meetup for Django and Python enthusiasts based in London. We bring together developers of all experience levels to share knowledge, give talks, and collaborate on open source projects in a friendly, inclusive environment. The event is volunteer-run and free to attend, and regularly features talks, networking, and Hacktoberfest-style contribution sessions.",
+		"contributors": 5,
+		"home_url": "https://www.djangolondon.com/",
+		"repo_url": "https://github.com/djangolondon/djangolondon.github.io",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Ester Beltrami",
+		"email": "beltrami.ester@gmail.com",
+		"role": "Organizer or Admin",
+		"id": 28976199
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1336,
+	"created_at": "2025-10-12T15:26:06Z"
+}

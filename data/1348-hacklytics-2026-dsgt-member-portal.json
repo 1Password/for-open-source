@@ -1,0 +1,24 @@
+{
+	"account": "datasciencegt.1password.com",
+	"project": {
+		"name": "Hacklytics 2026, DSGT Member Portal",
+		"description": "Data Science @ GT is the official Data Science club at Georgia Institute of Technology. We are the largest student-run data science organization on campus, and we are dedicated to developing technical skills in data science by organizing various activities and events such as club projects, workshops, guest speakers and professors.\n\nOur organization serves as a platform for undergraduate and graduate students of all majors at Georgia Tech to learn about and practice data science and analytics. We are a focused club with three main components: projects, bootcamps, and Hacklytics.\n\nOne of our primary focuses right now is developing our online check-in platform for students attending Hacklytics which is scheduled to take place in Feb 2026. A 1Password Teams account for the Technology team and other DSGT members would make sharing things like secrets and API keys extremely easy!",
+		"contributors": 4,
+		"home_url": "https://datasciencegt.org/",
+		"repo_url": "https://github.com/DataScience-GT/dsgt-member-portal",
+		"license_type": "MIT",
+		"license_url": "https://github.com/DataScience-GT/dsgt-member-portal/blob/main/LICENSE.MD",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Andrew Leonard",
+		"email": "aleonard44@gatech.edu",
+		"role": "Organizer or Admin",
+		"id": 16251412
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1348,
+	"created_at": "2025-10-24T02:04:10Z"
+}

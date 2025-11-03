@@ -1,0 +1,24 @@
+{
+	"account": "zincplatforms.1password.com",
+	"project": {
+		"name": "Zinc Platforms",
+		"description": "Zinc Platforms is a non-profit group fiscally sponsored by The Hack Foundation, that guides and enables youth to learn and grow in the software development space.",
+		"contributors": 4,
+		"home_url": "https://zincplatforms.dev",
+		"repo_url": "https://github.com/ZincPlatforms/discord-base-ts",
+		"license_type": "MIT",
+		"license_url": "https://github.com/ZincPlatforms/discord-base-ts/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Julian van Doorn",
+		"email": "julian@zincplatforms.dev",
+		"role": "Founder or Owner",
+		"id": 105443687
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1346,
+	"created_at": "2025-10-22T00:17:32Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "ikelee.1password.com",
+	"project": {
+		"name": "ProxyResource",
+		"description": "This is a repository dedicated to providing rule files, configuration files, and Loon-specific plugins for iOS platforms’ Loon and cross-platform Clash.",
+		"contributors": 5,
+		"home_url": "https://hub.kelee.one/",
+		"repo_url": "https://github.com/luestr/ProxyResource",
+		"license_type": "CC BY-NC-SA 4.0",
+		"license_url": "https://github.com/luestr/ProxyResource/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "kelee",
+		"email": "pligau@outlook.com",
+		"role": "Founder or Owner",
+		"id": 152216177
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1357,
+	"created_at": "2025-11-06T11:49:48Z"
+}

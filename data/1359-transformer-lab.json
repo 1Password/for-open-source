@@ -1,0 +1,24 @@
+{
+	"account": "transformerlab.1password.ca",
+	"project": {
+		"name": "Transformer Lab",
+		"description": "Transformer Lab is an open source platform for training and working with AI models.",
+		"contributors": 5,
+		"home_url": "https://github.com/transformerlab/transformerlab-app",
+		"repo_url": "https://github.com/transformerlab/transformerlab-app",
+		"license_type": "AGPL",
+		"license_url": "https://github.com/transformerlab/transformerlab-app/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Ali Asaria",
+		"email": "ali@transformerlab.ai",
+		"role": "Founder or Owner",
+		"id": 213343
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1359,
+	"created_at": "2025-11-11T14:48:21Z"
+}

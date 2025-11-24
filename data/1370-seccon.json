@@ -1,0 +1,21 @@
+{
+	"account": "seccon.1password.com",
+	"project": {
+		"name": "SECCON",
+		"description": "SECCON has been a CTF, security conference, and workshop organizer in Japan since 2013.\nWe’re contributing to the Japanese security community and organizing great CTF competitions.",
+		"contributors": 70,
+		"home_url": "https://www.seccon.jp/",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Keita Nomura",
+		"email": "nomuken@seccon.jp",
+		"role": "Team Member or Employee",
+		"id": 6497016
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1370,
+	"created_at": "2025-11-24T17:08:35Z"
+}

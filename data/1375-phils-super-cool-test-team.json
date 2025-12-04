@@ -1,0 +1,24 @@
+{
+	"account": "test.1password.com",
+	"project": {
+		"name": "Phil’s super cool test team",
+		"description": "just seeing what this does",
+		"contributors": 22,
+		"home_url": "https://github.com/eusef/eusef_khoros_tui_reader/",
+		"repo_url": "https://github.com/eusef/eusef_khoros_tui_reader/",
+		"license_type": "MIT",
+		"license_url": "https://github.com/eusef/eusef_khoros_tui_reader/mit.md",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Phil",
+		"email": "test@testgmail.com",
+		"role": "Founder or Owner",
+		"id": 175932
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1375,
+	"created_at": "2025-12-04T23:53:20Z"
+}

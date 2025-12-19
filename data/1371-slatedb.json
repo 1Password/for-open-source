@@ -1,0 +1,24 @@
+{
+	"account": "slatedb.1password.com",
+	"project": {
+		"name": "SlateDB",
+		"description": "SlateDB is an open source, embedded key-value database built on object storage (S3, Azure Blob Storage, Google Cloud Storage). It’s licensed under Apache 2.0 and has no company behind it.\n\nWe’re part of Commonhaus, and they told us we needed a 1password vault set up for the project.",
+		"contributors": 5,
+		"home_url": "https://slatedb.io",
+		"repo_url": "https://github.com/slatedb/slatedb",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/slatedb/slatedb/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Chris Riccomini",
+		"email": "criccomini@gmail.com",
+		"role": "Core Maintainer",
+		"id": 167569
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1371,
+	"created_at": "2025-11-25T19:37:37Z"
+}

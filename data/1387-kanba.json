@@ -1,0 +1,24 @@
+{
+	"account": "kanba.1password.com",
+	"project": {
+		"name": "Kanba",
+		"description": "Project Management Reimagined for Builders. An open-source platform to move fast and build what matters. Simple, powerful, and yes, AI-powered.",
+		"contributors": 1,
+		"home_url": "https://kanba.co",
+		"repo_url": "https://github.com/kanba-co/kanba",
+		"license_type": "MIT",
+		"license_url": "https://github.com/kanba-co/kanba?tab=MIT-1-ov-file",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Abbas Aga",
+		"email": "ua@kanba.co",
+		"role": "Founder or Owner",
+		"id": 99952598
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1387,
+	"created_at": "2025-12-17T12:50:30Z"
+}

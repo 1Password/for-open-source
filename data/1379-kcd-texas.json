@@ -1,0 +1,22 @@
+{
+	"account": "team-kcdtexas.1password.com",
+	"project": {
+		"name": "KCD Texas",
+		"description": "Kubernetes Community Days (KCD) Texas is a community-driven event focused on cloud-native technologies, with a particular emphasis on Kubernetes and related tools within the Cloud Native Computing Foundation (CNCF) ecosystem. KCD events provide a platform for local practitioners, developers, and enthusiasts to come together to share knowledge, discuss industry trends, and network with one another.",
+		"contributors": 23,
+		"home_url": "https://community.cncf.io/kcd-texas/",
+		"repo_url": "https://github.com/kcdtexas",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Cristobal Nevares",
+		"email": "cris.nevares@cloudnativetexas.com",
+		"role": "Organizer or Admin",
+		"id": 56050607
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1379,
+	"created_at": "2025-12-11T18:06:43Z"
+}

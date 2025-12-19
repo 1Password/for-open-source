@@ -1,0 +1,24 @@
+{
+	"account": "a139s.1password.com",
+	"project": {
+		"name": "Kuma Mieru",
+		"description": "Kuma Mieru is an easy-to-use self-hosted monitoring dashboard.\n\nKey Features\n\n\nReal-Time Monitoring \u0026 Auto-Refresh: Live status updates without manual refreshing.\nElegant Responsive UI: Modern interface powered by HeroUI components, optimized for all devices.\nInteractive Analytics: Explore node latency/status data through Recharts-powered visualizations.\nMulti-Theme Support: Dark/Light/System themes with automatic detection.",
+		"contributors": 23,
+		"home_url": "https://github.com/Alice39s/kuma-mieru/blob/main/README.en.md",
+		"repo_url": "https://github.com/Alice39s/kuma-mieru",
+		"license_type": "MPL-2.0",
+		"license_url": "https://github.com/Alice39s/kuma-mieru/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Alice39s",
+		"email": "1password-team@xmsl.dev",
+		"role": "Founder or Owner",
+		"id": 180387319
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1378,
+	"created_at": "2025-12-10T05:45:45Z"
+}

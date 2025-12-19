@@ -1,0 +1,24 @@
+{
+	"account": "publicenvironmentaldatapartners.1password.com",
+	"project": {
+		"name": "Public Environmental Data Partners",
+		"description": "The Public Environmental Data Partners are a volunteer coalition of several environmental, justice, and policy organizations, researchers across several universities, archivists, and students who rely on federal datasets and tools to support critical research, advocacy, policy, and litigation work. We archive public data and create open source tools for data analysis.",
+		"contributors": 810,
+		"home_url": "https://screening-tools.com/",
+		"repo_url": "https://github.com/Public-Environmental-Data-Partners/j40-cejst-2",
+		"license_type": "GNU AGPLv3",
+		"license_url": "https://github.com/Public-Environmental-Data-Partners/j40-cejst-2/blob/main/LICENSE.md",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Doug Indrick",
+		"email": "hello@publicenvirodata.org",
+		"role": "Organizer or Admin",
+		"id": 68963008
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1385,
+	"created_at": "2025-12-15T21:58:48Z"
+}

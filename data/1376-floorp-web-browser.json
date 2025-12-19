@@ -1,0 +1,24 @@
+{
+	"account": "floorpprojects.1password.com",
+	"project": {
+		"name": "Floorp Web Browser",
+		"description": "Floorp is a privacy-focused web browser based on Firefox, developed mainly by a student community in Japan. It is licensed under MPL 2.0 and is a non-profit project funded solely through donations (GitHub Sponsors).",
+		"contributors": 5,
+		"home_url": "https://floorp.app/",
+		"repo_url": "https://github.com/Floorp-Projects/Floorp",
+		"license_type": "MPL2.0",
+		"license_url": "https://github.com/Floorp-Projects/Floorp/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Ryosuke Asano",
+		"email": "r.asano@mail.floorp.app",
+		"role": "Founder or Owner",
+		"id": 73892113
+	},
+	"can_contact": false,
+	"approver_id": 175932,
+	"issue_number": 1376,
+	"created_at": "2025-12-05T20:53:07Z"
+}

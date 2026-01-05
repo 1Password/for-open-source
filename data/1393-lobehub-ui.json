@@ -1,0 +1,24 @@
+{
+	"account": "lobehub.1password.com",
+	"project": {
+		"name": "LobeHub UI",
+		"description": "Lobe UI is an open-source UI component library for building AIGC web apps",
+		"contributors": 10,
+		"home_url": "https://ui.lobehub.com/",
+		"repo_url": "https://github.com/lobehub/lobe-ui",
+		"license_type": "MIT",
+		"license_url": "https://github.com/lobehub/lobe-ui?tab=MIT-1-ov-file",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Calvin Meng",
+		"email": "rdmclin2@gmail.com",
+		"role": "Founder or Owner",
+		"id": 4705237
+	},
+	"can_contact": false,
+	"approver_id": 175932,
+	"issue_number": 1393,
+	"created_at": "2025-12-24T11:27:44Z"
+}

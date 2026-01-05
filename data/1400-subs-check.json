@@ -1,0 +1,23 @@
+{
+	"account": "team-liaoyuan.1password.com",
+	"project": {
+		"name": "subs-check",
+		"description": "It is a subscription detection and conversion tool that can perform subscription conversion, speed test, activity test, streaming media detection, renaming, export to any format, etc.",
+		"contributors": 1,
+		"home_url": "https://github.com/beck-8/subs-check",
+		"license_type": "GNU General Public License v3.0",
+		"license_url": "https://github.com/beck-8/subs-check/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "beck",
+		"email": "liaoyuan6666@gmail.com",
+		"role": "Founder or Owner",
+		"id": 34204218
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1400,
+	"created_at": "2026-01-05T14:43:51Z"
+}

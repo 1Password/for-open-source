@@ -1,0 +1,23 @@
+{
+	"account": "securestart.1password.com",
+	"project": {
+		"name": "sstart",
+		"description": "sstart is a minimalist, zero-persistence CLI tool that securely retrieves application secrets from multiple backend sources (1Password, Vault, AWS Secrets Manager, Azure Key Vault, GCP Secret Manager) and injects them as environment variables into any wrapped process.",
+		"contributors": 1,
+		"home_url": "https://sstart.sh",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/securestart/sstart/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Aldira Putra Raharja",
+		"email": "me@dirathea.com",
+		"role": "Founder or Owner",
+		"id": 1830284
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1386,
+	"created_at": "2025-12-16T20:49:35Z"
+}

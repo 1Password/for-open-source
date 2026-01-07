@@ -1,0 +1,24 @@
+{
+	"account": "poimandres.1password.com",
+	"project": {
+		"name": "Poimandres Collective",
+		"description": "Poimandres is a collective of Developers of some of the most popular web-focused libraries and tools.\n\nSome of our most popular are for 3d\n- React-three-fiber\n- Drei\n- Leva\n\nAnd the data/state management libraries\n- Zustand\n- Valtio\n- Jotai",
+		"contributors": 20,
+		"home_url": "https://pmnd.rs/",
+		"repo_url": "https://github.com/pmndrs/react-three-fiber",
+		"license_type": "MIT",
+		"license_url": "https://github.com/pmndrs/react-three-fiber?tab=MIT-1-ov-file",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Dennis Smolek",
+		"email": "dennis@smolek.dev",
+		"role": "Project Lead",
+		"id": 1397052
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1401,
+	"created_at": "2026-01-06T15:22:25Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "stackryze.1password.com",
+	"project": {
+		"name": "Stackryze",
+		"description": "Stackryze – A developer-focused initiative that builds and operates free, accessible platforms to help students and indie developers publish projects, experiment, and learn with responsible use.\n\nStackryze Domains – A free and open-source domain/subdomain service by Stackryze that lets developers, students, and creators claim free domains and subdomains without hidden costs, making it easy to launch projects and establish an online identity. The platform operates managed namespaces (like indevs.in) and provides secure, no-cost domain options for development and experimentation.\n\nAtom Homepage – A modern, lightweight, self-hosted dashboard for monitoring services, Docker containers, and system resources. Built with Next.js 16 for speed and simplicity, it offers visual status indicators, system stats, Docker integration, customizable widgets, and secure access, making it ideal for homelab or personal monitoring setups",
+		"contributors": 4,
+		"home_url": "https://domain.stackryze.com/",
+		"repo_url": "https://github.com/stackryze/FreeDomains",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/stackryze/FreeDomains/blob/17e5cef03cc40d4d157d6ecc3f2c1b7279b3865b/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Bhuvana Sudheer",
+		"email": "sudheer@stackryze.com",
+		"role": "Founder or Owner",
+		"id": 83955438
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1407,
+	"created_at": "2026-01-14T07:30:24Z"
+}

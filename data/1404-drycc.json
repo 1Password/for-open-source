@@ -1,0 +1,24 @@
+{
+	"account": "drycccommunity.1password.com",
+	"project": {
+		"name": "Drycc",
+		"description": "A Open, Unified, Lightweight, Simpler Containers as a Service (CaaS).",
+		"contributors": 6,
+		"home_url": "https://www.drycc.cc",
+		"repo_url": "https://github.com/drycc",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/drycc/workflow?tab=Apache-2.0-1-ov-file#readme",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Honyi Dan",
+		"email": "duanhongyi@doopai.com",
+		"role": "Founder or Owner",
+		"id": 548686
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1404,
+	"created_at": "2026-01-11T12:59:41Z"
+}

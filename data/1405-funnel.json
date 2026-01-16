@@ -1,0 +1,24 @@
+{
+	"account": "karolbroda.1password.com",
+	"project": {
+		"name": "Funnel",
+		"description": "funnel is a network tunneling proxy for forwarding local ports to the internet.",
+		"contributors": 1,
+		"home_url": "https://github.com/karol-broda/funnel",
+		"repo_url": "https://github.com/karol-broda/funnel",
+		"license_type": "MIT",
+		"license_url": "https://raw.githubusercontent.com/karol-broda/funnel/refs/heads/master/LICENSE.md",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Karol Broda",
+		"email": "me@karolbroda.com",
+		"role": "Founder or Owner",
+		"id": 122811026
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1405,
+	"created_at": "2026-01-13T22:35:52Z"
+}

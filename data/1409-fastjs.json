@@ -1,0 +1,24 @@
+{
+	"account": "fastjs.1password.com",
+	"project": {
+		"name": "Fastjs",
+		"description": "Fastjs is a useful, lightweight JavaScript library for any types of project.\n\nIt is designed to be easy to use. Fastjs can be with any framework or just pure JavaScript.",
+		"contributors": 2,
+		"home_url": "https://fastjs.dev",
+		"repo_url": "https://github.com/fastjs-team/core",
+		"license_type": "MIT",
+		"license_url": "https://github.com/fastjs-team/core/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Wan Chak Li",
+		"email": "opensource@xiaodong.moe",
+		"role": "Founder or Owner",
+		"id": 84657208
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1409,
+	"created_at": "2026-01-23T01:47:51Z"
+}

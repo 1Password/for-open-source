@@ -1,0 +1,23 @@
+{
+	"account": "637100.1password.com",
+	"project": {
+		"name": "Kir-Manager",
+		"description": "Kiro Manager is a cross-platform desktop tool (Wails + Vue 3) for Kiro IDE. It features account backup, multi-account switching. Supporting Windows, macOS, and Linux, it enables seamless identity management without administrative privileges or system-wide modifications. (45 words)",
+		"contributors": 6,
+		"home_url": "https://github.com/chun1617/Kir-Manager/",
+		"repo_url": "https://github.com/chun1617/Kir-Manager/",
+		"license_type": "MIT",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jacky Chun",
+		"email": "chun1617@637100.xyz",
+		"role": "Founder or Owner",
+		"id": 7302844
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1408,
+	"created_at": "2026-01-22T04:28:08Z"
+}

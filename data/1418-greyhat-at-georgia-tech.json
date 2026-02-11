@@ -1,0 +1,24 @@
+{
+	"account": "greyhatgt.1password.com",
+	"project": {
+		"name": "GreyHat at Georgia Tech",
+		"description": "We are a student-run cybersecurity club at Georgia Tech. We maintain a number of open-source projects, including cybersecurity tools, research projects, educational materials, and club administration tools.",
+		"contributors": 15,
+		"home_url": "https://greyhatgt.github.io/",
+		"repo_url": "https://github.com/greyhatgt/llm-ctf-agent-boilerplate",
+		"license_type": "MIT",
+		"license_url": "https://github.com/greyhatgt/llm-ctf-agent-boilerplate/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nash Pillai",
+		"email": "nash.pillai@protonmail.com",
+		"role": "Organizer or Admin",
+		"id": 47931961
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1418,
+	"created_at": "2026-02-09T17:41:37Z"
+}

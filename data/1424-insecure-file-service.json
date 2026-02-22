@@ -1,0 +1,24 @@
+{
+	"account": "shpteam.1password.com",
+	"project": {
+		"name": "insecure-file-service",
+		"description": "IFS is an ephemeral file-sharing service for quickly sending files to public/shared machines without logging into email or copying long URLs. Upload a file, receive a 4-character code, and share it. Infrastructure is managed almost entirely with IaC and is intended to be educational for new programmers.",
+		"contributors": 3,
+		"home_url": "https://ifs.kenf.dev/",
+		"repo_url": "https://github.com/duckyfuz/insecure-file-sharing",
+		"license_type": "BSD-3-Clause",
+		"license_url": "https://github.com/duckyfuz/insecure-file-sharing/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Kenneth Gao",
+		"email": "1pw@kenf.dev",
+		"role": "Founder or Owner",
+		"id": 108561447
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1424,
+	"created_at": "2026-02-13T15:21:46Z"
+}

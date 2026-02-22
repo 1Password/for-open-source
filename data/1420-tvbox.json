@@ -1,0 +1,23 @@
+{
+	"account": "li5bo5.1password.com",
+	"project": {
+		"name": "TVBox",
+		"description": "An open-source TVBox and EPG management project. It includes features for personal password verification and authentication settings for EPG/TVBox endpoints, requiring secure credential management.",
+		"contributors": 1,
+		"home_url": "https://github.com/li5bo5/TVBox",
+		"license_type": "GPLv3",
+		"license_url": "https://github.com/li5bo5/TVBox/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "li5bo5",
+		"email": "li5bo5@163.com",
+		"role": "Founder or Owner",
+		"id": 6594141
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1420,
+	"created_at": "2026-02-11T09:17:29Z"
+}

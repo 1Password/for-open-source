@@ -1,0 +1,24 @@
+{
+	"account": "jfmoe.1password.com",
+	"project": {
+		"name": "react-native-live-text-view",
+		"description": "Enabling Live Text interactions with image.",
+		"contributors": 2,
+		"home_url": "https://github.com/jfmoe",
+		"repo_url": "https://github.com/jfmoe/react-native-live-text-view",
+		"license_type": "MIT",
+		"license_url": "https://raw.githubusercontent.com/jfmoe/react-native-live-text-view/refs/heads/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Rick Tao",
+		"email": "taoxfan@outlook.com",
+		"role": "Founder or Owner",
+		"id": 34602628
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1425,
+	"created_at": "2026-02-17T07:02:29Z"
+}

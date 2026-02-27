@@ -1,0 +1,24 @@
+{
+	"account": "team-pi4j.1password.com",
+	"project": {
+		"name": "Pi4J",
+		"description": "The Pi4J project is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform. This project abstracts the low-level native integration and interrupt monitoring to enable Java programmers to focus on implementing their application business logic.",
+		"contributors": 11,
+		"home_url": "https://www.pi4j.com/",
+		"repo_url": "https://github.com/Pi4J",
+		"license_type": "Apache-2.0 license",
+		"license_url": "https://github.com/Pi4J/pi4j/blob/develop/LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Frank Delporte",
+		"email": "frank@pi4j.com",
+		"role": "Project Lead",
+		"id": 1415873
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1444,
+	"created_at": "2026-02-26T14:55:04Z"
+}

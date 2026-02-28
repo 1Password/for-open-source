@@ -28,7 +28,7 @@ Applying is easy! Be sure to review the requirements below, and then complete th
 
 1. You must be an [owner](https://support.1password.com/groups/#owners) of your team account to apply. Don't have an account? [Start a 14 day trial.](https://start.1password.com/signup/?t=B)
 2. To decrease the chances of getting locked out of your account, invite at least one other person to your team and [add them to the Owners group](https://support.1password.com/groups/#manage-group-membership).
-3. Apply by [**completing this form**](https://github.com/1Password/1password-teams-open-source/issues/new?labels=application&template=application.yml&title=Application+for+[project+name]) and opening a new issue in this repository.
+3. Apply by [**completing this form**](https://github.com/1Password/for-open-source/issues/new?labels=application&template=application.yml&title=Application+for+[project+name]) and opening a new issue in this repository.
 
 > [!TIP]
 > If you signed up for this program _before November 26, 2021_, please contact [opensource@1password.com](mailto:opensource@1password.com) to convert your two-year membership into one that doesn't require renewal.

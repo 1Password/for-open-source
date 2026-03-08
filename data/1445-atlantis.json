@@ -1,0 +1,24 @@
+{
+	"account": "atlantisproject.1password.com",
+	"project": {
+		"name": "Atlantis",
+		"description": "This is for the Atlantis project maintainers to use to save important secrets related to the project",
+		"contributors": 5,
+		"home_url": "https://www.runatlantis.io/",
+		"repo_url": "https://github.com/runatlantis/atlantis",
+		"license_type": "Apache 2",
+		"license_url": "https://github.com/runatlantis/atlantis/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "PePe Amengual",
+		"email": "jose.amengual@gmail.com",
+		"role": "Founder or Owner",
+		"id": 2208324
+	},
+	"can_contact": true,
+	"approver_id": 175932,
+	"issue_number": 1445,
+	"created_at": "2026-02-26T19:40:58Z"
+}

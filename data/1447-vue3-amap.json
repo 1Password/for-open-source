@@ -1,0 +1,23 @@
+{
+	"account": "tangsteam.1password.com",
+	"project": {
+		"name": "vue3-amap",
+		"description": "A collection of AMap components built with Vue3. AMap is a leading map service provider in China. The project includes a simple geofence management system and check-in demo integrated with Falcon Tracking Service.",
+		"contributors": 3,
+		"home_url": "https://github.com/ehehaye/vue3-amap",
+		"license_type": "MIT",
+		"license_url": "https://github.com/ehehaye/vue3-amap/blob/dev/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "ehehaye",
+		"email": "hongxin.tang@hotmail.com",
+		"role": "Founder or Owner",
+		"id": 43433915
+	},
+	"can_contact": false,
+	"approver_id": 175932,
+	"issue_number": 1447,
+	"created_at": "2026-02-27T01:03:30Z"
+}

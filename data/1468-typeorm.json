@@ -1,0 +1,24 @@
+{
+	"account": "typeorm.1password.com",
+	"project": {
+		"name": "TypeORM",
+		"description": "TypeORM is an open-source ORM for TypeScript and JavaScript, supporting Node.js, Deno, Bun, and browser environments. It works with MySQL, PostgreSQL, SQLite, MongoDB, and other major databases, enabling developers to write database-agnostic code using decorators and a fluent query builder.\n\nWith over 34,000 GitHub stars and hundreds of millions of npm downloads, TypeORM is one of the most widely adopted ORMs in the JavaScript/TypeScript ecosystem — used by individual developers, startups, and large enterprises alike.\nThe project is maintained by a small team of open-source contributors and relies on community support. Secure credential management (database credentials, API tokens, CI secrets) is critical to our development and release workflows, and 1Password would help the team collaborate safely across environments.",
+		"contributors": 7,
+		"home_url": "https://typeorm.io",
+		"repo_url": "https://github.com/typeorm/typeorm",
+		"license_type": "MIT",
+		"license_url": "https://github.com/typeorm/typeorm/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Piotr Kuczynski",
+		"email": "piotr.kuczynski@gmail.com",
+		"role": "Core Maintainer",
+		"id": 374864
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1468,
+	"created_at": "2026-03-12T22:13:35Z"
+}

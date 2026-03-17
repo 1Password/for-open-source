@@ -1,0 +1,24 @@
+{
+	"account": "qwed-ai.1password.com",
+	"project": {
+		"name": "QWED-AI",
+		"description": "QWED-AI is an open-source ecosystem that provides deterministic formal verification rails for LLM agents, ensuring mathematically proven safety and accuracy across logic, finance, tax, and legal domains using symbolic solvers.",
+		"contributors": 1,
+		"home_url": "https://github.com/QWED-AI",
+		"repo_url": "https://github.com/QWED-AI/qwed-verification",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/QWED-AI/qwed-verification?tab=Apache-2.0-1-ov-file",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Rahul Dass",
+		"email": "rahul@qwedai.com",
+		"role": "Founder or Owner",
+		"id": 204582387
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1464,
+	"created_at": "2026-03-06T22:29:31Z"
+}

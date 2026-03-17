@@ -1,0 +1,23 @@
+{
+	"account": "lumno.1password.com",
+	"project": {
+		"name": "lumno-extension",
+		"description": "Lumno is an open source extension bringing Arc-browser-inspired features to Chromium. Featuring a powerful global search and navigation overlay, it is actively evolving to deliver more modern browsing paradigms, smart suggestions, and seamless workflows for power users.",
+		"contributors": 2,
+		"home_url": "https://github.com/kubai087/lumno-extension",
+		"license_type": "GPL v3",
+		"license_url": "https://github.com/kubai087/lumno-extension/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Kevin Xu",
+		"email": "i@kubai.design",
+		"role": "Founder or Owner",
+		"id": 68949228
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1456,
+	"created_at": "2026-03-03T16:36:41Z"
+}

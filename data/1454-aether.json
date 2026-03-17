@@ -1,0 +1,23 @@
+{
+	"account": "lonersoft.1password.com",
+	"project": {
+		"name": "aether",
+		"description": "aether was built in an attempt to fix what most pterodactyl eggs do bad, considering myself and my co-org (lumi) both previously had experience in the server management realm using common pterodactyl configurations, that were often hard to tailor to our own needs and specific requests from server owners and managers. in response to this, we have built aether, a pterodactyl egg that answers our needs. it’s highly configurable, and allows for a simple yet fully-fledged configuration solution. it’s also fully open source, hence why we’re here, so a simple PR allows anyone to add their favorite feature(s)! it has already been used by some hosting owners and have been proven to work and be effective.",
+		"contributors": 2,
+		"home_url": "https://github.com/lonersoft/aether",
+		"license_type": "MIT",
+		"license_url": "https://raw.githubusercontent.com/lonersoft/aether/refs/heads/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "lolodotzip",
+		"email": "lolo@loners.software",
+		"role": "Developer",
+		"id": 56828143
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1454,
+	"created_at": "2026-03-02T18:08:09Z"
+}

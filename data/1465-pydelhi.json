@@ -1,0 +1,22 @@
+{
+	"account": "pydelhi.1password.com",
+	"project": {
+		"name": "PyDelhi",
+		"description": "PyDelhi (@pydelhi) is a community of Python enthusiasts in New Delhi, India, founded in 2011. We organise meetups, workshops, and talks to help developers learn, collaborate, and share knowledge on Python, open source technologies, and real-world development practices.",
+		"contributors": 30,
+		"home_url": "https://pydelhi.org/",
+		"repo_url": "https://github.com/pydelhi",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Agriya Khetarpal",
+		"email": "agriyakhetarpal+pydelhi@gmail.com",
+		"role": "Organizer or Admin",
+		"id": 74401230
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1465,
+	"created_at": "2026-03-10T14:02:23Z"
+}

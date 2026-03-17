@@ -1,0 +1,24 @@
+{
+	"account": "sdkman.1password.eu",
+	"project": {
+		"name": "SDKMAN!",
+		"description": "SDKMAN! is a tool for managing parallel versions of multiple JVM Software Development Kits on Unix-based systems. It provides a convenient command-line interface for installing, switching, and managing SDKs, including Java, Kotlin, Scala, and Groovy.",
+		"contributors": 5,
+		"home_url": "https://sdkman.io",
+		"repo_url": "https://github.com/sdkman/sdkman-cli",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/sdkman/sdkman-cli/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Marco Vermeulen",
+		"email": "marco@sdkman.io",
+		"role": "Founder or Owner",
+		"id": 144390
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1458,
+	"created_at": "2026-03-05T09:14:16Z"
+}

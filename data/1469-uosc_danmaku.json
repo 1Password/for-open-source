@@ -1,0 +1,23 @@
+{
+	"account": "team-tonyteam.1password.com",
+	"project": {
+		"name": "uosc_danmaku",
+		"description": "A open source Lua plugin to load danmaku in MPV player, based on the uosc UI framework and DanDanPlay API.",
+		"contributors": 2,
+		"home_url": "https://github.com/Tony15246/uosc_danmaku",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Tony15246/uosc_danmaku/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "WU NANLI",
+		"email": "a18061453582@gmail.com",
+		"role": "Founder or Owner",
+		"id": 94174703
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1469,
+	"created_at": "2026-03-14T07:54:09Z"
+}

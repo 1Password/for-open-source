@@ -1,0 +1,24 @@
+{
+	"account": "shuidi.1password.com",
+	"project": {
+		"name": "snell-server-docker",
+		"description": "A lightweight, multi-architecture (linux/amd64 and linux/arm64) Docker image for Snell Server.",
+		"contributors": 2,
+		"home_url": "https://github.com/waterdrops/snell-server-docker",
+		"repo_url": "https://github.com/waterdrops/snell-server-docker",
+		"license_type": "MIT",
+		"license_url": "https://github.com/waterdrops/snell-server-docker/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Warren",
+		"email": "admin@uah.edu.kg",
+		"role": "Founder or Owner",
+		"id": 7233747
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1457,
+	"created_at": "2026-03-04T08:29:26Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "aoko1pass.1password.com",
+	"project": {
+		"name": "Mssk_Talk",
+		"description": "An open-source anonymous messaging board built on Cloudflare Pages and Supabase. Supports multi-language, Telegram and email notifications, admin panel, spam protection, and zero-infrastructure deployment on free-tier services.",
+		"contributors": 2,
+		"home_url": "https://mssk.cc.cd",
+		"repo_url": "https://github.com/MaoShiSanKe/Mssk_Talk",
+		"license_type": "MIT",
+		"license_url": "https://github.com/MaoShiSanKe/Mssk_Talk/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "MU YAUN",
+		"email": "aoko_1pass@aoko.site",
+		"role": "Founder or Owner",
+		"id": 110333261
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1481,
+	"created_at": "2026-03-22T07:42:58Z"
+}

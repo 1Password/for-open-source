@@ -1,0 +1,24 @@
+{
+	"account": "team-wfgy.1password.com",
+	"project": {
+		"name": "WFGY",
+		"description": "WFGY is an open-source AI Troubleshooting Atlas for RAG, agents, and AI workflows. It helps developers route failures, inspect broken invariants, and choose safer first repair moves through Problem Maps, the Global Debug Card, and Atlas Router TXT.",
+		"contributors": 2,
+		"home_url": "https://github.com/onestardao/WFGY",
+		"repo_url": "https://github.com/onestardao/WFGY",
+		"license_type": "MIT",
+		"license_url": "https://github.com/onestardao/WFGY/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "PS BigBig",
+		"email": "hello@onestardao.com",
+		"role": "Founder or Owner",
+		"id": 212544643
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1482,
+	"created_at": "2026-03-25T03:03:27Z"
+}

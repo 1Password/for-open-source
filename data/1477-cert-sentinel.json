@@ -1,0 +1,24 @@
+{
+	"account": "dangiaosu.1password.com",
+	"project": {
+		"name": "Cert Sentinel",
+		"description": "CertSentinel is designed to be a free, self-hosted, open-source alternative to paid monitoring SaaS platforms (like UptimeRobot or Pingdom). It provides thousands of freelance developers, open-source maintainers, and small DevOps teams worldwide with a lightweight ChatOps solution to monitor SSL expiry, uptime, and security vulnerabilities directly without vendor lock-in or subscription fees.\n\nIt is built to be deployed by anyone for any infrastructure, rather than being hardcoded for my own niche usage. We are also planning to expand it beyond Telegram into a plugin-based architecture for wider ecosystem integration (Slack, Discord, Webhooks).",
+		"contributors": 1,
+		"home_url": "https://github.com/dangiaosu/CertSentinel",
+		"repo_url": "https://github.com/dangiaosu/CertSentinel",
+		"license_type": "MIT",
+		"license_url": "https://github.com/dangiaosu/CertSentinel/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Dan Ta",
+		"email": "danta@dandoxin.com",
+		"role": "Developer",
+		"id": 166351462
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1477,
+	"created_at": "2026-03-20T12:44:26Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "team-npmx.1password.com",
+	"project": {
+		"name": "npmx",
+		"description": "npmx is a better UX/DX for the npm package registry and tooling. We provide a fast, modern interface for exploring packages, with features like dark mode, keyboard navigation, code browsing, and more.\n\nWe also aim to provide a better admin UI for managing your packages, teams, and organizations — all from the browser, powered by your local npm CLI.",
+		"contributors": 10,
+		"home_url": "https://npmx.dev",
+		"repo_url": "https://github.com/npmx-dev/npmx.dev",
+		"license_type": "MIT",
+		"license_url": "https://github.com/npmx-dev/npmx.dev/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Daniel Roe",
+		"email": "dniel@roe.dev",
+		"role": "Founder or Owner",
+		"id": 28706372
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1476,
+	"created_at": "2026-03-20T10:43:15Z"
+}

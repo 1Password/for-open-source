@@ -1,0 +1,24 @@
+{
+	"account": "ethmensa.1password.com",
+	"project": {
+		"name": "ETH Mensa",
+		"description": "An open-source iOS app for ETH students that simplifies Mensa dining with menus, nutritional info, and real-time updates. Built for speed and transparency, it enables the community to contribute, improve features, and create a better campus dining experience together.",
+		"contributors": 2,
+		"home_url": "https://apps.apple.com/app/id1613899399",
+		"repo_url": "https://github.com/alexandrereol/ethmensa",
+		"license_type": "GPL-3.0 license",
+		"license_url": "https://github.com/alexandrereol/ethmensa/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Alexandre Reol",
+		"email": "alexandre@reol.ch",
+		"role": "Founder or Owner",
+		"id": 81623991
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1483,
+	"created_at": "2026-03-25T19:12:38Z"
+}

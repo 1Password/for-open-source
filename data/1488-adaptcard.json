@@ -1,0 +1,23 @@
+{
+	"account": "cosmosdrawing.1password.com",
+	"project": {
+		"name": "adaptcard",
+		"description": "adaptcard is an open-source, self-hostable adaptive learning engine that combines evidence-based spaced repetition with AI-generated quizzes. It is designed as a composable REST API so other developers can build study tools, review systems, and knowledge-training workflows on top of it.",
+		"contributors": 1,
+		"home_url": "https://github.com/fkx816/adaptcard",
+		"license_type": "MIT",
+		"license_url": "https://github.com/fkx816/adaptcard/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Fuwen",
+		"email": "fkx816@locizen.com",
+		"role": "Founder or Owner",
+		"id": 69662155
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1488,
+	"created_at": "2026-03-30T03:56:27Z"
+}

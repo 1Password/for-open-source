@@ -1,0 +1,23 @@
+{
+	"account": "yonbaiman.1password.com",
+	"project": {
+		"name": "cloudflare-gateway-analyzer",
+		"description": "An open-source security observability tool for Cloudflare Zero Trust users. It automates log retrieval via GraphQL API and generates daily insights using GitHub Actions to preserve privacy.",
+		"contributors": 1,
+		"home_url": "https://github.com/yonbaiman/cloudflare-gateway-analyzer",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/yonbaiman/cloudflare-gateway-analyzer/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "yonbaiman",
+		"email": "quick.hirano@gmail.com",
+		"role": "Founder or Owner",
+		"id": 252968841
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1504,
+	"created_at": "2026-04-13T08:49:34Z"
+}

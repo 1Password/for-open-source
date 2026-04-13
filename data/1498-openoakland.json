@@ -1,0 +1,24 @@
+{
+	"account": "openoakland.1password.com",
+	"project": {
+		"name": "OpenOakland",
+		"description": "OpenOakland is a civic technology group formerly a brigade with Code For America.  We have several active open source projects.\n\n\nOpenDisclosure - Campaign finance visualization\nDemocracy Dollars - Prototyping new public campaign financing system\nEVOKE - Community asset mapping\nOpenOUSD - aims to bring greater transparency to the Oakland Unified School District’s central office",
+		"contributors": 7,
+		"home_url": "https://openoakland.org/",
+		"repo_url": "https://github.com/caciviclab/disclosure-backend-static",
+		"license_type": "MIT",
+		"license_url": "https://github.com/openoakland/openoakland.org?tab=MIT-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Michael Ubell",
+		"email": "mike.ubell@gmail.com",
+		"role": "Organizer or Admin",
+		"id": 6759416
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1498,
+	"created_at": "2026-04-08T19:26:16Z"
+}

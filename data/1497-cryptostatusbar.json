@@ -1,0 +1,24 @@
+{
+	"account": "team-healer.1password.com",
+	"project": {
+		"name": "CryptoStatusBar",
+		"description": "CryptoStatusBar is a lightweight macOS menu bar app that displays real-time cryptocurrency price information. It uses the official OKEx exchange API to fetch data, allowing users to view the prices of their selected cryptocurrencies directly from the menu bar without opening a browser.",
+		"contributors": 3,
+		"home_url": "https://github.com/H-healer/CryptoStatusBar",
+		"repo_url": "https://github.com/H-healer/CryptoStatusBar",
+		"license_type": "GPL-3.0 license",
+		"license_url": "https://github.com/H-healer/CryptoStatusBar/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Healer",
+		"email": "1006338489@qq.com",
+		"role": "Founder or Owner",
+		"id": 61927588
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1497,
+	"created_at": "2026-04-08T13:52:12Z"
+}

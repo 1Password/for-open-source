@@ -1,0 +1,24 @@
+{
+	"account": "blogcore.1password.com",
+	"project": {
+		"name": "Blog.Core",
+		"description": "Blog.Core is an out-of-the-box framework for managing applications. Employing the latest fully separated front-end and back-end technology, and combined with IdentityServer4, it can quickly solve the problem of unified authentication and authorization for multiple clients and multiple resource services.",
+		"contributors": 4,
+		"home_url": "http://apk.neters.club/.doc/",
+		"repo_url": "https://github.com/anjoy8/Blog.Core",
+		"license_type": "Apache-2.0 license",
+		"license_url": "https://github.com/anjoy8/Blog.Core/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "LemonNoCry",
+		"email": "ningmengbuku@outlook.com",
+		"role": "Core Maintainer",
+		"id": 33311705
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1492,
+	"created_at": "2026-04-03T03:25:40Z"
+}

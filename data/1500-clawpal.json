@@ -1,0 +1,24 @@
+{
+	"account": "team-unipass.1password.com",
+	"project": {
+		"name": "ClawPal",
+		"description": "A desktop companion app for OpenClaw — manage your AI agents, models, and configurations with a visual interface instead of editing JSON by hand.\n\n\nInstall OpenClaw through guided setup paths (Local / WSL2 / Docker / Remote SSH)\nBrowse and apply pre-built configuration templates (Recipes)\nManage agents, models, and channel bindings visually\nRemote management over SSH\nAuto-update and diagnostics\n\n\nBuilt with React + TypeScript + Tauri.",
+		"contributors": 9,
+		"home_url": "https://clawpal.xyz",
+		"repo_url": "https://github.com/zhixianio/clawpal",
+		"license_type": "MIT",
+		"license_url": "https://github.com/zhixianio/clawpal/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Frank Lou",
+		"email": "frank@lay2.dev",
+		"role": "Founder or Owner",
+		"id": 7994361
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1500,
+	"created_at": "2026-04-11T12:16:48Z"
+}

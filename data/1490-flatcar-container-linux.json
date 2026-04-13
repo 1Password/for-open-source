@@ -1,0 +1,24 @@
+{
+	"account": "flatcarcontainerlinux.1password.com",
+	"project": {
+		"name": "Flatcar Container Linux",
+		"description": "Flatcar Container Linux is a fully open source, minimal-footprint, secure by default and always up-to-date Linux distribution for running containers at scale.",
+		"contributors": 15,
+		"home_url": "https://www.flatcar.org/",
+		"repo_url": "https://github.com/flatcar",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/flatcar/Flatcar/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jan Bronicki",
+		"email": "jan.bronicki.flatcar@gmail.com",
+		"role": "Core Maintainer",
+		"id": 56229312
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1490,
+	"created_at": "2026-04-02T13:37:51Z"
+}

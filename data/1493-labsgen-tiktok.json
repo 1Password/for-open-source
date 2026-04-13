@@ -1,0 +1,21 @@
+{
+	"account": "evolis.1password.com",
+	"project": {
+		"name": "Labsgen Tiktok",
+		"description": "A Windows desktop tool helps content creators obtain RTMP URLs and Stream Keys from TikTok to livestream securely and quickly via OBS. The project integrates multi-account management with AES-256 encryption.",
+		"contributors": 1,
+		"home_url": "https://github.com/antiantidev/labsgen-tiktok",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nhat Linh Nguyen",
+		"email": "chokernguyen@gmail.com",
+		"role": "Founder or Owner",
+		"id": 157112938
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1493,
+	"created_at": "2026-04-06T03:39:07Z"
+}

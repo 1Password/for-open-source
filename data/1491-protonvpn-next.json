@@ -1,0 +1,24 @@
+{
+	"account": "protonvpn-next.1password.com",
+	"project": {
+		"name": "ProtonVPN-Next",
+		"description": "ProtonVPN-Next is a high-performance, non-profit open-source VPN client focused on privacy and censorship circumvention. Developed with Kotlin Multiplatform (KMP) and Jetpack Compose, it provides a modern experience for Android and Desktop users.",
+		"contributors": 1,
+		"home_url": "https://home.protonnext.qzz.io/",
+		"repo_url": "https://codeberg.org/SMH01/ProtonVPN-Next",
+		"license_type": "GPL",
+		"license_url": "https://codeberg.org/SMH01/ProtonVPN-Next/src/branch/protonvpn-next-dev/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Rhett",
+		"email": "smali.pg@outlook.com",
+		"role": "Project Lead",
+		"id": 269659458
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1491,
+	"created_at": "2026-04-02T20:24:09Z"
+}

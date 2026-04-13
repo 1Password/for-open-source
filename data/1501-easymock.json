@@ -1,0 +1,24 @@
+{
+	"account": "easymock.1password.com",
+	"project": {
+		"name": "EasyMock",
+		"description": "EasyMock and Objenesis are two widely known Java frameworks under the same github organization.  EasyMock is a Java mocking framework and the inspiration of all modern mocking in many languages. Objenesis is used to create mock objects and proxies by multiple Java frameworks.",
+		"contributors": 3,
+		"home_url": "https://easymock.org/",
+		"repo_url": "https://github.com/easymock/easymock",
+		"license_type": "Apache 2.0",
+		"license_url": "https://easymock.org/license.html",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Henri Tremblay",
+		"email": "henri@tremblay.pro",
+		"role": "Founder or Owner",
+		"id": 1216819
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1501,
+	"created_at": "2026-04-11T21:13:33Z"
+}

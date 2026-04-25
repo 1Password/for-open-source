@@ -1,0 +1,23 @@
+{
+	"account": "thomasboomsoftware.1password.com",
+	"project": {
+		"name": "YAM Launcher",
+		"description": "YAM (Yet Another Minimalist) Launcher is a minimalist, open, customizable and text-based launcher for Android.",
+		"contributors": 2,
+		"home_url": "https://github.com/thomasboom/YAM-Launcher",
+		"license_type": "MIT",
+		"license_url": "https://github.com/thomasboom/YAM-Launcher/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Thomas Boom",
+		"email": "thomas@thomasboom.com",
+		"role": "Founder or Owner",
+		"id": 167298155
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1518,
+	"created_at": "2026-04-20T18:57:20Z"
+}

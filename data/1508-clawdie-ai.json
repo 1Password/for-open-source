@@ -1,0 +1,24 @@
+{
+	"account": "wxciu.1password.com",
+	"project": {
+		"name": "Clawdie-AI",
+		"description": "Clawdie is a self-hosted personal AI assistant for FreeBSD that runs on your own hardware, connects through Telegram, and stores memory in PostgreSQL. It supports local Ollama or external LLM providers, with FreeBSD-native jail isolation, ZFS snapshots, and a privacy-first design.",
+		"contributors": 1,
+		"home_url": "https://clawdie.si",
+		"repo_url": "https://codeberg.org/Clawdie/Clawdie-AI",
+		"license_type": "MIT",
+		"license_url": "https://codeberg.org/Clawdie/Clawdie-AI/src/branch/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "aizhiqian",
+		"email": "y3332664073@outlook.com",
+		"role": "Founder or Owner",
+		"id": 109693865
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1508,
+	"created_at": "2026-04-16T11:31:45Z"
+}

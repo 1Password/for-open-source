@@ -1,0 +1,24 @@
+{
+	"account": "reactfoundation.1password.com",
+	"project": {
+		"name": "React",
+		"description": "We are just spinning up the React Foundation, read more here and would love to use 1password for credential management.",
+		"contributors": 10,
+		"home_url": "https://react.foundation/",
+		"repo_url": "https://github.com/react (Code will be moved here from Meta/Facebook)",
+		"license_type": "MIT",
+		"license_url": "https://github.com/facebook/react/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Benjamin Sternthal",
+		"email": "bsternthal@linuxfoundation.org",
+		"role": "Program Manager",
+		"id": 198507
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1507,
+	"created_at": "2026-04-15T14:27:43Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "envirodatagov.1password.com",
+	"project": {
+		"name": "Environmental Data and Governance Initiative",
+		"description": "The Environmental Data and Governance Initiative (EDGI) is an organization focused on preserving public environmental data, creating open-source models and tools for analyzing and hosting data, and advising the public on environmental regulation and governance.",
+		"contributors": 15,
+		"home_url": "https://envirodatagov.org/",
+		"repo_url": "https://github.com/edgi-govdata-archiving/ECHO_modules",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/edgi-govdata-archiving/ECHO_modules?tab=GPL-3.0-1-ov-file#readme",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Doug Indrick",
+		"email": "douglas.indrick@envirodatagov.org",
+		"role": "Organizer or Admin",
+		"id": 68963008
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1519,
+	"created_at": "2026-04-23T00:25:24Z"
+}

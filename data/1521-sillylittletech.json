@@ -1,0 +1,24 @@
+{
+	"account": "sillylittletech.1password.com",
+	"project": {
+		"name": "SillyLittleTech",
+		"description": "Founded in 2020, SillyLittleTech provides open-source privacy tools and hosting for underserved populations. We are a fiscally sponsored 501©(3) of The Hack Foundation (EIN: 81-2908499), offering students and low-income residents accessible digital infrastructure to help bridge the global digital divide.",
+		"contributors": 23,
+		"home_url": "https://sillylittle.tech",
+		"repo_url": "https://github.com/SillyLittleTech/lander",
+		"license_type": "BSD",
+		"license_url": "https://github.com/SillyLittleTech/lander/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Kiya Rose",
+		"email": "kiya.rose@sillylittle.tech",
+		"role": "Founder or Owner",
+		"id": 75678535
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1521,
+	"created_at": "2026-04-27T00:14:03Z"
+}

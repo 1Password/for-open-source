@@ -1,0 +1,24 @@
+{
+	"account": "geestack.1password.com",
+	"project": {
+		"name": "Aspirin-Data-Builder",
+		"description": "Aspirin Code Data Builder is a graphical data generation tool designed for Online Judge problem preparation. It helps problem setters, coaches, and contest platform maintainers create, manage, and reproduce test data more efficiently. The tool brings standard-solution editing, input-file editing, C++-based data generation, batch generation, runtime argument configuration, and project archiving into a single desktop interface.\n\nThe project supports both manually written input files and programmatically generated inputs. Manual editing is useful for special scoring cases, edge cases, and carefully crafted examples, while C++ generation makes it easy to produce large-scale test files. For batch scenarios, users can define the number of generated files and pass custom runtime arguments such as data size or random seeds, making generated datasets reproducible and easier to maintain.\n\nAspirin Code Data Builder also supports saving the entire workspace as an .acdb project file. This project file stores manually written inputs, generator source code, and related parameters, allowing users to reopen, share, iterate, and regenerate data later without preserving redundant generated outputs. The final generated package includes the standard solution, input files, and output files, making it suitable for structured OJ test data production. The project is open source and provides Windows and macOS builds.",
+		"contributors": 3,
+		"home_url": "http://acdb.geestack.com/",
+		"repo_url": "https://github.com/CornerSkyless/Aspirin-Data-Builder",
+		"license_type": "MIT",
+		"license_url": "https://github.com/CornerSkyless/Aspirin-Data-Builder/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "CornerSkyless",
+		"email": "573196853@qq.com",
+		"role": "Founder or Owner",
+		"id": 13901424
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1530,
+	"created_at": "2026-05-06T06:12:41Z"
+}

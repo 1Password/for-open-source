@@ -1,0 +1,23 @@
+{
+	"account": "taptechholdings.1password.com",
+	"project": {
+		"name": "jaiclaw",
+		"description": "JaiClaw is a Java 21 / Spring Boot framework for building multi-channel AI agents. It connects LLMs to messaging platforms\n  (Telegram, Slack, Discord, Teams, SMS, email) with tool execution, MCP hosting, multi-tenancy, plugin extensibility, and a\n  Spring Shell CLI. Embeddable as a library or deployable as a standalone gateway.",
+		"contributors": 3,
+		"home_url": "https://github.com/glawson6/jaiclaw",
+		"license_type": "Apache 2",
+		"license_url": "https://github.com/glawson6/jaiclaw/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Gregory Lawson",
+		"email": "gregory.lawson@taptech.net",
+		"role": "Founder or Owner",
+		"id": 4186933
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1539,
+	"created_at": "2026-05-14T11:37:06Z"
+}

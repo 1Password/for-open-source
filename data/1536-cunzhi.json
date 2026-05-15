@@ -1,0 +1,24 @@
+{
+	"account": "imhuso.1password.com",
+	"project": {
+		"name": "cunzhi",
+		"description": "cunzhi is an MCP (Model Context Protocol) server that prevents AI coding assistants from ending conversations prematurely. When an AI tries to wrap up, cunzhi shows an interactive dialog allowing the user to continue the discussion, provide additional input, or refine requirements. It also manages project-scoped memory and rich Markdown interactions for AI coding workflows.",
+		"contributors": 6,
+		"home_url": "https://github.com/imhuso/cunzhi",
+		"repo_url": "https://github.com/imhuso/cunzhi",
+		"license_type": "MIT",
+		"license_url": "https://github.com/imhuso/cunzhi/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "imhuso",
+		"email": "imhuso5@gmail.com",
+		"role": "Founder or Owner",
+		"id": 9276880
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1536,
+	"created_at": "2026-05-13T00:27:19Z"
+}

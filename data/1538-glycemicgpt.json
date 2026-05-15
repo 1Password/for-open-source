@@ -1,0 +1,24 @@
+{
+	"account": "glycemicgpt.1password.com",
+	"project": {
+		"name": "GlycemicGPT",
+		"description": "GlycemicGPT is an open source diabetes platform that connects continuous glucose monitors and insulin pumps to an AI analysis engine. It provides daily briefs, pattern detection, conversational AI chat, and caregiver alerting. Self-hosted, privacy-first, BYOAI. GPL-3.0. Fiscally hosted by Open Source Collective.",
+		"contributors": 1,
+		"home_url": "https://glycemicgpt.org/",
+		"repo_url": "https://github.com/GlycemicGPT/GlycemicGPT",
+		"license_type": "GLP-3.0",
+		"license_url": "https://github.com/GlycemicGPT/GlycemicGPT/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Joshua Engelbrecht",
+		"email": "jlengelbrecht@glycemicgpt.org",
+		"role": "Founder or Owner",
+		"id": 112498703
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1538,
+	"created_at": "2026-05-14T01:30:01Z"
+}

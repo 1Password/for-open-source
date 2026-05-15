@@ -1,0 +1,24 @@
+{
+	"account": "vikiqaq.1password.com",
+	"project": {
+		"name": "60s API",
+		"description": "60s API is a popular open source API collection for daily news, trending topics, weather, prices, translation, wallpapers, QR codes, and more, with global CDN acceleration, 5k+ GitHub stars, and support for Docker, Deno, Bun, Cloudflare Workers, and Node.js.",
+		"contributors": 1,
+		"home_url": "https://docs.60s-api.viki.moe/",
+		"repo_url": "https://github.com/vikiboss/60s",
+		"license_type": "MIT",
+		"license_url": "https://github.com/vikiboss/60s/blob/main/license",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Viki",
+		"email": "hi@viki.moe",
+		"role": "Founder or Owner",
+		"id": 53367348
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1523,
+	"created_at": "2026-04-28T07:34:47Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "ssoggygroup.1password.com",
+	"project": {
+		"name": "SSoggy Group",
+		"description": "SSoggy Group is a student-run open source collective building free software for gamers and students. Our projects range from complex Minecraft server plugins to educational API tools and web utilities. We focus on transparent, community-driven development to make practical tools accessible to everyone.",
+		"contributors": 3,
+		"home_url": "https://github.com/SSoggy-Group",
+		"repo_url": "https://github.com/SSoggy-Group/SSoggySouls-for-Hardcore",
+		"license_type": "GPL v3",
+		"license_url": "https://github.com/SSoggy-Group/SSoggySouls-for-Hardcore?tab=GPL-3.0-1-ov-file",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Maaren Aurich",
+		"email": "maarenaurich@gmail.com",
+		"role": "Founder or Owner",
+		"id": 80040706
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1540,
+	"created_at": "2026-05-15T09:56:38Z"
+}

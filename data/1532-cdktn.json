@@ -1,0 +1,24 @@
+{
+	"account": "cdktn.1password.com",
+	"project": {
+		"name": "CDKTN",
+		"description": "CDKTN is an open-source Infrastructure as Code project born from the need to keep the CDK-style developer experience alive beyond CDKTF’s sunset.\nIt builds on the same idea: defining infrastructure with real programming languages instead of writing raw configuration by hand.\nThe project emerged as a community-driven continuation/fork path for teams that had invested in CDKTF and wanted long-term control.\nIts goal is to provide a stable, extensible foundation for scalable IaC, golden paths, and platform engineering guardrails.\nIn short: CDKTN brings CDK-style IaC back into open source hands, with a focus on sustainability, governance, and developer experience.",
+		"contributors": 5,
+		"home_url": "https://cdktn.io/",
+		"repo_url": "https://github.com/open-constructs/cdk-terrain",
+		"license_type": "MPL",
+		"license_url": "https://github.com/open-constructs/cdk-terrain/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jean Burellier",
+		"email": "jean.burellier@gmail.com",
+		"role": "Core Maintainer",
+		"id": 1133916
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1532,
+	"created_at": "2026-05-06T19:51:29Z"
+}

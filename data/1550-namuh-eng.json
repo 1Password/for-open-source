@@ -1,0 +1,24 @@
+{
+	"account": "namuhinc.1password.com",
+	"project": {
+		"name": "namuh-eng/*",
+		"description": "We maintain multiple open-source developer infrastructure projects under the namuh-eng GitHub organization.\n\nOur projects include:\n- OpenGithub (open-source GitHub alternative)\n- OpenSend (open-source Resend alternative)\n- Exponential (open-source Linear alternative)\n- OpenDocs (open-source Mintlify alternative)\n- Ralph-to-Ralph, an autonomous SaaS cloning and deployment pipeline\n\nThese projects are built using Rust, Next.js, TypeScript, cloud-native infrastructure, and autonomous AI workflows.\n\nWe would like to use 1Password Teams to securely manage deployment secrets, cloud credentials, OAuth environments, CI/CD workflows, and contributor access across our OSS infrastructure.",
+		"contributors": 2,
+		"home_url": "https://namuh.co",
+		"repo_url": "https://github.com/namuh-eng",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/namuh-eng/ralph-to-ralph/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jaeyun Ha",
+		"email": "jaeyunha@namuh.co",
+		"role": "Founder or Owner",
+		"id": 71791916
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1550,
+	"created_at": "2026-05-23T12:39:43Z"
+}

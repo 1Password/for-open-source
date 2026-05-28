@@ -1,0 +1,24 @@
+{
+	"account": "agones.1password.com",
+	"project": {
+		"name": "Agones",
+		"description": "Host, Run and Scale dedicated game servers on Kubernetes",
+		"contributors": 5,
+		"home_url": "https://agones.dev/",
+		"repo_url": "https://github.com/agones-dev/agones",
+		"license_type": "Apache",
+		"license_url": "https://github.com/agones-dev/agones/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mark Mandel",
+		"email": "mark@compoundtheory.com",
+		"role": "Founder or Owner",
+		"id": 298370
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1549,
+	"created_at": "2026-05-22T16:05:46Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "maheshtechnicals.1password.com",
+	"project": {
+		"name": "Sealplus",
+		"description": "Seal Plus is a highly active, open-source Android media utility (600+ GitHub stars) built with Kotlin and Jetpack Compose. I need 1Password to securely store and manage critical project infrastructure secrets, including our Android release keystores, CI/CD deployment tokens, and domain credentials.",
+		"contributors": 1,
+		"home_url": "https://sealplus.in/",
+		"repo_url": "https://github.com/MaheshTechnicals/Sealplus",
+		"license_type": "GPL",
+		"license_url": "https://github.com/MaheshTechnicals/Sealplus/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Mahesh Varma",
+		"email": "msvarma10001@gmail.com",
+		"role": "Founder or Owner",
+		"id": 42090586
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1545,
+	"created_at": "2026-05-20T21:01:05Z"
+}

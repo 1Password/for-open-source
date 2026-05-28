@@ -1,0 +1,23 @@
+{
+	"account": "digitalghost.1password.com",
+	"project": {
+		"name": "RBush-3D",
+		"description": "RBush-3D is a fast JavaScript library for organizing and searching 3D objects, such as points and boxes. It helps apps quickly find nearby or overlapping items, making it useful for games, maps, simulations, and other spatial data projects.",
+		"contributors": 5,
+		"home_url": "https://github.com/Eronana/rbush-3d",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Eronana/rbush-3d/blob/master/MIT-LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Erona Wan",
+		"email": "erona@dg.ax",
+		"role": "Founder or Owner",
+		"id": 9164153
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1542,
+	"created_at": "2026-05-16T06:07:48Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "j3n5en.1password.com",
+	"project": {
+		"name": "EnsoAI",
+		"description": "EnsoAI is an open-source desktop workspace that runs multiple AI coding agents (Claude, Gemini, Codex) in parallel across Git worktrees. Each branch becomes a first-class workspace with its own dedicated AI context, eliminating constant stashing and context switching for developers.",
+		"contributors": 5,
+		"home_url": "https://enso.j3.do/",
+		"repo_url": "https://github.com/J3n5en/EnsoAI/",
+		"license_type": "MIT",
+		"license_url": "https://github.com/J3n5en/EnsoAI",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jason Ng",
+		"email": "i@j3n5en.com",
+		"role": "Founder or Owner",
+		"id": 10610925
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1543,
+	"created_at": "2026-05-18T01:55:56Z"
+}

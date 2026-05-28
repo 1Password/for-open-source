@@ -1,0 +1,24 @@
+{
+	"account": "simpmusic.1password.com",
+	"project": {
+		"name": "SimpMusic",
+		"description": "SimpMusic — A FOSS, cross-platform music streaming app (Android, Windows, macOS, Linux) that uses YouTube Music as its backend, developed in Kotlin with Compose Multiplatform. Features include ad-free playback, synced lyrics with AI-powered lyrics translation, Spotify Canvas, SponsorBlock, Return YouTube Dislike, Android Auto, Discord Rich Presence, and YouTube Music playlist sync. The project follows Clean Architecture and MVVM patterns, using Compose Multiplatform for building cross-platform application.",
+		"contributors": 2,
+		"home_url": "https://simpmusic.org/",
+		"repo_url": "https://github.com/maxrave-dev/SimpMusic",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/maxrave-dev/SimpMusic/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nguyen Duc Tuan Minh",
+		"email": "ndtminh2608@gmail.com",
+		"role": "Founder or Owner",
+		"id": 113747128
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1551,
+	"created_at": "2026-05-25T02:24:24Z"
+}

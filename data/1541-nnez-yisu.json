@@ -1,0 +1,23 @@
+{
+	"account": "team-nnez.1password.com",
+	"project": {
+		"name": "nnez-yisu",
+		"description": "nnez-yisu is an open-source, third-party campus card client designed specifically for students at Nanning No. 2 High School. Built with Flutter, our app offers practical features ranging from real-time balance tracking and comprehensive consumption history to convenient desktop widgets and account management. We focus on delivering a modern, user-friendly experience to make managing daily campus expenses accessible and effortless for everyone.",
+		"contributors": 2,
+		"home_url": "https://github.com/imbrby/nnez-yisu-old",
+		"repo_url": "https://github.com/imbrby/nnez-yisu",
+		"license_type": "MIT",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Levi Bryer Grey",
+		"email": "notknowbrother@gmail.com",
+		"role": "Founder or Owner",
+		"id": 165466125
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1541,
+	"created_at": "2026-05-16T04:01:25Z"
+}

@@ -50,3 +50,5 @@ If you're not sure if your project meets these requirements, or you have any que
 - For questions about our products and account support, visit the [1Password Community forums](https://1password.community/) or [1Password Support](https://support.1password.com/).
 
 1Password for Open Source is part of [1Password for Good](https://1password.com/for-good/).
+
+*By accessing or using 1Password Developer Tools, you agree to the [API and SDK Terms of Service](https://1password.com/legal/api-sdk-terms-of-service).*

@@ -1,0 +1,21 @@
+{
+	"account": "team-code4j.1password.com",
+	"project": {
+		"name": "mini-llm-gateway",
+		"description": "Minimal OpenAI-compatible LLM gateway in Go: Azure OpenAI chat/embeddings + Jina rerank, with model aliasing, sticky sessions, weighted routing, and 429-aware retries.",
+		"contributors": 3,
+		"home_url": "https://github.com/yyykf/mini-llm-gateway",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "KAIFAN YU",
+		"email": "yukaifan@code4j.site",
+		"role": "Founder or Owner",
+		"id": 24830169
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1555,
+	"created_at": "2026-05-28T02:47:36Z"
+}

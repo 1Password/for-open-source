@@ -1,0 +1,23 @@
+{
+	"account": "lysinedev.1password.com",
+	"project": {
+		"name": "Lysine.dev (OkHttp, Retrofit, Okio, SQLDelight)",
+		"description": "Lysine.dev is the name of a set of open source projects built by Square, that have since left Square.\n\nOur new ‘forever home’ is CommonHaus, which provides operational support for projects like these.",
+		"contributors": 4,
+		"home_url": "https://square.github.io/okhttp/",
+		"license_type": "Apache 2",
+		"license_url": "https://github.com/square/okhttp/blob/master/LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jesse Wilson",
+		"email": "jesse@wasmo.com",
+		"role": "Founder or Owner",
+		"id": 133019
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1557,
+	"created_at": "2026-05-29T13:58:20Z"
+}

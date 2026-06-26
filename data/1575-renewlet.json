@@ -1,0 +1,24 @@
+{
+	"account": "team-olyq.1password.com",
+	"project": {
+		"name": "Renewlet",
+		"description": "Renewlet is a self-hosted subscription ledger for tracking recurring charges and sending renewal reminders. It supports Docker and Cloudflare Workers deployments, multiple notification channels, import/export, calendar feeds, public status pages, and account security features like passkeys and authenticator codes.",
+		"contributors": 1,
+		"home_url": "https://renewlet.olyq.org",
+		"repo_url": "https://github.com/zhiyingzzhou/renewlet",
+		"license_type": "MIT",
+		"license_url": "https://github.com/zhiyingzzhou/renewlet/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "zhiyingzhou",
+		"email": "13564030785@163.com",
+		"role": "Founder or Owner",
+		"id": 16408285
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1575,
+	"created_at": "2026-06-22T14:51:30Z"
+}

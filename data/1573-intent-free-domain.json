@@ -1,0 +1,22 @@
+{
+	"account": "intentfreedomain.1password.com",
+	"project": {
+		"name": "Intent Free Domain",
+		"description": "Intent is a non-profit, open-source project that provides free subdomains for developers, students, creators, and open-source projects.\n\nOur platform serves more than 1,500 community members and offers free subdomains under domains such as int.yt, nc.to, rh.to, yn.to, and gw.to. The project is maintained by a volunteer team and operates through Hack Club Bank (HCB).\n\nWe learned about the 1Password Open Source program through Hack Club (HCB). We initially contacted 1Password by email and provided our Hack Club sponsorship documentation for verification. We were then directed to the GitHub application process and are submitting our application here.\n\nWe would like to use 1Password to securely manage infrastructure credentials, API keys, DNS provider accounts, SSH keys, email accounts, and other sensitive information shared among our volunteer administration team of 6–7 members.\n\nProject website: int.yt\n\nThank you for considering our application.",
+		"contributors": 6,
+		"home_url": "https://int.yt/",
+		"repo_url": "https://github.com/intentfreedomain/",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Paidipala Sreervaj",
+		"email": "admin@int.yt",
+		"role": "Founder or Owner",
+		"id": 167754757
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1573,
+	"created_at": "2026-06-19T11:13:18Z"
+}

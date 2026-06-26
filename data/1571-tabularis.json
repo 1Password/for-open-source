@@ -1,0 +1,24 @@
+{
+	"account": "tabularis.1password.com",
+	"project": {
+		"name": "tabularis",
+		"description": "Open-source database client for PostgreSQL, MySQL/MariaDB and SQLite with SQL notebooks, visual EXPLAIN, AI and MCP built in. Hackable with plugins.",
+		"contributors": 2,
+		"home_url": "https://tabularis.dev",
+		"repo_url": "https://github.com/TabularisDB/tabularis",
+		"license_type": "Apache-2.0 license",
+		"license_url": "https://github.com/TabularisDB/tabularis/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Dominik Spitzli",
+		"email": "dominik@tabularis.dev",
+		"role": "Core Maintainer",
+		"id": 59208097
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1571,
+	"created_at": "2026-06-18T12:57:57Z"
+}

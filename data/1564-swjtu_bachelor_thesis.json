@@ -1,0 +1,23 @@
+{
+	"account": "team-hxwu.1password.com",
+	"project": {
+		"name": "SWJTU_Bachelor_Thesis",
+		"description": "An open-source LaTeX thesis template for Southwest Jiaotong University undergraduates, providing compliant formatting, required forms, fonts, bibliography support, and usage documentation.",
+		"contributors": 2,
+		"home_url": "https://github.com/abwuge/SWJTU_Bachelor_Thesis",
+		"license_type": "MIT",
+		"license_url": "https://github.com/abwuge/SWJTU_Bachelor_Thesis/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Hanxun Wu",
+		"email": "abwuge@163.com",
+		"role": "Founder or Owner",
+		"id": 81455573
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1564,
+	"created_at": "2026-06-09T11:53:19Z"
+}

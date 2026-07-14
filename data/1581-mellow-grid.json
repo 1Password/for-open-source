@@ -1,0 +1,24 @@
+{
+	"account": "yusazh.1password.com",
+	"project": {
+		"name": "mellow-grid",
+		"description": "MellowGrid is an open-source, self-hostable Bento-style personal homepage builder. We will continue maintaining it, improving the visual editor and static export workflow, adding new lightweight widgets/modules, expanding theme presets, and keeping the project secure, reliable, and easy for individuals to deploy.",
+		"contributors": 2,
+		"home_url": "https://yusazh.github.io/mellow-grid/",
+		"repo_url": "https://github.com/YuSaZh/mellow-grid",
+		"license_type": "MIT",
+		"license_url": "https://github.com/YuSaZh/mellow-grid/blob/master/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "ZHOU ZIHAO",
+		"email": "yusazho@gmail.com",
+		"role": "Founder or Owner",
+		"id": 96724550
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1581,
+	"created_at": "2026-06-27T07:24:37Z"
+}

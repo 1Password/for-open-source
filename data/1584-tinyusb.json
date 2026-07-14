@@ -1,0 +1,24 @@
+{
+	"account": "tinyusb.1password.com",
+	"project": {
+		"name": "TinyUSB",
+		"description": "TinyUSB is an open-source, cross-platform USB Host/Device stack for embedded systems. Designed for memory safety (no dynamic allocation) and thread safety, it supports 50+ MCU families and classes including CDC, HID, MSC, MIDI, and Audio.",
+		"contributors": 1,
+		"home_url": "https://docs.tinyusb.org",
+		"repo_url": "https://github.com/hathach/tinyusb",
+		"license_type": "MIT",
+		"license_url": "https://github.com/hathach/tinyusb/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Ha Thach",
+		"email": "thach@tinyusb.org",
+		"role": "Founder or Owner",
+		"id": 249515
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1584,
+	"created_at": "2026-06-30T09:19:53Z"
+}

@@ -1,0 +1,23 @@
+{
+	"account": "whosteam.1password.com",
+	"project": {
+		"name": "Sigmo",
+		"description": "A self-hosted web UI and API for managing ModemManager-based cellular modems",
+		"contributors": 1,
+		"home_url": "https://github.com/damonto/sigmo",
+		"license_type": "MIT",
+		"license_url": "https://github.com/damonto/sigmo/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Damon",
+		"email": "me@is.ci",
+		"role": "Founder or Owner",
+		"id": 9162521
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1585,
+	"created_at": "2026-07-01T02:48:25Z"
+}

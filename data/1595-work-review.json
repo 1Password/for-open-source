@@ -1,0 +1,24 @@
+{
+	"account": "team-wmyy.1password.com",
+	"project": {
+		"name": "Work-Review",
+		"description": "Based on your locally stored activity records, the AI Work Review Assistant can automatically track your time, generate daily reports, and provide insights.",
+		"contributors": 6,
+		"home_url": "https://aiqst.com/",
+		"repo_url": "https://github.com/wm94i/Work-Review",
+		"license_type": "MIT",
+		"license_url": "https://github.com/wm94i/Work-Review?tab=MIT-1-ov-file",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "wangmingyang",
+		"email": "2883@88.com",
+		"role": "Founder or Owner",
+		"id": 257753161
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1595,
+	"created_at": "2026-07-09T00:31:52Z"
+}

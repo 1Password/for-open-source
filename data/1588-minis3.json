@@ -1,0 +1,23 @@
+{
+	"account": "yashikota.1password.com",
+	"project": {
+		"name": "minis3",
+		"description": "minis3 is a lightweight in-memory S3-compatible server for unit testing and local development. It provides a real TCP interface as an S3 equivalent to net/http/httptest, offering a fast alternative to integration tests against real AWS S3.",
+		"contributors": 1,
+		"home_url": "https://github.com/yashikota/minis3",
+		"license_type": "MIT",
+		"license_url": "https://github.com/yashikota/minis3?tab=MIT-1-ov-file",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "kota",
+		"email": "dev@yashikota.com",
+		"role": "Founder or Owner",
+		"id": 52403688
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1588,
+	"created_at": "2026-07-05T07:02:39Z"
+}

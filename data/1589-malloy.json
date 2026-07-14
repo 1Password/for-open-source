@@ -1,0 +1,24 @@
+{
+	"account": "themalloyfoundation.1password.com",
+	"project": {
+		"name": "Malloy",
+		"description": "Malloy is a modern open source language for describing data relationships and transformations.",
+		"contributors": 4,
+		"home_url": "https://www.malloydata.dev/",
+		"repo_url": "https://github.com/malloydata/malloy",
+		"license_type": "MIT",
+		"license_url": "https://github.com/malloydata/malloy/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Michael Toy",
+		"email": "mtoy@malloydata.org",
+		"role": "Core Maintainer",
+		"id": 2223707
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1589,
+	"created_at": "2026-07-07T00:09:28Z"
+}

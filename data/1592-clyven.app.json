@@ -1,0 +1,23 @@
+{
+	"account": "offical-atsch16.1password.eu",
+	"project": {
+		"name": "CLYVEN.APP",
+		"description": "Clyven.app is your personal, all-in-one dashboard designed for productivity and reflection. It seamlessly integrates notes, custom AI tools via your own API, and daily journaling across all your devices. Stay organized and track your personal growth in one secure, evolving space—built to help you focus on what matters.",
+		"contributors": 6,
+		"home_url": "https://github.com/offical-atsch16/clyven.app",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/offical-atsch16/clyven.app/blob/87c8dba79873edbd1cfb28b5733f8a46abed7694/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Arien Tschemeris",
+		"email": "atschemeris@icloud.com",
+		"role": "Organizer or Admin",
+		"id": 168004792
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1592,
+	"created_at": "2026-07-08T14:09:40Z"
+}

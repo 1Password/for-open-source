@@ -1,0 +1,23 @@
+{
+	"account": "team-andersonsteam.1password.com",
+	"project": {
+		"name": "fullpage-shot",
+		"description": "A Chrome extension (Manifest V3) for full-page scrolling screenshots with an interactive crop editor and one-click export to Word, PDF, or PNG. All processing happens locally in the browser with no login, no server, and no payment.",
+		"contributors": 1,
+		"home_url": "https://github.com/songhanlin/fullpage-shot",
+		"license_type": "MIT",
+		"license_url": "https://github.com/songhanlin/fullpage-shot/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Anderson",
+		"email": "song@julysong.com",
+		"role": "Founder or Owner",
+		"id": 22296845
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1591,
+	"created_at": "2026-07-08T13:27:37Z"
+}

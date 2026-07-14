@@ -1,0 +1,23 @@
+{
+	"account": "team-jensenic.1password.com",
+	"project": {
+		"name": "Show Your Citations",
+		"description": "A Chrome extension that shows your Google Scholar citations, h-index, and i10-index in the toolbar. Fetching runs through a small self-hostable proxy service, so it works in mainland China without a VPN and avoids Scholar’s bot checks. Open source, MIT licensed, no third-party data.",
+		"contributors": 1,
+		"home_url": "https://github.com/JingxuanKang/Show-Your-Citations",
+		"license_type": "MIT",
+		"license_url": "https://github.com/JingxuanKang/Show-Your-Citations/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Jingxuan Kang",
+		"email": "jxkang02@gmail.com",
+		"role": "Founder or Owner",
+		"id": 95452048
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1594,
+	"created_at": "2026-07-08T23:33:16Z"
+}

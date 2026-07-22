@@ -4,9 +4,9 @@
 		"name": "CraftEngine Blocks Extensions",
 		"description": "This project is a custom block extension module developed using CraftEngine, incorporating various block behaviour implementations such as adjustable redstone and block loaders. It supports Minecraft versions 1.20 and above.",
 		"contributors": 2,
-		"home_url": "https://github.com/jhqwqmc/craft-engine-blocks",
+		"home_url": "https://github.com/CraftEngine-Community/craft-engine-blocks",
 		"license_type": "MIT",
-		"license_url": "https://github.com/jhqwqmc/craft-engine-blocks/blob/main/LICENSE",
+		"license_url": "https://github.com/CraftEngine-Community/craft-engine-blocks/blob/main/LICENSE",
 		"is_event": false,
 		"is_team": true
 	},

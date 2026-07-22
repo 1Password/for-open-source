@@ -1,0 +1,21 @@
+{
+	"account": "neko-team.1password.com",
+	"project": {
+		"name": "kazumi",
+		"description": "Anime streaming app with custom rule scraping supporting streaming playback and real-time danmaku. Based on Dart.",
+		"contributors": 50,
+		"home_url": "https://github.com/Predidit/Kazumi",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Qihan L",
+		"email": "qihan.l@outlook.com",
+		"role": "Core Maintainer",
+		"id": 66504584
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1596,
+	"created_at": "2026-07-09T01:35:11Z"
+}

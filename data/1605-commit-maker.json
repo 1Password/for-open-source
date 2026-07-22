@@ -1,0 +1,24 @@
+{
+	"account": "tozai-c.1password.com",
+	"project": {
+		"name": "Commit Maker",
+		"description": "Commit Maker is a free Apache-2.0 VS Code extension that generates commit messages from Git diffs using cloud or local AI models. It supports 32 UI languages, BYOK credentials stored in VS Code SecretStorage, and privacy-focused local execution.",
+		"contributors": 1,
+		"home_url": "https://open-vsx.org/extension/Hiromitsu/commit-maker",
+		"repo_url": "https://github.com/Hiromitsu-A-T/commit-maker",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/Hiromitsu-A-T/commit-maker/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Hiromitsu",
+		"email": "info@tozai-c.co.jp",
+		"role": "Founder or Owner",
+		"id": 166091281
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1605,
+	"created_at": "2026-07-11T11:47:16Z"
+}

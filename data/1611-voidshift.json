@@ -1,0 +1,23 @@
+{
+	"account": "voidshift.1password.com",
+	"project": {
+		"name": "VoidShift",
+		"description": "VPN management panel for VPS servers. Single binary with an embedded, server-rendered web UI. Currently supports WireGuard, with more protocols planned.",
+		"contributors": 1,
+		"home_url": "https://github.com/FortiBrine/VoidShift",
+		"license_type": "MIT + Apache 2.0",
+		"license_url": "https://github.com/FortiBrine/VoidShift/blob/main/LICENSE-MIT, https://github.com/FortiBrine/VoidShift/blob/main/LICENSE-APACHE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "FortiBrine",
+		"email": "1password@fortibrine.me",
+		"role": "Developer",
+		"id": 63194520
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1611,
+	"created_at": "2026-07-21T15:01:20Z"
+}

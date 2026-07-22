@@ -1,0 +1,23 @@
+{
+	"account": "teamc2.1password.com",
+	"project": {
+		"name": "CupcakeC2",
+		"description": "这是一款现代、高性能的跨平台 C2 架构系统。采用 Rust 编写受控端，Go 编写服务端，以及 Vue 3 极致轻量化 UI。深度融合 MCP 协议，开启 AI 自动化攻防新篇章",
+		"contributors": 3,
+		"home_url": "https://github.com/yellatiamo/CupcakeC2",
+		"license_type": "MIT",
+		"license_url": "https://github.com/yellatiamo/CupcakeC2/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Tiamo",
+		"email": "yellatiamo@gmail.com",
+		"role": "Founder or Owner",
+		"id": 245780149
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1607,
+	"created_at": "2026-07-13T01:50:36Z"
+}

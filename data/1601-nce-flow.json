@@ -1,0 +1,24 @@
+{
+	"account": "unnamedplan.1password.com",
+	"project": {
+		"name": "NCE-Flow",
+		"description": "NCE-Flow is a free, zero-dependency web tool for learning New Concept English. It supports sentence-level clicking playback, continuous reading, and three display modes (EN / EN+CN / CN). The project is fully open source under MIT license and intended for personal study only.",
+		"contributors": 2,
+		"home_url": "https://nce.luzhenhua.cn",
+		"repo_url": "https://github.com/luzhenhua/NCE-Flow",
+		"license_type": "MIT",
+		"license_url": "https://github.com/luzhenhua/NCE-Flow/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "ZHENHUA LU",
+		"email": "luzhenhuadev@gmail.com",
+		"role": "Founder or Owner",
+		"id": 128296338
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1601,
+	"created_at": "2026-07-09T02:44:36Z"
+}

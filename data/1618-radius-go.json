@@ -1,0 +1,24 @@
+{
+	"account": "popcorn-team.1password.com",
+	"project": {
+		"name": "radius-go",
+		"description": "radius-go is a small RADIUS authentication server written in Go. It is designed for teams that need a simple access-authentication system before a full identity platform is available.\n\nTypical uses include:\n\n\nLab or small-office access authentication where a RADIUS PAP backend is accepted by the network device.\nTemporary VPN, Wi-Fi, or network-device authentication during an infrastructure migration.\nA tightly scoped internal authentication service for a small number of users and network access clients.\n\n\nThe server stores users and API keys in SQLite, hashes user passwords with bcrypt, hashes API keys with SHA-256, exposes a protected Gin API, and only accepts RADIUS packets from explicitly configured client CIDR ranges.",
+		"contributors": 1,
+		"home_url": "https://github.com/hank-179/radius-go",
+		"repo_url": "https://github.com/hank-179/radius-go",
+		"license_type": "MIT",
+		"license_url": "https://github.com/hank-179/radius-go/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Hank",
+		"email": "hank179@outlook.com",
+		"role": "Developer",
+		"id": 288542859
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1618,
+	"created_at": "2026-07-28T19:15:54Z"
+}

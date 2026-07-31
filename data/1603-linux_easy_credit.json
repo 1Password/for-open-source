@@ -1,0 +1,23 @@
+{
+	"account": "tianze.1password.com",
+	"project": {
+		"name": "LINUX_EASY_CREDIT",
+		"description": "LINUX_EASY_CREDIT is an open-source donation website based on Linux.do Credit. It helps creators quickly deploy a lightweight, mobile-friendly reward page with custom amounts, supporter messages, signature verification, and multiple deployment options.",
+		"contributors": 1,
+		"home_url": "https://github.com/Razewang/LINUX_EASY_CREDIT",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Razewang/LINUX_EASY_CREDIT/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Tianzeze",
+		"email": "tianze17@qq.com",
+		"role": "Founder or Owner",
+		"id": 47569570
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1603,
+	"created_at": "2026-07-09T04:28:07Z"
+}

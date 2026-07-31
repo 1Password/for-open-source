@@ -1,0 +1,22 @@
+{
+	"account": "sbtlocalization.1password.com",
+	"project": {
+		"name": "sbt-infinity",
+		"description": "It started as a tool to help edit graphical textures in old games based on Infinity Engine. Eventually, it grew into a set of modding tools (with some focus on localization). sbt-infinity allows viewing and dumping various internal formats from the game, exporting text (with context!), dialog trees, sounds, etc. It’s cross-platform (pure Go) and fast.\n\nThe project was inspired by other similar (but different) tools, so we wanted to pay open source community back by opening ours too from the first day of development.",
+		"contributors": 5,
+		"home_url": "https://github.com/sbtlocalization/sbt-infinity",
+		"license_type": "GPL-3.0",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Serhii Olendarenko",
+		"email": "serhii.o@sbt.localization.com.ua",
+		"role": "Founder or Owner",
+		"id": 668584
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1612,
+	"created_at": "2026-07-24T11:52:45Z"
+}

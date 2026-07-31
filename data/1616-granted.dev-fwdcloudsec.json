@@ -1,0 +1,24 @@
+{
+	"account": "fwdcloudsec.1password.com",
+	"project": {
+		"name": "granted.dev / fwd:cloudsec",
+		"description": "fwd:cloudsec’s 501c3 LLC runs the fwd:cloudsec and fwd:cloudsec Europe conferences, AND is the custodial owner of granted.dev, and opensource tool for managing authentication into AWS accounts.",
+		"contributors": 10,
+		"home_url": "https://fwdcloudsec.org",
+		"repo_url": "https://github.com/fwdcloudsec/granted",
+		"license_type": "MIT",
+		"license_url": "https://github.com/fwdcloudsec/granted/blob/main/LICENCE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Chris Farris",
+		"email": "chris@fwdcloudsec.org",
+		"role": "Organizer or Admin",
+		"id": 15526837
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1616,
+	"created_at": "2026-07-25T16:08:56Z"
+}

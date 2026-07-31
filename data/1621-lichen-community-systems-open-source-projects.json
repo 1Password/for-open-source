@@ -1,0 +1,24 @@
+{
+	"account": "lichenopensourceprojects.1password.ca",
+	"project": {
+		"name": "Lichen Community Systems open source projects",
+		"description": "Lichen Community Systems is a community of approximately 25 open source projects that are focused on access to accessible creative expression. Lichen projects include Flocking and Signaletic, open source libraries for electronic music used by developers worldwide, and MovementOSC, which provides open source movement tracking tools for dancers and artists to build responsive generative installations.",
+		"contributors": 6,
+		"home_url": "https://github.com/lichen-community-systems",
+		"repo_url": "https://github.com/lichen-community-systems/Flocking",
+		"license_type": "Dual licensed under MIT and GPL",
+		"license_url": "https://github.com/lichen-community-systems/Flocking/blob/main/MIT-LICENSE.txt",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Colin Clark",
+		"email": "colinbdclark@gmail.com",
+		"role": "Core Maintainer",
+		"id": 558076
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1621,
+	"created_at": "2026-07-31T01:23:30Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "team-lbk.1password.com",
+	"project": {
+		"name": "LBK Launcher",
+		"description": "LBK Launcher is a free, open source desktop app that gathers Ukrainian fan-made game localizations into one catalog. It detects games installed via Steam, GOG, Epic, Heroic, and Lutris, then downloads, installs, and updates translations automatically, so players can switch a game to Ukrainian in a few clicks.",
+		"contributors": 4,
+		"home_url": "https://lbklauncher.com",
+		"repo_url": "https://github.com/Vadko/lbk-launcher",
+		"license_type": "GPL v3",
+		"license_url": "https://github.com/Vadko/lbk-launcher/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Vadym Pohlid",
+		"email": "vpoglid@gmail.com",
+		"role": "Founder or Owner",
+		"id": 9297785
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1634,
+	"created_at": "2026-08-10T13:36:53Z"
+}

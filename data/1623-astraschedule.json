@@ -1,0 +1,24 @@
+{
+	"account": "kuohu.1password.com",
+	"project": {
+		"name": "AstraSchedule",
+		"description": "AstraSchedule is an open-source school timetable system with floating display, weather alerts, notifications, intelligent holiday rescheduling, and temporary class-change rules. It is serverless-ready, supports flexible low-cost deployment , and runs on Windows 7 with web-based administration.",
+		"contributors": 2,
+		"home_url": "https://getastra.cn",
+		"repo_url": "https://github.com/AstraSchedule/desktop",
+		"license_type": "AGPL",
+		"license_url": "https://github.com/AstraSchedule/AstraSchedule/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "KuoHu",
+		"email": "kuohu233@qq.com",
+		"role": "Founder or Owner",
+		"id": 72146468
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1623,
+	"created_at": "2026-08-03T17:46:53Z"
+}

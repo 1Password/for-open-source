@@ -1,0 +1,24 @@
+{
+	"account": "tirith.1password.com",
+	"project": {
+		"name": "Tirith",
+		"description": "Tirith is a terminal security tool for developers and AI agents. It inspects commands before execution and blocks homograph URLs, pipe-to-shell installs, ANSI injection, obfuscated payloads, credential exfiltration, and malicious agent configs. Written in Rust, with 220+ detection rules and shell hooks for zsh, bash, fish, and PowerShell.",
+		"contributors": 1,
+		"home_url": "https://tirith.sh",
+		"repo_url": "https://github.com/sheeki03/tirith",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/sheeki03/tirith/blob/main/LICENSE-AGPL",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Shivom Sharma",
+		"email": "shivom@tirith.sh",
+		"role": "Founder or Owner",
+		"id": 36009418
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1638,
+	"created_at": "2026-08-12T16:08:04Z"
+}

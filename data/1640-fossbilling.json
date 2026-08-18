@@ -1,0 +1,24 @@
+{
+	"account": "fossbilling.1password.eu",
+	"project": {
+		"name": "FOSSBilling",
+		"description": "FOSSBilling is a free, open-source billing and client management system. It helps online service businesses automate invoicing, payments, and client communication. While it’s popular with web hosting providers, it also works well for software licensing, digital downloads, and subscription services.",
+		"contributors": 5,
+		"home_url": "https://fossbilling.org",
+		"repo_url": "https://github.com/FOSSBilling/FOSSBilling",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/FOSSBilling/FOSSBilling/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Adam Daley",
+		"email": "adam@fossbilling.org",
+		"role": "Founder or Owner",
+		"id": 2807620
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1640,
+	"created_at": "2026-08-15T07:25:02Z"
+}

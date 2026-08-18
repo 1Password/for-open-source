@@ -1,0 +1,23 @@
+{
+	"account": "shupian.1password.com",
+	"project": {
+		"name": "ai-code-generator",
+		"description": "这是一个 AI 应用生成平台，用户输入需求后，系统会先为应用选择合适的生成模式，再通过 LangChain4j 调用模型生成代码，支持 HTML 单文件、多文件静态页和 Vue 项目三种模式，并提供流式生成展示、代码落盘、在线预览和部署能力。项目的主线是把“自然语言需求 -\u003e 代码 -\u003e 可访问页面”打通，而不是只停留在 AI 对话。",
+		"contributors": 2,
+		"home_url": "https://github.com/zhupian/ai-code-generator/tree/master",
+		"license_type": "MIT",
+		"license_url": "https://github.com/zhupian/ai-code-generator/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "李明杰",
+		"email": "3587746736@qq.com",
+		"role": "Founder or Owner",
+		"id": 155829610
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1646,
+	"created_at": "2026-08-18T02:32:59Z"
+}

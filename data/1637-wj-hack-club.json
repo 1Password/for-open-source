@@ -1,0 +1,24 @@
+{
+	"account": "wjhackclub.1password.com",
+	"project": {
+		"name": "WJ Hack Club",
+		"description": "We are a sub organization of the non profit hackclub running at Walter Johnson High School. Our goal is to provide free hardware to students.",
+		"contributors": 18,
+		"home_url": "Https://wjhackclub.dev",
+		"repo_url": "https://github.com/wjhackclub/wjhackclub.github.io",
+		"license_type": "MIT",
+		"license_url": "https://github.com/hackclub/hackclub/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Ryan Rosenbaum",
+		"email": "Ryanjetplane1@gmail.com",
+		"role": "Founder or Owner",
+		"id": 297963106
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1637,
+	"created_at": "2026-08-11T13:04:24Z"
+}

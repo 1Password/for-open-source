@@ -1,0 +1,24 @@
+{
+	"account": "yunjin.1password.com",
+	"project": {
+		"name": "MicaTerm",
+		"description": "MicaTerm is a fully open-source, high-performance SSH terminal built in Rust for Windows, macOS, and Linux. Maintained by a two-person team, we create lightweight desktop applications and DevOps tools for secure, efficient cross-platform development and system administration.",
+		"contributors": 2,
+		"home_url": "https://github.com/dovetaill/MicaTerm",
+		"repo_url": "https://github.com/dovetaill/MicaTerm",
+		"license_type": "MIT",
+		"license_url": "https://github.com/dovetaill/MicaTerm/blob/master/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "TIANQI LIU",
+		"email": "qi@kkk.al",
+		"role": "Founder or Owner",
+		"id": 27993592
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1624,
+	"created_at": "2026-08-04T00:33:46Z"
+}

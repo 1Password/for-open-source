@@ -1,0 +1,24 @@
+{
+	"account": "openebs.1password.com",
+	"project": {
+		"name": "OpenEBS",
+		"description": "OpenEBS is an open-source Container Native Storage solution that provides persistent storage for Kubernetes workloads. It enables dynamic provisioning of storage resources using containerized storage controllers, making it highly flexible and cloud-native.",
+		"contributors": 4,
+		"home_url": "https://openebs.io",
+		"repo_url": "https://github.com/openebs/openebs",
+		"license_type": "Apache 2",
+		"license_url": "https://github.com/openebs/openebs/blob/develop/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Tiago Castro",
+		"email": "tiagolobocastro@gmail.com",
+		"role": "Core Maintainer",
+		"id": 1618946
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1632,
+	"created_at": "2026-08-09T18:21:36Z"
+}

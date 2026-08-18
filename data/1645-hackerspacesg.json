@@ -1,0 +1,22 @@
+{
+	"account": "hackerspacesg.1password.com",
+	"project": {
+		"name": "HackerspaceSG",
+		"description": "HackerspaceSG is a community-run hackerspace supporting Singapore’s open-source, technology, and maker communities. We provide shared space, infrastructure, events, and resources for developers, engineers, makers, students, and volunteers to learn, collaborate, and build together.",
+		"contributors": 3,
+		"home_url": "https://hackerspace.sg",
+		"repo_url": "https://github.com/hackerspacesg",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Valentine C",
+		"email": "valentine@hackerspace.sg",
+		"role": "Founder or Owner",
+		"id": 676061
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1645,
+	"created_at": "2026-08-18T01:38:29Z"
+}

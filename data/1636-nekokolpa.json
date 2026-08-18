@@ -1,0 +1,24 @@
+{
+	"account": "nekoko.1password.com",
+	"project": {
+		"name": "NekokoLPA",
+		"description": "NekokoLPA is the first cross-platform LPA, providing powerful eSIM profile management across Android, iOS, Windows, macOS, Linux, and the web. It supports diverse eUICC hardware and is heavily used by individuals, communities, and eSIM vendors worldwide, with 200k+ installs across platforms.",
+		"contributors": 2,
+		"home_url": "https://lpa.nekoko.ee",
+		"repo_url": "https://github.com/iebb/NekokoLPA",
+		"license_type": "MIT",
+		"license_url": "https://github.com/iebb/NekokoLPA/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "HC Sun",
+		"email": "ieb@nekoko.sm",
+		"role": "Founder or Owner",
+		"id": 2127498
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1636,
+	"created_at": "2026-08-11T04:23:01Z"
+}

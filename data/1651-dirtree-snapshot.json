@@ -1,0 +1,23 @@
+{
+	"account": "xiaoheyun.1password.com",
+	"project": {
+		"name": "DirTree-Snapshot",
+		"description": "When reinstalling the OS, migrating data, or performing routine backups, it is hard to tell if every file copied intact. DirTree Snapshot solves this by recording directory snapshots that can be compared and verified later.",
+		"contributors": 2,
+		"home_url": "https://github.com/xunmeiruxue/DirTree-Snapshot",
+		"license_type": "MIT",
+		"license_url": "https://github.com/xunmeiruxue/DirTree-Snapshot/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "xiaoheyun",
+		"email": "xunmeifangmu@outlook.com",
+		"role": "Founder or Owner",
+		"id": 93825155
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1651,
+	"created_at": "2026-08-18T13:56:35Z"
+}

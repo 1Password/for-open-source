@@ -1,0 +1,24 @@
+{
+	"account": "team-opentelemetryruby.1password.com",
+	"project": {
+		"name": "OpenTelemetry Ruby",
+		"description": "This request is for an account to support Ruby language implementations of the OpenTelemetry project. This includes the SDKs, APIs, exporters and instrumentation that allow users to access the open standard for telemetry. This project is part of the Cloud Native Computing Foundation (CNCF).",
+		"contributors": 5,
+		"home_url": "https://opentelemetry.io/",
+		"repo_url": "https://github.com/open-telemetry/opentelemetry-ruby",
+		"license_type": "Apache 2.0",
+		"license_url": "https://github.com/open-telemetry/opentelemetry-ruby/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Kayla Reopelle",
+		"email": "kreopelle+otel@gmail.com",
+		"role": "Core Maintainer",
+		"id": 87386821
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1625,
+	"created_at": "2026-08-04T23:32:37Z"
+}

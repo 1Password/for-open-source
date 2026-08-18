@@ -1,0 +1,24 @@
+{
+	"account": "wolfstarproject.1password.com",
+	"project": {
+		"name": "WolfStar",
+		"description": "WolfStar is an open source, multipurpose Discord bot for server moderation, logging, and community management, maintained by a small open source team.",
+		"contributors": 2,
+		"home_url": "https://wolfstar.rocks",
+		"repo_url": "https://github.com/wolfstar-project/wolfstar",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/wolfstar-project/wolfstar/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Wolfstar",
+		"email": "contact@wolfstar.rocks",
+		"role": "Founder or Owner",
+		"id": 76824516
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1622,
+	"created_at": "2026-08-01T11:40:53Z"
+}

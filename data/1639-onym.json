@@ -1,0 +1,24 @@
+{
+	"account": "onymou.1password.com",
+	"project": {
+		"name": "Onym",
+		"description": "Open-source, end-to-end encrypted group messaging with no central operator. Identity stays on your device; relays and onchain anchoring stay separate, auditable, and replaceable.",
+		"contributors": 2,
+		"home_url": "https://onym.app",
+		"repo_url": "https://github.com/onymchat",
+		"license_type": "MIT",
+		"license_url": "https://github.com/onymchat/onym-contracts/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Rinat Enikeev",
+		"email": "lead@onym.app",
+		"role": "Founder or Owner",
+		"id": 722716
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1639,
+	"created_at": "2026-08-14T18:06:26Z"
+}

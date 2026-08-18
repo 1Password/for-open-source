@@ -1,0 +1,23 @@
+{
+	"account": "patter-team.1password.com",
+	"project": {
+		"name": "Patter",
+		"description": "Open-source voice AI SDK for building phone agents with Python and TypeScript, supporting 27+ integrations across LLM, STT, TTS, realtime voice, telephony, and audio.",
+		"contributors": 2,
+		"home_url": "https://getpatter.com",
+		"repo_url": "https://github.com/PatterAI/Patter",
+		"license_type": "MIT",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nicolò Tognoni",
+		"email": "nico@getpatter.com",
+		"role": "Founder or Owner",
+		"id": 65737048
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1642,
+	"created_at": "2026-08-16T09:13:05Z"
+}

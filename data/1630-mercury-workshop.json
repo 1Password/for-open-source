@@ -1,0 +1,22 @@
+{
+	"account": "mercuryworkshop.1password.com",
+	"project": {
+		"name": "Mercury Workshop",
+		"description": "We’re an organization of developers dedicated to writing free and open-source software for everyone.",
+		"contributors": 1015,
+		"home_url": "https://mercurywork.shop/",
+		"repo_url": "https://github.com/MercuryWorkshop/",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Mark Rosenbaum",
+		"email": "markrosenbaum@computer.org",
+		"role": "Organizer or Admin",
+		"id": 57112559
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1630,
+	"created_at": "2026-08-07T22:57:34Z"
+}

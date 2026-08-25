@@ -1,0 +1,24 @@
+{
+	"account": "thangqt.1password.com",
+	"project": {
+		"name": "Kairos",
+		"description": "Kairos is a lightweight, focused open-source LLM chat client. It pairs a fast, minimal web UI with a single Go server binary, letting you chat with any OpenAI-compatible model via API. No local model runtime, no heavy deployment, just one simple service for all your conversations.",
+		"contributors": 1,
+		"home_url": "https://thangqt.com/projects/kairos",
+		"repo_url": "https://github.com/thang-qt/Kairos",
+		"license_type": "MIT",
+		"license_url": "https://raw.githubusercontent.com/thang-qt/Kairos/refs/heads/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Tô Quang Thắng",
+		"email": "thang@thangqt.com",
+		"role": "Founder or Owner",
+		"id": 35835961
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1659,
+	"created_at": "2026-08-24T14:18:25Z"
+}

@@ -1,0 +1,23 @@
+{
+	"account": "team-computersciencehouse.1password.com",
+	"project": {
+		"name": "Computer Science House",
+		"description": "Computer Science House is a organization at Rochester Institute of Technology. We are a special interest house, providing a living learning community for students with interest in computers. We operate a server room to aid in the organization/membership management for our organization, as well as to provide services to our members so they can explore their interests and share with others. All of our projects are open source on our github",
+		"contributors": 6,
+		"home_url": "https://csh.rit.edu/",
+		"repo_url": "https://github.com/ComputerScienceHouse",
+		"license_url": "https://github.com/ComputerScienceHouse/pubsite/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Noah Hanford",
+		"email": "opcomm@csh.rit.edu",
+		"role": "Organizer or Admin",
+		"id": 39912424
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1660,
+	"created_at": "2026-08-24T22:52:20Z"
+}

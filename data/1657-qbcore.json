@@ -1,0 +1,24 @@
+{
+	"account": "qbcore.1password.com",
+	"project": {
+		"name": "QBCore",
+		"description": "Hi 1Password Team,\n\nI am the creator and lead maintainer of QBCore, an active, modular open-source game systems and roleplay framework.\n\nAbout the Project:\nQBCore powers thousands of independent game servers, development teams, and multiplayer environments worldwide. The framework is entirely open-source, non-commercial, and actively maintained by our core team and community contributors.\n\nWe are looking to streamline our team’s credential and secrets management across our repositories, and we would love to apply for the 1Password for Open Source program to obtain a 1Password Teams subscription. In return, we will feature 1Password in the “Supported By / Sponsored By” section of our official website and documentation.\n\nPlease let me know if you need any additional verification from our side.\n\nBest regards,\nJoshua Eger\nLead Maintainer, QBCore Framework",
+		"contributors": 5,
+		"home_url": "https://qbcore.org",
+		"repo_url": "https://github.com/qbcore-framework/qb-core",
+		"license_type": "GPL 3.0",
+		"license_url": "https://github.com/qbcore-framework/qb-core/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Joshua Eger",
+		"email": "joshuaeger92@gmail.com",
+		"role": "Founder or Owner",
+		"id": 57848836
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1657,
+	"created_at": "2026-08-22T22:25:06Z"
+}

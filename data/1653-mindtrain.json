@@ -1,0 +1,23 @@
+{
+	"account": "mindtrain.1password.com",
+	"project": {
+		"name": "MindTrain",
+		"description": "MindTrain is an open source knowledge-training platform for Codex and other AI clients. It provides conversational quizzing, deterministic grading, review scheduling, AI-generated questions, and a private self-hosted catalog, helping users turn one-off conversations into long-term memory.",
+		"contributors": 3,
+		"home_url": "https://github.com/shigella520/MindTrain",
+		"license_type": "MIT",
+		"license_url": "https://github.com/shigella520/MindTrain/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Jianyu Tan",
+		"email": "shigella520@gmail.com",
+		"role": "Founder or Owner",
+		"id": 34263598
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1653,
+	"created_at": "2026-08-19T08:59:36Z"
+}

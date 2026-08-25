@@ -1,0 +1,24 @@
+{
+	"account": "yumeyuka.1password.com",
+	"project": {
+		"name": "YumeBox",
+		"description": "An open-source Android client based on the Mihomo kernel, providing flexible proxy configuration management, routing rules, and network tools.",
+		"contributors": 3,
+		"home_url": "https://yumebox.gal.tf",
+		"repo_url": "https://github.com/YumeYucca/YumeBox",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/YumeYucca/YumeBox/blob/Moe/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "YumeYuka",
+		"email": "YumeYuka.moe@gmail.com",
+		"role": "Founder or Owner",
+		"id": 125112916
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1655,
+	"created_at": "2026-08-22T05:45:31Z"
+}

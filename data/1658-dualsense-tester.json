@@ -1,0 +1,24 @@
+{
+	"account": "daidr.1password.com",
+	"project": {
+		"name": "DualSense Tester",
+		"description": "dualsense‑tester is the only browser‑based tool that fully tests DualSense features via WebHID with zero installation – including LED, vibration, adaptive triggers, touchpad, speaker, and microphone.",
+		"contributors": 1,
+		"home_url": "https://ds.daidr.me",
+		"repo_url": "https://github.com/daidr/dualsense-tester",
+		"license_type": "MIT",
+		"license_url": "https://github.com/daidr/dualsense-tester/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Dai Xuezhou",
+		"email": "daidr@daidr.me",
+		"role": "Founder or Owner",
+		"id": 18638914
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1658,
+	"created_at": "2026-08-23T17:16:14Z"
+}

@@ -1,0 +1,23 @@
+{
+	"account": "e9eight.1password.com",
+	"project": {
+		"name": "AletheIA",
+		"description": "AletheIA is a portable operating overlay for AI-assisted work. It turns model or agent output into bounded, reviewable, validated action without replacing human judgment, project rules, or the runtime that executes the work.",
+		"contributors": 2,
+		"home_url": "https://nevitonsantana.github.io/AletheIA/",
+		"repo_url": "https://github.com/nevitonsantana/AletheIA",
+		"license_type": "MIT",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Rob Gogoni",
+		"email": "robertogogoni@outlook.com",
+		"role": "Founder or Owner",
+		"id": 20875924
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1661,
+	"created_at": "2026-08-26T02:02:20Z"
+}

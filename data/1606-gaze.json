@@ -6,7 +6,7 @@
 		"contributors": 2,
 		"home_url": "https://gaze.gundulabs.com",
 		"repo_url": "https://github.com/GunduLabs/gaze",
-		"license_type": "MIT",
+		"license_type": "GPLv3",
 		"license_url": "https://github.com/GunduLabs/gaze/blob/main/LICENSE",
 		"is_event": false,
 		"is_team": true

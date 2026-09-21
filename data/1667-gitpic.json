@@ -1,0 +1,24 @@
+{
+	"account": "tarnish233.1password.com",
+	"project": {
+		"name": "GitPic",
+		"description": "GitPic is an open-source image uploader with a cross-platform Rust CLI and native macOS menu bar app. It uploads local, clipboard, and screenshot images to GitHub repositories and returns URL, Markdown, or HTML links, with OAuth login, automation-friendly JSON output, tests, CI, and releases.",
+		"contributors": 1,
+		"home_url": "https://github.com/tarnish233/gitpic",
+		"repo_url": "https://github.com/tarnish233/gitpic",
+		"license_type": "MIT",
+		"license_url": "https://github.com/tarnish233/gitpic/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "waku",
+		"email": "waku@tarnish233.page",
+		"role": "Founder or Owner",
+		"id": 63766688
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1667,
+	"created_at": "2026-09-01T07:05:26Z"
+}

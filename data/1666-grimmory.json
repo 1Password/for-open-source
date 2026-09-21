@@ -1,0 +1,24 @@
+{
+	"account": "grimmory.1password.com",
+	"project": {
+		"name": "Grimmory",
+		"description": "Grimmory is an open-source, self hosted library for your ebooks, comics, and audiobooks.",
+		"contributors": 3,
+		"home_url": "https://grimmory.org/",
+		"repo_url": "https://github.com/grimmory-tools/grimmory/",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/grimmory-tools/grimmory/blob/develop/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Zachary Yale",
+		"email": "zach@grimmory.org",
+		"role": "Core Maintainer",
+		"id": 1624372
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1666,
+	"created_at": "2026-09-01T00:50:20Z"
+}

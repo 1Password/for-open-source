@@ -1,0 +1,24 @@
+{
+	"account": "gelhaus-solutions.1password.com",
+	"project": {
+		"name": "DiscordTickets-Revamped",
+		"description": "DiscordTickets-Revamped is an open-source ticket software for discord, with many more additions of the upstream repository.\nThis repository is a fork of the existing DiscordTickets-Bot, due to very unmaintained development / irregular security fixes.",
+		"contributors": 1,
+		"home_url": "https://github.com/Gelhaus-Solutions/discordtickets-revamped",
+		"repo_url": "https://github.com/Gelhaus-Solutions/discordtickets-revamped",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/Gelhaus-Solutions/discordtickets-revamped/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Enno Gelhaus",
+		"email": "egelhaus@ennogelhaus.de",
+		"role": "Founder or Owner",
+		"id": 156946629
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1671,
+	"created_at": "2026-09-03T18:38:23Z"
+}

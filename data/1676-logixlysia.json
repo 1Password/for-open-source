@@ -1,0 +1,24 @@
+{
+	"account": "pungrumpy.1password.com",
+	"project": {
+		"name": "Logixlysia",
+		"description": "Logixlysia is a structured logging library for ElysiaJS on Bun. It gives API developers request-level logs with configurable transports, filtering, and formatting, replacing ad-hoc console output with logs that can be parsed and shipped to observability tooling.",
+		"contributors": 1,
+		"home_url": "https://logixlysia.vercel.app",
+		"repo_url": "https://github.com/PunGrumpy/logixlysia",
+		"license_type": "MIT",
+		"license_url": "https://github.com/PunGrumpy/logixlysia/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Noppakorn Kaewsalabnil",
+		"email": "noppakorn.pun@gmail.com",
+		"role": "Founder or Owner",
+		"id": 108584943
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1676,
+	"created_at": "2026-09-09T16:30:57Z"
+}

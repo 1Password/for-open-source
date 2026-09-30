@@ -1,0 +1,23 @@
+{
+	"account": "suian.1password.com",
+	"project": {
+		"name": "Switch Tracker",
+		"description": "Switch Tracker is a non-commercial, local-first tool that collects, stores, and visualizes personal Switch playtime. It provides idempotent daily tracking, SQLite persistence, scheduled collection, title localization, a web dashboard, automated tests, and CI.",
+		"contributors": 2,
+		"home_url": "https://github.com/pengchzn/switch_tracker",
+		"license_type": "MIT",
+		"license_url": "https://github.com/pengchzn/switch_tracker/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Colin Penn",
+		"email": "pengchzn@gmail.com",
+		"role": "Founder or Owner",
+		"id": 66410605
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1681,
+	"created_at": "2026-09-16T04:44:55Z"
+}

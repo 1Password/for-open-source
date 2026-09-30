@@ -1,0 +1,24 @@
+{
+	"account": "shadowfetchlinux.1password.com",
+	"project": {
+		"name": "Shadowfetch Linux",
+		"description": "Free open-source agentic Linux distro; need Teams for secrets/SSH/signing keys for non-commercial OSS maintenance.",
+		"contributors": 1,
+		"home_url": "https://shadowfetchlinux.org",
+		"repo_url": "https://github.com/ShadowfetchLinux/shadowfetch-linux",
+		"license_type": "GPL-3.0-or-later",
+		"license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Robert Corbin",
+		"email": "shadowfetchlinux@gmail.com",
+		"role": "Founder or Owner",
+		"id": 209457103
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1678,
+	"created_at": "2026-09-12T00:22:41Z"
+}

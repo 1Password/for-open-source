@@ -1,0 +1,24 @@
+{
+	"account": "langningchen.1password.com",
+	"project": {
+		"name": "CPH-NG",
+		"description": "The next generation of Competitive Programming Helper for Visual Studio Code. It provides rapid compilation, intelligent local judging, stress testing, testcase fetching via Competitive Companion, and multi-platform auto-submission for competitive programmers.",
+		"contributors": 2,
+		"home_url": "https://marketplace.visualstudio.com/items?itemName=langningchen.cph-ng",
+		"repo_url": "https://github.com/langningchen/cph-ng",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/langningchen/cph-ng/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Langning Chen",
+		"email": "chenlangning2009@outlook.com",
+		"role": "Founder or Owner",
+		"id": 81672884
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1679,
+	"created_at": "2026-09-13T11:12:07Z"
+}

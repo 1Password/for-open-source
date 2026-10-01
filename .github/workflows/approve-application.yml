@@ -13,6 +13,11 @@ jobs:
       approver_id: ${{ steps.check_label.outputs.approver_id }}
       approver_username: ${{ steps.check_label.outputs.approver_username }}
     steps:
+      - name: Harden the runner (Audit all outbound calls)
+        uses: step-security/harden-runner@b09bb98e06d4d774595224525879c09bc6e98c40 # v2.20.1
+        with:
+          egress-policy: audit
+
       - id: check_label
         name: "Check if label is 'status: approved'"
         run: |
@@ -25,11 +30,16 @@ jobs:
     runs-on: ubuntu-latest
     if: vars.PROCESSOR_ENABLED == 'true' && needs.check.outputs.is_approved == 'true'
     steps:
+      - name: Harden the runner (Audit all outbound calls)
+        uses: step-security/harden-runner@b09bb98e06d4d774595224525879c09bc6e98c40 # v2.20.1
+        with:
+          egress-policy: audit
+
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
       - name: Fetch processor
-        uses: dsaltares/fetch-gh-release-asset@1.1.1
+        uses: dsaltares/fetch-gh-release-asset@a40c8b4a0471f9ab81bdf73a010f74cc51476ad4 # 1.1.1
         with:
           file: "processor"
           target: "./processor"

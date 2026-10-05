@@ -1,0 +1,24 @@
+{
+	"account": "frost-dev.1password.com",
+	"project": {
+		"name": "PDM",
+		"description": "PDM is a modern Python package and dependency manager supporting the latest PEP standards (PEP 517/518/621, PEP 735 dependency groups, PEP 751 pylock.toml, etc.). It features a fast dependency resolver, cross-platform lock files, a plugin system, and built-in support for managing Python interpreters and virtual environments. PDM is used by many Python projects and developers to manage dependencies and publish packages to PyPI.\n\nThe project is maintained by a small group of volunteer core maintainers under the pdm-project GitHub organization, which also hosts related projects such as pdm-backend (the PEP 517 build backend). We would use 1Password to securely share and manage project credentials among maintainers, such as PyPI publishing tokens, documentation hosting credentials, and other service accounts used for CI/CD and releases.",
+		"contributors": 6,
+		"home_url": "https://pdm-project.org",
+		"repo_url": "https://github.com/pdm-project/pdm",
+		"license_type": "MIT",
+		"license_url": "https://github.com/pdm-project/pdm/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Frost Ming",
+		"email": "me@frostming.com",
+		"role": "Founder or Owner",
+		"id": 16336606
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1699,
+	"created_at": "2026-09-24T04:14:28Z"
+}

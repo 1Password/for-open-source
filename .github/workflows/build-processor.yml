@@ -13,11 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Harden the runner (Audit all outbound calls)
+        uses: step-security/harden-runner@b09bb98e06d4d774595224525879c09bc6e98c40 # v2.20.1
+        with:
+          egress-policy: audit
+
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
       - name: Setup Go
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5.6.0
         with:
           go-version-file: "script/go.mod"
           cache-dependency-path: "script/go.sum"
@@ -33,7 +38,7 @@ jobs:
         run: echo "VERSION=${GITHUB_REF#refs/tags/processor-}" >> $GITHUB_OUTPUT
 
       - name: Create processor release
-        uses: softprops/action-gh-release@v2
+        uses: step-security/action-gh-release@dc29ef0d1f6f9a032a97ec797d9cb7ea788dde41 # v2.6.1
         with:
           name: Release processor v${{ steps.get_version.outputs.VERSION }}
           tag_name: ${{ github.ref }}

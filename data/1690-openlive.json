@@ -1,0 +1,23 @@
+{
+	"account": "team-q1z.1password.com",
+	"project": {
+		"name": "Openlive",
+		"description": "OpenLive is an open, model-neutral runtime for continuous voice agents. It separates deadline-sensitive interaction continuity from slower model cognition and preserves native duplex provider capabilities instead of forcing every model through a text-chat abstraction.",
+		"contributors": 1,
+		"home_url": "https://github.com/byte271/Openlive",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/byte271/Openlive/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Yinhao",
+		"email": "cyh@q1z.org",
+		"role": "Founder or Owner",
+		"id": 237653237
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1690,
+	"created_at": "2026-09-19T21:55:30Z"
+}

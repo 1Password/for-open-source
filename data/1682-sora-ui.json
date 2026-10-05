@@ -1,0 +1,24 @@
+{
+	"account": "soralabs.1password.com",
+	"project": {
+		"name": "Sora UI",
+		"description": "Sora UI is an actively maintained open-source UI system focused on motion-first interfaces, reusable components, developer tooling, and AI-native workflows for modern web development.",
+		"contributors": 1,
+		"home_url": "https://ui.soralabs.studio/",
+		"repo_url": "https://github.com/SoraLabsOSS/ui",
+		"license_type": "MIT",
+		"license_url": "https://github.com/SoraLabsOSS/ui/blob/main/LICENSE.md",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nguyen Truong Giang",
+		"email": "truonggiang.axyl@gmail.com",
+		"role": "Founder or Owner",
+		"id": 142161991
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1682,
+	"created_at": "2026-09-17T11:18:44Z"
+}

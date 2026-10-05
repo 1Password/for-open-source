@@ -1,0 +1,24 @@
+{
+	"account": "balajitechlabs.1password.com",
+	"project": {
+		"name": "QuickDash",
+		"description": "Unified open-source Android utility dashboard with offline productivity tools, QR generator, and zero telemetry",
+		"contributors": 1,
+		"home_url": "https://quickdash.balajitechlabs.com",
+		"repo_url": "https://github.com/Balajitechlabs/quickdash",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/Balajitechlabs/quickdash/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Balaji S",
+		"email": "balajitechlabs.github@gmail.com",
+		"role": "Founder or Owner",
+		"id": 212744006
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1706,
+	"created_at": "2026-10-02T17:41:04Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "kiritoxd.1password.com",
+	"project": {
+		"name": "Only Player",
+		"description": "Only Player is a free, non-commercial Android video player built with Kotlin and Jetpack Compose. It continues the open-source Next Player project and adds richer subtitle support, media-library improvements, settings backup and restore, in-app language switching, and actively maintained release automation.",
+		"contributors": 2,
+		"home_url": "https://github.com/Kindness-Kismet/only_player",
+		"repo_url": "https://github.com/Kindness-Kismet/only_player",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/Kindness-Kismet/only_player/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "KiritoXDone",
+		"email": "kiritoxdone@gmail.com",
+		"role": "Core Maintainer",
+		"id": 58523182
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1696,
+	"created_at": "2026-09-21T03:18:32Z"
+}

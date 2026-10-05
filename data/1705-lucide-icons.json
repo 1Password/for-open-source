@@ -1,0 +1,24 @@
+{
+	"account": "lucide.1password.com",
+	"project": {
+		"name": "Lucide Icons",
+		"description": "Lucide icons is an open-source icon library with clean, consistent designs. Its customizable SVG icons work across popular frameworks, making it easy to add lightweight, scalable visuals to websites and apps.",
+		"contributors": 3,
+		"home_url": "https://lucide.dev",
+		"repo_url": "https://lucide.dev/",
+		"license_type": "ICS",
+		"license_url": "https://lucide.dev/license",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Eric Fennis",
+		"email": "eric@lucide.dev",
+		"role": "Founder or Owner",
+		"id": 11825403
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1705,
+	"created_at": "2026-10-01T09:06:22Z"
+}

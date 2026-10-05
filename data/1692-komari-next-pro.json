@@ -1,0 +1,24 @@
+{
+	"account": "liuit.1password.com",
+	"project": {
+		"name": "Komari Next Pro",
+		"description": "Komari Next Pro is an open-source theme and companion service for Komari, providing modern dashboards, node visualization, privacy controls, service snapshots, and network and streaming diagnostics for self-hosted server monitoring.",
+		"contributors": 1,
+		"home_url": "https://github.com/fanchengliu/komari-next-pro",
+		"repo_url": "https://github.com/fanchengliu/komari-next-pro",
+		"license_type": "MIT",
+		"license_url": "https://github.com/fanchengliu/komari-next-pro/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "LIU FANCHENG",
+		"email": "fanchengliu63@gmail.com",
+		"role": "Founder or Owner",
+		"id": 224786615
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1692,
+	"created_at": "2026-09-20T06:50:18Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "teamhawkeye.1password.com",
+	"project": {
+		"name": "Hawkeye",
+		"description": "Hawkeye is a free, open-source, nonpartisan tool that lets Nigerian citizens photograph and keep a personal record of the results announced at their polling unit, and collates those records automatically into a public, verifiable ledger. Built by IniXien Hope Initiative, a non-profit.",
+		"contributors": 1,
+		"home_url": "https://hawkeye.com.ng",
+		"repo_url": "https://github.com/HawkeyeNG/hawkeye",
+		"license_type": "MIT",
+		"license_url": "https://github.com/HawkeyeNG/hawkeye/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Osaretin Osagie",
+		"email": "security@hawkeye.com.ng",
+		"role": "Founder or Owner",
+		"id": 300505821
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1700,
+	"created_at": "2026-09-24T08:40:44Z"
+}

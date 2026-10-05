@@ -1,0 +1,24 @@
+{
+	"account": "team-yazi.1password.com",
+	"project": {
+		"name": "Yazi",
+		"description": "Yazi is a user-friendly, feature-rich, batteries-included, cross-platform, and highly extensible modern and efficient terminal file manager. Built with Rust and based on async I/O, it’s blazing fast and actively maintained one of the most popular open-source file managers and Rust ecosystem projects.",
+		"contributors": 5,
+		"home_url": "https://yazi-rs.github.io",
+		"repo_url": "https://github.com/sxyazi/yazi",
+		"license_type": "MIT",
+		"license_url": "https://github.com/sxyazi/yazi/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Masa Misaki",
+		"email": "sxyazi@gmail.com",
+		"role": "Founder or Owner",
+		"id": 17523360
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1683,
+	"created_at": "2026-09-17T13:48:02Z"
+}

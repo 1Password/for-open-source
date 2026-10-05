@@ -1,0 +1,23 @@
+{
+	"account": "prism-stttwq.1password.com",
+	"project": {
+		"name": "Prism",
+		"description": "A lightweight open-source alternative to Listary for instant full-disk file search and quick launch on Windows. MIT licensed, no ads, no telemetry.",
+		"contributors": 1,
+		"home_url": "https://github.com/stttwq/Prism",
+		"license_type": "MIT",
+		"license_url": "https://github.com/stttwq/Prism/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "stttwq",
+		"email": "3313956346@qq.com",
+		"role": "Founder or Owner",
+		"id": 79528188
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1698,
+	"created_at": "2026-09-24T01:18:46Z"
+}

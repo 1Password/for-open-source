@@ -1,0 +1,23 @@
+{
+	"account": "91-team.1password.com",
+	"project": {
+		"name": "91",
+		"description": "91 is an MIT-licensed, self-hosted video library for personal use. It integrates multiple cloud storage providers and WebDAV, supports low-bandwidth playback, one-time sharing links, custom crawler scripts, and Telegram integration, with Docker and one-command installation options.",
+		"contributors": 5,
+		"home_url": "https://github.com/nianzhibai/91",
+		"license_type": "MIT",
+		"license_url": "https://github.com/nianzhibai/91/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "nianzhibai",
+		"email": "nianzhibai@gmail.com",
+		"role": "Founder or Owner",
+		"id": 177086871
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1710,
+	"created_at": "2026-10-05T05:48:35Z"
+}

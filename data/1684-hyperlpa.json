@@ -1,0 +1,23 @@
+{
+	"account": "freeteaspoon.1password.com",
+	"project": {
+		"name": "HyperLPA",
+		"description": "HyperLPA is an open-source Android app for managing eSIM profiles through compatible eUICC readers. Built with Kotlin, Jetpack Compose, and Miuix, it supports downloading, enabling, disabling, and organising profiles through USB, Bluetooth, and other supported connections.",
+		"contributors": 1,
+		"home_url": "https://github.com/FreeTeaspoon/HyperLPA",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/FreeTeaspoon/HyperLPA/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Marilou Graham",
+		"email": "conch-amulet-veal@duck.com",
+		"role": "Founder or Owner",
+		"id": 76246708
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1684,
+	"created_at": "2026-09-17T15:07:21Z"
+}

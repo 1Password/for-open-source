@@ -1,0 +1,24 @@
+{
+	"account": "iosapp.1password.com",
+	"project": {
+		"name": "MacAssistant",
+		"description": "MacAssistant is a native open-source macOS toolbox for system maintenance, app clones, app repair, command lookup, and developer workflows including IPA inspection, signing, and environment checks.",
+		"contributors": 1,
+		"home_url": "https://github.com/iosrxwy/MacAssistant",
+		"repo_url": "https://github.com/iosrxwy/MacAssistant",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/iosrxwy/MacAssistant/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "iOS宝藏",
+		"email": "2999055@gmail.com",
+		"role": "Founder or Owner",
+		"id": 184130225
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1686,
+	"created_at": "2026-09-17T20:16:54Z"
+}

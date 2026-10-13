@@ -1,0 +1,24 @@
+{
+	"account": "kubevirt.1password.com",
+	"project": {
+		"name": "KubeVirt",
+		"description": "KubeVirt is a CNCF project that extends Kubernetes to allow for lifecycle management of virtual machines natively alongside container workloads.",
+		"contributors": 8,
+		"home_url": "https://kubevirt.io",
+		"repo_url": "https://github.com/kubevirt/kubevirt",
+		"license_type": "Apache License 2.0",
+		"license_url": "https://github.com/kubevirt/kubevirt/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Andrew Burden",
+		"email": "kubevirt@cncf.io",
+		"role": "Core Maintainer",
+		"id": 17755748
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1721,
+	"created_at": "2026-10-06T12:49:06Z"
+}

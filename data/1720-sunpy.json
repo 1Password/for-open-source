@@ -1,0 +1,24 @@
+{
+	"account": "sunpyproject.1password.com",
+	"project": {
+		"name": "SunPy",
+		"description": "SunPy is a community-developed free and open-source software package for solar physics. It aims to be a comprehensive data analysis environment that allows researchers within the field of solar physics to carry out their tasks with the minimal effort. The SunPy Project builds the sunpy package along with a collection of other packages for researchers studying the Sun and Heliosphere.",
+		"contributors": 5,
+		"home_url": "https://sunpy.org",
+		"repo_url": "https://github.com/sunpy/sunpy",
+		"license_type": "BSD",
+		"license_url": "https://github.com/sunpy/sunpy/blob/main/LICENSE.rst",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Stuart Mumford",
+		"email": "stuart@sunpy.org",
+		"role": "Founder or Owner",
+		"id": 1391051
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1720,
+	"created_at": "2026-10-06T08:44:51Z"
+}

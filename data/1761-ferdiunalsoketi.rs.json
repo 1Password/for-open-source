@@ -1,0 +1,24 @@
+{
+	"account": "ferdinal.1password.com",
+	"project": {
+		"name": "ferdiunal/soketi.rs",
+		"description": "A high-performance, Pusher-compatible WebSocket server written in Rust. Soketi.rs provides real-time messaging capabilities with support for public, private, and presence channels.",
+		"contributors": 1,
+		"home_url": "https://github.com/ferdiunal/soketi.rs",
+		"repo_url": "https://github.com/ferdiunal/soketi.rs",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/ferdiunal/soketi.rs/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Ferdi ÜNAL",
+		"email": "ferdiunal@outlook.com",
+		"role": "Founder or Owner",
+		"id": 5059851
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1761,
+	"created_at": "2026-10-13T11:16:43Z"
+}

@@ -1,0 +1,23 @@
+{
+	"account": "nowayzzz.1password.com",
+	"project": {
+		"name": "agent-session-cleaner",
+		"description": "A cross-platform terminal application for browsing, resuming, organizing, and exporting AI agent sessions. This maintained MIT-licensed fork adds Windows optimizations, Grok support, resume-command copying, and reliable Markdown exports for Codex, Claude Code, OpenCode, Pi, and Grok.",
+		"contributors": 2,
+		"home_url": "https://github.com/wangyuzz/agent-session-cleaner",
+		"license_type": "MIT",
+		"license_url": "https://github.com/wangyuzz/agent-session-cleaner/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "wangyu",
+		"email": "1010885747@qq.com",
+		"role": "Core Maintainer",
+		"id": 22863233
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1725,
+	"created_at": "2026-10-08T06:19:24Z"
+}

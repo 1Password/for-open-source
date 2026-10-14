@@ -1,0 +1,24 @@
+{
+	"account": "pdfme.1password.com",
+	"project": {
+		"name": "pdfme",
+		"description": "pdfme is an open-source PDF generation library for TypeScript and JavaScript. It includes a WYSIWYG template designer, a PDF viewer, and a generator that runs in both the browser and Node.js. It has been developed in the open since 2021 under the MIT license.",
+		"contributors": 4,
+		"home_url": "https://pdfme.com",
+		"repo_url": "https://github.com/pdfme/pdfme",
+		"license_type": "MIT",
+		"license_url": "https://github.com/pdfme/pdfme/blob/main/LICENSE.md",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Kyohei Fukuda",
+		"email": "kyohei@pdfme.com",
+		"role": "Founder or Owner",
+		"id": 24843808
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1748,
+	"created_at": "2026-10-09T07:42:39Z"
+}

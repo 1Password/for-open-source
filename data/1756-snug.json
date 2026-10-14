@@ -1,0 +1,24 @@
+{
+	"account": "andryore.1password.com",
+	"project": {
+		"name": "Snug",
+		"description": "Free browser extension that exports, imports and backs up bookmarks entirely on the user’s device, with no network calls and no account.",
+		"contributors": 1,
+		"home_url": "https://snug.andryore.dev",
+		"repo_url": "https://github.com/AndryOre/snug",
+		"license_type": "MIT",
+		"license_url": "https://github.com/AndryOre/snug/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Andry Orellana",
+		"email": "andryp_@hotmail.com",
+		"role": "Founder or Owner",
+		"id": 44151183
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1756,
+	"created_at": "2026-10-10T15:07:07Z"
+}

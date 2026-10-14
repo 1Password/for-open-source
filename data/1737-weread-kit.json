@@ -1,0 +1,23 @@
+{
+	"account": "niceboy.1password.com",
+	"project": {
+		"name": "WeRead-Kit",
+		"description": "WeRead-Kit is a self-hosted Go application for WeChat Read, offering automated reading challenges, reward collection, multi-account management, and notifications. It includes a web dashboard and stores account data locally in SQLite.",
+		"contributors": 3,
+		"home_url": "https://github.com/27Aaron/WeRead-Kit",
+		"license_type": "MIT",
+		"license_url": "https://github.com/27Aaron/WeRead-Kit/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Aaron",
+		"email": "the@niceboy.org",
+		"role": "Founder or Owner",
+		"id": 85681241
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1737,
+	"created_at": "2026-10-09T02:07:36Z"
+}

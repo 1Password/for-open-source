@@ -1,0 +1,24 @@
+{
+	"account": "reviactyl.1password.com",
+	"project": {
+		"name": "Reviactyl",
+		"description": "Reviactyl is a modern and open-source game server management panel built using Laravel, React, FilamentPHP, Vite, and Go. It focuses on security and performance by running every game server inside isolated Docker containers while providing users with a clean and intuitive interface.",
+		"contributors": 2,
+		"home_url": "https://reviactyl.app/",
+		"repo_url": "https://github.com/reviactyl/panel",
+		"license_type": "MIT",
+		"license_url": "https://github.com/reviactyl/panel/blob/develop/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Jason Li",
+		"email": "jasonzxl@icloud.com",
+		"role": "Developer",
+		"id": 216354193
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1758,
+	"created_at": "2026-10-11T05:22:19Z"
+}

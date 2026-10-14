@@ -1,0 +1,24 @@
+{
+	"account": "kemetra-labs.1password.com",
+	"project": {
+		"name": "seshat-bi",
+		"description": "Seshat BI is an open-source toolkit for trustworthy business intelligence. It helps teams profile data sources, validate transformations and metric definitions, and verify readiness before publishing analytics. AI agents can assist with building BI pipelines, but approvals require verifiable evidence and explicit quality gates.",
+		"contributors": 3,
+		"home_url": "https://github.com/Kemetra/Seshat-BI",
+		"repo_url": "https://github.com/Kemetra/Seshat-BI",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/Kemetra/Seshat-BI/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "ahmed shaaban",
+		"email": "admin@kemetralabs.com",
+		"role": "Founder or Owner",
+		"id": 206601658
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1734,
+	"created_at": "2026-10-09T00:34:56Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "wangz.1password.com",
+	"project": {
+		"name": "Frontend + Backend",
+		"description": "非商业学校社区平台，具有开源前端和后端存储库，服务于明岛学校社区。",
+		"contributors": 3,
+		"home_url": "https://github.com/MingdaoSIG/",
+		"repo_url": "https://github.com/MingdaoSIG/MingdaoSIG-Frontend",
+		"license_type": "MIT",
+		"license_url": "https://github.com/MingdaoSIG/MingdaoSIG-Frontend/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Wang",
+		"email": "987123387@qq.com",
+		"role": "Team Member or Employee",
+		"id": 10137
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1743,
+	"created_at": "2026-10-09T03:49:57Z"
+}

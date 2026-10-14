@@ -1,0 +1,24 @@
+{
+	"account": "vlmcl.1password.com",
+	"project": {
+		"name": "MCITlib",
+		"description": "MCITlib-Train extends MCITlib with CoIN++ training and evaluation workflows for continual instruction tuning of multimodal large language models. It includes dataset preparation, sequential training, evaluation matrices, and independent LLM-judge scoring to support reproducible comparisons of continual learning methods.",
+		"contributors": 2,
+		"home_url": "https://github.com/zackschen/MCITlib-Train",
+		"repo_url": "https://github.com/zackschen/MCITlib-Train",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/zackschen/MCITlib-Train/blob/v3/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Cheng Chen",
+		"email": "cczacks@gmail.com",
+		"role": "Founder or Owner",
+		"id": 10911290
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1722,
+	"created_at": "2026-10-06T13:56:47Z"
+}

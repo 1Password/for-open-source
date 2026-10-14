@@ -1,0 +1,24 @@
+{
+	"account": "zeptop.1password.com",
+	"project": {
+		"name": "website-rebuild-skill",
+		"description": "website-rebuild-skill is an MIT-licensed agent skill for website reconstruction and web archiving. It captures read-only website mirrors, reconstructs frontend implementations into readable projects, and verifies results through automated checks covering browser behavior, DOM structure, geometry, and pixel-level differences.",
+		"contributors": 1,
+		"home_url": "https://github.com/boyang-hu/website-rebuild-skill",
+		"repo_url": "https://github.com/boyang-hu/website-rebuild-skill",
+		"license_type": "MIT",
+		"license_url": "https://github.com/boyang-hu/website-rebuild-skill/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Boyang Hu",
+		"email": "i@boyang.hu",
+		"role": "Founder or Owner",
+		"id": 6506427
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1731,
+	"created_at": "2026-10-08T17:27:31Z"
+}

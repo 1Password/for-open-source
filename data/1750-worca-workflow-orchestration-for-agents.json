@@ -1,0 +1,24 @@
+{
+	"account": "worca.1password.com",
+	"project": {
+		"name": "Worca - Workflow Orchestration for Agents",
+		"description": "Worca is an open-source (MIT) multi-agent pipeline that turns a software task into reviewed, merge-ready work. It drives AI agents through planning, implementation and code review in isolated git worktrees, with quality gates and a human in the loop. Available as a CLI, a web UI and as an agent skill.",
+		"contributors": 5,
+		"home_url": "https://worca.dev",
+		"repo_url": "https://github.com/SinishaDjukic/worca-cc",
+		"license_type": "MIT",
+		"license_url": "https://github.com/SinishaDjukic/worca-cc/blob/dev/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Sinisha Djukic",
+		"email": "sinisha.djukic@worca.dev",
+		"role": "Founder or Owner",
+		"id": 5585698
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1750,
+	"created_at": "2026-10-10T05:44:05Z"
+}

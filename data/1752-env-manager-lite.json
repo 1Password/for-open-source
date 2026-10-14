@@ -1,0 +1,23 @@
+{
+	"account": "654123.1password.com",
+	"project": {
+		"name": "env-manager-lite",
+		"description": "A lightweight environment variable manager powered by GitHub Actions and Secrets for open source projects.",
+		"contributors": 1,
+		"home_url": "https://github.com/wonderfulvchaum/env-manager-lite",
+		"license_type": "MIT",
+		"license_url": "https://github.com/wonderfulvchaum/env-manager-lite/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "654123",
+		"email": "aadwef@126.com",
+		"role": "Founder or Owner",
+		"id": 265798534
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1752,
+	"created_at": "2026-10-10T07:40:43Z"
+}

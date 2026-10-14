@@ -1,0 +1,23 @@
+{
+	"account": "guangzhouqiyangsoftwaretechnolog.1password.com",
+	"project": {
+		"name": "pCloud NAS Sync",
+		"description": "pCloud NAS Sync is an MIT-licensed, self-hosted NAS backup tool for fnOS. It supports scheduled backups to pCloud, encrypted and deduplicated Restic snapshots, integrity checks, file browsing, and isolated restores. The project is maintained personally and voluntarily as a non-commercial open-source project.",
+		"contributors": 2,
+		"home_url": "https://github.com/jayden-321/fnos-pcloud",
+		"license_type": "MIT",
+		"license_url": "https://github.com/jayden-321/fnos-pcloud/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jayden",
+		"email": "jayden@gzqy.xyz",
+		"role": "Founder or Owner",
+		"id": 52017923
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1727,
+	"created_at": "2026-10-08T16:06:06Z"
+}

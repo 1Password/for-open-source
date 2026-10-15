@@ -38,7 +38,7 @@ jobs:
         run: echo "VERSION=${GITHUB_REF#refs/tags/processor-}" >> $GITHUB_OUTPUT
 
       - name: Create processor release
-        uses: step-security/action-gh-release@dc29ef0d1f6f9a032a97ec797d9cb7ea788dde41 # v2.6.1
+        uses: step-security/action-gh-release@44319d37c8b7966bf07f89f0cbf63408141446df # v3.0.3
         with:
           name: Release processor v${{ steps.get_version.outputs.VERSION }}
           tag_name: ${{ github.ref }}

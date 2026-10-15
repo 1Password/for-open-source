@@ -2,6 +2,9 @@ name: Aggregate applicant data
 
 on:
   push:
+    # skip Dependabot branches, which don't have access to Actions secrets
+    branches-ignore:
+      - "dependabot/**"
     paths:
       - "data/**"
 

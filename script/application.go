@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
 	"log"
 	"regexp"
@@ -106,7 +107,7 @@ func (a *Application) Parse(issue *github.Issue) {
 	}
 
 	for _, err := range a.validator.Errors {
-		a.Problems = append(a.Problems, fmt.Errorf(err.Error()))
+		a.Problems = append(a.Problems, errors.New(err.Error()))
 	}
 }
 

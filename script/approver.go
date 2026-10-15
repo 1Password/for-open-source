@@ -147,9 +147,9 @@ func (a *Approver) createSentryEvent() {
 	}
 
 	sentry.CaptureEvent(&sentry.Event{
-		Message: fmt.Sprintf("Application approved for \"%s\"", a.application.Project.Name),
-		Level:   sentry.LevelInfo,
-		Extra:   appData,
-		Tags:    tags,
+		Message:  fmt.Sprintf("Application approved for \"%s\"", a.application.Project.Name),
+		Level:    sentry.LevelInfo,
+		Contexts: map[string]sentry.Context{"application": appData},
+		Tags:     tags,
 	})
 }

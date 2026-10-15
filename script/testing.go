@@ -179,18 +179,18 @@ func setIssueProperties(application *TestApplicationSet, issue *github.Issue) er
 func setTestApplication(testName string) {
 	application, err := findTestApplication(testName)
 	if err != nil {
-		log.Fatalf(err.Error())
+		log.Fatal(err)
 	}
 
 	debugMessage(fmt.Sprintf("Testing application named '%s'", testName))
 
 	var issue github.Issue
 	if err := loadIssue(&issue); err != nil {
-		log.Fatalf(err.Error())
+		log.Fatal(err)
 	}
 
 	if err := setIssueProperties(application, &issue); err != nil {
-		log.Fatalf(err.Error())
+		log.Fatal(err)
 	}
 
 	if err := os.Setenv("APPROVER_ID", "123"); err != nil {

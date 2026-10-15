@@ -58,7 +58,7 @@ func errInvalidURL(sectionTitle string) error {
 func TestApplication_Parse(t *testing.T) {
 	cleanup, err := setupTestDir("../")
 	if err != nil {
-		t.Fatalf(err.Error())
+		t.Fatal(err)
 	}
 
 	defer cleanup()
@@ -187,7 +187,7 @@ func TestApplication_FileName(t *testing.T) {
 func TestApplication_SetApprover(t *testing.T) {
 	cleanup, err := setupTestDir("../")
 	if err != nil {
-		t.Fatalf(err.Error())
+		t.Fatal(err)
 	}
 
 	defer cleanup()

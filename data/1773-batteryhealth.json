@@ -1,0 +1,24 @@
+{
+	"account": "meiyongxia.1password.com",
+	"project": {
+		"name": "BatteryHealth",
+		"description": "A minimalistic, open-source Windows desktop utility that displays battery health, wear level, cycle count, and real-time charging power directly from the Windows Battery Class Driver with no background residency or internet telemetry.",
+		"contributors": 1,
+		"home_url": "https://github.com/scavin/BatteryHealth",
+		"repo_url": "https://github.com/scavin/BatteryHealth",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/scavin/BatteryHealth/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Scavin",
+		"email": "buff@meiyongxia.com",
+		"role": "Founder or Owner",
+		"id": 716584
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1773,
+	"created_at": "2026-10-16T06:42:34Z"
+}

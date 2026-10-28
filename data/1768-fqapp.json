@@ -1,0 +1,24 @@
+{
+	"account": "ch6vip.1password.com",
+	"project": {
+		"name": "fqapp",
+		"description": "fqapp is an open source Android client aggregating novels, short dramas, comic dramas, audiobooks, and comics, with a Flutter UI and an in-process Rust core. It has no self-hosted server and needs no root.",
+		"contributors": 2,
+		"home_url": "https://github.com/ch6vip/fqapp",
+		"repo_url": "https://github.com/ch6vip/fqapp",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/ch6vip/fqapp/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "ch6vip",
+		"email": "ch6vip@gmail.com",
+		"role": "Founder or Owner",
+		"id": 111047811
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1768,
+	"created_at": "2026-10-14T23:37:19Z"
+}

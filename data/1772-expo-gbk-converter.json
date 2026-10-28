@@ -1,0 +1,23 @@
+{
+	"account": "evstudio.1password.com",
+	"project": {
+		"name": "expo-gbk-converter",
+		"description": "An MIT-licensed Expo native module for decoding GBK/GB18030-encoded text in React Native applications on Android and iOS, useful for processing Chinese-encoded CSV files and billing exports.",
+		"contributors": 2,
+		"home_url": "https://github.com/evansuner/expo-gbk-converter",
+		"license_type": "MIT",
+		"license_url": "https://github.com/evansuner/expo-gbk-converter/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Zhidong Sun",
+		"email": "zhidong.s@evstudio.dev",
+		"role": "Founder or Owner",
+		"id": 41090638
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1772,
+	"created_at": "2026-10-16T06:21:05Z"
+}

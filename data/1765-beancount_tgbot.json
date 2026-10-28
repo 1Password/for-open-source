@@ -1,0 +1,23 @@
+{
+	"account": "tsukino-ryosha.1password.com",
+	"project": {
+		"name": "beancount_tgbot",
+		"description": "A Telegram bot bringing mobile natural-language transaction capture to the Beancount plain-text accounting community.",
+		"contributors": 1,
+		"home_url": "https://github.com/mathlife/beancount_tgbot",
+		"license_type": "MIT",
+		"license_url": "https://github.com/mathlife/beancount_tgbot/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "WANG HUIYOU",
+		"email": "wanghuiypu@gmail.com",
+		"role": "Founder or Owner",
+		"id": 1363053
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1765,
+	"created_at": "2026-10-14T12:56:54Z"
+}

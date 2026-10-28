@@ -1,0 +1,24 @@
+{
+	"account": "codingforchangeev.1password.com",
+	"project": {
+		"name": "Coding for Change (in particular CWA Go)",
+		"description": "Coding for Change is a student lead initiative of computer science students developing free and open-source software for other NGOs to accelerate the digital transformation.\n\nCurrently we are working with Cyclingwithoutage.org, a danish NGO operating in over 40 countries that wants to help elders to spend more time outside by offering free Rikscha rides. We are currently building a booking system that will manage over 2000 rides per day for them in Denmark alone.",
+		"contributors": 20,
+		"home_url": "https://codingforchange.com/",
+		"repo_url": "https://github.com/coding-for-change/cycling-without-age",
+		"license_type": "PolyForm Noncommercial License 1.0.0",
+		"license_url": "https://github.com/coding-for-change/cycling-without-age?tab=License-1-ov-file",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Jakob Landbrecht",
+		"email": "jakob.landbrecht@codingforchange.com",
+		"role": "Founder or Owner",
+		"id": 44413507
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1771,
+	"created_at": "2026-10-15T21:23:42Z"
+}

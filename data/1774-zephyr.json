@@ -1,0 +1,23 @@
+{
+	"account": "zephyrclash.1password.com",
+	"project": {
+		"name": "Zephyr",
+		"description": "Zephyr is a free, open-source desktop GUI client for the Mihomo (Clash Meta) proxy core, built with Tauri and Rust. It focuses on safe configuration handling, one-click subscription import, and a clean, lightweight interface for macOS, Windows, and Linux.",
+		"contributors": 1,
+		"home_url": "https://github.com/Juwan-Hwang/Zephyr",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Juwan-Hwang/Zephyr/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Juwan Hwang",
+		"email": "juwan.hwang@proton.me",
+		"role": "Founder or Owner",
+		"id": 180104975
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1774,
+	"created_at": "2026-10-16T09:33:11Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "frostlinelab.1password.com",
+	"project": {
+		"name": "Biocraft-Spark",
+		"description": "A local, cross-platform, beginner-friendly bioinformatics workbench. It uses a GUI and containerization to hide environment complexity, enabling users without Linux experience to perform professional-grade analysis. The current main track uses Django, prioritizing core workflows and a plugin ecosystem.",
+		"contributors": 3,
+		"home_url": "https://frostlinelab.pages.dev/",
+		"repo_url": "https://github.com/frostlinelab/biocraft-spark",
+		"license_type": "MIT",
+		"license_url": "https://github.com/frostlinelab/biocraft-spark/blob/main/LICENCE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Cennan Yin",
+		"email": "yincennan@gmail.com",
+		"role": "Founder or Owner",
+		"id": 143257913
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1766,
+	"created_at": "2026-10-14T15:21:00Z"
+}

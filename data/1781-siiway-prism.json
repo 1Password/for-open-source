@@ -1,0 +1,23 @@
+{
+	"account": "siiway.1password.com",
+	"project": {
+		"name": "SiiWay Prism",
+		"description": "Open, highly customizable OAuth/OIDC identity platform for both developers and users.",
+		"contributors": 25,
+		"home_url": "https://github.com/siiway/prism",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/siiway/prism/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Luke Zhang",
+		"email": "nt@siiway.org",
+		"role": "Founder or Owner",
+		"id": 246062950
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1781,
+	"created_at": "2026-10-20T21:44:59Z"
+}

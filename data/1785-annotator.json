@@ -1,0 +1,23 @@
+{
+	"account": "rabbitxone.1password.com",
+	"project": {
+		"name": "Annotator",
+		"description": "Annotator is a free browser extension for Firefox and Chrome that lets users highlight text and take notes on web pages and HTML files. It is developed openly under the Apache 2.0 license and used by researchers for annotating documents.",
+		"contributors": 1,
+		"home_url": "https://github.com/rabbitxone/annotator",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/rabbitxone/annotator/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Filip Polak",
+		"email": "fpolak14@protonmail.com",
+		"role": "Founder or Owner",
+		"id": 69851680
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1785,
+	"created_at": "2026-10-21T14:50:27Z"
+}

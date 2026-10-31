@@ -1,0 +1,24 @@
+{
+	"account": "codelabzgz.1password.com",
+	"project": {
+		"name": "CodeLab Zaragoza",
+		"description": "CodeLab is the Computer Science and Engineering student association at the University of Zaragoza, Spain. We are a non-profit group organizing open source hackathons, practical coding workshops, and tech events that give students hands-on programming experience outside the classroom.",
+		"contributors": 30,
+		"home_url": "https://codelabzgz.dev/",
+		"repo_url": "https://github.com/orgs/codelabzgz/repositories",
+		"license_type": "MIT License",
+		"license_url": "https://github.com/codelabzgz/vc-validator/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Violeta Veras",
+		"email": "workspace@codelabzgz.dev",
+		"role": "Team Member or Employee",
+		"id": 163152623
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1778,
+	"created_at": "2026-10-19T16:22:11Z"
+}

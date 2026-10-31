@@ -1,0 +1,24 @@
+{
+	"account": "emela.1password.com",
+	"project": {
+		"name": "Emela",
+		"description": "Emela is a functional programming language with typed errors and first-class effects, compiling to JavaScript, WebAssembly and C.\nThe team maintains the compiler, standard library, package registry, and tooling under the emela-lang GitHub organization.",
+		"contributors": 35,
+		"home_url": "https://docs.emela.dev",
+		"repo_url": "https://github.com/emela-lang/emela",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/emela-lang/emela/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Yuji Yoshimura",
+		"email": "yuji410@gmail.com",
+		"role": "Founder or Owner",
+		"id": 56180684
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1779,
+	"created_at": "2026-10-20T12:24:57Z"
+}

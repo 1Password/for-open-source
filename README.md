@@ -41,7 +41,9 @@ Applying is easy! Be sure to review the requirements below, and then complete th
 - If your application is for a team, the same rules apply to the projects your team works on. Projects must primarily be open source, and not supported by commercial activity.
 - We’ll also accept applications from organizers of community meetups, events, and conferences that relate to open source.
 
-If you're not sure if your project meets these requirements, or you have any questions before applying, please contact [opensource@1password.com](mailto:opensource@1password.com) and we'll be happy to help!
+If you're not sure if your project meets these requirements, or you have any questions before applying, please contact [opensource@1password.com](mailto:opensource@1password.com) and we'll be happy to help.
+
+**Meeting the eligibility requirements does not guarantee acceptance. Applications are reviewed at our discretion, and free membership begins only after approval. Applying does not pause or extend your trial or subscription billing. Review may continue beyond your trial period. If you have authorized subscription billing, charges may begin under your subscription terms while your application is pending. Before your trial ends, contact opensource@1password.com to discuss available options for continued access.**
 
 ## 💙 Community & support
 

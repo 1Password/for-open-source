@@ -1,0 +1,24 @@
+{
+	"account": "yuch3n.1password.com",
+	"project": {
+		"name": "LucidDesk",
+		"description": "LucidDesk is a free, open-source app that helps you keep your Windows desktop organized. You can group files and shortcuts into panels, browse folders, and quickly search for files without leaving your desktop.",
+		"contributors": 1,
+		"home_url": "https://luciddesk.bbkingdom365.com/",
+		"repo_url": "https://github.com/Yuch3nE/luciddesk",
+		"license_type": "MIT",
+		"license_url": "https://github.com/Yuch3nE/luciddesk/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "yuchen",
+		"email": "yuchenliu@live.com",
+		"role": "Founder or Owner",
+		"id": 10916683
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1800,
+	"created_at": "2026-10-27T14:47:51Z"
+}

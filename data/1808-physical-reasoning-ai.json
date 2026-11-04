@@ -1,0 +1,24 @@
+{
+	"account": "physicalreasoning.1password.com",
+	"project": {
+		"name": "Physical Reasoning AI",
+		"description": "Physical Reasoning is an open-source research collective studying world models, systems that predict how the world evolves and responds to actions. We build public benchmarks, datasets, and models across robotics, weather, and prediction markets, including forward, a sealed forecasting benchmark. All code is Apache-2.0 on GitHub.",
+		"contributors": 520,
+		"home_url": "https://physicalreasoning.ai/",
+		"repo_url": "https://github.com/physicalreasoning",
+		"license_type": "Apache-2.0",
+		"license_url": "https://github.com/physicalreasoning/forward/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nikita Berezyuk",
+		"email": "nikita@physicalreasoning.ai",
+		"role": "Founder or Owner",
+		"id": 96497560
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1808,
+	"created_at": "2026-11-01T22:10:09Z"
+}

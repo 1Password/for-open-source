@@ -1,0 +1,24 @@
+{
+	"account": "opentofu.1password.com",
+	"project": {
+		"name": "OpenTofu",
+		"description": "Open source infrastructure as code, fork of terraform. CNCF project.",
+		"contributors": 56,
+		"home_url": "https://opentofu.org",
+		"repo_url": "https://github.com/opentofu/opentofu",
+		"license_type": "MPL-2.0",
+		"license_url": "https://github.com/opentofu/opentofu/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "James Humphries",
+		"email": "jamesh@opentofu.org",
+		"role": "Core Maintainer",
+		"id": 237469
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1810,
+	"created_at": "2026-11-03T16:26:52Z"
+}

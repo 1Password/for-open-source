@@ -1,0 +1,24 @@
+{
+	"account": "epgsync.1password.com",
+	"project": {
+		"name": "EPG Sync",
+		"description": "EPG Sync is an open source electronic program guide aggregation and management system built with Go and Next.js. It fetches TV program data from multiple sources, merges it into unified XMLTV and DIYP guides, and provides a web dashboard for channel management.",
+		"contributors": 1,
+		"home_url": "https://github.com/epg-sync/epg-sync",
+		"repo_url": "https://github.com/epg-sync/epg-sync",
+		"license_type": "GPL-3.0",
+		"license_url": "https://github.com/epg-sync/epg-sync/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Rick Lee",
+		"email": "forte.copiers_98@icloud.com",
+		"role": "Developer",
+		"id": 59314774
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1794,
+	"created_at": "2026-10-26T01:39:43Z"
+}

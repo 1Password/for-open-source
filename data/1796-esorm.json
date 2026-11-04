@@ -1,0 +1,24 @@
+{
+	"account": "esorm.1password.com",
+	"project": {
+		"name": "ESORM",
+		"description": "ESORM is an async Python ORM/ODM for Elasticsearch and OpenSearch, built on Pydantic. It provides typed document models, automatic mappings, CRUD and bulk operations, a query builder, aggregations, and FastAPI integration.",
+		"contributors": 1,
+		"home_url": "https://esorm.readthedocs.io/",
+		"repo_url": "https://github.com/wallneradam/esorm",
+		"license_type": "MPL-2.0",
+		"license_url": "https://github.com/wallneradam/esorm/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Adam Wallner",
+		"email": "adam.wallner@gmail.com",
+		"role": "Founder or Owner",
+		"id": 3075945
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1796,
+	"created_at": "2026-10-26T08:15:26Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "codenav.1password.com",
+	"project": {
+		"name": "UnPanel",
+		"description": "Simple, modern, and lightweight: one web UI for the load, alerts, containers, processes, sites, and certificates of servers",
+		"contributors": 15,
+		"home_url": "https://unpanel.codenav.dev",
+		"repo_url": "https://github.com/codenav-ltd/unpanel",
+		"license_type": "AGPL-3.0",
+		"license_url": "https://github.com/codenav-ltd/unpanel/blob/main/LICENSE",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Wan Chak Li",
+		"email": "director@codenav.dev",
+		"role": "Founder or Owner",
+		"id": 84657208
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1807,
+	"created_at": "2026-11-01T11:40:04Z"
+}

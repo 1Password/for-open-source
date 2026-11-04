@@ -1,0 +1,21 @@
+{
+	"account": "Teams-truelearners.1password.com",
+	"project": {
+		"name": "TrueLearners",
+		"description": "We are building an open source website where high schoolers can come and create courses that other kids can join and learn from.",
+		"contributors": 7,
+		"home_url": "https://truelearners.org",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Tejas Sai Saran",
+		"email": "Admin@truelearners.org",
+		"role": "Founder or Owner",
+		"id": 346020493
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1787,
+	"created_at": "2026-10-21T20:17:44Z"
+}

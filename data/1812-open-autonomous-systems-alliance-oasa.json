@@ -1,0 +1,24 @@
+{
+	"account": "team-openautonomoussystemsallian.1password.com",
+	"project": {
+		"name": "Open Autonomous Systems Alliance (OASA)",
+		"description": "OASA is a volunteer-run open-source community building autonomous drones, ground robots, boats and subs, plus the infrastructure behind them: encrypted links, mesh radios, a shared test lab and open standards. Everything is published openly, secure by default, and free to join.",
+		"contributors": 3,
+		"home_url": "https://joinoasa.org/",
+		"repo_url": "https://github.com/joinoasa/oasa-lab",
+		"license_type": "Apache-2.0",
+		"license_url": "https://joinoasa.org/docs/licensing/",
+		"is_event": false,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "James Taylor",
+		"email": "hello@joinoasa.org",
+		"role": "Founder or Owner",
+		"id": 232992090
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1812,
+	"created_at": "2026-11-04T13:11:10Z"
+}

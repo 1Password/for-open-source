@@ -1,0 +1,24 @@
+{
+	"account": "permesi.1password.com",
+	"project": {
+		"name": "Permesi",
+		"description": "Permesi is an open-source identity and access management platform written in Rust. It provides OAuth 2.0/OpenID Connect flows, OPAQUE password authentication, passkeys, multi-factor authentication, and tenant-scoped authorization",
+		"contributors": 2,
+		"home_url": "https://permesi.dev/",
+		"repo_url": "https://github.com/permesi/permesi",
+		"license_type": "BSD",
+		"license_url": "https://github.com/permesi/permesi/blob/main/LICENSE",
+		"is_event": true,
+		"is_team": true
+	},
+	"applicant": {
+		"name": "Nicolas Embriz",
+		"email": "team@permesi.dev",
+		"role": "Founder or Owner",
+		"id": 364199
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1817,
+	"created_at": "2026-11-06T12:33:47Z"
+}

@@ -1,0 +1,23 @@
+{
+	"account": "hdgnss.1password.com",
+	"project": {
+		"name": "GnssView",
+		"description": "GnssView is a free, open-source desktop GNSS client with MIT license. It provides common transport access, raw data logging, built-in NMEA parsing, runtime plugin loading, editable command buttons, and release/update infrastructure.",
+		"contributors": 1,
+		"home_url": "https://github.com/hdgnss/GnssView",
+		"license_type": "MIT",
+		"license_url": "https://github.com/hdgnss/GnssView/blob/master/LICENSE",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "Wayne Guo",
+		"email": "wayne.guo@hdgnss.com",
+		"role": "Founder or Owner",
+		"id": 102350426
+	},
+	"can_contact": false,
+	"approver_id": 80355868,
+	"issue_number": 1815,
+	"created_at": "2026-11-05T03:01:26Z"
+}

@@ -1,0 +1,24 @@
+{
+	"account": "huanzhao-dev.1password.com",
+	"project": {
+		"name": "Glass-Monitor",
+		"description": "A lightweight, open-source Windows desktop widget that shows live CPU, memory, GPU, and network stats in a frosted-glass floating panel, using only tkinter, psutil, and NVML — typically under 1% idle CPU and 30–50 MB of memory.",
+		"contributors": 1,
+		"home_url": "https://github.com/riboly/Glass-Monitor",
+		"repo_url": "https://github.com/riboly/Glass-Monitor",
+		"license_type": "MIT",
+		"license_url": "https://github.com/riboly/Glass-Monitor/blob/main/LICENSE.md",
+		"is_event": false,
+		"is_team": false
+	},
+	"applicant": {
+		"name": "William Foster",
+		"email": "riboly@126.com",
+		"role": "Founder or Owner",
+		"id": 21134090
+	},
+	"can_contact": true,
+	"approver_id": 80355868,
+	"issue_number": 1814,
+	"created_at": "2026-11-05T02:32:28Z"
+}

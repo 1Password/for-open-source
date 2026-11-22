@@ -1,5 +1,5 @@
 {
-	"account": "team-gowa.1password.eu",
+	"account": "gowaoss.1password.com",
 	"project": {
 		"name": "GOWA (Go WhatsApp)",
 		"description": "GOWA is a self-hosted WhatsApp API server written in Go. It supports multiple WhatsApp accounts, messaging and media, webhooks, a web dashboard, MCP integration for AI tools, and an n8n community node.",
